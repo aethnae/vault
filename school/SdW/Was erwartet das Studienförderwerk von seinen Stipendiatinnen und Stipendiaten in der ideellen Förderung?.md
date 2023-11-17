@@ -1,0 +1,3 @@
+***
+
+Zentrale Bestandteile der ideellen Förderung sind Eigeninitiative sowie interdisziplinäres Denken. Damit verbunden ist die Erwartung, sich innerhalb der Regionalgruppen der SDW aktiv einzubringen, sei es durch gemeinsame Projekte, Gesprächsrunden, usw. (Die Teilnahme an einer Aufnahme- und Abschlussveranstaltung sowie weiteren Veranstaltungen ist verpflichtend), als auch die Fähigkeit, über den "Tellerrand" des eigenen Fachs zu schauen und vernetzt zu denken sowie respektvoll im Team zu handeln.

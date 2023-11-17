@@ -1,0 +1,17 @@
+***
+
+**Weshalb sind Sie ein passender Kandidat für das Studienförderwerk der sdw?**
+Meine unternehmerische Grundhaltung ist an vielen Stellen meines Lebensweges zu erkennen: Zielstrebigkeit und die Fähigkeit, vernetzt zu Denken sowie interdisziplinäres Wissen zu meinem Vorteil anzuwenden drücken sich seit Beginn meiner Schullaufbahn aus - durch Lehrkräfte und mein persönliches Umfeld wird mir ein hohes Allgemeinwissen sowie die Fähigkeit, Verantwortung zu übernehmen und Ziele im Team zu erreichen, attestiert.
+Eigeninitiative und Engagement sind zwei Grundpfeiler in meinem Leben - Durch verschiedene ehrenamtliche Tätigkeiten drückt sich mein Streben nach gesellschaftlicher Verbesserung aus, bei welchem ich bewusst auf eigene Fähigkeiten setze und als gutes Beispiel vorangehen will, um andere zu inspirieren.
+
+**Erläutern sie die Ziele des Studienförderwerks der sdw.**
+Hauptziel der Stiftung der deutschen Wirtschaft ist Chancengerechtigkeit in Deutschland: Junge Menschen sollten unabhängig von Herkunft oder sozialem Status dazu in der Lage seien, ihren individuellen Bildungsweg erfolgreich zu verfolgen. Mithilfe des Studienförderwerks der SDW sollen leistungsorientierte Studenten, die Eigeninitiative und gesellschaftliches Engagement beweisen dazu befähigt werden, ihren Bildungsweg optimal zu bestreiten und ihr Talent zur Stärkung der Gesellschaft einzusetzen.
+
+**Was erwartet das Studienförderwerk von seinen Stipendiatinnen und Stipendiaten in der ideellen Förderung?**
+Zentrale Bestandteile der ideellen Förderung sind Eigeninitiative sowie interdisziplinäres Denken. Damit verbunden ist die Erwartung, sich innerhalb der Regionalgruppen der SDW aktiv einzubringen, sei es durch gemeinsame Projekte, Gesprächsrunden, usw. (Die Teilnahme an einer Aufnahme- und Abschlussveranstaltung sowie weiteren Veranstaltungen ist verpflichtend), als auch die Fähigkeit, über den "Tellerrand" des eigenen Fachs zu schauen und vernetzt zu denken sowie respektvoll im Team zu handeln.
+
+**Welche Ziele und Erwartungen verbinden Sie mit dem Stipendium des Studienförderwerks der sdw?**
+Besonders interessiert bin ich an der Möglichkeit der Vernetzung innerhalb der Stiftung: Innerhalb meiner Förderung würde ich mich gerne mit internationaler Entwicklungsökonomie auf der einen, mit der Stärkung demokratischer Grundwerte in Deutschland auf der anderen Seite auseinandersetzen, und diese Themen nach Möglichkeit im Team mit gleichgesinnten Stipendiaten angehen. Auch die Möglichkeit, Einblicke in die Führungsebene verschiedener Unternehmen zu erhalten, betrachte ich als sehr gewinnbringend: Besonders die Entwicklungsarbeit in Schwellenländern, auf welche ich einen Schwerpunkt setzen will, ist stark abhängig von Investitionen internationaler Unternehmen, und muss immer gemeinsam gedacht werden um nachhaltig Erfolg zu erzielen.
+
+**Welche Quellen haben Sie genutzt, um sich über das Studienförderwerk der sdw zu informieren?**
+Bei meiner Recherche habe ich hauptsächlich die Website der sdw genutzt, da diese einen sehr umfangreichen Einblick in die Zielsetzung dieser gewährleistete. Des weiteren habe ich mich durch den Wikipedia-Artikel der Stiftung, persönliche Gespräche mit meinem schulischen Talentscout, sowie bei einer Info-Veranstaltung des Talentkollegs Ruhr über die Stiftung der Deutschen Wirtschaft informiert.

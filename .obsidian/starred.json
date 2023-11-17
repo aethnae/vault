@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Lernplan Abitur",
+      "path": "school/Mathe/Lernplan Abitur.md"
+    },
+    {
+      "type": "file",
+      "title": "Bücherliste",
+      "path": "literature/Bücherliste.md"
+    }
+  ]
+}

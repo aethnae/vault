@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "6e804dde60df7a56",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b2a019d3bca36ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a33f9afa990f456",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "misc/Taiwan '24/Reiseplan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "afb2af8b5c19d4d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce17988e31e66ad3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e041748da01c05af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a6354d041164900",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a389f8edbc2a4ffb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5
+  },
+  "right": {
+    "id": "543218f8490e7ed4",
+    "type": "split",
+    "children": [
+      {
+        "id": "be7961eba01397a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d66306a0e6d4bed9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ba8653a4649b74c5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "51765abe1eb47d88",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ec6df50cc8a7453",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5767c389ed91eef4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "misc/Taiwan '24/Reiseplan.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79ded24ae5a22d5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "misc/Taiwan '24/Reiseplan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f6fcecc9b6e74e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "misc/Taiwan '24/Reiseplan.md"
+              }
+            }
+          },
+          {
+            "id": "9fc406a37397d6e2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "59bbeda10939caeb",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "misc/Taiwan '24/Reiseplan.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "0a33f9afa990f456",
+  "lastOpenFiles": [
+    "misc/Taiwan '24/Übersicht.md",
+    "misc/Finanzplan.md",
+    "misc/Design Ideas.md",
+    "university/test.md",
+    "clone/dfd;fldf.md",
+    "clone/brain",
+    "clone",
+    "misc/Taiwan '24/Reiseplan.md",
+    "dfn/Mitteilungen/To-Dos.md",
+    "dfn/Wikipedia-Artikel/Deutsches Forschungsnetz.md",
+    "dfn/Mitteilungen",
+    "dfn/Wikipedia-Artikel/Netze/Deutsches Wissenschaftsnetz.md",
+    "dfn/Wikipedia-Artikel/Roadmap.md",
+    "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
+    "dfn/Wikipedia-Artikel/Dummy Wikipedia-Artikel.md",
+    "dfn/Stundenzettel.md",
+    "misc/Taiwan '24",
+    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Grenznutzen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Quasilineare Präferenzen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Cobb-Douglas-Präferenzen.md",
+    "files/Pasted image 20231115170959.png",
+    "files/Pasted image 20231115165832.png",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Untitled.md",
+    "university/Mathematik I/Rechengesetze.md",
+    "university/Mikroökonomie I/Übungen/Übungsblatt 4.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
+    "university/Mikroökonomie I/Übungen/Übungsblatt 3.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Monotonie.md",
+    "Untitled.canvas",
+    "school/Erdkunde/Strukturwandel/Tertiärisierung & Strukturwandel.md",
+    "school/Erdkunde/Strukturwandel/Lean Production.md",
+    "school/Erdkunde/Strukturwandel/Footloose Industry.md",
+    "dfn/Wikipedia-Artikel/Netze",
+    "files/Pasted image 20231114202412.png",
+    "files/Pasted image 20231114202253.png",
+    "files/Pasted image 20231114202111.png",
+    "files/Pasted image 20231114201805.png",
+    "files/Pasted image 20231114201659.png",
+    "files/Pasted image 20231114194853.png",
+    "university/Mathematik I/Abschnitt 1 - Folgen & Reihen/Untitled",
+    "university/Mathematik I/Abschnitt 1 - Folgen & Reihen",
+    "files/Pasted image 20231112215316.png",
+    "files/Pasted image 20231112215133.png",
+    "university/Mathematik I/Konzepte/Vorkurs/Integration",
+    "university/Mathematik I/Konzepte/Vorkurs/Funktionen",
+    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln",
+    "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
+    "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
+    "school/Englisch/Globalisation/Benefits of Globalisation.canvas"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "path": "literature/Bücherliste.md",
+      "ctime": 1683892558526
+    },
+    {
+      "type": "file",
+      "ctime": 1698419623880,
+      "path": "university/Mathematik I/Rechengesetze.md",
+      "title": "Rechengesetze"
+    },
+    {
+      "type": "file",
+      "ctime": 1700042006002,
+      "path": "dfn/Wikipedia-Artikel/Roadmap.md",
+      "title": "Roadmap | DFN-Wikipedia"
+    }
+  ]
+}

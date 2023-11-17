@@ -1,0 +1,3 @@
+***
+
+Bei meiner Recherche habe ich hauptsächlich die Website der sdw genutzt, da diese einen sehr umfangreichen Einblick in die Zielsetzung dieser gewährleistete. Des weiteren habe ich mich durch den Wikipedia-Artikel der Stiftung, persönliche Gespräche mit meinem schulischen Talentscout, sowie bei einer Info-Veranstaltung des Talentkollegs Ruhr über die Stiftung der Deutschen Wirtschaft informiert.

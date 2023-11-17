@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"2a2006ded18b6489","type":"text","text":"**Disarmament & Demilitarization**","x":-476,"y":62,"width":279,"height":60},
+		{"id":"b512c75bc9a04c68","type":"text","text":"**Decentralization of political structure & economical power**","x":-218,"y":202,"width":250,"height":85},
+		{"id":"2595c7e49431105c","type":"text","text":"**Shift in economy towards agriculture & peaceful industries**","x":98,"y":62,"width":250,"height":92},
+		{"id":"4c802e237ccebe7e","type":"text","text":"No more production of ammo","x":-686,"y":154,"width":250,"height":60},
+		{"id":"2b90498fbbcd9ba6","type":"text","text":"**Responsibility**","x":-561,"y":-218,"width":250,"height":60},
+		{"id":"654f12bb9e7c21b0","type":"text","text":"Total military defeat","x":-919,"y":-158,"width":250,"height":60},
+		{"id":"fab700d98123658e","type":"text","text":"**Territorial claims**","x":264,"y":-158,"width":250,"height":60},
+		{"id":"948178d38b9b0370","type":"text","text":"divided in zones, governed by allied powers","x":559,"y":-293,"width":250,"height":60},
+		{"id":"c94e81f8dd7ee3a3","type":"text","text":"Territory given to Poland","x":618,"y":-144,"width":250,"height":60},
+		{"id":"1ca5540d1002a1d4","type":"text","text":"**Prohibition of nazi propaganda & empowerment of democratic parties**","x":-280,"y":-384,"width":275,"height":91},
+		{"id":"a79dc6d67fac8478","type":"text","text":"# Potsdam Conference","x":-251,"y":-98,"width":349,"height":50}
+	],
+	"edges":[
+		{"id":"837b2a6f05a35a79","fromNode":"a79dc6d67fac8478","fromSide":"bottom","toNode":"b512c75bc9a04c68","toSide":"top"},
+		{"id":"a351ae7a5db0c228","fromNode":"a79dc6d67fac8478","fromSide":"left","toNode":"2a2006ded18b6489","toSide":"top"},
+		{"id":"4e026930efbd2c65","fromNode":"a79dc6d67fac8478","fromSide":"top","toNode":"1ca5540d1002a1d4","toSide":"bottom"},
+		{"id":"a30f6af3399ccd10","fromNode":"a79dc6d67fac8478","fromSide":"bottom","toNode":"2595c7e49431105c","toSide":"top"},
+		{"id":"04fc87bcdd812cf7","fromNode":"2a2006ded18b6489","fromSide":"left","toNode":"4c802e237ccebe7e","toSide":"top"},
+		{"id":"311e0a6e86fa7a20","fromNode":"a79dc6d67fac8478","fromSide":"left","toNode":"2b90498fbbcd9ba6","toSide":"bottom"},
+		{"id":"5eddc8edcdcb6e15","fromNode":"2b90498fbbcd9ba6","fromSide":"left","toNode":"654f12bb9e7c21b0","toSide":"right"},
+		{"id":"8b8b020d81c9ef53","fromNode":"a79dc6d67fac8478","fromSide":"right","toNode":"fab700d98123658e","toSide":"left"},
+		{"id":"e8faf4f1b4bb826f","fromNode":"fab700d98123658e","fromSide":"right","toNode":"948178d38b9b0370","toSide":"left"},
+		{"id":"e614ff3e602b0780","fromNode":"fab700d98123658e","fromSide":"right","toNode":"c94e81f8dd7ee3a3","toSide":"left"}
+	]
+}

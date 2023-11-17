@@ -1,0 +1,5 @@
+***
+
+Unter dem Begriff **Fordismus** werden üblicherweise durch Henry Ford im frühen 20. Jahrhundert eingeführte Produktionsmethoden beschrieben. Fords Ansatz unterschied sich maßgeblich von anderen Unternehmern seiner Zeit und brachte eine Reihe von Neuerungen hervor:
+Maßgeblich waren vor allem die Erfindung der industriellen Massenerzeugung und die Verbesserung der Lohnbedingungen für Beschäftigte in diesen Sektoren.
+Ford begriff, dass um Massenproduktion lohnenswert zu machen, ein ebenso großer Absatzmarkt vorhanden seien muss. Durch die oft marginalen Einkommen großer Teile der Bevölkerung ist dieses Level an Konsum jedoch nicht gegeben, weshalb Ford auf die Idee kam, die Löhne seiner Arbeiter drastisch zu erhöhen. Dies sorgte folgerichtig für einen starken Anstieg im Konsum seiner Produkte, da die Realeinkommen (≈ Konsumniveau) der Unterschicht stiegen.

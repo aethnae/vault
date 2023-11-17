@@ -1,0 +1,3 @@
+***
+
+Hauptziel der Stiftung der deutschen Wirtschaft ist Chancengerechtigkeit in Deutschland: Junge Menschen sollten unabhängig von Herkunft oder sozialem Status dazu in der Lage seien, ihren individuellen Bildungsweg erfolgreich zu verfolgen. Mithilfe des Studienförderwerks der SDW sollen leistungsorientierte Studenten, die Eigeninitiative und gesellschaftliches Engagement beweisen dazu befähigt werden, ihren Bildungsweg optimal zu bestreiten und ihr Talent zur Stärkung der Gesellschaft einzusetzen.

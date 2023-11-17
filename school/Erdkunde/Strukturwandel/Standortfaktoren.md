@@ -1,0 +1,8 @@
+***
+
+Die allgemeine Lehre der Standortwahl eines Unternehmens geht auf den Ökonomen *Alfred Weber* zurück, der diese 1909 in einem Buch beschrieb.
+Weber definierte Standortfaktoren als "Gegebenheiten an einem bestimmten Ort, die dort für ein Unternehmen eine kostengünstigere Produktion als an einem anderen Ort ermöglichen" - Ursprünglich ging er von drei maßgeblichen Faktoren aus: Rohstoffvorkommen am Materialort, Arbeitskräfteangebot am Produktionsort und Absatzmarkt. Laut Weber wird jedes Unternehmen, um wirtschaftlich zu handeln, einen Standort wählen, der möglichst geringe Transportkosten für Roh- und Endprodukte bietet, ein ausreichenden Pool an Arbeitnehmern bereitstellt, und über ein gewisses Abnahmepotential verfügt.
+Auch aus heutiger Sicht sind Webers Ausführungen noch aktuell: Seine drei Standortfaktoren werden unter dem Begriff **Harte Standortfaktoren** zusammengefasst, und haben (besonders) für Unternehmen im primären sowie sekundären Sektoren eine hohe Bedeutung.
+Um den kompletten Prozess der Standortauswahl aus heutiger Sicht abzudecken, muss Webers Modell jedoch ergänzt werden: Unter "**Weichen Standortfaktoren**" versteht man weitere Faktoren, die vorallem im tertiären Sektor eine immer größere Rolle spielen, jedoch nicht konventionell messbar sind. Sie umfassen z.B. das Kulturangebot sowie den Wohnwert und das soziale Klima am Standort des Arbeitgebers, also Faktoren die maßgeblich zur Befriedigung der Arbeitnehmer beitragen. Desweiteren können auch der Image einer Region, etwaige staatliche Strategien zur Stärkung dieser sowie die Mentalität der Bevölkerung in der Region zur Standortauswahl beitragen.
+
+Für eine komplette Liste der relevanten Standortfaktoren siehe Buch S. 83
