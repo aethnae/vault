@@ -85,3 +85,39 @@ a_n=4 n^2-\frac{1}{2 n}, n=1,2, \ldots
 $$
 auf Monotonie.
 
+$$
+4n^2-\frac{1}{2 n} < 4(n+1)^{2} - \frac{1}{2(n+1)}
+$$
+$$
+0 < 4(n+1)^{2} - \frac{1}{2(n+1)} - (4n^2-\frac{1}{2n})
+$$
+$$
+4(n+1)^{2} - 4n^{2} - \frac{1}{2(n+1)} + \frac{1}{2n}
+$$
+$$
+4((n+1)^{2} - n^{2}) - \frac{1}{2}\left( \frac{1}{n+1} - \frac{1}{n} \right)
+$$
+$$
+4(n+1-n)(n+1+n)-\frac{1}{2}\left(\frac{n}{n(n+1)}-\frac{n+1}{n(n+1)}\right)
+$$
+$$
+4(2 n+1)-\frac{1}{2} \cdot \frac{n-n-1}{n(n+1)}=\underbrace{4(2 n+1)}_{>0}+\underbrace{\frac{1}{2 n(n+1)}}_{>0}
+$$
+Da beide Summanden $4(2 n+1)$ und $\frac{1}{2 n(n+1)}$ für alle $n \geq 1$ positiv sind, gilt
+$$
+a_{n+1}-a_n>0 \Longleftrightarrow a_{n+1}>a_n \text { für alle } n \geq 1 \text {. }
+$$
+D.h. die Folge $\left(a_n\right)$ ist streng monoton wachsend.
+
+**Aufgabe 1.5**
+Gegeben sind die beiden Folgen
+$$
+a_n=\frac{n}{(n+2) 2^n} \quad \text { und } \quad b_n=2^n+5, \quad n=1,2, \ldots
+$$
+
+**a)**
+Untersuchen Sie, ob die Folgen $a_n$ und $c_n:=a_n \cdot b_n, n=1,2, \ldots$, einen Grenzwert besitzen, und geben Sie diesen an, falls er existiert.
+
+$$
+a = \lim_{ n \to \infty } a_{n} = \lim _{n \rightarrow \infty} \frac{n}{(n+2) 2^n}=\lim _{n \rightarrow \infty} \frac{n}{n} \frac{1}{\left(1+\frac{2}{n}\right)} \cdot \frac{1}{2^n}=\lim _{n \rightarrow \infty} \frac{1}{\left(1+\frac{2}{n}\right)} \cdot \lim _{n \rightarrow \infty} \frac{1}{2^n}=1 \cdot 0=0
+$$
