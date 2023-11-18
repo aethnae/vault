@@ -137,6 +137,7 @@ $e^x = b \leftrightarrow x = \ln(b)$
 $e^{\ln(b)} = b$
 
 $\ln(e^c) = c$
+
 ***
 
 
@@ -186,4 +187,28 @@ Die Quotientenregel folgt direkt aus Produkt- und Kettenregel, denn
 | $f(x) = \tan(x)$    | $f'(x) = \frac{1}{\cos^{2}(x)}$ |  
 | $f(x) = e^x$        | $f'(x) = e^x$|   
 | $f(x) = \ln(x)$     | $f'(x) = \frac{1}{x}$|    
+***
 
+
+#### Grenzwerte
+***
+
+```ad-summary
+title: Grenzwertrechenregeln
+Es sei
+$$
+\lim _{n \rightarrow \infty} a_n=a \in \mathbb{R} \quad \text { und } \quad \lim _{n \rightarrow \infty} b_n=b \in \mathbb{R} \quad \text { sowie } \quad c \in \mathbb{R} .
+$$
+
+Dann gelten folgende Rechenregeln.
+$$
+\begin{aligned}
+\lim_{n \rightarrow \infty}\left(a_n+c\right) & =\lim _{n \rightarrow \infty} a_n+c & & = a+c \\
+\lim _{n \rightarrow \infty}\left(c \cdot a_n\right) & =c \cdot \lim _{n \rightarrow \infty} a_n & & = c \cdot a \\
+\lim _{n \rightarrow \infty}\left(a_n+b_n\right) & =\lim _{n \rightarrow \infty} a_n+\lim _{n \rightarrow \infty} b_n & & = a+b \\
+\lim _{n \rightarrow \infty}\left(a_n \cdot b_n\right) & =\lim _{n \rightarrow \infty} a_n \cdot \lim _{n \rightarrow \infty} b_n & & = a \cdot b \\
+\lim _{n \rightarrow \infty} \frac{a_n}{b_n} & =\frac{\lim _{n \rightarrow \infty} a_n}{\lim _{n \rightarrow \infty} b_n} & & = \frac{a}{b}
+\end{aligned}
+$$
+
+```

@@ -6,10 +6,22 @@
       "ctime": 1683892558526
     },
     {
-      "type": "file",
-      "ctime": 1698419623880,
-      "path": "university/Mathematik I/Rechengesetze.md",
-      "title": "Rechengesetze"
+      "type": "group",
+      "ctime": 1700313574538,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1698419623880,
+          "path": "university/Mathematik I/Rechengesetze.md",
+          "title": "Rechengesetze"
+        },
+        {
+          "type": "file",
+          "ctime": 1700313561204,
+          "path": "university/Mathematik I/LaTeX Snippets.md"
+        }
+      ],
+      "title": "Mathematik"
     },
     {
       "type": "file",

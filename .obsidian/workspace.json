@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3ccbd5fbb108aeb4",
+        "id": "c7c432326369b7d7",
         "type": "tabs",
         "children": [
           {
-            "id": "ea4dcf5bc587b998",
+            "id": "3a01bfeb84f650e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/LaTeX Snippets.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -32,6 +28,7 @@
       {
         "id": "ce17988e31e66ad3",
         "type": "tabs",
+        "dimension": 55.855855855855864,
         "children": [
           {
             "id": "e041748da01c05af",
@@ -49,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dfn",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,6 +64,47 @@
             }
           }
         ]
+      },
+      {
+        "id": "4cae0943d8942f29",
+        "type": "tabs",
+        "dimension": 44.144144144144136,
+        "children": [
+          {
+            "id": "110820e6469f9f65",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.2990150286159956,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -81,21 +119,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d66306a0e6d4bed9",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "ba8653a4649b74c5",
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "51765abe1eb47d88",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
               "state": {}
             }
           },
@@ -108,12 +143,27 @@
             }
           },
           {
+            "id": "5767c389ed91eef4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
             "id": "79ded24ae5a22d5d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/LaTeX Snippets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +174,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university/Mathematik I/LaTeX Snippets.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,26 +192,32 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university/Mathematik I/LaTeX Snippets.md"
-              }
-            }
-          },
-          {
-            "id": "001c101be11faad5",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
+      },
+      {
+        "id": "f337bac5fba544fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d66306a0e6d4bed9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,34 +236,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ea4dcf5bc587b998",
+  "active": "3a01bfeb84f650e0",
   "lastOpenFiles": [
-    "university/Mathematik I/Untitled.md",
+    "university/Mathematik I/Abschnitt 1 - Folgen & Reihen/Reihen/Konvergenzkriterien für Reihen.md",
+    "university/Mathematik I/Abschnitt 1 - Folgen & Reihen/Folgen/Konvergenzkriterien für Folgen.md",
+    "university/Mathematik I/Abschnitt 1 - Folgen & Reihen/Reihen/Grenzwerte von Reihen.md",
     "university/Mathematik I/LaTeX Snippets.md",
-    "Test.md",
-    "dfn/Wikipedia-Artikel/Netze/Gigabit-Wissenschaftsnetz.md",
-    "dfn/Wikipedia-Artikel/Netze/Deutsches Wissenschaftsnetz.md",
-    "dfn/Wikipedia-Artikel/Netze/Breitband-Wissenschaftsnetz.md",
-    "dfn/Mitteilungen/To-Dos.md",
-    "school/Englisch/Brave New World/Hausaufgabe 24-11-22.md",
-    "dfn/Wikipedia-Artikel/Netze/X-WiN.md",
-    "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
-    "dfn/Wikipedia-Artikel/Roadmap.md",
-    "dfn/Wikipedia-Artikel/Dummy Wikipedia-Artikel.md",
+    "university/Mathematik I/Rechengesetze.md",
+    "university/Mathematik I/Abschnitt 1 - Folgen & Reihen/Folgen/Grenzwerte.md",
     "dfn/Wikipedia-Artikel/Deutsches Forschungsnetz.md",
-    "dfn/Stundenzettel.md",
-    "university/Externes Rechnungswesen/Konzepte/Ertragslage.md",
-    "university/Externes Rechnungswesen/Konzepte/Kaufmannsarten.md",
-    "university/Externes Rechnungswesen/Konzepte/Bilanz.md",
-    "university/Externes Rechnungswesen/Konzepte/Rechtsformen.md",
-    "university/Externes Rechnungswesen/Konzepte/Arten erfolgsneutraler Geschäftsvorfälle.md",
+    "university/Mathematik I/Abschnitt 1 - Folgen & Reihen/Reihen/Reihen.md",
+    "university/Mathematik I/Abschnitt 1 - Folgen & Reihen/Reihen/Geometrische Reihe.md",
+    "university/Mathematik I/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
+    "university/Mathematik I/Abschnitt 1 - Folgen & Reihen/Folgen/Geometrische Folgen.md",
+    "university/Mathematik I/Abschnitt 1 - Folgen & Reihen/Folgen/Arithmetische Folgen.md",
+    "university/Mathematik I/Abschnitt 1 - Folgen & Reihen/Folgen/Folgen.md",
+    "university/Mathematik I/Abschnitt 1 - Folgen & Reihen/Folgen/Bestimmte Divergenz.md",
+    "university/Mathematik I/Abschnitt 1 - Folgen & Reihen/Reihen",
+    "university/Mathematik I/Abschnitt 1 - Folgen & Reihen/Folgen",
+    "Arithmetische Folgen].md",
+    "university/Mathematik I/Abschnitt 1 - Folgen & Reihen/Folgen/Häufungspunkte.md",
+    "files/Pasted image 20231118131250.png",
+    "university/Mathematik I/Abschnitt 1 - Folgen & Reihen/Folgen/Beschränktheit von Folgen.md",
+    "university/Mathematik I/Abschnitt 1 - Folgen & Reihen/Folgen/Monotonie von Folgen.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Wissenschaftstheorie.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Elemente des Kapitalismus.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Integration/Bestimmte Integrale.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Kritischer Rationalismus.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Elemente des Kapitalismus.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Kursübersicht - Einführung in die VWL und Wirtschaftsgeschichte.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Grenznutzen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Quasilineare Präferenzen.md",
+    "Test.md",
+    "university/Mathematik I/Untitled.md",
+    "dfn/Wikipedia-Artikel/Netze/Gigabit-Wissenschaftsnetz.md",
     "clone/brain",
     "clone",
     "dfn/Mitteilungen",
@@ -224,13 +281,10 @@
     "files/Pasted image 20231114201805.png",
     "files/Pasted image 20231114201659.png",
     "files/Pasted image 20231114194853.png",
-    "university/Mathematik I/Abschnitt 1 - Folgen & Reihen/Untitled",
     "university/Mathematik I/Abschnitt 1 - Folgen & Reihen",
     "files/Pasted image 20231112215316.png",
-    "files/Pasted image 20231112215133.png",
     "university/Mathematik I/Konzepte/Vorkurs/Integration",
     "university/Mathematik I/Konzepte/Vorkurs/Funktionen",
-    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
     "school/Englisch/Globalisation/Benefits of Globalisation.canvas"

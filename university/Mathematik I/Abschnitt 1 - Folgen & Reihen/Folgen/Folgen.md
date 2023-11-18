@@ -1,3 +1,7 @@
+---
+tags:
+  - folgen
+---
 ***
 
 ```ad-important
@@ -12,7 +16,7 @@ Eine (reellwertige) Folge ist eine Funktion $a: \mathbb{N} \rightarrow \mathbb{R
 
 Folge $a : \mathbb{N} \rightarrow \mathbb{R}, n \mapsto \frac{1}{n}$.
 
-Kurzschreibweise:
+**Kurzschreibweise**:
 
 $$
 \left( \frac{1}{n} \right)_{n \geq 1} \text{ oder } a_{n} = \frac{1}{n}, n \in \mathbb{N}
