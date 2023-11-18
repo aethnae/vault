@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
+                "file": "misc/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
+                "file": "misc/README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
+                "file": "misc/README.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
+                "file": "misc/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mathematik I/Übungsblätter/Übungsblatt 1.md"
+                "file": "misc/README.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mathematik I/Übungsblätter/Übungsblatt 1.md"
+                "file": "misc/README.md"
               }
             }
           }
@@ -247,21 +247,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "27a5ffe50521b577",
+  "active": "e041748da01c05af",
   "lastOpenFiles": [
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Grenzwerte.md",
-    "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
+    "university/Mathematik I/Rechengesetze.md",
     "university/Mathematik I/LaTeX Snippets.md",
+    "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Grenzwerte.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Monotonie von Folgen.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Grenzwerte von Reihen.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Geometrische Reihe.md",
-    "README.md",
+    "misc/README.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Geometrische Folgen.md",
     "university/Mikroökonomie I/Übungen/Übungsblatt 1.md",
     "university/Mathematik I/Übungsblätter",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Konvergenzkriterien für Reihen.md",
     "university/Mathematik I/Abschnitt 1 - Folgen & Reihen/Folgen/Konvergenzkriterien für Folgen.md",
-    "university/Mathematik I/Rechengesetze.md",
     "dfn/Wikipedia-Artikel/Deutsches Forschungsnetz.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Reihen.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
