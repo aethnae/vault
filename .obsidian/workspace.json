@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "721ca94b67025d6c",
+        "id": "3ccbd5fbb108aeb4",
         "type": "tabs",
         "children": [
           {
-            "id": "e17e146b38e79a27",
+            "id": "ea4dcf5bc587b998",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/LaTeX Snippets.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -109,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university/Mathematik I/LaTeX Snippets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university/Mathematik I/LaTeX Snippets.md"
+              }
             }
           },
           {
@@ -137,10 +144,21 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
+              "state": {
+                "file": "university/Mathematik I/LaTeX Snippets.md"
+              }
+            }
+          },
+          {
+            "id": "001c101be11faad5",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -164,8 +182,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e17e146b38e79a27",
+  "active": "ea4dcf5bc587b998",
   "lastOpenFiles": [
+    "university/Mathematik I/Untitled.md",
+    "university/Mathematik I/LaTeX Snippets.md",
+    "Test.md",
     "dfn/Wikipedia-Artikel/Netze/Gigabit-Wissenschaftsnetz.md",
     "dfn/Wikipedia-Artikel/Netze/Deutsches Wissenschaftsnetz.md",
     "dfn/Wikipedia-Artikel/Netze/Breitband-Wissenschaftsnetz.md",
@@ -189,9 +210,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Grenznutzen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Quasilineare Präferenzen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Cobb-Douglas-Präferenzen.md",
-    "misc/Taiwan '24/Reiseplan.md",
-    "misc/Taiwan '24/Übersicht.md",
     "clone/brain",
     "clone",
     "dfn/Mitteilungen",
