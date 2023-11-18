@@ -238,8 +238,7 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "df5723dcd8a43e09",
-      "workspaces-plus:settings-v1": {}
+      "active": "df5723dcd8a43e09"
     },
     "tables": {
       "main": {
@@ -415,8 +414,7 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "9fc406a37397d6e2",
-      "workspaces-plus:settings-v1": {}
+      "active": "9fc406a37397d6e2"
     },
     "default": {
       "main": {
@@ -584,8 +582,7 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "e041748da01c05af",
-      "workspaces-plus:settings-v1": {}
+      "active": "e041748da01c05af"
     }
   },
   "active": "default"

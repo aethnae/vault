@@ -99,5 +99,13 @@
       ],
       "key": "O"
     }
+  ],
+  "workspaces-plus:default": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "W"
+    }
   ]
 }
