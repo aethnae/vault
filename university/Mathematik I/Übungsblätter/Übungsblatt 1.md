@@ -42,6 +42,7 @@ $$
 $$
 nicht konstant.
 
+***
 #### Aufgabe 1.2
 Für eine arithmetische Folge $a_n$ mit $n \geq 1$ gelte: $\quad a_{15}=37, \quad a_{20}=117$.
 
@@ -66,6 +67,7 @@ Bestimmen Sie $a_{10}$ und die Partialsumme $s_{10}=\displaystyle\sum_{i=1}^{10}
 
 siehe Notizbuch
 
+***
 #### Aufgabe 1.3
 Ein Unternehmen erhöht jede Woche seinen Output um $d=50$ Einheiten. Der Anfangsoutput in der ersten Woche betrage $a=100$ Einheiten. Nach wie vielen Wochen hat das Unternehmen einen (kumulativen) Gesamtoutput von $N=800$ erstmals erreicht oder überschritten?
 
@@ -78,6 +80,7 @@ $$
 
 Daher hat das Unternehmen nach fünf Wochen erstmals einen kumulativen Gesamtoutput von 800 überschritten.
 
+***
 #### Aufgabe 1.4
 Untersuchen Sie die Folge
 $$
@@ -109,6 +112,7 @@ a_{n+1}-a_n>0 \Longleftrightarrow a_{n+1}>a_n \text { für alle } n \geq 1 \text
 $$
 D.h. die Folge $\left(a_n\right)$ ist streng monoton wachsend.
 
+***
 #### Aufgabe 1.5
 Gegeben sind die beiden Folgen
 $$
@@ -136,6 +140,7 @@ $$
 d = \lim_{ n \to \infty } d_{n} = \lim_{ n \to \infty } \frac{n}{(n+2)2^{n}} + \frac{1}{2^{n}+5} = 0 + 0 = 0
 $$
 
+***
 #### Aufgabe 1.6
 Die untenstehenden Folgen sind auf Häufungspunkte zu untersuchen.
 
@@ -167,6 +172,9 @@ Die Teilfolge $b_{2 j}=\frac{4 j}{2 j+1}, j=1,2, \ldots$ der geraden Indizes kon
 Die Teilfolge $b_{2 j-1}=0$ der ungeraden Indizes konvergiert für $j \rightarrow \infty$ gegen 0. 
 Daher sind 0 und 2 die Häufungspunkte der Folge $b_n, n=1,2, \ldots$
 
+***
+### Tutoriumsaufgaben
+
 #### Aufgabe 1.7
 Für eine geometrische Folge $a_n$ mit $n \geq 1$ gelte:
 $$
@@ -176,3 +184,67 @@ $$
 **(a)**
 Geben Sie das explizite Bildungsgesetz dieser Folge an.
 
+Gesucht ist die Größe $a_1$.
+Aus der Formel für die geometrische Summe $s_n=a_1 \cdot \frac{1-q^n}{1-q}$ erhalten wir für $n=4$ mit $q=0,4$ die Gleichung
+$$
+s_4=a_1 \cdot \frac{1-0,4^4}{1-0,4}=812 .
+$$
+
+Wir lösen die Gleichung nach $a_1$ auf
+$$
+s_4=a_1 \cdot \frac{1-0,4^4}{1-0,4}=812 \Longrightarrow \underline{\underline{\underline{a_1}}}=812 \cdot \frac{1-0,4}{1-0,4^4}=\underline{\underline{500}} .
+$$
+
+Das explizite Bildungsgesetz ist somit
+$$
+a_n=500 \cdot 0,4^{n-1}, \quad n=1,2,3 \ldots
+$$
+
+**b)**
+Bestimmen sie $a_{3}$ und $a_{5}$
+
+Mit dem expliziten Bildungsgesetz aus (a) berechnen wir
+$$
+\begin{aligned}
+& \underline{\underline{a_3}}=500 \cdot 0,4^2=500 \cdot 0,16=\underline{\underline{80}} \\
+& \underline{\underline{a_5}}=500 \cdot 0,4^4=\overbrace{500 \cdot 0,16}^{a_3} \cdot \overbrace{0,16}^{q^2}=80 \cdot 0,16=\underline{\underline{12,8}} .
+\end{aligned}
+$$
+
+***
+#### Aufgabe 1.8
+Es sei $\left(a_n\right), n \geq 1$ eine arithmetische Folge. Zeigen Sie, dass für jedes Glied $a_n$ mit $n \geq 2$ das arithmetische Mittel seiner Nachbarglieder $a_{n-1}$ und $a_{n+1}$ ist.
+
+Aus dem rekursiven Bildungsgesetz der arithmetischen Folge $a_{n+1}=a_n+d$ bzw. $a_n=a_{n+1}-d, n \geq 1$ folgt
+
+$$
+\underline{\underline{\frac{1}{2}\left(a_{n-1}+a_{n+1}\right)}}=\frac{1}{2}\left(a_n-d+a_n+d\right)=\underline{\underline{a_n}} .
+$$
+
+***
+#### Aufgabe 1.9
+In $n-1$ Jahren wächst das Produktionsvolumen eines Unternehmens von $a_1>0$ auf den Wert $a_n$ an, wobei jedes Jahr eine (konstante) Steigerung um $p \%$ zu verzeichnen ist. Wie hoch muss $p$ sein, um die Steigerung von $a_1$ auf $a_n$ zu realisieren?
+
+Die Produktionsmengen $a_n$ bilden eine geometrische Folge mit dem expliziten Bildungsgesetz
+$$
+a_n=a_1 \cdot q^{n-1}, \quad n \geq 1
+$$
+wobei $q$ der Wachstumsfaktor $q=1+\frac{p}{100}$ ist.
+
+Gesucht ist die Größe $p$. Setzen wir $q$ in das explizite Bildungsgesetz ein, erhalten wir
+$$
+a_n=a_1\left(1+\frac{p}{100}\right)^{n-1} \quad \mid: a_1 \Longleftrightarrow \frac{a_n}{a_1}=\left(1+\frac{p}{100}\right)^{n-1}
+$$
+
+Ziehen wir auf beiden Seiten der Gleichung die $n$-1-te Wurzel folgt
+$$
+1+\frac{p}{100}=\sqrt[n-1]{\frac{a_n}{a_1}} \Longleftrightarrow \frac{p}{100}=\sqrt[n-1]{\frac{a_n}{a_1}}-1 \quad \text { und somit } \quad =100 \cdot\left(\sqrt[n-1]{\frac{a_n}{a_1}}-1\right)
+$$
+
+***
+#### Aufgabe 1.10
+Angenommen, ein Postunternehmen plant, Briefmarken von einem Automaten drucken zu lassen, und zwar von $0,05 €$ an aufwärts bis zu $99,95 €$ in Abständen von jeweils $0,05 €$. Wie viel müsste ein Sammler für deren Erwerb aufwenden?
+
+$$
+\frac{99,95}{0,05} = 1.999
+$$

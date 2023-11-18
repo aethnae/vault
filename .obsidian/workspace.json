@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -93,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Geometrische Folgen.md",
+                "file": "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Geometrische Folgen.md",
+                "file": "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Geometrische Folgen.md",
+                "file": "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Geometrische Folgen.md"
+                "file": "university/Mathematik I/Übungsblätter/Übungsblatt 1.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Geometrische Folgen.md"
+                "file": "university/Mathematik I/Übungsblätter/Übungsblatt 1.md"
               }
             }
           }
@@ -260,10 +260,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d8467291d8ba17e9",
+  "active": "27a5ffe50521b577",
   "lastOpenFiles": [
-    "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Geometrische Folgen.md",
+    "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Häufungspunkte.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Grenzwerte.md",
     "misc/README.md",
