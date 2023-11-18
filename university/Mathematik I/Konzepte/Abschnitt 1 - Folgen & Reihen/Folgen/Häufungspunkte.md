@@ -19,3 +19,4 @@ $$
 a-\epsilon<a<a+\epsilon
 $$
 - Der Wert $a$ ist ein Häufungspunkt, wenn unendlich viele Folgenglieder einen beliebig kleinen Abstand zu a haben.
+- Wenn ein [[Grenzwerte|Grenzwert]] $a$ einer Folge $\left(a_n\right)$ existiert, dann ist $a$ auch der einzige Häufungspunkt von $\left(a_n\right)$. Umgekehrt gilt, wenn eine Folge $\left(a_n\right)$ genau einen Häufungspunkt $a$ hat und gleichzeitig beschränkt ist, dann ist $a$ auch der Grenzwert von $\left(a_n\right)$.

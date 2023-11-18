@@ -109,7 +109,7 @@ a_{n+1}-a_n>0 \Longleftrightarrow a_{n+1}>a_n \text { für alle } n \geq 1 \text
 $$
 D.h. die Folge $\left(a_n\right)$ ist streng monoton wachsend.
 
-**Aufgabe 1.5**
+#### Aufgabe 1.5
 Gegeben sind die beiden Folgen
 $$
 a_n=\frac{n}{(n+2) 2^n} \quad \text { und } \quad b_n=2^n+5, \quad n=1,2, \ldots
@@ -121,4 +121,58 @@ Untersuchen Sie, ob die Folgen $a_n$ und $c_n:=a_n \cdot b_n, n=1,2, \ldots$, ei
 $$
 a = \lim_{ n \to \infty } a_{n} = \lim _{n \rightarrow \infty} \frac{n}{(n+2) 2^n}=\lim _{n \rightarrow \infty} \frac{n}{n} \frac{1}{\left(1+\frac{2}{n}\right)} \cdot \frac{1}{2^n}=\lim _{n \rightarrow \infty} \frac{1}{\left(1+\frac{2}{n}\right)} \cdot \lim _{n \rightarrow \infty} \frac{1}{2^n}=1 \cdot 0=0
 $$
+
+$$
+c = \lim_{ n \to \infty } c_{n} = \lim_{ n \to \infty } (a_{n} \cdot b_{n}) = \frac{n}{(n+2)2^{n}}(2^{n}+5) = \lim _{n \rightarrow \infty} \frac{n}{n} \frac{1}{\left(1+\frac{2}{n}\right)} \cdot \frac{2^n}{2^n}\left(1+\frac{5}{2^n}\right)
+$$
+$$
+=\lim _{n \rightarrow \infty} \frac{1}{1+\frac{2}{n}} \cdot \lim _{n \rightarrow \infty}\left(1+\frac{5}{2^n}\right)=1(1+0)=\underline{\underline{1}}
+$$
+
+**b)**
+Hat die Folge $d_n:=a_n+\frac{1}{b_n}, \quad n=1,2, \ldots$ einen Grenzwert? Falls ja, so bestimme man diesen.
+
+$$
+d = \lim_{ n \to \infty } d_{n} = \lim_{ n \to \infty } \frac{n}{(n+2)2^{n}} + \frac{1}{2^{n}+5} = 0 + 0 = 0
+$$
+
+#### Aufgabe 1.6
+Die untenstehenden Folgen sind auf Häufungspunkte zu untersuchen.
+
+**a)**
+$a_{n} = \frac{2n(-1)^{n}}{n+1}$
+
+$$
+a_n=\frac{2 \cdot n \cdot(-1)^n}{n+1}=\overbrace{\frac{1}{\frac{1}{n}}}^{=n} \frac{2 \cdot(-1)^n}{(n+1)}=\frac{2 \cdot(-1)^n}{1+\frac{1}{n}}=\left\{\begin{array}{cl}
+\frac{2}{1+\frac{1}{n}} & \text { für } n \text { gerade } \\
+-\frac{2}{1+\frac{1}{n}} & \text { für } n \text { ungerade }
+\end{array}\right.
+$$
+
+Die Teilfolge $a_{2 j}, j=1,2, \ldots$ der geraden Indizes konvergiert für $j \rightarrow \infty$ gegen 2.
+Die Teilfolge $a_{2 j-1}, j=1,2, \ldots$ der ungeraden Indizes konvergiert für $j \rightarrow \infty$ gegen -2.
+Daher sind 2 und -2 die Häufungspunkte der Folge $\left(a_n\right)$.
+
+**b)**
+$b_n=\left(1+(-1)^n\right) \frac{n}{n+1}$
+
+$$
+b_n=\left(1+(-1)^n\right) \frac{n}{n+1} = \left\{\begin{array}{cl}
+\frac{2 n}{n+1} & \text { für } n \text { gerade } \\
+0 & \text { für } n \text { ungerade }
+\end{array}\right.
+$$
+
+Die Teilfolge $b_{2 j}=\frac{4 j}{2 j+1}, j=1,2, \ldots$ der geraden Indizes konvergiert für $j \rightarrow \infty$ gegen 2.
+Die Teilfolge $b_{2 j-1}=0$ der ungeraden Indizes konvergiert für $j \rightarrow \infty$ gegen 0. 
+Daher sind 0 und 2 die Häufungspunkte der Folge $b_n, n=1,2, \ldots$
+
+#### Aufgabe 1.7
+Für eine geometrische Folge $a_n$ mit $n \geq 1$ gelte:
+$$
+q=0,4 \quad \text { und } \quad s_4=\sum_{i=1}^4 a_i=812
+$$
+
+**(a)**
+Geben Sie das explizite Bildungsgesetz dieser Folge an.
 
