@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "4dcb9a76c4d15632",
+            "id": "e36349b7781fe6b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mathematik I/Rechengesetze.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af60e75aaec6ba6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/LaTeX Snippets.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Arithmetische Folgen.md",
                 "mode": "source",
                 "source": false
               }
@@ -286,10 +274,11 @@
   },
   "active": "27a5ffe50521b577",
   "lastOpenFiles": [
-    "university/Mathematik I/Rechengesetze.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Arithmetische Folgen.md",
     "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
-    "university/Mathematik I/LaTeX Snippets.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Geometrische Folgen.md",
+    "university/Mathematik I/Rechengesetze.md",
+    "university/Mathematik I/LaTeX Snippets.md",
     "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Ungleichungen.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Häufungspunkte.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Grenzwerte.md",
@@ -304,7 +293,6 @@
     "dfn/Wikipedia-Artikel/Deutsches Forschungsnetz.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Reihen.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Arithmetische Folgen.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Folgen.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Bestimmte Divergenz.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen",

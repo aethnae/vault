@@ -379,3 +379,14 @@ $$
 
 ***
 #### Aufgabe 1.15
+Im Gründungsjahr 2002 produzierte eine Unterhaltungselektronikfirma 100.000 DVD-Player.
+
+**a)**
+Wie viele DVD-Player wurden insgesamt bis Ende 2013 hergestellt, wenn das Unternehmen ihre produzierte Stückzahl gegenüber dem Vorjahr jeweils um 10.000 Stück steigerte?
+
+$$
+a_{n} = 100.000 + n \cdot 10.000
+$$
+$$
+s_{a} = \sum_{i = 1}^{11} 100.000 + (n - 1) \cdot 10.000 = 
+$$
