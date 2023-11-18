@@ -248,3 +248,134 @@ Angenommen, ein Postunternehmen plant, Briefmarken von einem Automaten drucken z
 $$
 \frac{99,95}{0,05} = 1.999
 $$
+$$
+\sum_{i = 1}^{1999} i \cdot 0,05 = 99.950
+$$
+Ein Sammler müsste für den Erwerb aller 1.999 Briefmarken 99.950€ aufwenden.
+
+***
+#### Aufgabe 1.11
+Untersuchen Sie die Folge
+$$
+a_n=\frac{n+1}{n-1}, n=2,3, \ldots
+$$
+auf Monotonie.
+
+$$
+a_{n+1} \geq a_{n}
+$$
+$$
+\frac{n+2}{n} \geq \frac{n+1}{n-1}
+$$
+$$
+\frac{n+2}{n} - \frac{n+1}{n-1} \geq 0
+$$
+$$
+\frac{n}{n} \cdot \frac{3}{1} - \frac{n + 1}{n - 1} \geq 0
+$$
+$$
+3 \geq \frac{n+1}{n - 1} \quad \text{ für } n \geq 2
+$$
+
+***
+### Selbstrechenaufgaben
+
+#### Aufgabe 1.12
+Für eine arithmetische Folge $a_n$ mit $n \geq 1$ gelte: $\quad a_{18}-a_8=60, \quad a_5=38$.
+
+**a)**
+Geben Sie das explizite Bildungsgesetz dieser Folge an.
+
+Gesucht sind die Größen $a_1$ und $d$.
+Wir setzen zunächst $n=18$ und $n=8$ in die Formel ein und betrachten die Gleichung $a_1 8-a_8=60$.
+
+$$
+a_{18}-a_8=60 \Rightarrow a_1+17 \cdot d-\left(a_1+7 \cdot d\right)=a_1+17 d-a_1-7 d=10 d=60 \Rightarrow \underline{\underline{d=6}}
+$$
+
+Setzen wir $d=6$ in die Voraussetzung $a_5=38$ ein, folgt
+
+$$
+a_5=a_1+4 \cdot 6=38 \Rightarrow \underline{\underline{a_1}=14}
+$$
+
+Die explizite Bildungsvorschrift ist somit
+
+$$
+\underline{\underline{a_n=14+(n-1) \cdot 6}}, \quad n \geq 1
+$$
+
+**b)**
+Bestimmen Sie $a_8, a_{18}$ und die Partialsumme $s_8=\displaystyle \sum_{i=1}^8 a_i$
+
+Setzen wir $n=8$ und $n=18$ in das explizite Bildungsgesetz ein, folgt
+
+$$
+\begin{gathered}
+a_8=14+7 \cdot 6=\underline{\underline{56}} \\
+a_{18}=14+17 \cdot 6=\underline{\underline{116}}
+\end{gathered}
+$$
+
+Für die Partialsumme $s_n=a_1+\ldots+a_n, n \geq 1$, kann die Formel $s_n=\frac{n}{2}\left(2 a_1+(n-1) \cdot d\right)$ verwendet werden. Für $n=8$ folgt somit
+
+$$
+\underline{\underline{s_8}}=a_1+\ldots+a_8=\frac{8}{2}(2 \cdot 14+7 \cdot 6)=\underline{\underline{280}} .
+$$
+
+**c)**
+Bestimmen Sie $n$, so dass $a_n=68$ gilt.
+
+Gesucht ist $n \geq 1$ so dass $a_n=14+(n-1) \cdot 6=68$ gilt.
+
+$$
+a_n=14+(n-1) \cdot 6=68 \Rightarrow(n-1) \cdot 6=54 \Rightarrow n-1=9 \Rightarrow \underline{n=10}
+$$
+
+***
+#### Aufgabe 1.13
+Für eine geometrische Folge $a_n$ mit $n \geq 1$ gelte:
+$$
+a_3=64 \text { und } a_5=40,96 \text {. }
+$$
+
+Bestimmen Sie die Größen $a_1, q, a_4$ und $\displaystyle \sum_{i=1}^4 a_i$.
+
+***
+#### Aufgabe 1.14
+In einer Firma soll innerhalb eines Jahres eine monatliche Produktionserhöhung von $3 \%$ erreicht werden. Im Monat Januar betrug die Produktion 1000 Stück.
+
+**a)**
+Bestimmen sie die Produktion für den Monat Juli.
+
+$$
+a_{n} = 1000 \cdot 1,03^{n}
+$$
+$$
+a_{6} = 1000 \cdot 1,03^{6} \approx 1.194,05
+$$
+
+**b)**
+In welchem Monat werden ungefähr 1126 Stück produziert?
+
+$$
+1126 = 1000 \cdot 1,03^{n} \Leftrightarrow \frac{1126}{1000} = 1,03^{n} \Leftrightarrow \log_{1,03}(1,03^{n}) = {\log_{1,03}} \frac{1126}{1000} \Leftrightarrow n \approx 5,015 
+$$
+
+d.h. im Monat Mai werden fast 1126 Stück produziert. Im Juni werden bereits mehr als 1126 Stück produziert.
+
+**c)**
+Wie hoch ist die Jahresproduktion?
+
+Gesucht ist hier
+$$
+s_n=a_1+a_2+\ldots+a_{12}=\sum_{j=1}^{12} a_j=\sum_{j=1}^{12}(1,03)^{j-1} \cdot a_1
+$$
+
+Mit der Formel für die geometrische Summe $s_n=\displaystyle \sum_{j=1}^n a_1 q^{j-1}=a_1 \cdot \frac{1-q^n}{1-q}$ erhalten wir
+$$
+\underline{\underline{s_{12}}}=a_1 \cdot \frac{1-1,03^{12}}{1-1,03} \approx \underline{\underline{14192}} \text { [Stück] }
+$$
+
+***
+#### Aufgabe 1.15
