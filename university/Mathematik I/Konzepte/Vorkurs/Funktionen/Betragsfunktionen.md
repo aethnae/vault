@@ -1,3 +1,9 @@
+---
+tags:
+  - funktionen
+week: 2023-10-31
+flashcard: true
+---
 ***
 
 ```ad-important
@@ -31,7 +37,7 @@ $$
 - Besteht aus zwei Geraden mit Steigung - $a$ bzw. $a$, die bei $x=-b$ aneinander stoßen
 - Hat ein Minimum im Punkt $(-b, c)$
 
-![[Pasted image 20231105181708.png|350]]
+![[Pasted image 20231105181708.png|center|300]]
 
 #### Betragsgleichungen
 

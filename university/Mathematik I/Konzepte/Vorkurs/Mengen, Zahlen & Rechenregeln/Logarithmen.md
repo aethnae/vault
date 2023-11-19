@@ -1,3 +1,8 @@
+---
+tags: 
+week: 2023-10-27
+flashcard: true
+---
 ***
 
 ```ad-important

@@ -1,3 +1,9 @@
+---
+tags:
+  - funktionen
+week: 
+flashcard: false
+---
 ***
 
 ```ad-important
@@ -15,4 +21,3 @@ Eine Funktion heißt differenzierbar (auf ganz $D$ ), falls $f$ differenzierbar 
 - Die Werte der Ableitungsfunktion entsprechen Steigungen
 - $f^{\prime}\left(x_0\right) \approx \frac{\Delta f}{\Delta x}=\frac{f\left(x_0+\Delta x\right)-f\left(x_0\right)}{\Delta x} \quad$("Differenzenquotient")
 - $f^{\prime}\left(x_0\right)=\lim _{\Delta x \rightarrow 0} \frac{f\left(x_0+\Delta x\right)-f\left(x_0\right)}{\Delta x} \quad$ ("Differentialquotient")
-

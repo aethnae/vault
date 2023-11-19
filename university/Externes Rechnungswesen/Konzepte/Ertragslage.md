@@ -1,3 +1,8 @@
+---
+tags:
+week:
+flashcard: false
+---
 ***
 
 Ist das Unternehmen in der Lage, aus seinen Umsätzen einen Gewinn zu erzielen? 

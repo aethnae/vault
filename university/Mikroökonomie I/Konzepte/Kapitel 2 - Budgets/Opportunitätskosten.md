@@ -1,3 +1,8 @@
+---
+tags:
+week:
+flashcard: false
+---
 ***
 
 durch die Steigung $-\frac{p_{1}}{p_{2}}$ der [[Budgetgerade|Budgetgeraden]] gemessene echte ökonomische Kosten, welche bei einer Steigerung des einen Gutes entstehen, da der Konsum des anderen Gutes beschränkt werden muss, um die [[Budgetbeschränkung]] einzuhalten.

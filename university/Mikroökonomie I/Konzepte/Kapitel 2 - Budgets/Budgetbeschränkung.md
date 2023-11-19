@@ -1,3 +1,8 @@
+---
+tags:
+week:
+flashcard: false
+---
 ***
 
 Beschreibung der möglichen Ausgaben für verschiedene Güter, geschrieben als

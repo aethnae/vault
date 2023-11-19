@@ -1,3 +1,8 @@
+---
+tags:
+week:
+flashcard: false
+---
 ***
 
 in Euro gemessenes Gut, welches für alle Güter mit Ausnahme eines bestimmten Guts 1 steht. 

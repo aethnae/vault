@@ -1,3 +1,8 @@
+---
+tags:
+week:
+flashcard: false
+---
 ***
 
 Wieviel **Vermögen** ist dauerhaft gebunden?

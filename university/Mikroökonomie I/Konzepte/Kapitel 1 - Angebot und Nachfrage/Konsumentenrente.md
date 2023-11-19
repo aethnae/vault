@@ -1,3 +1,8 @@
+---
+tags:
+week:
+flashcard: false
+---
 ***
 
 Der **Unterschied** zwischen dem Preis, den der Käufer eines Gutes höchstens zu zahlen bereit wäre, und dem tatsächlich gezahlten, niedrigeren Preis im [[Marktgleichgewicht]]. 

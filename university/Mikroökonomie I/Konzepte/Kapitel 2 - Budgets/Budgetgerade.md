@@ -1,3 +1,8 @@
+---
+tags:
+week:
+flashcard: false
+---
 ***
 
 Die **Budgetgerade** ist jene Menge der **Güterbündel**, die genau $m$ kosten:

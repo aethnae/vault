@@ -1,3 +1,8 @@
+---
+tags:
+week:
+flashcard: false
+---
 ***
 
 fixer Betrag, welcher unabhängig vom Verhalten oder Einkommen des Individuums eingehoben wird.

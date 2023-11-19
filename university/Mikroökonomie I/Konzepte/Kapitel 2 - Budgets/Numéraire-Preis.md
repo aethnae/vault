@@ -1,3 +1,8 @@
+---
+tags:
+week:
+flashcard: false
+---
 ***
 
 Gut, dessen Preis auf 1 normiert wird, um die relativen Preise der übrigen Güter in Mengeneinheiten des Standardguts auszudrücken.

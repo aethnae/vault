@@ -1,3 +1,9 @@
+---
+tags:
+  - funktionen
+week: 2023-10-31
+flashcard: true
+---
 ***
 
 ```ad-info

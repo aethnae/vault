@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
-  "search": "path:university  ",
+  "collapse-filter": false,
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": false,
-  "collapse-color-groups": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#dfn  ",
@@ -29,7 +29,7 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 0.93560791015625,
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.711888768803057,
-  "close": false
+  "scale": 0.5506652579173589,
+  "close": true
 }

@@ -1,3 +1,8 @@
+---
+tags:
+week:
+flashcard: false
+---
 ***
 
 auf jede gekaufte Mengeneinheit eines Gutes zu zahlender Betrag an die Finanzbehörde.

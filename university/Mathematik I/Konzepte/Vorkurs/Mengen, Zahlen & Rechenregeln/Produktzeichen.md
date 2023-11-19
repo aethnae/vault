@@ -1,4 +1,9 @@
-***
+---
+tags: 
+week: 2023-10-17
+flashcard: true
+---
+	***
 
 ```ad-important
 title: Definition

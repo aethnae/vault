@@ -1,3 +1,8 @@
+---
+tags:
+week:
+flashcard: false
+---
 ***
 
 prozentual auf den Preis eines Gutes zu zahlender Betrag an die Finanzbehörde. Oft auch **Umsatzsteuer** oder **Ad-Valorem-Steuern** genannt.

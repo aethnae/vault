@@ -1,3 +1,8 @@
+---
+tags:
+week:
+flashcard: false
+---
 ***
 
 - **Istkaufmann**: Ein Kaufmann, der ein Handelsgewerbe im Sinne des § 1 (2) HGB betreibt

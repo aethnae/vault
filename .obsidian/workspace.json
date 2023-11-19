@@ -4,18 +4,155 @@
     "type": "split",
     "children": [
       {
-        "id": "869436d448e3e92d",
+        "id": "818e9fbb3e14100c",
         "type": "tabs",
         "children": [
           {
-            "id": "2833617307366af0",
+            "id": "5fb90b6205b2ccc6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Differenzierbarkeit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b8d89a01f9bf132",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Arithmetische Folgen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f02dc27cebbfacc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e5f4732f7d31a8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Beschränktheit von Folgen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87881a2739b29158",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Bestimmte Divergenz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f93f118134594d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Vorkurs/Integration/Bestimmte Integrale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d6cd4945f28e95d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Differenzierbarkeit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e95a1ff8f4eabcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Exponentialfunktionen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26ab4adf4ca8f2d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Folgen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92ba8ae05d348abf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Funktionen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99a2efeca655e507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Geometrische Folgen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb3150a098ae4ab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Geometrische Reihe.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
+        "currentTab": 11,
         "stacked": true
       }
     ],
@@ -28,7 +165,6 @@
       {
         "id": "ce17988e31e66ad3",
         "type": "tabs",
-        "dimension": 55.855855855855864,
         "children": [
           {
             "id": "e041748da01c05af",
@@ -46,7 +182,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"university/Mathematik I\" [\"flashcard\":] false",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,52 +199,12 @@
               "state": {}
             }
           }
-        ]
-      },
-      {
-        "id": "4cae0943d8942f29",
-        "type": "tabs",
-        "dimension": 44.144144144144136,
-        "children": [
-          {
-            "id": "110820e6469f9f65",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.2990150286159956,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 294.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -119,18 +215,21 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d66306a0e6d4bed9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
             "id": "ba8653a4649b74c5",
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "51765abe1eb47d88",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
               "state": {}
             }
           },
@@ -143,27 +242,12 @@
             }
           },
           {
-            "id": "5767c389ed91eef4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "79ded24ae5a22d5d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Geometrische Reihe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +258,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Geometrische Reihe.md"
+              }
             }
           },
           {
@@ -192,23 +278,8 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "f337bac5fba544fc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d66306a0e6d4bed9",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
+                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Geometrische Reihe.md"
               }
             }
           }
@@ -216,7 +287,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,38 +307,38 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2833617307366af0",
+  "active": "fb3150a098ae4ab0",
   "lastOpenFiles": [
-    "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Arithmetische Folgen.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Geometrische Folgen.md",
-    "university/Mathematik I/Rechengesetze.md",
-    "university/Mathematik I/LaTeX Snippets.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Ungleichungen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Häufungspunkte.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Grenzwerte.md",
-    "misc/README.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Monotonie von Folgen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Grenzwerte von Reihen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Geometrische Reihe.md",
-    "university/Mikroökonomie I/Übungen/Übungsblatt 1.md",
-    "university/Mathematik I/Übungsblätter",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Konvergenzkriterien für Reihen.md",
-    "university/Mathematik I/Abschnitt 1 - Folgen & Reihen/Folgen/Konvergenzkriterien für Folgen.md",
-    "dfn/Wikipedia-Artikel/Deutsches Forschungsnetz.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Reihen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Funktionen.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Folgen.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Exponentialfunktionen.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Differenzierbarkeit.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Integration/Bestimmte Integrale.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Bestimmte Divergenz.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Beschränktheit von Folgen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Arithmetische Folgen.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Betragsfunktionen.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Polynomfunktionen.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Reellwertige Funktionen.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Ungleichungen.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Summenzeichen.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Produktzeichen.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Mengen.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Logarithmen.md",
+    "university/Externes Rechnungswesen/Konzepte/Eröffnungsbilanzkonto.md",
+    "university/Externes Rechnungswesen/Konzepte/Finanzlage.md",
+    "university/Externes Rechnungswesen/Konzepte/Gewinn.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Güterbündel.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Mengensteuer.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Budgetbeschränkung.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Angebotsüberhang.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Geometrische Reihe.md",
+    "university/Mathematik I/Übungsblätter",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen",
-    "Arithmetische Folgen].md",
     "files/Pasted image 20231118131250.png",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Beschränktheit von Folgen.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Wissenschaftstheorie.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Integration/Bestimmte Integrale.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Kritischer Rationalismus.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Elemente des Kapitalismus.md",
     "clone/brain",
     "clone",
     "dfn/Mitteilungen",

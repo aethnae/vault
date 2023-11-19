@@ -1,1 +1,6 @@
+---
+tags:
+week:
+flashcard: false
+---
 ***

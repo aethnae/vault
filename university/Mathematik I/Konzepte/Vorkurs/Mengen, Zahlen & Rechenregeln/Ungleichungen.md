@@ -1,3 +1,8 @@
+---
+tags: 
+week: 2023-10-24
+flashcard: true
+---
 ***
 
 - Eine Ungleichung $a<b$ bedeutet, dass der Term a strikt kleiner ist als der Term $b$.

@@ -1,6 +1,8 @@
 ---
 tags:
   - reihen
+week: 
+flashcard: false
 ---
 ***
 

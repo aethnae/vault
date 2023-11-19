@@ -1,3 +1,8 @@
+---
+tags:
+week:
+flashcard: false
+---
 ***
 
 - **Einzelunternehmen**: Sind Einzelkaufleute, Freiberufler oder Kleingewerbetreibende. Werden von einzelner Person gegründet und betrieben.

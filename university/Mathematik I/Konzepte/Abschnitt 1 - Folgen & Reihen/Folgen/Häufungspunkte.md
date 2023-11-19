@@ -1,6 +1,8 @@
 ---
 tags:
   - folgen
+week: 
+flashcard: false
 ---
 ***
 

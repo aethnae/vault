@@ -1,3 +1,9 @@
+---
+tags:
+  - funktionen
+week: 
+flashcard: false
+---
 ***
 
 Hat ein **Polynom** $f(x)$ vom Grad $n$ die Nullstellen $x_1, \ldots, x_n$, so kann $f(x)$ als

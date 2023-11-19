@@ -1,3 +1,8 @@
+---
+tags:
+week:
+flashcard: false
+---
 ***
 
 - Problem: wie kommen die Anfangsbestände auf die Bestandskonten?

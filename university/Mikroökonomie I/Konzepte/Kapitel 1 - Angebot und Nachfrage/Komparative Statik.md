@@ -1,3 +1,8 @@
+---
+tags:
+week:
+flashcard: false
+---
 ***
 
 Die **komparative Statik** vergleicht in der Mikroökonomie bzw. in einem ökonomischen Modell, inwiefern eine Änderung in einem **exogenen Faktor** (außerhalb des Modells) sich auf den oder die in der Analyse interessierenden **endogenen Faktoren** (innerhalb des Modells) auswirkt.

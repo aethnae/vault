@@ -1,3 +1,8 @@
+---
+tags:
+week:
+flashcard: false
+---
 ***
 
 Die Summe aller Nachfragemengen auf den einzelnen Märkten für ein Gut.
