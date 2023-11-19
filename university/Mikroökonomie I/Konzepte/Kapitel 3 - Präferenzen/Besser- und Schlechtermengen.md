@@ -1,8 +1,8 @@
 ---
 tags:
   - Präferenzen
-week: 
-flashcard: false
+week: 2023-10-25
+flashcard: true
 ---
 ***
 

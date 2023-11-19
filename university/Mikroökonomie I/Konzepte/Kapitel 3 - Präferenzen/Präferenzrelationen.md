@@ -1,7 +1,8 @@
 ---
 tags:
-week:
-flashcard: false
+  - Präferenzen
+week: 2023-10-25
+flashcard: true
 ---
 ***
 
@@ -23,7 +24,6 @@ $\succ: x \succ y$ genau dann wenn gilt, dass $x \succeq y$ und $y \nsucceq x$. 
 ```ad-important
 title: Definition
 $\sim: x \sim y$ genau dann wenn gilt, dass $x \succeq y$ und $y \succeq x$. Konni mag $x$ genauso sehr wie $y$.
-
 ```
 
 ***

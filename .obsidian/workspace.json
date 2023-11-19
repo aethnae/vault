@@ -4,22 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "e8469d24cfa2115b",
+        "id": "f99528095a381431",
         "type": "tabs",
         "children": [
           {
-            "id": "461fa7b351b190be",
+            "id": "45f104ae4ddab807",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Besser- und Schlechtermengen.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99ebb682870275c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzmengen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6233faeaeea3399",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Konvexität.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "487ec0d4021256e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Monotonie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "896415588ed47675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -113,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Besser- und Schlechtermengen.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Besser- und Schlechtermengen.md"
+                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md"
               }
             }
           },
@@ -145,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Besser- und Schlechtermengen.md"
+                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md"
               }
             }
           }
@@ -173,8 +222,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "461fa7b351b190be",
+  "active": "896415588ed47675",
   "lastOpenFiles": [
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Häufungspunkte.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Folgen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Beschränktheit von Folgen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Arithmetische Folgen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Präferenzrelationen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Monotonie.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Konvexität.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzmengen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Besser- und Schlechtermengen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Budgetgerade.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Güterbündel.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Mengensteuer.md",
@@ -190,17 +250,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Nachfrageüberhang.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Marktnachfrage.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Marktgleichgewicht.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Konsumentenrente.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Komparative Statik.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Ceteris Paribus.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Angebotsüberhang.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Kurvendiskussion.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Logarithmusfunktionen.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Polstellen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Konvergenzkriterien für Reihen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Grenzwerte.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Grenzwerte von Reihen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Häufungspunkte.md",
     "university/Mathematik I/Übungsblätter",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen",
