@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f99528095a381431",
+        "id": "206db1cdea230e05",
         "type": "tabs",
         "children": [
           {
-            "id": "45f104ae4ddab807",
+            "id": "12e18b0702e438b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "99ebb682870275c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzmengen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6233faeaeea3399",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Konvexität.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "487ec0d4021256e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Monotonie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "896415588ed47675",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -98,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Nachfrage",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 278.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -162,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md"
               }
             }
           },
@@ -194,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md"
               }
             }
           }
@@ -222,19 +173,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "896415588ed47675",
+  "active": "12e18b0702e438b9",
   "lastOpenFiles": [
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Besser- und Schlechtermengen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Präferenzrelationen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzmengen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Konvexität.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Monotonie.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Häufungspunkte.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Folgen.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Beschränktheit von Folgen.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Arithmetische Folgen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Präferenzrelationen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Monotonie.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Konvexität.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzmengen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Besser- und Schlechtermengen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Budgetgerade.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Güterbündel.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Mengensteuer.md",
@@ -249,7 +201,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Pareto-Effizienz.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Nachfrageüberhang.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Marktnachfrage.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Marktgleichgewicht.md",
     "university/Mathematik I/Übungsblätter",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen",
