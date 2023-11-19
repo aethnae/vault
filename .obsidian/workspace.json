@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "206db1cdea230e05",
+        "id": "8ec212ae3d1523be",
         "type": "tabs",
         "children": [
           {
-            "id": "12e18b0702e438b9",
+            "id": "df5723dcd8a43e09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -32,6 +28,7 @@
       {
         "id": "ce17988e31e66ad3",
         "type": "tabs",
+        "dimension": 55.855855855855864,
         "children": [
           {
             "id": "e041748da01c05af",
@@ -67,6 +64,47 @@
             }
           }
         ]
+      },
+      {
+        "id": "4cae0943d8942f29",
+        "type": "tabs",
+        "dimension": 44.144144144144136,
+        "children": [
+          {
+            "id": "110820e6469f9f65",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.2990150286159956,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -81,21 +119,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d66306a0e6d4bed9",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "ba8653a4649b74c5",
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "51765abe1eb47d88",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
               "state": {}
             }
           },
@@ -108,12 +143,27 @@
             }
           },
           {
+            "id": "5767c389ed91eef4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "79ded24ae5a22d5d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +174,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,8 +192,24 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "f337bac5fba544fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d66306a0e6d4bed9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md"
+                "sortOrder": "frequency",
+                "useHierarchy": false
               }
             }
           }
@@ -153,8 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,34 +236,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "12e18b0702e438b9",
+  "active": "df5723dcd8a43e09",
   "lastOpenFiles": [
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Besser- und Schlechtermengen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Präferenzrelationen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzmengen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Konvexität.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Monotonie.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Häufungspunkte.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Folgen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Beschränktheit von Folgen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Arithmetische Folgen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Budgetgerade.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Güterbündel.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Mengensteuer.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Numéraire-Preis.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Opportunitätskosten.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Pauschalsteuer.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Wertsteuer.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Zusammengesetztes Gut.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Budgetbeschränkung.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Vorbehaltspreis.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Produzentenrente.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Pareto-Effizienz.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Nachfrageüberhang.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Marktnachfrage.md",
+    "computer science/Unix Shell System/Working with Files and Directories.md",
+    "computer science/Unix Shell System/Pipes and Filters.md",
+    "computer science/Unix Shell System/Navigating Files and Directories.md",
+    "computer science/Productivity/XY Problem.md",
+    "computer science/Productivity/Rubber duck debugging.md",
+    "computer science/Productivity/Don't ask to ask, just ask.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Konvergenzkriterien für Reihen.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Kurvendiskussion.md",
+    "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Bilanz.md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Rechtsformen.md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Kaufmannsarten.md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Inventar und Inventur.md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Handelsgewerbe.md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Grundsätze ordnungsgemäßer Buchführung (GoB).md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Gewerbe und Gewerbebetrieb.md",
+    "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Vermögenslage.md",
+    "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Liquiditätsgrad.md",
+    "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Gewinn.md",
+    "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Finanzlage.md",
+    "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Ertragslage.md",
+    "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Eröffnungsbilanzkonto.md",
+    "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Arten erfolgsneutraler Geschäftsvorfälle.md",
+    "university/Externes Rechnungswesen/Konzepte/Kennzahlen",
+    "university/Externes Rechnungswesen/Konzepte/Eigenkapital.md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen",
+    "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Wissenschaftstheorie.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Kritischer Rationalismus.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Elemente des Kapitalismus.md",
     "university/Mathematik I/Übungsblätter",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen",
@@ -212,16 +278,13 @@
     "files/Pasted image 20231115170959.png",
     "files/Pasted image 20231115165832.png",
     "Untitled.canvas",
-    "dfn/Wikipedia-Artikel/Netze",
     "files/Pasted image 20231114202412.png",
     "files/Pasted image 20231114202253.png",
     "files/Pasted image 20231114202111.png",
     "files/Pasted image 20231114201805.png",
     "files/Pasted image 20231114201659.png",
     "files/Pasted image 20231114194853.png",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen",
     "files/Pasted image 20231112215316.png",
-    "university/Mathematik I/Konzepte/Vorkurs/Integration",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
     "school/Englisch/Globalisation/Benefits of Globalisation.canvas"

@@ -1,7 +1,8 @@
 ---
 tags:
-week:
-flashcard: false
+  - Kennzahlen
+week: 2023-10-23
+flashcard: true
 ---
 ***
 

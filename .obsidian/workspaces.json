@@ -30,7 +30,7 @@
           {
             "id": "ce17988e31e66ad3",
             "type": "tabs",
-            "dimension": 55.85585585585586,
+            "dimension": 55.855855855855864,
             "children": [
               {
                 "id": "e041748da01c05af",
@@ -70,7 +70,7 @@
           {
             "id": "4cae0943d8942f29",
             "type": "tabs",
-            "dimension": 44.14414414414414,
+            "dimension": 44.144144144144136,
             "children": [
               {
                 "id": "110820e6469f9f65",
@@ -238,8 +238,12 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "df5723dcd8a43e09",
-      "workspaces-plus:settings-v1": {}
+      "active": "e041748da01c05af",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "university"
+        ]
+      }
     },
     "tables": {
       "main": {
@@ -588,5 +592,5 @@
       "workspaces-plus:settings-v1": {}
     }
   },
-  "active": "default"
+  "active": "study"
 }

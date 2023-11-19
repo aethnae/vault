@@ -1,7 +1,8 @@
 ---
 tags:
-week:
-flashcard: false
+  - Philosophie
+week: 2023-10-23
+flashcard: true
 ---
 
 ***

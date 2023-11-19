@@ -1,7 +1,8 @@
 ---
 tags:
-week:
-flashcard: false
+  - Rechtsgrundlagen
+week: 2023-10-30
+flashcard: true
 ---
 ***
 

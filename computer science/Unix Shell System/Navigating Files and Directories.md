@@ -52,7 +52,7 @@ To **quit** the `man` pages, press **Q**.
 
 ##### General Syntax of a Shell Command
 
-![[Pasted image 20221210170427.png]]
+![[Pasted image 20221210170427.png|center|250]]
 
 `ls` is the **command**, with an **option** `-F` and an **argument** `/`. We’ve already encountered options which either start with a single dash (`-`) or two dashes (`--`), and they change the behavior of a command. [Arguments](https://swcarpentry.github.io/shell-novice/reference.html#argument) tell the command what to operate on (e.g. files and directories). Sometimes options and arguments are referred to as **parameters**. A command can be called with more than one option and more than one argument, but a command doesn’t always require an argument or an option.
 

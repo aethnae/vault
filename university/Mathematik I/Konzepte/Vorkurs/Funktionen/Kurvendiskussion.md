@@ -1,8 +1,7 @@
 ---
 tags:
   - funktionen
-week: 
-flashcard: false
+week:
 ---
 ***
 

@@ -1,7 +1,8 @@
 ---
 tags:
-week:
-flashcard: false
+  - Nutzen
+week: 2023-11-01
+flashcard: true
 ---
 ***
 

@@ -1,7 +1,8 @@
 ---
 tags:
-week:
-flashcard: false
+  - Buchhaltungskonten
+week: 2023-11-06
+flashcard: true
 ---
 ***
 

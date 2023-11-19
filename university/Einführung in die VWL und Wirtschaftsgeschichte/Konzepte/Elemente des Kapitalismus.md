@@ -1,7 +1,8 @@
 ---
 tags:
-week:
-flashcard: false
+  - Kapitalismus
+week: 2023-10-23
+flashcard: true
 ---
 ***
 
