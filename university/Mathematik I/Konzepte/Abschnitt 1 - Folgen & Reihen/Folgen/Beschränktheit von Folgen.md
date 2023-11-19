@@ -1,8 +1,8 @@
 ---
 tags:
   - folgen
-week: 
-flashcard: false
+week: 2023-11-17
+flashcard: true
 ---
 ***
 

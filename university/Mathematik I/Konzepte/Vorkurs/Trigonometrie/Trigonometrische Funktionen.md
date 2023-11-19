@@ -1,7 +1,8 @@
 ---
 tags:
-week:
-flashcard: false
+  - funktionen
+week: 2023-11-03
+flashcard: true
 ---
 ***
 

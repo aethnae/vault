@@ -1,7 +1,8 @@
 ---
 tags:
-week:
-flashcard: false
+  - Angebot
+week: 2023-10-18
+flashcard: true
 ---
 ***
 

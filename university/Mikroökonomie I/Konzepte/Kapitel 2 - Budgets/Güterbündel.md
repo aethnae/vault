@@ -1,7 +1,8 @@
 ---
 tags:
-week:
-flashcard: false
+  - Budgets
+week: 2023-10-25
+flashcard: true
 ---
 ***
 

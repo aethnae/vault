@@ -1,11 +1,13 @@
 ---
 tags:
   - funktionen
-week: 
-flashcard: false
+week: 2023-11-07
+flashcard: true
 ---
 ***
 
+```ad-important
+title: Definition
 Hat ein **Polynom** $f(x)$ vom Grad $n$ die Nullstellen $x_1, \ldots, x_n$, so kann $f(x)$ als
 
 $$
@@ -14,6 +16,7 @@ $$
 
 dargestellt werden. Dabei ist $a_n$ der Vorfaktor des Terms $x^n$ mit höchstem Exponenten.
 Diese Darstellung heißt **Linearfaktorzerlegung**.
+```
 
 **Beispiel:**
 Das Polynom

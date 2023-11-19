@@ -14,5 +14,6 @@
   "rightToLeft": false,
   "newFileLocation": "current",
   "useMarkdownLinks": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "propertiesInDocument": "visible"
 }

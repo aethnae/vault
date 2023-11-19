@@ -1,7 +1,8 @@
 ---
 tags:
-week:
-flashcard: false
+  - Integrale
+week: 2023-11-10
+flashcard: true
 ---
 ***
 

@@ -1,7 +1,7 @@
 ---
 tags:
   - reihen
-week: 
+week: 2023-11-17
 flashcard: false
 ---
 ***

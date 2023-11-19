@@ -4,155 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "818e9fbb3e14100c",
+        "id": "e8469d24cfa2115b",
         "type": "tabs",
         "children": [
           {
-            "id": "5fb90b6205b2ccc6",
+            "id": "461fa7b351b190be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Differenzierbarkeit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b8d89a01f9bf132",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Arithmetische Folgen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f02dc27cebbfacc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e5f4732f7d31a8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Beschränktheit von Folgen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87881a2739b29158",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Bestimmte Divergenz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f93f118134594d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Vorkurs/Integration/Bestimmte Integrale.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d6cd4945f28e95d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Differenzierbarkeit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e95a1ff8f4eabcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Exponentialfunktionen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26ab4adf4ca8f2d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Folgen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92ba8ae05d348abf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Funktionen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99a2efeca655e507",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Geometrische Folgen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb3150a098ae4ab0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Geometrische Reihe.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Besser- und Schlechtermengen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11,
         "stacked": true
       }
     ],
@@ -182,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"university/Mathematik I\" [\"flashcard\":] false",
+                "query": "tag:#Nachfrage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -247,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Geometrische Reihe.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Besser- und Schlechtermengen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Geometrische Reihe.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Besser- und Schlechtermengen.md"
               }
             }
           },
@@ -279,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Geometrische Reihe.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Besser- und Schlechtermengen.md"
               }
             }
           }
@@ -307,34 +173,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fb3150a098ae4ab0",
+  "active": "461fa7b351b190be",
   "lastOpenFiles": [
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Geometrische Folgen.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Funktionen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Folgen.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Exponentialfunktionen.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Differenzierbarkeit.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Integration/Bestimmte Integrale.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Bestimmte Divergenz.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Beschränktheit von Folgen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Arithmetische Folgen.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Betragsfunktionen.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Polynomfunktionen.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Reellwertige Funktionen.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Ungleichungen.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Summenzeichen.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Produktzeichen.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Mengen.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Logarithmen.md",
-    "university/Externes Rechnungswesen/Konzepte/Eröffnungsbilanzkonto.md",
-    "university/Externes Rechnungswesen/Konzepte/Finanzlage.md",
-    "university/Externes Rechnungswesen/Konzepte/Gewinn.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Budgetgerade.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Güterbündel.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Mengensteuer.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Numéraire-Preis.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Opportunitätskosten.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Pauschalsteuer.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Wertsteuer.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Zusammengesetztes Gut.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Budgetbeschränkung.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Vorbehaltspreis.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Produzentenrente.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Pareto-Effizienz.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Nachfrageüberhang.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Marktnachfrage.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Marktgleichgewicht.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Konsumentenrente.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Komparative Statik.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Ceteris Paribus.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Angebotsüberhang.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Geometrische Reihe.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Kurvendiskussion.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Logarithmusfunktionen.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Polstellen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Konvergenzkriterien für Reihen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Grenzwerte.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Grenzwerte von Reihen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Häufungspunkte.md",
     "university/Mathematik I/Übungsblätter",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen",

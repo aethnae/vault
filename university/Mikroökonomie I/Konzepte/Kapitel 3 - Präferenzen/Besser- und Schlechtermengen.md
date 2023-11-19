@@ -1,6 +1,7 @@
 ---
 tags:
-week:
+  - Präferenzen
+week: 
 flashcard: false
 ---
 ***

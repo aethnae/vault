@@ -1,8 +1,8 @@
 ---
 tags:
   - folgen
-week: 
-flashcard: false
+week: 2023-11-17
+flashcard: true
 ---
 ***
 
@@ -19,7 +19,7 @@ $$
 \lim _{n \rightarrow \infty} a_n=\infty \quad \text { bzw. } \quad \lim _{n \rightarrow \infty} a_n=-\infty
 $$
 ***
-### Konvergenz und Divergenz von [[Arithmetische Folgen|arithmetischen]] & [[Geometrische Folgen| geometrischen Folgen]]
+#### Konvergenz und Divergenz von [[Arithmetische Folgen|arithmetischen]] & [[Geometrische Folgen| geometrischen Folgen]]
 
 - Die arithmetische Folge
 $$
@@ -35,7 +35,7 @@ $$
 a_n=a_0 \cdot q^n, \quad n \geq 0
 $$
 - mit $a_0 \neq 0$ ist
-	- für $|q|<1 \quad$ konvergent und es gilt $\lim _{n \rightarrow \infty} a_n=0$,
+	- für $|q|<1$ konvergent und es gilt $\lim _{n \rightarrow \infty} a_n=0$,
 	- für $q>1$ bestimmt divergent,
 	- für $q \leq-1$ divergent
 

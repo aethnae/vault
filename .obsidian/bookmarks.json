@@ -28,6 +28,12 @@
       "ctime": 1700042006002,
       "path": "dfn/Wikipedia-Artikel/Roadmap.md",
       "title": "Roadmap | DFN-Wikipedia"
+    },
+    {
+      "type": "search",
+      "ctime": 1700424647829,
+      "query": "path:university [\"flashcard\":] false",
+      "title": "Fehlende Karteikarten"
     }
   ]
 }

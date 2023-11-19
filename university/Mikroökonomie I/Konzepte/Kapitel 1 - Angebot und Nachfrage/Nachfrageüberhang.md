@@ -1,7 +1,8 @@
 ---
 tags:
-week:
-flashcard: false
+  - Nachfrage
+week: 2023-10-18
+flashcard: true
 ---
 ***
 

@@ -2,13 +2,13 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#dfn  ",
+      "query": "path:dfn  ",
       "color": {
         "a": 1,
         "rgb": 6059222
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5506652579173589,
+  "scale": 0.521685592256316,
   "close": true
 }

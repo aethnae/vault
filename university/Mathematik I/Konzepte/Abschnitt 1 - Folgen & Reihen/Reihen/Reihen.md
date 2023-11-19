@@ -1,8 +1,8 @@
 ---
-week:
-flashcard: false
 tags:
   - reihen
+week: 2023-11-17
+flashcard: true
 ---
 ***
 
@@ -32,4 +32,3 @@ lautet die dazugehörige Reihe
 $$
 s_n=(2,6,12,20,30,42, \ldots)
 $$
-

@@ -1,7 +1,7 @@
 ---
-tags:
-week:
-flashcard: false
+tags: 
+week: 2023-10-18
+flashcard: true
 ---
 ***
 

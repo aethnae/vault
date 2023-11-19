@@ -2,7 +2,7 @@
 tags:
   - funktionen
 week: 
-flashcard: false
+flashcard: true
 ---
 ***
 

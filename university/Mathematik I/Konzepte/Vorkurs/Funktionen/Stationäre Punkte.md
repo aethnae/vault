@@ -1,8 +1,8 @@
 ---
 tags:
   - funktionen
-week: 
-flashcard: false
+week: 2023-11-03
+flashcard: true
 ---
 ***
 
@@ -15,7 +15,7 @@ $$
 ```
 
 - Jedes lokale Extremum ist ein stationärer Punkt
-- Stationäre Punkte, die *kein* lokales Extremum sind, heißen *Sattelpunkt*
+- Stationäre Punkte, die *kein* lokales Extremum sind, heißen [[Wendepunkte#Sattelpunkte|Sattelpunkte]]
 
 ![[Pasted image 20231105193354.png|center|450]]
 
