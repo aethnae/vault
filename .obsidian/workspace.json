@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a4f096ff14155672",
+        "id": "869436d448e3e92d",
         "type": "tabs",
         "children": [
           {
-            "id": "27a5ffe50521b577",
+            "id": "2833617307366af0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e36349b7781fe6b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Arithmetische Folgen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33fbb36f8f28d4f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Geometrische Folgen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -104,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -178,7 +148,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,7 +164,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,9 +174,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university/Mathematik I/Übungsblätter/Übungsblatt 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -226,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university/Mathematik I/Übungsblätter/Übungsblatt 1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -252,8 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,10 +235,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "27a5ffe50521b577",
+  "active": "2833617307366af0",
   "lastOpenFiles": [
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Arithmetische Folgen.md",
     "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Arithmetische Folgen.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Geometrische Folgen.md",
     "university/Mathematik I/Rechengesetze.md",
     "university/Mathematik I/LaTeX Snippets.md",
