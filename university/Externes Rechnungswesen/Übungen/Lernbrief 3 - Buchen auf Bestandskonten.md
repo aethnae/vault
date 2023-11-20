@@ -1,3 +1,6 @@
+---
+week: 2023-11-06
+---
 ***
 ##### Aufgabe 1
 Der bekannte deutsche YouTuber HeyAaron ist alleiniger Inhaber eines Kioskes in Weißensee, der Fanartikel, Getränke und Snacks verkauft. Im letzten Jahr 2022 erzielte der Kiosk einen Jahresüberschuss von 65.000 € und Umsatzerlöse von 400.000 €. Die (vereinfachte) Eröffnungsbilanz zum 01.01.2023 hat HeyAaron bereits aufgestellt:
