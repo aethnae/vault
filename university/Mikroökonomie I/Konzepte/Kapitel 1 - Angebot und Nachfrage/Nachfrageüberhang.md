@@ -1,6 +1,6 @@
 ---
 tags:
-  - Nachfrage
+  - nachfrage
 week: 2023-10-18
 flashcard: true
 ---

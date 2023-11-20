@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "29a9aed5bc60dc9b",
+        "id": "f244e600e4e41ce7",
         "type": "tabs",
         "children": [
           {
-            "id": "97e891b2087e9940",
+            "id": "b72d4ee0efd9c1fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -247,13 +247,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "97e891b2087e9940",
+  "active": "b72d4ee0efd9c1fa",
   "lastOpenFiles": [
+    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Mengensteuer.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Mengen.md",
+    "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
+    "university/Externes Rechnungswesen/Übungen/Lernbrief 3 - Buchen auf Bestandskonten.md",
+    "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Eröffnungsbilanzkonto.md",
+    "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Bilanz.md",
+    "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Arten erfolgsneutraler Geschäftsvorfälle.md",
     "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Grundsätze ordnungsgemäßer Buchführung (GoB).md",
     "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Gewerbe und Gewerbebetrieb.md",
-    "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
     "school/Deutsch/Lernplan Abitur.md",
-    "university/Externes Rechnungswesen/Übungen/Lernbrief 3 - Buchen auf Bestandskonten.md",
     "computer science/Unix Shell System/Working with Files and Directories.md",
     "computer science/Unix Shell System/Pipes and Filters.md",
     "computer science/Unix Shell System/Navigating Files and Directories.md",
@@ -262,7 +267,6 @@
     "computer science/Productivity/Don't ask to ask, just ask.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Konvergenzkriterien für Reihen.md",
     "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Kurvendiskussion.md",
-    "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Bilanz.md",
     "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Rechtsformen.md",
     "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Kaufmannsarten.md",
     "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Inventar und Inventur.md",
@@ -271,11 +275,7 @@
     "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Liquiditätsgrad.md",
     "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Gewinn.md",
     "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Finanzlage.md",
-    "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Ertragslage.md",
-    "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Eröffnungsbilanzkonto.md",
-    "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Arten erfolgsneutraler Geschäftsvorfälle.md",
     "university/Externes Rechnungswesen/Konzepte/Kennzahlen",
-    "university/Externes Rechnungswesen/Konzepte/Eigenkapital.md",
     "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen",
     "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva",
     "university/Mathematik I/Übungsblätter",

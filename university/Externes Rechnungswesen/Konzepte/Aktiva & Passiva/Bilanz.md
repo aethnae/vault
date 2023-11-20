@@ -1,6 +1,6 @@
 ---
 tags:
-  - Buchhaltungskonten
+  - buchhaltungskonten
 week: 2023-11-06
 flashcard: true
 ---

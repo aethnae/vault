@@ -1,6 +1,6 @@
 ---
 tags:
-  - Präferenzen
+  - präferenzen
 week: 2023-10-25
 flashcard: true
 ---

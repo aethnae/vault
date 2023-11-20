@@ -1,6 +1,6 @@
 ---
 tags:
-  - Rechtsgrundlagen
+  - rechtsgrundlagen
 week: 2023-10-30
 flashcard: true
 ---

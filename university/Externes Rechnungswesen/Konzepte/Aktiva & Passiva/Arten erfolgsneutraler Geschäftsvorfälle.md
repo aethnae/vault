@@ -1,6 +1,6 @@
 ---
 tags:
-  - Geschäftsvorfälle
+  - geschäftsvorfälle
 week: 2023-11-06
 flashcard: true
 ---

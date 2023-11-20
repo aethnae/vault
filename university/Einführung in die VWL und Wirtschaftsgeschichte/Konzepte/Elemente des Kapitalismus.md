@@ -1,6 +1,6 @@
 ---
 tags:
-  - Kapitalismus
+  - kapitalismus
 week: 2023-10-23
 flashcard: true
 ---

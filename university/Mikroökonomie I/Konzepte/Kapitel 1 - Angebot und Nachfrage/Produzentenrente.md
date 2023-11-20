@@ -1,6 +1,6 @@
 ---
 tags:
-  - Angebot
+  - angebot
 week: 2023-10-18
 flashcard: true
 ---

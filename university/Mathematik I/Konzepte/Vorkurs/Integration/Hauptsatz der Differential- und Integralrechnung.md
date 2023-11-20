@@ -1,6 +1,6 @@
 ---
 tags:
-  - Integrale
+  - integrale
 week: 2023-11-10
 flashcard: true
 ---

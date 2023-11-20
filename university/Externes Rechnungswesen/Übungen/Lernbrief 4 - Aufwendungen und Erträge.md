@@ -8,7 +8,7 @@ week: 2023-11-20
 - Maschinen, Fuhrpark, RHB (Roh-, Hilfs-, und Betriebsstoffe), Forderung aus LuL, Kasse, Bank
 
 **Passivische Bestandskonten:**
-- Stammkapital, Verb. Ggü KL, Verb. aus LuL, sonstige Verbindlichkeiten
+- Stammkapital, Verb. Ggü KI, Verb. aus LuL, sonstige Verbindlichkeiten
 
 **Ertragskonten:**
 - Umsatzerlöse
