@@ -2,7 +2,7 @@
 tags:
   - folgen
   - reihen
-week: "1"
+week: 2023-11-14
 ---
 ***
 ### Übungsaufgaben

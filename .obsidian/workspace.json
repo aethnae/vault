@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f244e600e4e41ce7",
+        "id": "206db1cdea230e05",
         "type": "tabs",
         "children": [
           {
-            "id": "b72d4ee0efd9c1fa",
+            "id": "aab00c952341d867",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +32,6 @@
       {
         "id": "ce17988e31e66ad3",
         "type": "tabs",
-        "dimension": 55.855855855855864,
         "children": [
           {
             "id": "e041748da01c05af",
@@ -68,48 +67,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "4cae0943d8942f29",
-        "type": "tabs",
-        "dimension": 44.144144144144136,
-        "children": [
-          {
-            "id": "110820e6469f9f65",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.2990150286159956,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -124,18 +81,21 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d66306a0e6d4bed9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
             "id": "ba8653a4649b74c5",
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "51765abe1eb47d88",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
               "state": {}
             }
           },
@@ -145,23 +105,6 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
-            }
-          },
-          {
-            "id": "5767c389ed91eef4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
             }
           },
           {
@@ -206,29 +149,12 @@
               }
             }
           }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "f337bac5fba544fc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d66306a0e6d4bed9",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,10 +173,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b72d4ee0efd9c1fa",
+  "active": "aab00c952341d867",
   "lastOpenFiles": [
-    "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Gewinn.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
     "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
+    "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
+    "university/Mikroökonomie I/Übungen/Übungsblatt 4.md",
+    "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Gewinn.md",
     "misc/Finanzplan.md",
     "misc/Finanzplan - November.md",
     "misc/Taiwan '24/Übersicht.md",
@@ -272,9 +201,6 @@
     "computer science/Productivity/Don't ask to ask, just ask.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Konvergenzkriterien für Reihen.md",
     "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Kurvendiskussion.md",
-    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Rechtsformen.md",
-    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Kaufmannsarten.md",
-    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Inventar und Inventur.md",
     "university/Externes Rechnungswesen/Konzepte/Kennzahlen",
     "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen",
     "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva",
