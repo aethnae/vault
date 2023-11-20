@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8ec212ae3d1523be",
+        "id": "f39bf30fecf71ef2",
         "type": "tabs",
         "children": [
           {
-            "id": "710cb1198b9cc0c2",
+            "id": "6b94440cde762bb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Pareto-Effizienz.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1501c12b3e70e129",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution (MRS).md",
+                "file": "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md",
                 "mode": "preview",
                 "source": false
               }
@@ -92,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Pareto-Effizienz.md",
+                "file": "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -153,20 +140,12 @@
             }
           },
           {
-            "id": "3ec6df50cc8a7453",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
             "id": "5767c389ed91eef4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Pareto-Effizienz.md",
+                "file": "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,15 +157,22 @@
             }
           },
           {
-            "id": "79ded24ae5a22d5d",
+            "id": "d66306a0e6d4bed9",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "tag",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Pareto-Effizienz.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "sortOrder": "frequency",
+                "useHierarchy": false
               }
+            }
+          },
+          {
+            "id": "3ec6df50cc8a7453",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           },
           {
@@ -195,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Pareto-Effizienz.md"
+                "file": "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md"
               }
             }
           },
@@ -215,25 +201,26 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Pareto-Effizienz.md"
+                "file": "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "f337bac5fba544fc",
         "type": "tabs",
         "children": [
           {
-            "id": "d66306a0e6d4bed9",
+            "id": "79ded24ae5a22d5d",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "outgoing-link",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
+                "file": "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -241,8 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,18 +247,30 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "710cb1198b9cc0c2",
+  "active": "6b94440cde762bb4",
   "lastOpenFiles": [
+    "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Erfolgskonten.md",
+    "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md",
+    "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapital.md",
+    "files/Pasted image 20231120171830.png",
+    "files/Pasted image 20231120171731.png",
+    "university/Externes Rechnungswesen/Konzepte/Spickzettel.md",
+    "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge",
+    "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Bilanz.md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Kaufmannsarten.md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Rechtsformen.md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Handelsgewerbe.md",
+    "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
+    "school/Erdkunde/Strukturwandel/Tertiärisierung & Strukturwandel.md",
+    "university/Mathematik I/Rechengesetze.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Trigonometrie/Trigonometrische Funktionen.md",
+    "school/Erdkunde/Wiederholung - Stadtentwicklung und -Strukturen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution (MRS).md",
     "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Pareto-Effizienz.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Grenznutzen.md",
     "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Inventar und Inventur.md",
-    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Kaufmannsarten.md",
-    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Handelsgewerbe.md",
     "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Grundsätze ordnungsgemäßer Buchführung (GoB).md",
     "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Gewerbe und Gewerbebetrieb.md",
-    "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Bilanz.md",
-    "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
     "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
     "university/Mikroökonomie I/Übungen/Übungsblatt 4.md",
@@ -280,15 +278,6 @@
     "misc/Finanzplan.md",
     "misc/Finanzplan - November.md",
     "misc/Taiwan '24/Übersicht.md",
-    "misc/Taiwan '24/Reiseplan.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Mengensteuer.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Mengen.md",
-    "university/Externes Rechnungswesen/Übungen/Lernbrief 3 - Buchen auf Bestandskonten.md",
-    "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Eröffnungsbilanzkonto.md",
-    "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Arten erfolgsneutraler Geschäftsvorfälle.md",
-    "school/Deutsch/Lernplan Abitur.md",
-    "computer science/Unix Shell System/Working with Files and Directories.md",
-    "computer science/Unix Shell System/Pipes and Filters.md",
     "university/Externes Rechnungswesen/Konzepte/Kennzahlen",
     "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen",
     "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva",
@@ -299,7 +288,6 @@
     "clone/brain",
     "clone",
     "dfn/Mitteilungen",
-    "misc/Taiwan '24",
     "files/Pasted image 20231115170959.png",
     "files/Pasted image 20231115165832.png",
     "Untitled.canvas",
@@ -308,8 +296,6 @@
     "files/Pasted image 20231114202111.png",
     "files/Pasted image 20231114201805.png",
     "files/Pasted image 20231114201659.png",
-    "files/Pasted image 20231114194853.png",
-    "files/Pasted image 20231112215316.png",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
     "school/Englisch/Globalisation/Benefits of Globalisation.canvas"

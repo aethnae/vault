@@ -6,11 +6,11 @@
         "type": "split",
         "children": [
           {
-            "id": "8ec212ae3d1523be",
+            "id": "f39bf30fecf71ef2",
             "type": "tabs",
             "children": [
               {
-                "id": "df5723dcd8a43e09",
+                "id": "6b94440cde762bb4",
                 "type": "leaf",
                 "state": {
                   "type": "empty",
@@ -78,6 +78,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -137,19 +138,12 @@
                 }
               },
               {
-                "id": "3ec6df50cc8a7453",
-                "type": "leaf",
-                "state": {
-                  "type": "advanced-tables-toolbar",
-                  "state": {}
-                }
-              },
-              {
                 "id": "5767c389ed91eef4",
                 "type": "leaf",
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md",
                     "collapseAll": false,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -161,14 +155,22 @@
                 }
               },
               {
-                "id": "79ded24ae5a22d5d",
+                "id": "d66306a0e6d4bed9",
                 "type": "leaf",
                 "state": {
-                  "type": "outgoing-link",
+                  "type": "tag",
                   "state": {
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
                   }
+                }
+              },
+              {
+                "id": "3ec6df50cc8a7453",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
                 }
               },
               {
@@ -176,7 +178,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md"
+                  }
                 }
               },
               {
@@ -194,24 +198,27 @@
                 "type": "leaf",
                 "state": {
                   "type": "file-properties",
-                  "state": {}
+                  "state": {
+                    "file": "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md"
+                  }
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           },
           {
             "id": "f337bac5fba544fc",
             "type": "tabs",
             "children": [
               {
-                "id": "d66306a0e6d4bed9",
+                "id": "79ded24ae5a22d5d",
                 "type": "leaf",
                 "state": {
-                  "type": "tag",
+                  "type": "outgoing-link",
                   "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": false
+                    "file": "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
                   }
                 }
               }
