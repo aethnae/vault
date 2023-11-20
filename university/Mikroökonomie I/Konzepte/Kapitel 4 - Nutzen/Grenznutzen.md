@@ -27,7 +27,7 @@ $$
 ***
 ### Grenznutzen und MRS
 
-Eine Nutzenfunktion $u(x_{1}, x_{2})$ kann verwendet werden, um die [[Grenzrate der Substitution]] zu berechnen.
+Eine Nutzenfunktion $u(x_{1}, x_{2})$ kann verwendet werden, um die [[Grenzrate der Substitution (MRS)]] zu berechnen.
 Geht man von einer Konsumänderung beider Güter ($\Delta x_{1}, \Delta x_{2}$) aus, sodass der Nutzen konstant bleibt - das heißt eine Veränderung des Konsums, bei der wir uns entlang einer Indifferenzkurve bewegen.
 Dann muss
 

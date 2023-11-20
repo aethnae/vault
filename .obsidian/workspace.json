@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "206db1cdea230e05",
+        "id": "8ec212ae3d1523be",
         "type": "tabs",
         "children": [
           {
-            "id": "aab00c952341d867",
+            "id": "710cb1198b9cc0c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Pareto-Effizienz.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1501c12b3e70e129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution (MRS).md",
                 "mode": "preview",
                 "source": false
               }
@@ -32,6 +44,7 @@
       {
         "id": "ce17988e31e66ad3",
         "type": "tabs",
+        "dimension": 55.855855855855864,
         "children": [
           {
             "id": "e041748da01c05af",
@@ -67,10 +80,53 @@
             }
           }
         ]
+      },
+      {
+        "id": "4cae0943d8942f29",
+        "type": "tabs",
+        "dimension": 44.144144144144136,
+        "children": [
+          {
+            "id": "110820e6469f9f65",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Pareto-Effizienz.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.2990150286159956,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -81,21 +137,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d66306a0e6d4bed9",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "ba8653a4649b74c5",
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "51765abe1eb47d88",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
               "state": {}
             }
           },
@@ -108,12 +161,29 @@
             }
           },
           {
+            "id": "5767c389ed91eef4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Pareto-Effizienz.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "79ded24ae5a22d5d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Pareto-Effizienz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Pareto-Effizienz.md"
               }
             }
           },
@@ -145,7 +215,25 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Pareto-Effizienz.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "f337bac5fba544fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d66306a0e6d4bed9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
               }
             }
           }
@@ -173,10 +261,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "aab00c952341d867",
+  "active": "710cb1198b9cc0c2",
   "lastOpenFiles": [
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution (MRS).md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Pareto-Effizienz.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Grenznutzen.md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Inventar und Inventur.md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Kaufmannsarten.md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Handelsgewerbe.md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Grundsätze ordnungsgemäßer Buchführung (GoB).md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Gewerbe und Gewerbebetrieb.md",
+    "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Bilanz.md",
     "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
     "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
     "university/Mikroökonomie I/Übungen/Übungsblatt 4.md",
     "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Gewinn.md",
@@ -188,19 +285,10 @@
     "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Mengen.md",
     "university/Externes Rechnungswesen/Übungen/Lernbrief 3 - Buchen auf Bestandskonten.md",
     "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Eröffnungsbilanzkonto.md",
-    "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Bilanz.md",
     "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Arten erfolgsneutraler Geschäftsvorfälle.md",
-    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Grundsätze ordnungsgemäßer Buchführung (GoB).md",
-    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Gewerbe und Gewerbebetrieb.md",
     "school/Deutsch/Lernplan Abitur.md",
     "computer science/Unix Shell System/Working with Files and Directories.md",
     "computer science/Unix Shell System/Pipes and Filters.md",
-    "computer science/Unix Shell System/Navigating Files and Directories.md",
-    "computer science/Productivity/XY Problem.md",
-    "computer science/Productivity/Rubber duck debugging.md",
-    "computer science/Productivity/Don't ask to ask, just ask.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Konvergenzkriterien für Reihen.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Kurvendiskussion.md",
     "university/Externes Rechnungswesen/Konzepte/Kennzahlen",
     "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen",
     "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva",
