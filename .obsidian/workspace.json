@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8ec212ae3d1523be",
+        "id": "29a9aed5bc60dc9b",
         "type": "tabs",
         "children": [
           {
-            "id": "df5723dcd8a43e09",
+            "id": "97e891b2087e9940",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -76,6 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,6 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md"
+              }
             }
           },
           {
@@ -192,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md"
+              }
             }
           }
         ],
@@ -236,8 +247,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "df5723dcd8a43e09",
+  "active": "97e891b2087e9940",
   "lastOpenFiles": [
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Grundsätze ordnungsgemäßer Buchführung (GoB).md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Gewerbe und Gewerbebetrieb.md",
+    "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
+    "school/Deutsch/Lernplan Abitur.md",
+    "university/Externes Rechnungswesen/Übungen/Lernbrief 3 - Buchen auf Bestandskonten.md",
     "computer science/Unix Shell System/Working with Files and Directories.md",
     "computer science/Unix Shell System/Pipes and Filters.md",
     "computer science/Unix Shell System/Navigating Files and Directories.md",
@@ -251,8 +267,6 @@
     "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Kaufmannsarten.md",
     "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Inventar und Inventur.md",
     "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Handelsgewerbe.md",
-    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Grundsätze ordnungsgemäßer Buchführung (GoB).md",
-    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Gewerbe und Gewerbebetrieb.md",
     "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Vermögenslage.md",
     "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Liquiditätsgrad.md",
     "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Gewinn.md",
@@ -264,9 +278,6 @@
     "university/Externes Rechnungswesen/Konzepte/Eigenkapital.md",
     "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen",
     "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Wissenschaftstheorie.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Kritischer Rationalismus.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Elemente des Kapitalismus.md",
     "university/Mathematik I/Übungsblätter",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen",
