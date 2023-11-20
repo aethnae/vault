@@ -66,11 +66,13 @@ Im Geschäftsjahr 02 werden folgende Verkäufe getätigt:
 1. Am 01.02.02 verkauft die GmbH 2.500 Fußbälle an einen Großhändler zu einem Preis von 69 € je Stück.
 2. Am 03.08.02 werden weitere 25.000 Fußbälle an einen internationalen Online-Handel für 56 € je Stück. Die Inventur zum Abschlussstichtag ergibt einen Endbestand an Fußbällen von 7.000 Stück.
 
-**b)**
+**a)**
 *Gehen Sie davon aus, dass die Green Football GmbH ihre Gewinn- und Verlustrechnung nach dem **Gesamtkostenverfahren** aufstellt. Ermitteln Sie anhand der Gewinn- und Verlustrechnung das Jahresergebnis der GreenFootball GmbH. Geben Sie dafür auch die Buchungssätze an, die unterjährig anfallen und die für den Abschluss der Erfolgskonten notwendig sind.*
 
-| Von             | Wert     | -   | an                  | Wert     |
-| --------------- | -------- | --- | ------------------- | -------- |
-| RHB             | 350.000€ | an  | fertige Erzeugnisse | 350.000€ |
-| Personalaufwand | 700.000€ | an  | fertige Erzeugnisse | 700.000€ |
-|                 |          |     |                     |          |
+| Von             | Wert       | -   | an                  | Wert       |
+| --------------- | ---------- | --- | ------------------- | ---------- |
+| Materialaufwand | 350.000€   | an  | fertige Erzeugnisse | 350.000€   |
+| Personalaufwand | 700.000€   | an  | fertige Erzeugnisse | 700.000€   |
+| Bank            | 172.500€   | an  | Umsatzerlöse        | 172.500€   |
+| Bank            | 1.400.000€ | an  | Umsatzerlöse        | 1.400.000€ |
+
