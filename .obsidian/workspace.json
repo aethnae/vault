@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f39bf30fecf71ef2",
+        "id": "9ff47042ff05f812",
         "type": "tabs",
         "children": [
           {
-            "id": "6b94440cde762bb4",
+            "id": "482ca9b885f73e46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md",
+                "file": "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Umsatzkostenverfahren.md",
                 "mode": "preview",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md",
+                "file": "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Umsatzkostenverfahren.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md",
+                "file": "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Umsatzkostenverfahren.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md"
+                "file": "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Umsatzkostenverfahren.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md"
+                "file": "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Umsatzkostenverfahren.md"
               }
             }
           }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md",
+                "file": "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Umsatzkostenverfahren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,55 +247,55 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6b94440cde762bb4",
+  "active": "482ca9b885f73e46",
   "lastOpenFiles": [
-    "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Erfolgskonten.md",
+    "files/Pasted image 20231120185406.png",
+    "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Gesamtkostenverfahren.md",
+    "files/Pasted image 20231120185350.png",
+    "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Umsatzkostenverfahren.md",
+    "university/Externes Rechnungswesen/Kursübersicht - Externes Rechnungswesen.md",
+    "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Geschäftsmodelle.md",
+    "files/Pasted image 20231120184133.png",
+    "files/Pasted image 20231120184059.png",
+    "files/Pasted image 20231120183706.png",
+    "files/Pasted image 20231120183639.png",
+    "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Buchen im Handelsbetrieb.md",
+    "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Accrual.md",
     "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md",
+    "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Erfolgskonten.md",
+    "files/Pasted image 20231120183012.png",
+    "files/Pasted image 20231120182838.png",
+    "files/Pasted image 20231120182757.png",
+    "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten",
+    "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Eröffnungsbilanzkonto.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Monotonie von Folgen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Häufungspunkte.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Bestimmte Divergenz.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Beschränktheit von Folgen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Arithmetische Folgen.md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Kaufmannsarten.md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Rechtsformen.md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Inventar und Inventur.md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Handelsgewerbe.md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Grundsätze ordnungsgemäßer Buchführung (GoB).md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Gewerbe und Gewerbebetrieb.md",
     "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapital.md",
     "files/Pasted image 20231120171830.png",
     "files/Pasted image 20231120171731.png",
     "university/Externes Rechnungswesen/Konzepte/Spickzettel.md",
     "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge",
     "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Bilanz.md",
-    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Kaufmannsarten.md",
-    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Rechtsformen.md",
-    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Handelsgewerbe.md",
     "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
     "school/Erdkunde/Strukturwandel/Tertiärisierung & Strukturwandel.md",
-    "university/Mathematik I/Rechengesetze.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Trigonometrie/Trigonometrische Funktionen.md",
-    "school/Erdkunde/Wiederholung - Stadtentwicklung und -Strukturen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution (MRS).md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Pareto-Effizienz.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Grenznutzen.md",
-    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Inventar und Inventur.md",
-    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Grundsätze ordnungsgemäßer Buchführung (GoB).md",
-    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Gewerbe und Gewerbebetrieb.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
-    "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
-    "university/Mikroökonomie I/Übungen/Übungsblatt 4.md",
-    "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Gewinn.md",
-    "misc/Finanzplan.md",
-    "misc/Finanzplan - November.md",
-    "misc/Taiwan '24/Übersicht.md",
     "university/Externes Rechnungswesen/Konzepte/Kennzahlen",
     "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen",
     "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva",
     "university/Mathematik I/Übungsblätter",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen",
-    "files/Pasted image 20231118131250.png",
     "clone/brain",
     "clone",
-    "dfn/Mitteilungen",
-    "files/Pasted image 20231115170959.png",
-    "files/Pasted image 20231115165832.png",
     "Untitled.canvas",
-    "files/Pasted image 20231114202412.png",
-    "files/Pasted image 20231114202253.png",
-    "files/Pasted image 20231114202111.png",
-    "files/Pasted image 20231114201805.png",
-    "files/Pasted image 20231114201659.png",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
     "school/Englisch/Globalisation/Benefits of Globalisation.canvas"
