@@ -36,9 +36,9 @@ Taking public transportation will take 1.5 hours and cost TWD 113. Take the MRT 
 ### 5. Tag | Sun Moon Lake | 10. März
 - Master Xuan Zang Memorial Hall
 - Wenwu-Tempel
-### 6. Tag | Alishan-Nationalpark | 11. März
-- Viele Wanderrouten
-### 7. Tag | Alishan-Nationalpark | 12. März
+### 6. Tag | Kenting-Strand | 11. März
+
+### 7. Tag | Kenting-Strand | 12. März
 
 ### 8. Tag | Kenting-Strand | 13. März
 

@@ -92,20 +92,20 @@
       "key": "J"
     }
   ],
-  "darlal-switcher-plus:switcher-plus:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "O"
-    }
-  ],
   "workspaces-plus:open-workspaces-plus": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "W"
+    }
+  ],
+  "darlal-switcher-plus:switcher-plus:open-headings": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
     }
   ]
 }

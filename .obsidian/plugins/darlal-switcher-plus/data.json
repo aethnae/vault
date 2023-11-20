@@ -48,7 +48,7 @@
   "excludeOpenRelatedFiles": false,
   "excludeObsidianIgnoredFiles": false,
   "shouldSearchFilenames": false,
-  "shouldSearchBookmarks": false,
+  "shouldSearchBookmarks": true,
   "pathDisplayFormat": 3,
   "hidePathIfRoot": true,
   "enabledRelatedItems": [
