@@ -2,13 +2,13 @@
 tags:
   - geschäftsvorfälle
 week: 2023-11-13
-flashcard: false
+flashcard: true
 ---
 ***
 
 ```ad-note
 title: Quellen
-**Eigenkapitaländerungen** können aus zwei Quelle resultieren:
+**Eigenkapitaländerungen** können aus zwei Quellem resultieren:
 
 **Erfolgsbedingte EK-Änderung:**
 Resultiert aus dem Saldo von Erträgen und Aufwendungen (Gewinn/Verlust = Jahresüberschuss/-fehlbetrag)
