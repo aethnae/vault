@@ -1,8 +1,8 @@
 ---
 tags:
   - reihen
-week: 2023-11-17
-flashcard: false
+week: 2023-11-21
+flashcard: true
 ---
 ***
 
@@ -28,6 +28,7 @@ $$
 ### Einfache Konvergenzkriterien
 
 ```ad-note
+title: Beschränktheitskriterium
 Es gelte $a_n \geq 0, n \in \mathbb{N}$.
 Dann ist die Reihe $\displaystyle \sum_{n=1}^{\infty} a_n$ genau dann konvergent, wenn $\left(s_n\right)$ beschränkt ist.
 

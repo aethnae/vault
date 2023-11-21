@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b180e814038a812d",
+        "id": "77fdafb16292322a",
         "type": "tabs",
         "children": [
           {
-            "id": "3d37e9f22f764822",
+            "id": "979b48d80c946eef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Konvergenzkriterien für Reihen.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -50,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:university [\"flashcard\":] false",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +63,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4cae0943d8942f29",
@@ -80,7 +77,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Konvergenzkriterien für Reihen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Konvergenzkriterien für Reihen.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -180,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Konvergenzkriterien für Reihen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,9 +193,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Konvergenzkriterien für Reihen.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -218,7 +209,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Konvergenzkriterien für Reihen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,15 +238,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3d37e9f22f764822",
+  "active": "6a6354d041164900",
   "lastOpenFiles": [
+    "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Geschäftsmodelle.md",
+    "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Buchen im Handelsbetrieb.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Konvergenzkriterien für Reihen.md",
+    "university/Mikroökonomie I/Übungen/Übungsblatt 3.md",
+    "university/Mikroökonomie I/Übungen/Übungsblatt 4.md",
     "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Accrual.md",
     "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md",
     "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
-    "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Buchen im Handelsbetrieb.md",
     "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md",
     "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Erfolgskonten.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Konvergenzkriterien für Reihen.md",
     "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Gesamtkostenverfahren.md",
     "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Umsatzkostenverfahren.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Grenzwerte von Reihen.md",
@@ -273,9 +266,6 @@
     "university/Externes Rechnungswesen/Übungen/Lernbrief 3 - Buchen auf Bestandskonten.md",
     "university/Externes Rechnungswesen/Übungen/Lernbrief 1 - Warum Rechnungswesen?.md",
     "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Grundsätze ordnungsgemäßer Buchführung (GoB).md",
-    "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Geschäftsmodelle.md",
-    "university/Externes Rechnungswesen/Konzepte/Spickzettel.md",
-    "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Arten erfolgsneutraler Geschäftsvorfälle.md",
     "files/Pasted image 20231120185406.png",
     "files/Pasted image 20231120185350.png",
     "files/Pasted image 20231120184133.png",
