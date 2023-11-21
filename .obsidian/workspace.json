@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "da390a908afa8f36",
+        "id": "a61f27ce75c9b355",
         "type": "tabs",
         "children": [
           {
-            "id": "92b32e7d90cb0a03",
+            "id": "d596dec8bab2f13f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Geometrische Reihe.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -76,6 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Geometrische Reihe.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Geometrische Reihe.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Geometrische Reihe.md"
+              }
             }
           },
           {
@@ -192,7 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Geometrische Reihe.md"
+              }
             }
           }
         ],
@@ -208,6 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Geometrische Reihe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,8 +248,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "92b32e7d90cb0a03",
+  "active": "d596dec8bab2f13f",
   "lastOpenFiles": [
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Grenzwerte.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Geometrische Reihe.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Konvergenzkriterien für Reihen.md",
+    "university/Mathematik I/Rechengesetze.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Folgen.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Kursübersicht - Einführung in die VWL und Wirtschaftsgeschichte.md",
     "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Gesamtkostenverfahren.md",
     "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md",
     "university/Mathematik I/LaTeX Snippets.md",
@@ -269,12 +286,6 @@
     "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten",
     "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Eröffnungsbilanzkonto.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Monotonie von Folgen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Häufungspunkte.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Bestimmte Divergenz.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Beschränktheit von Folgen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Arithmetische Folgen.md",
-    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Kaufmannsarten.md",
-    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Rechtsformen.md",
     "files/Pasted image 20231120171830.png",
     "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge",
     "university/Externes Rechnungswesen/Konzepte/Kennzahlen",
