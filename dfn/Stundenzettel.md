@@ -32,8 +32,18 @@ tags:
 | Montag     | -              | -             |
 | Dienstag   | -              | -             |
 | Mittwoch   | 3              | 09:00 - 12:00 |
+| Donnerstag | 4              | 09:00 - 13:00 |
+| Freitag    | 3              | 09:00 - 12:00 | 
+| Samstag    | -              | -             |
+| Sonntag    | -              | -             |
+
+#### Kalenderwoche 47 | 20.11 - 27.11
+| Wochentag  | Arbeitsstunden | Anmerkungen   |
+| ---------- | -------------- | ------------- |
+| Montag     | -              | -             |
+| Dienstag   | -              | -             |
+| Mittwoch   | 3              | 09:00 - 12:00 |
 | Donnerstag |                |               |
 | Freitag    |                |               |
 | Samstag    | -              | -             |
 | Sonntag    | -              | -             | 
-
