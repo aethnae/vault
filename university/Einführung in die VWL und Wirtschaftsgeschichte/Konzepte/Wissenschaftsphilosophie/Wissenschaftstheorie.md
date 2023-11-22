@@ -4,9 +4,7 @@ tags:
 week: 2023-10-23
 flashcard: true
 ---
-
 ***
-
 ##### Ontologie der VWL
 
 > [!important] Definition
@@ -42,5 +40,4 @@ flashcard: true
 	- Eher **deduktiv**, d.h. aus Modellen abgeleitet (Gegenteil: induktiv – Hypothesen basierend auf Beobachtungen)
 - Wie werden Hypothesen überprüft?
 	- Durch **Falsifikation**
-
 

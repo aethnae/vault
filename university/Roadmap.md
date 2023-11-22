@@ -1,7 +1,6 @@
 ---
 tags:
-week:
-flashcard: false
+  - website
 publish: true
 ---
 ***
@@ -12,6 +11,7 @@ publish: true
 >Sobald ich diese hinzugefügt habe, entferne ich die entsprechenden Checkboxen wieder!
 >Findet ihr eine "neue" Definition also nicht hier, könnt ihr davon ausgehen, dass sie bereits auf der Website verfügbar ist. 
 
+*Um Personen, die aus meinen Übersichten Karteikarten erstellen wollen, zu unterstützen, liste ich [[Neue Beiträge|hier]] immer die in der aktuellen Woche **neu** hinzugefügten Artikel auf.*
 ***
 #### Einführung in die VWL & Wirtschaftsgeschichte
 - [ ] Definitionen aus Vorlesung 3 (06.11.2023) hinzufügen

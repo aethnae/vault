@@ -6,7 +6,8 @@ flashcard: true
 ---
 ***
 
-durch die Steigung $-\frac{p_{1}}{p_{2}}$ der [[Budgetgerade|Budgetgeraden]] gemessene echte ökonomische Kosten, welche bei einer Steigerung des einen Gutes entstehen, da der Konsum des anderen Gutes beschränkt werden muss, um die [[Budgetbeschränkung]] einzuhalten.
+> [!important] Definition
+> Surch die Steigung $-\frac{p_{1}}{p_{2}}$ der [[Budgetgerade|Budgetgeraden]] gemessene echte ökonomische Kosten, welche bei einer Steigerung des einen Gutes entstehen, da der Konsum des anderen Gutes beschränkt werden muss, um die [[Budgetbeschränkung]] einzuhalten.
 
 **Herleitung:**
 Nehmen wir an, dass die Konsumentin ihren Verbrauch des Gutes 1 um $\Delta x_{1}$ erhöht. Um die Veränderung des Konsums von Gut 2, also $\Delta x_{2}$, zu messen, müssen wir die Erfüllung der Budgetbeschränkung vor und nach der Veränderung beachten:
