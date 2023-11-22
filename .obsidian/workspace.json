@@ -63,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4cae0943d8942f29",
@@ -238,7 +237,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6a6354d041164900",
+  "active": "e041748da01c05af",
   "lastOpenFiles": [
     "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Geschäftsmodelle.md",
     "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Buchen im Handelsbetrieb.md",

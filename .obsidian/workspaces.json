@@ -6,11 +6,11 @@
         "type": "split",
         "children": [
           {
-            "id": "f39bf30fecf71ef2",
+            "id": "77fdafb16292322a",
             "type": "tabs",
             "children": [
               {
-                "id": "6b94440cde762bb4",
+                "id": "979b48d80c946eef",
                 "type": "leaf",
                 "state": {
                   "type": "empty",
@@ -78,7 +78,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -143,7 +142,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md",
                     "collapseAll": false,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -178,9 +176,7 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md"
-                  }
+                  "state": {}
                 }
               },
               {
@@ -198,9 +194,7 @@
                 "type": "leaf",
                 "state": {
                   "type": "file-properties",
-                  "state": {
-                    "file": "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md"
-                  }
+                  "state": {}
                 }
               }
             ],
@@ -216,7 +210,6 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Eigenkapitaländerungen.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -226,7 +219,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 267.5
+        "width": 267.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -248,7 +242,9 @@
       "active": "e041748da01c05af",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
-          "university"
+          "university",
+          "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen",
+          "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen"
         ]
       }
     },
