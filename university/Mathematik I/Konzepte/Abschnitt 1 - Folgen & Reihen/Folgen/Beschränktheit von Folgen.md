@@ -6,17 +6,14 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-Eine Folge $\left(a_n\right)$ heißt
-- nach unten (nach oben) beschränkt, falls
-$$
-a_n \geq M \quad\left(a_n \leq M\right)
-$$
-für alle $n \in \mathbb{N}$ und ein $M \in \mathbb{R}$ gilt.
-- beschränkt, wenn sie nach unten und nach oben beschränkt ist.
-
-```
+> [!important] Definition
+> Eine Folge $\left(a_n\right)$ heißt
+> - nach unten (nach oben) beschränkt, falls
+> $$
+> a_n \geq M \quad\left(a_n \leq M\right)
+>$$
+> für alle $n \in \mathbb{N}$ und ein $M \in \mathbb{R}$ gilt.
+> - beschränkt, wenn sie nach unten und nach oben beschränkt ist.
 
 #### Beispiele
 

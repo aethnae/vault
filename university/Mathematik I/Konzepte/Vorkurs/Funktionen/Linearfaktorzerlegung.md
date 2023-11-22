@@ -6,17 +6,13 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-Hat ein **Polynom** $f(x)$ vom Grad $n$ die Nullstellen $x_1, \ldots, x_n$, so kann $f(x)$ als
-
-$$
-f(x)=a_n \cdot\left(x-x_1\right) \cdot\left(x-x_2\right) \cdot \ldots \cdot\left(x-x_n\right)
-$$
-
-dargestellt werden. Dabei ist $a_n$ der Vorfaktor des Terms $x^n$ mit höchstem Exponenten.
-Diese Darstellung heißt **Linearfaktorzerlegung**.
-```
+> [!important] Definition
+> Hat ein **Polynom** $f(x)$ vom Grad $n$ die Nullstellen $x_1, \ldots, x_n$, so kann $f(x)$ als
+> $$
+> f(x)=a_n \cdot\left(x-x_1\right) \cdot\left(x-x_2\right) \cdot \ldots \cdot\left(x-x_n\right)
+> $$
+> dargestellt werden. Dabei ist $a_n$ der Vorfaktor des Terms $x^n$ mit höchstem Exponenten.
+> Diese Darstellung heißt **Linearfaktorzerlegung**.
 
 **Beispiel:**
 Das Polynom

@@ -6,14 +6,11 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-Die Indifferenzmenge von $x$ ist die Menge aller Bündel $y$, sodass $y \sim x$ :
-$$
-I(x)=\{y \in X \mid y \sim x\}
-$$
-
-```
+> [!important] Definition
+> Die Indifferenzmenge von $x$ ist die Menge aller Bündel $y$, sodass $y \sim x$ :
+> $$
+> I(x)=\{y \in X \mid y \sim x\}
+> $$
 
 Transitivität von $\sim$ impliziert: Aus $y \in I(x)$ und $z \in I(x)$ folgt $y \sim z$, also $I(x)=I(y)=I(z)$. Indifferenzmengen sind also eindeutig.
 

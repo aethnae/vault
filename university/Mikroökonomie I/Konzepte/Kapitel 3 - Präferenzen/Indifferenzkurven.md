@@ -6,11 +6,8 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-Greift man aus einem $x_{1}x_{2}$-Graphen ein Bündel $(x_{1}, x_{2})$ heraus und markiert alle Bündel, die gegenüber $(x_{1}, x_{2})$ **schwach bevorzugt** werden, so bilden die Bündel an der Grenze zu dieser Menge die **Indifferenzkurve**.
-
-```
+> [!important] Definition
+> Greift man aus einem $x_{1}x_{2}$-Graphen ein Bündel $(x_{1}, x_{2})$ heraus und markiert alle Bündel, die gegenüber $(x_{1}, x_{2})$ **schwach bevorzugt** werden, so bilden die Bündel an der Grenze zu dieser Menge die **Indifferenzkurve**.
 
 ![[Pasted image 20231108165202.png|center|400]]
 
@@ -23,18 +20,14 @@ Greift man aus einem $x_{1}x_{2}$-Graphen ein Bündel $(x_{1}, x_{2})$ heraus un
 
 #### Perfekte Substitute
 
-```ad-note
-title: Definition
-Zwei Güter sind **perfekte Substitute**, wenn der Konsument bereit ist, ein Gut für das andere zu einem konstanten Verhältnis zu tauschen. Der einfachste Fall perfekter Substitute liegt vor, wenn der Konsument bereit ist, die Güter im Verhältnis 1:1 zu tauschen.
-
-Im allgemeinen können Präferenzen für perfekte Substitute durch eine [[Nutzenfunktionen|Nutzenfunktion]] der Form
-
-$$
-u(x_{1}, x_{2}) = ax_{1} + bx_{2}
-$$
-
-dargestellt werden. Dabei sind $a$ und $b$ positive Zahlen, welche den "Wert" der Güter 1 und 2 für die Konsumentin messen. Beachte, dass die Steigung einer typischen Indifferenzkurve in diesem Fall durch $- \frac{a}{b}$ gegeben ist.
-```
+> [!note] Definition
+> Zwei Güter sind **perfekte Substitute**, wenn der Konsument bereit ist, ein Gut für das andere zu einem konstanten Verhältnis zu tauschen. Der einfachste Fall perfekter Substitute liegt vor, wenn der Konsument bereit ist, die Güter im Verhältnis 1:1 zu tauschen.
+> 
+> Im allgemeinen können Präferenzen für perfekte Substitute durch eine [[Nutzenfunktionen|Nutzenfunktion]] der Form
+> $$
+> u(x_{1}, x_{2}) = ax_{1} + bx_{2}
+> $$
+> dargestellt werden. Dabei sind $a$ und $b$ positive Zahlen, welche den "Wert" der Güter 1 und 2 für die Konsumentin messen. Beachte, dass die Steigung einer typischen Indifferenzkurve in diesem Fall durch $- \frac{a}{b}$ gegeben ist.
 
 
 ![[Pasted image 20231112152934.png|center|450]]
@@ -43,17 +36,14 @@ Nehmen wir zum Beispiel an, wir erwägen die Wahl zwischen roten und blauen Blei
 
 #### Perfekte Komplemente
 
-```ad-note
-title: Definition
-**Perfekte Komplemente** sind Güter, die immer in konstantem Verhältnis miteinander konsumiert werden. in gewissem Sinne "ergänzen" diese Güter einander.
-Ein Beispiel bilden hier linke und rechte Schuhe - Bei einer Steigerung nur einer dieser Güter, etwa vom Bündel $(10, 10)$ zu $(11, 10)$ bleibt der Konsument hinsichtlich der Ausgangsposition indifferent.
-
-Im Allgemeinen ist eine Nutzenfunktion, die perfekte Komplemente beschreibt, durch
-$$
-u\left(x_1, x_2\right)=\min \left\{a x_1, b x_2\right\}
-$$
-gegeben, wobei $a$ und $b$ positive Zahlen sind, welche das Verhältnis angeben, in dem die Güter konsumiert werden.
-```
+> [!note] Definition
+> **Perfekte Komplemente** sind Güter, die immer in konstantem Verhältnis miteinander konsumiert werden. in gewissem Sinne "ergänzen" diese Güter einander.
+> Ein Beispiel bilden hier linke und rechte Schuhe - Bei einer Steigerung nur einer dieser Güter, etwa vom Bündel $(10, 10)$ zu $(11, 10)$ bleibt der Konsument hinsichtlich der Ausgangsposition indifferent.
+> Im Allgemeinen ist eine Nutzenfunktion, die perfekte Komplemente beschreibt, durch
+> $$
+> u\left(x_1, x_2\right)=\min \left\{a x_1, b x_2\right\}
+> $$
+> gegeben, wobei $a$ und $b$ positive Zahlen sind, welche das Verhältnis angeben, in dem die Güter konsumiert werden.
 
 
 ![[Pasted image 20231112155951.png|center|450]]
@@ -62,24 +52,17 @@ Wichtig ist hinsichtlich perfekter Komplemente die Tatsache, dass der Konsument 
 
 #### Ungüter
 
-```ad-note
-title: Definition
-Güter, die der Konsument nicht mag, die er jedoch im Austausch für eine gewisse Menge eines anderen, beliebten Guts konsumiert.
-Die Indifferenzkurven, die diesen Fall abbilden, haben eine positive Steigung, da die Richtung zunehmender Präfernz nach rechts unten geht: Die Richtung, in der die Menge des Unguts sinkt, und die Menge des anderen Guts steigt.
-```
+> [!note] Definition
+> Güter, die der Konsument nicht mag, die er jedoch im Austausch für eine gewisse Menge eines anderen, beliebten Guts konsumiert.
+> Die Indifferenzkurven, die diesen Fall abbilden, haben eine positive Steigung, da die Richtung zunehmender Präfernz nach rechts unten geht: Die Richtung, in der die Menge des Unguts sinkt, und die Menge des anderen Guts steigt.
 
 #### Neutrale Güter
 
-```ad-note
-title: Definition
-Ein **neutrales Gut** liegt dann vor, wenn der Konsument das Gut weder mag noch ablehnt.
-In diesem Fall sind die Indifferenzkurven vertikale Geraden, da für den Konsumenten nur die Menge des Guts auf der waagerechten Achse eine Rolle spielt. Gegenüber der Menge des Guts auf der Vertikalen ist er indifferent.
-```
+> [!note] Definition
+> Ein **neutrales Gut** liegt dann vor, wenn der Konsument das Gut weder mag noch ablehnt.
+> In diesem Fall sind die Indifferenzkurven vertikale Geraden, da für den Konsumenten nur die Menge des Guts auf der waagerechten Achse eine Rolle spielt. Gegenüber der Menge des Guts auf der Vertikalen ist er indifferent.
 
 #### Sättigung
 
-```ad-note
-title: Definition
-Manchmal wollen wir eine Situation der Sättigung untersuchen, in der es ein insgesamt bestes Bündel für den Konsumenten gibt, und je „näher ${ }^\alpha$ er diesem besten Bündel kommt, umso besser ist er gemäß seinen eigenen Präferenzen gestellt. Nehmen wir zum Beispiel an, der Konsument hat ein bevorzugtes Güterbündel $\left(\bar{x}_1, \bar{x}_2\right)$ und je weiter er von diesem Bündel entfernt ist, umso schlechter ist er dran. In diesem Fall bezeichnen wir $\left(\bar{x}_1, \bar{x}_2\right)$ als einen **Sättigungs**- oder **Blisspunkt**. Die Indifferenzkurven werden dagestellt durch einen “besten” Punkt $(\bar x_{1}, \bar x_{2})$ und davon entfernte Punkte, welche auf “niedrigeren” Indifferenzkurven liegen.
-```
-
+> [!note] Definition
+> Manchmal wollen wir eine Situation der Sättigung untersuchen, in der es ein insgesamt bestes Bündel für den Konsumenten gibt, und je „näher ${ }^\alpha$ er diesem besten Bündel kommt, umso besser ist er gemäß seinen eigenen Präferenzen gestellt. Nehmen wir zum Beispiel an, der Konsument hat ein bevorzugtes Güterbündel $\left(\bar{x}_1, \bar{x}_2\right)$ und je weiter er von diesem Bündel entfernt ist, umso schlechter ist er dran. In diesem Fall bezeichnen wir $\left(\bar{x}_1, \bar{x}_2\right)$ als einen **Sättigungs**- oder **Blisspunkt**. Die Indifferenzkurven werden dagestellt durch einen “besten” Punkt $(\bar x_{1}, \bar x_{2})$ und davon entfernte Punkte, welche auf “niedrigeren” Indifferenzkurven liegen.

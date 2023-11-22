@@ -6,15 +6,12 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-Ein Wert $a \in \mathbb{R}$ heißt Häufungspunkt der Folge $\left(a_n\right)$, wenn für jedes (noch so kleine) $\epsilon>0$ unendlich viele Glieder der Folge
-$$
-\left|a_n-a\right|<\epsilon
-$$
-erfüllen.
-
-```
+> [!important] Definition
+> Ein Wert $a \in \mathbb{R}$ heißt Häufungspunkt der Folge $\left(a_n\right)$, wenn für jedes (noch so kleine) $\epsilon>0$ unendlich viele Glieder der Folge
+> $$
+> \left|a_n-a\right|<\epsilon
+> $$
+> erfüllen.
 
 - Die Betragsungleichung ist äquivalent zu
 $$

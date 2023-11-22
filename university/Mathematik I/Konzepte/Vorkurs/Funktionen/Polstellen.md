@@ -6,13 +6,11 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-Ein Wert $x_0 \in \mathbb{R}$ heißt Polstelle einer Funktion $f: D \rightarrow \mathbb{R}$, falls
-$$
-\lim _{x \uparrow x_0} f(x)= \pm \infty \text { oder } \lim _{x \downarrow x_0} f(x)= \pm \infty
-$$
-```
+> [!important] Definition
+> Ein Wert $x_0 \in \mathbb{R}$ heißt Polstelle einer Funktion $f: D \rightarrow \mathbb{R}$, falls
+> $$
+> \lim _{x \uparrow x_0} f(x)= \pm \infty \text { oder } \lim _{x \downarrow x_0} f(x)= \pm \infty
+> $$
 
 - An einer Polstelle wird die Funktion unendlich groß / klein
 - Polstellen treten bei rationalen Funktionen $f(x) = \frac{g(x)}{h(x)}$ an den Nullstellen der Nennerfunktion $h(x)$ auf

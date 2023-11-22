@@ -4,19 +4,14 @@ week: 2023-10-17
 flashcard: true
 ---
 ***
-
 #### Definition
 
-```ad-important
-title: Summenzeichen
-$$
-\text { Für } a, b \in \mathbb{Z} \text { mit } a \leq b \text { ist } \sum_{i=a}^b x_i \text { definiert als Summe der Zahlen } x_i \text { mit } i \in \mathbb{Z} \text { zwischen } a \text { und } b \text {. }
-$$
-```
-
+> [!important] Summenzeichen
+> $$
+> \text { Für } a, b \in \mathbb{Z} \text { mit } a \leq b \text { ist } \sum_{i=a}^b x_i \text { definiert als Summe der Zahlen } x_i \text { mit } i \in \mathbb{Z} \text { zwischen } a \text { und } b \text {. }
+> $$
 
 ![[Pasted image 20231031142410.png]]
-
 #### Beispiel
 
 $$
@@ -30,13 +25,11 @@ $$
 
 #### Leere Summen
 
-```ad-important
-title: Definition
-Wenn $a > b$ ist, dann nennen wir die Summe $\sum_{i=a}^b x_i$ *leere Summe* und wir definieren
-$$
-\sum_{i=a}^b x_i=0 \quad \text { für } a>b
-$$
-```
+> [!important] Definition
+> Wenn $a > b$ ist, dann nennen wir die Summe $\sum_{i=a}^b x_i$ *leere Summe* und wir definieren
+> $$
+> \sum_{i=a}^b x_i=0 \quad \text { für } a>b
+> $$
 
 #### Beispiel
 

@@ -6,13 +6,10 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-Definiere für $x \in X$ "Bessermenge" $A(x)=\{y \in X \mid y \succeq x\}$ und "Schlechtermenge" $D(x)=\{y \in X \mid x \succeq y\}$.
-
-$(\mathrm{NB}: I(x)=A(x) \cap D(x)$.
-
-```
+> [!important] Definition
+> Definiere für $x \in X$ "Bessermenge" $A(x)=\{y \in X \mid y \succeq x\}$ und "Schlechtermenge"
+> $D(x)=\{y \in X \mid x \succeq y\}$.
+> $(\mathrm{NB}: I(x)=A(x) \cap D(x)$.
 
 ![[Pasted image 20231108165101.png|center|400]]
 

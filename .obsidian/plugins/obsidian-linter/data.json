@@ -22,7 +22,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "tags:\nweek:\nflashcard: false"
+      "text-to-insert": "tags:\nweek:\nflashcard: false\npublish: true"
     },
     "move-tags-to-yaml": {
       "enabled": false,

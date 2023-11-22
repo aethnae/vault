@@ -6,14 +6,12 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-Die reellwertige Funktion $f: \mathbb{R} \rightarrow \mathbb{R}$ definiert durch
-$$
-x \mapsto \exp (x)=e^x
-$$
-wobei $e \approx 2.71828 \ldots$ die Eulersche Zahl ist, heißt (natürliche) Exponentialfunktion.
-```
+> [!important] Definition
+> Die reellwertige Funktion $f: \mathbb{R} \rightarrow \mathbb{R}$ definiert durch
+> $$
+> x \mapsto \exp (x)=e^x
+> $$
+> wobei $e \approx 2.71828 \ldots$ die Eulersche Zahl ist, heißt (natürliche) Exponentialfunktion.
 
 **Eigenschaften:**
 - $\exp (x)>0$

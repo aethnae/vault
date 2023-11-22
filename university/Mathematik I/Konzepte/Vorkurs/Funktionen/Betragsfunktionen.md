@@ -6,17 +6,15 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-Die reellwertige Funktion $f: \mathbb{R} \rightarrow \mathbb{R}$ definiert durch
-$$
-x \mapsto|x|=\left\{\begin{aligned}
--x & \text { falls } x<0 \\
-x & \text { falls } x \geq 0
-\end{aligned}\right.
-$$
-heißt Betragsfunktion.
-```
+> [!important] Definition
+> Die reellwertige Funktion $f: \mathbb{R} \rightarrow \mathbb{R}$ definiert durch
+> $$
+> x \mapsto|x|=\left\{\begin{aligned} 
+> -x & \text { falls } x<0 \\
+> x & \text { falls } x \geq 0
+> \end{aligned}\right.
+> $$
+> heißt Betragsfunktion.
 
 - Die Betragsfunktion ist eine zusammengesetze Funktion
 - Sie besteht aus zwei Teilen: Der Funktion $f_1(x)=-x$ für negative Eingabewerte und der Funktion $f_2(x)=x$ für nicht-negative Eingabewerte.

@@ -6,10 +6,8 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-§ 1 (2) HGB: „Handelsgewerbe ist jeder Gewerbebetrieb, es sei denn, dass das Unternehmen nach Art oder Umfang einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb nicht erfordert.“
-```
+> [!important] Definition
+> § 1 (2) HGB: „Handelsgewerbe ist jeder Gewerbebetrieb, es sei denn, dass das Unternehmen nach Art oder Umfang einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb nicht erfordert.“
 
 - Ein Kleingewerbe erfordert keinen kaufmännischen Geschäftsbetrieb und ist dementsprechend kein Handelsgewerbe
 - Selbsteinschätzung durch Gewerbetreibenden

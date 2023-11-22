@@ -6,16 +6,14 @@ flashcard: true
 ---
 ***
 
-```ad-note
-title: Quellen
-**Eigenkapitaländerungen** können aus zwei Quellem resultieren:
-
-**Erfolgsbedingte EK-Änderung:**
-Resultiert aus dem Saldo von Erträgen und Aufwendungen (Gewinn/Verlust = Jahresüberschuss/-fehlbetrag)
-
-**Gesellschaftlich bedingte EK-Änderung:**
-Resultiert aus Transaktionen mit den Eigenkapitalgebern (Einlagen und Entnahmen/Gewinnausschüttungen)
-```
+> [!note] Quellen
+>**Eigenkapitaländerungen** können aus zwei Quellen resultieren:
+>
+>**Erfolgsbedingte EK-Änderung:**
+>Resultiert aus dem Saldo von Erträgen und Aufwendungen (Gewinn/Verlust = Jahresüberschuss/-fehlbetrag)
+>
+>**Gesellschaftlich bedingte EK-Änderung:**
+>Resultiert aus Transaktionen mit den Eigenkapitalgebern (Einlagen und Entnahmen/Gewinnausschüttungen)
 
 ![[Pasted image 20231120171731.png|center|550]]
 

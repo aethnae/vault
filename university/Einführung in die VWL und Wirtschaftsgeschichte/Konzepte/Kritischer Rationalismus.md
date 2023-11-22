@@ -6,11 +6,9 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-Von **Karl Popper** begründete philosophische Weltanschauung, welche die Welt aus einem vorsichtig optimistischen, rationalen Blickwinkel betrachtet.
-Grundannahmen für diese Weltsicht sind einerseits eine Existenz der Welt abseits vom menschlichen Erkenntnisvermögen, andererseits die Annahme, dass "sicheres" Wissen unmöglich ist, und immer falsifizierbar bleibt.
-```
+> [!important] Definition
+> Von **Karl Popper** begründete philosophische Weltanschauung, welche die Welt aus einem vorsichtig optimistischen, rationalen Blickwinkel betrachtet.
+> Grundannahmen für diese Weltsicht sind einerseits eine Existenz der Welt abseits vom menschlichen Erkenntnisvermögen, andererseits die Annahme, dass "sicheres" Wissen unmöglich ist, und immer falsifizierbar bleibt.
 
 - Wissenschaftliche Erklärung folgt (meist) dem **"covering-law"-Modell**: ein explanandum wird gefolgert aus einem explanans, bestehend aus spezifischen Bedingungen und einem allgemeinen Gesetz
 - Popper: das allgemeine Gesetz muss wissenschaftlich sein

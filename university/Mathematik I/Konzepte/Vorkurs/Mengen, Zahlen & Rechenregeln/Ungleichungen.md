@@ -49,10 +49,8 @@ $$
 a<b \quad \Leftrightarrow \quad a \cdot c>b \cdot c
 $$
 
-```ad-caution
-title: Achtung
-Wichtig: Bei Multiplikation mit negativem Term dreht sich das Ungleichungszeichen um!
-```
+> [!caution] Achtung
+> Wichtig: Bei Multiplikation mit negativem Term dreht sich das Ungleichungszeichen um!
 
 - Mit Addition und Multiplikation von Konstanten können lineare Ungleichungen gelöst werden
 

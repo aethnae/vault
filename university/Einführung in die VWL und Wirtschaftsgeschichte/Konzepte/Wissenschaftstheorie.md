@@ -9,10 +9,8 @@ flashcard: true
 
 ##### Ontologie der VWL
 
-```ad-important
-title: Definition
-**Ontologie** (Lehre vom Seienden), fragt nach den Dingen, die es gibt, z.B. was ist der Mensch, damit verbundene Fragen für VWL
-```
+> [!important] Definition
+> **Ontologie** (Lehre vom Seienden), fragt nach den Dingen, die es gibt, z.B. was ist der Mensch, damit verbundene Fragen für VWL
 
 - Welches Problem treibt die (ökonomische) Welt an?
 	- Antworten aus VL 1: Umgang mit Knappheit, auch Wohlstand und dessen Verteilung
@@ -24,10 +22,8 @@ title: Definition
 
 ##### Epistemologie der VWL
 
-```ad-important
-title: Definition
-**Epistemologie** ist die Untersuchung von Wissen und begründeten Auffassungen. Zentrale Fragen: Was können wir wissen und wie kommen wir zu diesem Wissen?
-```
+> [!important] Definition
+> **Epistemologie** ist die Untersuchung von Wissen und begründeten Auffassungen. Zentrale Fragen: Was können wir wissen und wie kommen wir zu diesem Wissen?
 
 - Können wir die reale Welt sehen oder konstruieren wir diese Welt?
 	- **Kritischer Rationalismus**: Welt existiert unabhängig vom Betrachter
@@ -37,10 +33,8 @@ title: Definition
 
 ##### Methodologie der VWL
 
-```ad-important
-title: Definition
-**Methodologie** fragt, was als begründetes Wissen gelten kann.
-```
+> [!important] Definition
+>**Methodologie** fragt, was als begründetes Wissen gelten kann.
 
 - Welche Methoden gibt es? Und sind diese eher quantitativ oder qualitativ?
 	- Vor allem quantitativ, zentral: Modelle + empirische Analysen

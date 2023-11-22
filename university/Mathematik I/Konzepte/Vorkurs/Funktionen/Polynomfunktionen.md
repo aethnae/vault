@@ -6,22 +6,16 @@ flashcard: true
 ---
 ***
 
-```ad-info
-title: Definition
-Eine reellwertige Funktion $f: D \rightarrow \mathbb{R}$ der Form
-
-$$
-x \mapsto f(x)=a_n x^n+a_{n-1} x^{n-1}+\cdots+a_2 x^2+a_1 x+a_0
-$$
-
-mit $a_0, a_1, \ldots, a_n \in \mathbb{R}$ und $a_{n} \neq 0$ heißt **Polynomfunktion**.
-
-- Die Zahlen $a_i$ heißen Koeffizienten des Polynoms
-- Die Zahl $n$ (= höchste Potenz) heißt Grad des Polynoms
-- Ein Polynom vom Grad $n=1$ ist eine lineare Funktion
-- Ein Polynom vom Grad $n=2$ ist eine quadratische Funktion
-```
-
+> [!important] Definition
+> Eine reellwertige Funktion $f: D \rightarrow \mathbb{R}$ der Form
+> $$
+> x \mapsto f(x)=a_n x^n+a_{n-1} x^{n-1}+\cdots+a_2 x^2+a_1 x+a_0
+> $$
+> mit $a_0, a_1, \ldots, a_n \in \mathbb{R}$ und $a_{n} \neq 0$ heißt **Polynomfunktion**.
+> - Die Zahlen $a_i$ heißen Koeffizienten des Polynoms
+> - Die Zahl $n$ (= höchste Potenz) heißt Grad des Polynoms
+> - Ein Polynom vom Grad $n=1$ ist eine lineare Funktion
+> - Ein Polynom vom Grad $n=2$ ist eine quadratische Funktion
 
 #### Graphen von Polynomfunktionen
 - Polynome haben bis zu $n$ (= **Grad**) viele Schnittpunkte mit der $x$-Achse (= **Nullstellen**)
@@ -33,12 +27,10 @@ mit $a_0, a_1, \ldots, a_n \in \mathbb{R}$ und $a_{n} \neq 0$ heißt **Polynomfu
 
 #### Nullstellen von Polynomen
 
-```ad-important
-title: Definition
-Es gilt $f(x) \cdot g(x)=0$ gilt genau dann, wenn $f(x)=0$ oder $g(x)=0$
-$\rightarrow$
-Ausklammern von Faktoren (insbesondere $x$ ) hilft bei der Berechnung von Nullstellen.
-```
+> [!important] Definition
+> Es gilt $f(x) \cdot g(x)=0$ gilt genau dann, wenn $f(x)=0$ oder $g(x)=0$
+> $\rightarrow$
+> Ausklammern von Faktoren (insbesondere $x$ ) hilft bei der Berechnung von Nullstellen.
 
 **Beispiel:**
 

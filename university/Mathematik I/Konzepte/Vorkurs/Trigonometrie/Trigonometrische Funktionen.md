@@ -6,14 +6,11 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-Betrachte Sinus und Kosinus als reellwertige Funktionen
-$$
-\sin : \mathbb{R} \rightarrow \mathbb{R}, \alpha \mapsto \sin (\alpha) \quad \text { und } \quad \cos : \mathbb{R} \rightarrow \mathbb{R}, \alpha \mapsto \cos (\alpha)
-$$
-
-```
+> [!important] Definition
+> Betrachte Sinus und Kosinus als reellwertige Funktionen
+> $$
+> \sin : \mathbb{R} \rightarrow \mathbb{R}, \alpha \mapsto \sin (\alpha) \quad \text { und } \quad \cos : \mathbb{R} \rightarrow \mathbb{R}, \alpha \mapsto \cos (\alpha)
+> $$
 
 - Graphen der Sinus- und Kosinusfunktionen
 

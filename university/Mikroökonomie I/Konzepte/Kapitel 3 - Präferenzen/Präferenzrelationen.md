@@ -6,25 +6,16 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-Die **Präferenzrelation** $\succeq$ ist auf dem gesamten Güterraum $X=\mathbb{R}_{+}^n$ definiert.
-$\succeq$ vergleicht paarweise und drückt **schwaches Bevorzugen** aus: Konnis Präferenz $x \succeq y$ : "Konni mag $x$ mindestens so sehr wie $y$."
+> [!important] Definition
+> Die **Präferenzrelation** $\succeq$ ist auf dem gesamten Güterraum $X=\mathbb{R}_{+}^n$ definiert.
+> $\succeq$ vergleicht paarweise und drückt **schwaches Bevorzugen** aus: Konnis Präferenz $x \succeq y$ : "Konni mag $x$ mindestens so sehr wie $y$."
+> Äquivalente Interpretation: "Wenn Konni aus dem Paar $(x, y)$ auswählen soll, ist sie willens, $x$ zu wählen."
 
-Äquivalente Interpretation: "Wenn Konni aus dem Paar $(x, y)$ auswählen soll, ist sie willens, $x$ zu wählen."
+> [!important] Definition
+> $\succ: x \succ y$ genau dann wenn gilt, dass $x \succeq y$ und $y \nsucceq x$. Konni mag $x$ mehr als $y$.
 
-```
-
-```ad-important
-title: Definition
-$\succ: x \succ y$ genau dann wenn gilt, dass $x \succeq y$ und $y \nsucceq x$. Konni mag $x$ mehr als $y$.
-
-```
-
-```ad-important
-title: Definition
-$\sim: x \sim y$ genau dann wenn gilt, dass $x \succeq y$ und $y \succeq x$. Konni mag $x$ genauso sehr wie $y$.
-```
+> [!important] Definition
+> $\sim: x \sim y$ genau dann wenn gilt, dass $x \succeq y$ und $y \succeq x$. Konni mag $x$ genauso sehr wie $y$.
 
 ***
 #### Axiome über Präferenzen

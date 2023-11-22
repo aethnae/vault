@@ -6,13 +6,11 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-Eine Folge $\left(a_n\right)$ heißt bestimmt divergent mit dem Wert $\infty$ (bzw. $\left.-\infty\right)$, wenn für jedes $M \in \mathbb{R}$ ein $n_0 \in N$ existiert, sodass
-$$
-a_n \underset{(<)}{>} M \text { für alle } n \geq n_0
-$$
-```
+> [!important] Definition
+> Eine Folge $\left(a_n\right)$ heißt bestimmt divergent mit dem Wert $\infty$ (bzw. $\left.-\infty\right)$, wenn für jedes $M \in \mathbb{R}$ ein $n_0 \in N$ existiert, sodass
+> $$
+> a_n \underset{(<)}{>} M \text { für alle } n \geq n_0
+> $$
 
 - Wir schreiben
 $$

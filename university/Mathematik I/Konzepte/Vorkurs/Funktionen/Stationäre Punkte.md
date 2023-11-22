@@ -6,13 +6,11 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-Für eine differenzierbare Funktion $f$ heißt ein Punkt $\left(x_0, f\left(x_0\right)\right)$ stationärer Punkt, falls
-$$
-f^{\prime}\left(x_0\right)=0 .
-$$
-```
+> [!important] Definition
+> Für eine differenzierbare Funktion $f$ heißt ein Punkt $\left(x_0, f\left(x_0\right)\right)$ stationärer Punkt, falls
+> $$
+> f^{\prime}\left(x_0\right)=0
+> $$
 
 - Jedes lokale Extremum ist ein stationärer Punkt
 - Stationäre Punkte, die *kein* lokales Extremum sind, heißen [[Wendepunkte#Sattelpunkte|Sattelpunkte]]

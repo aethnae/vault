@@ -6,10 +6,8 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-Die Erträge werden an das **Mengengerüst der Periodenaufwendungen** angepasst. Die Gliederung der GuV erfolgt nach primären Aufwandsarten (Kostenarten).
-```
+> [!important] Definition
+> Die Erträge werden an das **Mengengerüst der Periodenaufwendungen** angepasst. Die Gliederung der GuV erfolgt nach primären Aufwandsarten (Kostenarten).
 
 - In § 275 HGB Abs. 2 geregelt
 - Das Gesamtkostenverfahren und das [[Umsatzkostenverfahren]] führen immer zum **selben Periodenergebnis**!

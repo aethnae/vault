@@ -6,11 +6,9 @@ flashcard: true
 ---
 ***
 
-```ad-info
-title: Definition
-Eine Funktion $f: D \rightarrow \mathbb{R}$ mit $D \subseteq \mathbb{R}$ heißt *reellwertige Funktion* (in einer Variablen).
-Wir nennen die Menge $D$ in diesem Fall auch *Definitionsbereich*.
-```
+> [!info] Definition
+> Eine Funktion $f: D \rightarrow \mathbb{R}$ mit $D \subseteq \mathbb{R}$ heißt *reellwertige Funktion* (in einer Variablen).
+> Wir nennen die Menge $D$ in diesem Fall auch *Definitionsbereich*.
 
 **Beispiele:**
 
@@ -29,14 +27,12 @@ $$
 
 #### Graphen reellwertiger Funktionen
 
-```ad-important
-title: Definition
-Gegeben eine reellwertige Funktion $f: D \rightarrow \mathbb{R}$ nennen wir die Punktmenge
-$$
-G_f=\{(x, y) \mid x \in D \text { und } y=f(x)\}
-$$
-den Graphen der Funktion $f$.
-```
+> [!important] Definition
+> Gegeben eine reellwertige Funktion $f: D \rightarrow \mathbb{R}$ nennen wir die Punktmenge
+> $$
+> G_f=\{(x, y) \mid x \in D \text { und } y=f(x)\}
+> $$
+> den Graphen der Funktion $f$.
 
 #### Beispiel
 

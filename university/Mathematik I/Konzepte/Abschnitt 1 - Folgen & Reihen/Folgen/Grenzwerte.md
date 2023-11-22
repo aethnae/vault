@@ -6,14 +6,12 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-Die Zahl $a \in \mathbb{R}$ heißt Grenzwert der Folge $\left(a_n\right)$, wenn es für jedes (noch so kleine) $\epsilon>0$ einen Index $n_0$ gibt, sodass
-$$
-\left|a_n-a\right|<\epsilon \quad \text { für } n \geq n_0
-$$
-gilt.
-```
+> [!important] Definition
+> Die Zahl $a \in \mathbb{R}$ heißt Grenzwert der Folge $\left(a_n\right)$, wenn es für jedes (noch so kleine) $\epsilon>0$ einen Index $n_0$ gibt, sodass
+> $$
+> \left|a_n-a\right|<\epsilon \quad \text { für } n \geq n_0
+> $$
+> gilt.
 
 - Der Grenzwert a heißt auch Limes der Folge $\left(a_n\right)$
 - Wenn der Grenzwert existiert schreiben wir
@@ -33,30 +31,25 @@ und sagen, die Folge ist konvergent
 
 Außerdem gilt folgender Satz
 
-```ad-note
-title: Konvergenz
-*Jede beschränkte und monotone Folge ist konvergent.*
-```
+> [!note] Konvergenz
+> *Jede beschränkte und monotone Folge ist konvergent.*
 
 ***
 ### Grenzwertrechenregeln
 *Für Grenzwertrechenregeln, siehe [[university/Mathematik I/Rechengesetze#Grenzwerte|Rechengesetze]].*
 
-```ad-note
-title: Wichtige Grenzwerte
-*Es gilt*
-$$
-\begin{aligned}
-& \lim _{n \rightarrow \infty} \frac{1}{n^p}=0 \quad \text { für } p>0 \\
-& \lim _{n \rightarrow \infty} \sqrt[n]{c}=1 \quad \text { für } c>0 \text {, } \\
-& \lim _{n \rightarrow \infty} \sqrt[n]{n}=1 \\
-& \lim _{n \rightarrow \infty}\left(1+\frac{x}{n}\right)^n=e^x \quad \text { für } x \in \mathbb{R} \\
-&
-\end{aligned}
-$$
-Speziell für $x=1$ folgt aus dem letzten Grenzwert
-$$
-\lim _{n \rightarrow \infty}\left(1+\frac{1}{n}\right)^n=e \approx 2,71828 \ldots
-$$
-```
-
+> [!note] Wichtige Grenzwerte
+> *Es gilt*
+> $$
+> \begin{aligned}
+> & \lim _{n \rightarrow \infty} \frac{1}{n^p}=0 \quad \text { für } p>0 \\
+> & \lim _{n \rightarrow \infty} \sqrt[n]{c}=1 \quad \text { für } c>0 \text {, } \\
+> & \lim _{n \rightarrow \infty} \sqrt[n]{n}=1 \\
+> & \lim _{n \rightarrow \infty}\left(1+\frac{x}{n}\right)^n=e^x \quad \text { für } x \in \mathbb{R} \\
+> &
+> \end{aligned}
+> $$
+> Speziell für $x=1$ folgt aus dem letzten Grenzwert
+> $$
+> \lim _{n \rightarrow \infty}\left(1+\frac{1}{n}\right)^n=e \approx 2,71828 \ldots
+> $$

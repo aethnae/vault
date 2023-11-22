@@ -6,15 +6,12 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-Die reellwertige Funktion $f:(0, \infty) \rightarrow \mathbb{R}$ definiert durch
-$$
-x \mapsto \ln (x)=\log _e(x)
-$$
-mit $a>0$,
-heißt natürliche Logarithmusfunktion.
-```
+> [!important] Definition
+> Die reellwertige Funktion $f:(0, \infty) \rightarrow \mathbb{R}$ definiert durch
+> $$
+> x \mapsto \ln (x)=\log _e(x)
+> $$
+> mit $a>0$ heißt natürliche Logarithmusfunktion.
 
 **Eigenschaften:**
 - $\ln (1)=0$

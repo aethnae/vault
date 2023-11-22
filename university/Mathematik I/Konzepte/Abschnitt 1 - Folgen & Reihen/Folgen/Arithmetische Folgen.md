@@ -6,15 +6,12 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-Eine Folge $\left(a_n\right)_{n \in \mathbb{N}}$ heißt arithmetische Folge, falls
-$$
-a_{n+1}-a_n=d
-$$
-für alle $n \in \mathbb{N}$ gilt.
-
-```
+> [!important] Definition
+> Eine Folge $\left(a_n\right)_{n \in \mathbb{N}}$ heißt arithmetische Folge, falls
+> $$
+> a_{n+1}-a_n=d
+> $$
+> für alle $n \in \mathbb{N}$ gilt.
 
 **Explizites Bildungsgesetz:**
 - $a_n=a_1+(n-1) \cdot d$ mit $n \in \mathbb{N}$ oder

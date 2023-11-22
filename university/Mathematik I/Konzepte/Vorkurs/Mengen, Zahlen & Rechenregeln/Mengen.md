@@ -6,10 +6,8 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-Eine Menge ist eine Zusammenfassung von unterscheidbaren Objekten zu einem Ganzen.
-```
+> [!important] Definition
+> Eine Menge ist eine Zusammenfassung von unterscheidbaren Objekten zu einem Ganzen.
 
 **Schreibweise:**
 - Notation mit *Mengenklammern* „{“ und „}“
@@ -33,10 +31,9 @@ $$
 - Mengen enthalten jedes unterscheidbare Objekt höchstens einmal
 - Mengen sind ungeordnet
 
-```ad-info
-Ist ein Element $x$ in der Menge $M$ enthalten, so schreiben wir $x \in M$.
-Anderfalls schreiben wir $x \notin M$
-```
+> [!info]
+> Ist ein Element $x$ in der Menge $M$ enthalten, so schreiben wir $x \in M$.
+> Anderfalls schreiben wir $x \notin M$
 
 - Beispiel:
 
@@ -47,10 +44,8 @@ $$
 
 ##### Mengen und Teilmengen
 
-```ad-important
-title: Definition
-Gilt für zwei Mengen $B,C$, dass alle Elemente von $C$ auch in $B$ enthalten sind, so heißt $C$ Teilmenge von $B$ (und wir schreiben $C ⊆ B$).
-```
+> [!important] Definition
+> Gilt für zwei Mengen $B,C$, dass alle Elemente von $C$ auch in $B$ enthalten sind, so heißt $C$ Teilmenge von $B$ (und wir schreiben $C ⊆ B$).
 
 **Mengenoperationen:**
 Es seien $A$ und $B$ zwei Mengen:

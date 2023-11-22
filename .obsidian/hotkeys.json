@@ -76,14 +76,6 @@
     }
   ],
   "markdown:add-metadata-property": [],
-  "obsidian-admonition:insert-admonition": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Q"
-    }
-  ],
   "workspace:export-pdf": [
     {
       "modifiers": [
@@ -106,6 +98,14 @@
         "Mod"
       ],
       "key": "O"
+    }
+  ],
+  "obsidian-admonition:insert-callout": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
     }
   ]
 }

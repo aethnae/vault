@@ -2014,3 +2014,9 @@ body.obsidian-high-contrast.theme-light .suggestion-hotkey {
 .math-inline mjx-math {
   padding: 0;
 }
+
+img[alt*="center"] {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

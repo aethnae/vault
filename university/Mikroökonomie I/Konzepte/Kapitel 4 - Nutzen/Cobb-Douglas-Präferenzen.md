@@ -6,17 +6,13 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-Eine häufig verwendete Funktion ist die **Cobb-Douglas-Nutzenfunktion**.
-Diese hat die Form
-
-$$
-u(x_{1}, x_{2}) = x_{1}^c x_{2}^d
-$$
-
-wobei $c$ und $d$ positive Zahlen sind, welche die Präferenzen der Konsumentin beschreiben.
-```
+> [!important] Definition
+> Eine häufig verwendete Funktion ist die **Cobb-Douglas-Nutzenfunktion**.
+> Diese hat die Form
+> $$
+> u(x_{1}, x_{2}) = x_{1}^c x_{2}^d
+> $$
+> wobei $c$ und $d$ positive Zahlen sind, welche die Präferenzen der Konsumentin beschreiben.
 
 - Indifferenzkurven dieser Form sehen genau so aus wie die gängigen [[Konvexität |konvexen]] Indifferenzkurven.
 

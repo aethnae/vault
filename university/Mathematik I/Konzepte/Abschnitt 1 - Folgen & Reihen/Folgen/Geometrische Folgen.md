@@ -6,15 +6,12 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-Eine Folge $\left(a_n\right)_{n \in \mathbb{N}}$ heißt geometrische Folge, falls
-$$
-\frac{a_{n+1}}{a_n}=q
-$$
-für alle $n \in \mathbb{N}$ gilt.
-
-```
+> [!important] Definition
+> Eine Folge $\left(a_n\right)_{n \in \mathbb{N}}$ heißt geometrische Folge, falls
+> $$
+> \frac{a_{n+1}}{a_n}=q
+> $$
+> für alle $n \in \mathbb{N}$ gilt.
 
 **Explizites Bildungsgesetz:**
 - $a_n=a_1 \cdot q^{n-1} \quad$ mit $n \in \mathbb{N}$ oder

@@ -6,10 +6,8 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-Die Aufwendungen werden an das **Mengengerüst der Periodenerträge** angepasst. Die Gliederung der GuV erfolgt nach sekundären Aufwandsarten (betrieblichen Funktionen).
-```
+> [!important] Definition
+> Die Aufwendungen werden an das **Mengengerüst der Periodenerträge** angepasst. Die Gliederung der GuV erfolgt nach sekundären Aufwandsarten (betrieblichen Funktionen).
 
 - In § 275 HGB Abs. 3 geregelt
 - Das [[Gesamtkostenverfahren]] und das Umsatzkostenverfahren führen immer zum **selben Periodenergebnis**!
