@@ -22,5 +22,6 @@
   "slides",
   "audio-recorder",
   "workspaces",
-  "file-recovery"
+  "file-recovery",
+  "publish"
 ]
