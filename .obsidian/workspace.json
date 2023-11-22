@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dfn/Mitteilungen/To-Dos.md",
+                "file": "dfn/Mitteilungen/Roadmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dfn/Mitteilungen/To-Dos.md",
+                "file": "dfn/Mitteilungen/Roadmap.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dfn/Mitteilungen/To-Dos.md"
+                "file": "dfn/Mitteilungen/Roadmap.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "dfn/Mitteilungen/To-Dos.md"
+                "file": "dfn/Mitteilungen/Roadmap.md"
               }
             }
           }
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dfn/Mitteilungen/To-Dos.md",
+                "file": "dfn/Mitteilungen/Roadmap.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dfn/Mitteilungen/To-Dos.md",
+                "file": "dfn/Mitteilungen/Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,9 +255,9 @@
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "workspaces:Manage workspace layouts": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
   "active": "d7e855dfcdcfcaab",
@@ -270,7 +270,7 @@
     "dfn/Wikipedia-Artikel/Roadmap.md",
     "dfn/Wikipedia-Artikel/Dummy Wikipedia-Artikel.md",
     "dfn/Wikipedia-Artikel/Deutsches Forschungsnetz.md",
-    "dfn/Mitteilungen/To-Dos.md",
+    "dfn/Mitteilungen/Roadmap.md",
     "dfn/Stundenzettel.md",
     "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Geschäftsmodelle.md",
     "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Buchen im Handelsbetrieb.md",
