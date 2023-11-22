@@ -15,9 +15,7 @@ flashcard: true
 > $$
 > s_n=\sum_{i=1}^n a_i=n a_1+\frac{(n-1) n}{2} d=\frac{n}{2}\left(a_1+a_n\right)
 > $$
-
-Wir nennen $\left(s_n\right)$ **arithmetische Reihe**
-
+> Wir nennen $\left(s_n\right)$ **arithmetische Reihe**
 
 - Für die [[Arithmetische Folgen|Folge]] $a_n=n, n \geq 1$ lautet die Reihe
 $$
