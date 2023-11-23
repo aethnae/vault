@@ -14,9 +14,9 @@ publish: true
 *Um Personen, die aus meinen Übersichten Karteikarten erstellen wollen, zu unterstützen, liste ich [[Neue Beiträge|hier]] immer die in der aktuellen Woche **neu** hinzugefügten Artikel auf.*
 ***
 #### Einführung in die VWL & Wirtschaftsgeschichte
-- [ ] Definitionen aus Vorlesung 3 (06.11.2023) hinzufügen
-- [ ] Definitionen aus Vorlesung 4 (13.11.2023) hinzufügen
-- [ ] Definitionen aus Vorlesung 5 (20.11.2023) hinzufügen
+~~- Definitionen aus Vorlesung 3 (06.11.2023) hinzufügen~~
+~~- Definitionen aus Vorlesung 4 (13.11.2023) hinzufügen~~
+~~- Definitionen aus Vorlesung 5 (20.11.2023) hinzufügen~~
 
 #### Mikroökonomie I
 - [ ] Definitionen aus Vorlesung 4 (08.11.2023) hinzufügen
@@ -46,3 +46,4 @@ publish: true
 - [ ] Definitionen aus Vorlesung 5 (16.11.2023) hinzufügen
 
 ***
+
