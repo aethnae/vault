@@ -37,6 +37,7 @@ publish: true
 - [ ] Definitionen aus Vorlesung 3 (02.11.2023) hinzufügen
 - [ ] Definitionen aus Vorlesung 4 (09.11.2023) hinzufügen
 - [ ] Definitionen aus Vorlesung 5 (16.11.2023) hinzufügen
+- [ ] Definitionen aus Vorlesung 6 (23.11.2023) hinzufügen
 
 #### Bürgerliches Recht
 - [ ] Definitionen aus Vorlesung 1 (19.10.2023) hinzufügen
@@ -44,6 +45,7 @@ publish: true
 - [ ] Definitionen aus Vorlesung 3 (02.11.2023) hinzufügen
 - [ ] Definitionen aus Vorlesung 4 (09.11.2023) hinzufügen
 - [ ] Definitionen aus Vorlesung 5 (16.11.2023) hinzufügen
+- [ ] Definitionen aus Vorlesung 6 (23.11.2023) hinzufügen
 
 ***
 

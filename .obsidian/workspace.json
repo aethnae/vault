@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f379553bb4f1db34",
+        "id": "77fdafb16292322a",
         "type": "tabs",
         "children": [
           {
-            "id": "ec5cc2040c18a104",
+            "id": "979b48d80c946eef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Knappheit & Arbeit/Grenzprodukt.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -32,7 +28,7 @@
       {
         "id": "ce17988e31e66ad3",
         "type": "tabs",
-        "dimension": 43.533568904593636,
+        "dimension": 55.855855855855864,
         "children": [
           {
             "id": "e041748da01c05af",
@@ -50,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grenzpro",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,30 +63,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f47073b76d10b071",
-        "type": "tabs",
-        "dimension": 24.452296819787986,
-        "children": [
-          {
-            "id": "9fc406a37397d6e2",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          }
         ]
       },
       {
         "id": "4cae0943d8942f29",
         "type": "tabs",
-        "dimension": 32.014134275618375,
+        "dimension": 44.144144144144136,
         "children": [
           {
             "id": "110820e6469f9f65",
@@ -98,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Knappheit & Arbeit/Grenzprodukt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +98,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6113273100834143,
+                  "scale": 1.2990150286159956,
                   "close": true
                 }
               }
@@ -158,6 +135,22 @@
             }
           },
           {
+            "id": "5767c389ed91eef4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "d66306a0e6d4bed9",
             "type": "leaf",
             "state": {
@@ -181,8 +174,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9fc406a37397d6e2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Knappheit & Arbeit/Grenzprodukt.md"
+                "sortOrder": "frequency"
               }
             }
           },
@@ -191,36 +192,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Knappheit & Arbeit/Grenzprodukt.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "5ee73d12479b64cb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5767c389ed91eef4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Knappheit & Arbeit/Grenzprodukt.md",
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
+        "currentTab": 2
       },
       {
         "id": "f337bac5fba544fc",
@@ -232,7 +208,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Knappheit & Arbeit/Grenzprodukt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,15 +237,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ec5cc2040c18a104",
+  "active": "e041748da01c05af",
   "lastOpenFiles": [
-    "university/Neue Beiträge.md",
     "university/Fehlende Beiträge.md",
+    "university/Neue Beiträge.md",
+    "university/Willkommen!.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Knappheit & Arbeit/Grenzprodukt.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution (MRS).md",
     "dfn/Mitteilungen/Roadmap.md",
     "dfn/Stundenzettel.md",
-    "university/Willkommen!.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Wissenschaftsphilosophie/Kausalität.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Wissenschaftsphilosophie/Kritischer Rationalismus.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Wissenschaftsphilosophie/Wissenschaftstheorie.md",
