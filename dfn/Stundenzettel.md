@@ -43,7 +43,7 @@ tags:
 | Montag     | -              | -             |
 | Dienstag   | -              | -             |
 | Mittwoch   | 3              | 09:00 - 12:00 |
-| Donnerstag |                |               |
+| Donnerstag | 4              | 09:00 - 13:00 | 
 | Freitag    |                |               |
 | Samstag    | -              | -             |
-| Sonntag    | -              | -             | 
+| Sonntag    | -              | -             |
