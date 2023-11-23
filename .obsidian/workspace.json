@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "523b1b915649baaa",
+        "id": "f379553bb4f1db34",
         "type": "tabs",
         "children": [
           {
-            "id": "d7e855dfcdcfcaab",
+            "id": "ec5cc2040c18a104",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dfn/Mitteilungen/Roadmap.md",
-                "mode": "preview",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Knappheit & Arbeit/Grenzprodukt.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "grenzpro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f47073b76d10b071",
@@ -97,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dfn/Mitteilungen/Roadmap.md",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Knappheit & Arbeit/Grenzprodukt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dfn/Mitteilungen/Roadmap.md"
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Knappheit & Arbeit/Grenzprodukt.md"
               }
             }
           },
@@ -191,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "dfn/Mitteilungen/Roadmap.md"
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Knappheit & Arbeit/Grenzprodukt.md"
               }
             }
           }
@@ -208,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dfn/Mitteilungen/Roadmap.md",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Knappheit & Arbeit/Grenzprodukt.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -231,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dfn/Mitteilungen/Roadmap.md",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Knappheit & Arbeit/Grenzprodukt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,12 +262,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d7e855dfcdcfcaab",
+  "active": "ec5cc2040c18a104",
   "lastOpenFiles": [
-    "dfn/Stundenzettel.md",
-    "university/Fehlende Beiträge.md",
-    "university/Willkommen!.md",
     "university/Neue Beiträge.md",
+    "university/Fehlende Beiträge.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Knappheit & Arbeit/Grenzprodukt.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution (MRS).md",
+    "dfn/Mitteilungen/Roadmap.md",
+    "dfn/Stundenzettel.md",
+    "university/Willkommen!.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Wissenschaftsphilosophie/Kausalität.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Wissenschaftsphilosophie/Kritischer Rationalismus.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Wissenschaftsphilosophie/Wissenschaftstheorie.md",
@@ -298,11 +302,8 @@
     "files/Pasted image 20231122222301.png",
     "files/Pasted image 20231122222225.png",
     "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Opportunitätskosten.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Knappheit & Arbeit/Grenzprodukt.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Knappheit & Arbeit/Durchschnittsprodukt.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution (MRS).md",
     "university/Untitled.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
     "publish.css",
     "theme.css",
     "publish 15.47.15.css",
