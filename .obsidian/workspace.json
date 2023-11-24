@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
+                "file": "misc/Taiwan '24/Reiseplan.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
+                "file": "misc/Taiwan '24/Reiseplan.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
+                "file": "misc/Taiwan '24/Reiseplan.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md"
+                "file": "misc/Taiwan '24/Reiseplan.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md"
+                "file": "misc/Taiwan '24/Reiseplan.md"
               }
             }
           }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
+                "file": "misc/Taiwan '24/Reiseplan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,8 +250,9 @@
   },
   "active": "979b48d80c946eef",
   "lastOpenFiles": [
-    "school/Erdkunde/Strukturwandel/Bruttoinlandsprodukt.md",
+    "misc/Design Ideas.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
+    "school/Erdkunde/Strukturwandel/Bruttoinlandsprodukt.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Cobb-Douglas-Präferenzen.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre",
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Grenznutzen.md",
@@ -281,7 +282,6 @@
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Spieltheorie/Wiederholte Spiele.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Spieltheorie/Gefangenendilemma.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Spieltheorie/Soziale Präferenzen.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Spieltheorie/Spiel.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Eigentum & Macht",
     "files/Pasted image 20231122224409.png",
     "files/Pasted image 20231122224225.png",
