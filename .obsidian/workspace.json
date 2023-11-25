@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md",
+                "file": "university/Fehlende Beiträge.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md",
+                "file": "university/Fehlende Beiträge.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md",
+                "file": "university/Fehlende Beiträge.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md"
+                "file": "university/Fehlende Beiträge.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md"
+                "file": "university/Fehlende Beiträge.md"
               }
             }
           }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md",
+                "file": "university/Fehlende Beiträge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,6 +251,8 @@
   },
   "active": "979b48d80c946eef",
   "lastOpenFiles": [
+    "misc/Taiwan '24/Reiseplan.md",
+    "university/Literaturverzeichnis",
     "misc/Design Ideas.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
     "school/Erdkunde/Strukturwandel/Bruttoinlandsprodukt.md",
@@ -281,7 +284,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Pareto-Effizienz.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Spieltheorie/Wiederholte Spiele.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Spieltheorie/Gefangenendilemma.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Spieltheorie/Soziale Präferenzen.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Eigentum & Macht",
     "files/Pasted image 20231122224409.png",
     "files/Pasted image 20231122224225.png",
@@ -295,7 +297,6 @@
     "publish.css",
     "theme.css",
     "publish 15.47.15.css",
-    "university/publish.css",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
