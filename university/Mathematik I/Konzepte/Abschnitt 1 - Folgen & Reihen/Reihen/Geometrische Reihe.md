@@ -18,7 +18,6 @@ flashcard: true
 
 Wir nennen $\left(s_n\right)$ **geometrische Reihe**
 
-
 - Für die [[Geometrische Folgen|Folge]] $a_n=q^n, n \geq 0$ lautet die Reihe
 $$
 s_n=\sum_{i=0}^n q^i=\frac{1-q^{n+1}}{1-q}
