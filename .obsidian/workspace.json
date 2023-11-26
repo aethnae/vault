@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "318501eecf17e21d",
+        "id": "f09d43d66f16db6d",
         "type": "tabs",
         "children": [
           {
-            "id": "6aa8ec12ec261738",
+            "id": "1eb6d741ba864c54",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -239,8 +239,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6a6354d041164900",
+  "active": "1eb6d741ba864c54",
   "lastOpenFiles": [
+    "dfn/Wikipedia-Artikel/Roadmap.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Grenzwerte von Reihen.md",
     "university/Mathematik I/Rechengesetze.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Konvergenzkriterien für Reihen.md",
@@ -269,7 +270,6 @@
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Knappheit & Arbeit/Grenzprodukt.md",
     "dfn/Mitteilungen/Roadmap.md",
     "dfn/Stundenzettel.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Wissenschaftsphilosophie/Kausalität.md",
     "files/Pasted image 20231122233149.png",
     "files/Pasted image 20231122233137.png",
     "files/Pasted image 20231122232451.png",
