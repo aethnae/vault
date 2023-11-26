@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ffbad438aa14d46d",
+        "id": "318501eecf17e21d",
         "type": "tabs",
         "children": [
           {
-            "id": "d6f4348f5ee23442",
+            "id": "6aa8ec12ec261738",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Grenzwerte von Reihen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57f24ac7443a5c3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/Rechengesetze.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -62,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:university [\"flashcard\":] false",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +63,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4cae0943d8942f29",
@@ -92,7 +77,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Grenzwerte von Reihen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Grenzwerte von Reihen.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -192,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Grenzwerte von Reihen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -212,9 +193,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Grenzwerte von Reihen.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -230,7 +209,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Grenzwerte von Reihen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,14 +239,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d6f4348f5ee23442",
+  "active": "6a6354d041164900",
   "lastOpenFiles": [
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Geometrische Reihe.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Grenzwerte von Reihen.md",
     "university/Mathematik I/Rechengesetze.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Reihen.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Konvergenzkriterien für Reihen.md",
-    "university/Fehlende Beiträge.md",
     "misc/Taiwan '24/Reiseplan.md",
+    "misc/Taiwan '24/Übersicht.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Häufungspunkte.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Monotonie von Folgen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Grenzwerte.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Geometrische Reihe.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Reihen.md",
+    "university/Fehlende Beiträge.md",
     "university/Literaturverzeichnis",
     "misc/Design Ideas.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
@@ -287,11 +270,6 @@
     "dfn/Mitteilungen/Roadmap.md",
     "dfn/Stundenzettel.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Wissenschaftsphilosophie/Kausalität.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Wissenschaftsphilosophie/Kritischer Rationalismus.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Wissenschaftsphilosophie/Wissenschaftstheorie.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Eigentum & Macht/Allokationen.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Eigentum & Macht/Pareto-Effizienz-Kurve.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Eigentum & Macht/Fairness.md",
     "files/Pasted image 20231122233149.png",
     "files/Pasted image 20231122233137.png",
     "files/Pasted image 20231122232451.png",

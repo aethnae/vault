@@ -1,5 +1,4 @@
 ***
-
 #### Grundlegende Rechengesetze
 ***
 
@@ -21,7 +20,6 @@ $$
 (a + b) \cdot c = a \cdot c + b \cdot c \quad \quad a \cdot (b + c) = a \cdot b + a \cdot c
 $$
 ***
-
 
 #### Binomische Formeln
 *Spezialfall der Distributivgesetze*
@@ -45,7 +43,6 @@ $$
 (a + b) \cdot (a - b) = a^2 - b^2
 $$
 ***
-
 
 #### Potenzgesetze
 ***
@@ -75,7 +72,6 @@ $$
 
 ***
 
-
 #### Wurzelgesetze
 ***
 **1. Wurzelgesetz:**
@@ -97,7 +93,6 @@ $$
 $$
 
 ***
-
 
 #### Logarithmen
 *siehe [[Logarithmen]]*
@@ -139,7 +134,6 @@ $e^{\ln(b)} = b$
 $\ln(e^c) = c$
 
 ***
-
 
 #### Ableitungen
 ***
@@ -188,7 +182,6 @@ Die Quotientenregel folgt direkt aus Produkt- und Kettenregel, denn
 | $f(x) = e^x$        | $f'(x) = e^x$|   
 | $f(x) = \ln(x)$     | $f'(x) = \frac{1}{x}$|    
 ***
-
 
 #### Grenzwerte
 ***
