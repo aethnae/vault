@@ -11,9 +11,9 @@ week: 2023-11-20
 **a)**
 *Das Kerzenlager der EcoNest OHG ist Anfang des Jahres komplett leer. Sie bestellt deshalb 600 Kerzen bei ihrem Zulieferer für insgesamt 15.000 €. Die Lieferung erfolgt fünf Tage später und wird per Direktüberweisung bezahlt.*
 
-| Von | Wert    | -   | an   | Wert    |
-| --- | ------- | --- | ---- | ------- |
-| RHB | 15.000€ | an  | Bank | 15.000€ |
+| Von          | Wert    | -   | an   | Wert    |
+| ------------ | ------- | --- | ---- | ------- |
+| Wareneinkauf | 15.000€ | an  | Bank | 15.000€ |
 
 **b)**
 *Die EcoNest OHG möchte ihren Onlineshop bekannter machen und beauftragt deshalb eine Werbeagentur mit der Erstellung von Marketingmaterial. Die Rechnung für die erstellten Materialien beträgt 3.500 € und wurde bisher noch nicht bezahlt.*
@@ -32,7 +32,7 @@ Falls die Kerzen ausgeliefert wurden:
 | ----------------- | ------ | --- | ------------ | ------ |
 | Forderung aus LuL | 1.000€ | an  | Umsatzerlöse | 1.000€ | 
 
-**b)**
+**d)**
 *Eine Woche später bezahlt der Kunde seine Rechnung per Überweisung.*
 
 | Von  | Wert   | -   | an                  | Wert   |

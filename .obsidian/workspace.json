@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f09d43d66f16db6d",
+        "id": "77fdafb16292322a",
         "type": "tabs",
         "children": [
           {
-            "id": "1eb6d741ba864c54",
+            "id": "1c71f719bf639dfa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -46,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:university [\"flashcard\":] false",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4cae0943d8942f29",
@@ -77,6 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -99,7 +103,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.3991724618227595,
+                  "scale": 1.2990150286159956,
                   "close": true
                 }
               }
@@ -141,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md"
+              }
             }
           },
           {
@@ -193,7 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md"
+              }
             }
           }
         ],
@@ -209,6 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,8 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,7 +248,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1eb6d741ba864c54",
+  "active": "1c71f719bf639dfa",
   "lastOpenFiles": [
     "dfn/Wikipedia-Artikel/Roadmap.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Grenzwerte von Reihen.md",
