@@ -30,7 +30,7 @@ Falls die Kerzen ausgeliefert wurden:
 
 | Von               | Wert   | -   | an           | Wert   |
 | ----------------- | ------ | --- | ------------ | ------ |
-| Forderung aus LuL | 1.000€ | an  | Umsatzerlöse | 1.000€ | 
+| Forderung aus LuL | 1.000€ | an  | Warenverkauf | 1.000€ | 
 
 **d)**
 *Eine Woche später bezahlt der Kunde seine Rechnung per Überweisung.*
@@ -42,9 +42,22 @@ Falls die Kerzen ausgeliefert wurden:
 **e)**
 *Am 31.01. sind im Lager der EcoNest OHG noch 580 Kerzen.*
 
-Keine Buchung
+$\rightarrow$ Überprüfung, ob Lagerbestand mit Verkäufen zusammenpasst.
 
 **Monatsabschluss:**
+
+| Von | Wert  | -   | an               | Wert  |
+| --- | ----- | --- | ---------------- | ----- |
+| GuV | 500€  | an  | WEK              | 500€  |
+| GuV | 3500€ | an  | Vertriebsaufwand | 3500€ |
+| WVK | 1000€ | an  | GuV              | 1000€ | 
+
+$1000€ - 4000€ = -3000€$
+
+| Von | Wert   | -   | an  | Wert   |
+| --- | ------ | --- | --- | ------ |
+| SBK | 3000€  | an  | GuV | 3000€  |
+| SBK | 14500€ | an  | WEK | 14500€ |
 
 **1.2**
 *Berechnen Sie den Warenrohgewinn/-verlust der EcoNest OGH aus dem Kerzenhandel. Wie würde ein Preisnachlass des Lieferanten/für den Kunden diese Größe beeinflussen?*
@@ -53,10 +66,10 @@ $$
 \text{ Rohertrag } = \text{ Umsatzerlöse } - \text{ Wareneinsatz }
 $$
 $$
-\text{ Rohertrag } = 1.000 - 1.500 
+\text{ Rohertrag } = 1.000 - 500 
 $$
 $$
-\text{ Rohverlust } = 500 \texteuro
+\text{ Rohgewinn } = 500 \texteuro
 $$
 ***
 ##### Aufgabe 2
