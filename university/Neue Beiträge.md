@@ -12,25 +12,7 @@ publish: true
 ***
 #### Einführung in die VWL & Wirtschaftsgeschichte
 
-**Vorlesung 3 | 06.11.2023:**
-- [[Durchschnittsprodukt]]
-- [[Grenzprodukt]]
-- [[Grenzrate der Transformation]]
-- [[Produktionsfunktion]]
-- [[Einkommens- und Substitutionseffekte]]
 
-**Vorlesung 4 | 13.11.2023:**
-- [[Spiel]]
-- [[Soziale Präferenzen]]
-- [[Gefangenendilemma]]
-- [[Wiederholte Spiele]]
-- [[Nash-Gleichgewicht]]
-
-**Vorlesung 5 | 20.11.2023:**
-- [[Fairness]]
-- [[Allokationen]]
-- [[Pareto-Effizienz-Kurve]]
-- [[Kausalität]]
 #### Mikroökonomie I
 
 

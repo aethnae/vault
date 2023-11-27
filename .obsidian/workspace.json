@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "77fdafb16292322a",
+        "id": "0c4b22827f8e0367",
         "type": "tabs",
         "children": [
           {
-            "id": "1c71f719bf639dfa",
+            "id": "adb14de49c5cb4e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md",
+                "file": "university/Neue Beiträge.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md",
+                "file": "university/Neue Beiträge.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -103,7 +103,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.2990150286159956,
+                  "scale": 1.230652224395631,
                   "close": true
                 }
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md",
+                "file": "university/Neue Beiträge.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md"
+                "file": "university/Neue Beiträge.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md"
+                "file": "university/Neue Beiträge.md"
               }
             }
           }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md",
+                "file": "university/Neue Beiträge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,8 +248,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1c71f719bf639dfa",
+  "active": "adb14de49c5cb4e6",
   "lastOpenFiles": [
+    "university/Fehlende Beiträge.md",
+    "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Budgetgerade.md",
     "dfn/Wikipedia-Artikel/Roadmap.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Grenzwerte von Reihen.md",
     "university/Mathematik I/Rechengesetze.md",
@@ -261,7 +264,6 @@
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Grenzwerte.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Geometrische Reihe.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Reihen.md",
-    "university/Fehlende Beiträge.md",
     "university/Literaturverzeichnis",
     "misc/Design Ideas.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
@@ -277,8 +279,6 @@
     "university/Neue Beiträge.md",
     "university/Willkommen!.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Knappheit & Arbeit/Grenzprodukt.md",
-    "dfn/Mitteilungen/Roadmap.md",
-    "dfn/Stundenzettel.md",
     "files/Pasted image 20231122233149.png",
     "files/Pasted image 20231122233137.png",
     "files/Pasted image 20231122232451.png",
