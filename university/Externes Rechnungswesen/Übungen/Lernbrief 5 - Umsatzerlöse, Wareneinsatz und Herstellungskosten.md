@@ -77,7 +77,9 @@ $$
 
 Im Geschäftsjahr 02 werden folgende Verkäufe getätigt:
 1. Am 01.02.02 verkauft die GmbH 2.500 Fußbälle an einen Großhändler zu einem Preis von 69 € je Stück.
-2. Am 03.08.02 werden weitere 25.000 Fußbälle an einen internationalen Online-Handel für 56 € je Stück. Die Inventur zum Abschlussstichtag ergibt einen Endbestand an Fußbällen von 7.000 Stück.
+2. Am 03.08.02 werden weitere 25.000 Fußbälle an einen internationalen Online-Handel für 56 € je Stück.
+
+Die Inventur zum Abschlussstichtag ergibt einen Endbestand an Fußbällen von 7.000 Stück.
 
 **a)**
 *Gehen Sie davon aus, dass die Green Football GmbH ihre Gewinn- und Verlustrechnung nach dem **Gesamtkostenverfahren** aufstellt. Ermitteln Sie anhand der Gewinn- und Verlustrechnung das Jahresergebnis der GreenFootball GmbH. Geben Sie dafür auch die Buchungssätze an, die unterjährig anfallen und die für den Abschluss der Erfolgskonten notwendig sind.*
@@ -89,3 +91,64 @@ Im Geschäftsjahr 02 werden folgende Verkäufe getätigt:
 | Bank            | 172.500€   | an  | Umsatzerlöse        | 172.500€   |
 | Bank            | 1.400.000€ | an  | Umsatzerlöse        | 1.400.000€ |
 
+**Jahresabschluss:**
+
+| Von                 | Wert     | -   | an                  | Wert     |
+| ------------------- | -------- | --- | ------------------- | -------- |
+| Fertige Erzeugnisse | 225.000€ | an  | BV                  | 225.000€ |
+| s.b.A.              | 15.000€  | an  | Fertige Erzeugnisse | 15.000€  |
+
+**Gewinn- und Verlustrechnung:**
+
+| Von          | Wert       | -   | an              | Wert       |
+| ------------ | ---------- | --- | --------------- | ---------- |
+| Guv          | 350.000€   | an  | Materialaufwand | 350.000€   |
+| GuV          | 700.000€   | an  | Personalaufwand | 700.000€   |
+| GuV          | 15.000€    | an  | s.b.A.          | 15.000€    |
+| Umsatzerlöse | 172.500€   | an  | GuV             | 172.500€   |
+| Umsatzerlöse | 1.400.000€ | an  | GuV             | 1.400.000€ |
+| BV           | 225.000€   | an  | GuV             | 225.000€   |
+
+$\text{ Rohertrag } = \text{ Umsatzerlöse } - \text{ Wareneinsatz }$
+
+$\text{ Rohertrag } = 1.797.500 \texteuro - 1.065.000 \texteuro = 732.500 \texteuro$
+
+| Von | Wert     | -   | an  | Wert     |
+| --- | -------- | --- | --- | -------- |
+| GuV | 732.500€ | an  | SBK | 732.500€ | 
+
+**b)**
+*Ermitteln Sie anhand der Gewinn- und Verlustrechnung das Jahresergebnis aus der Herstellung und dem Verkauf der Fußbälle der Green Football GmbH nach dem **Umsatzkostenverfahren**. Bitte geben Sie die Buchungssätze an, die notwendig sind, um die Unterschiede zwischen dem Gesamt- und dem Umsatzkostenverfahren aufzuzeigen.*
+
+| Von                 | Wert       | -   | an                  | Wert       |
+| ------------------- | ---------- | --- | ------------------- | ---------- |
+| Materialaufwand     | 350.000€   | an  | RHB                 | 350.000€   |
+| Personalaufwand     | 700.000€   | an  | Div. Aktiva         | 700.000€   |
+| Fertige Erzeugnisse | 350.000€   | an  | Materialaufwand     | 350.000€   |
+| Fertige Erzeugnisse | 700.000€   | an  | Personalaufwand     | 700.000€   |
+| Div. Aktiva         | 172.500€   | an  | Umsatzerlöse        | 172.500€   |
+| Herstellungskosten  | 75.000€    | an  | Fertige Erzeugnisse | 75.000€    |
+| Div. Aktiva         | 1.400.000€ | an  | Umsatzerlöse        | 1.400.000€ |
+| Herstellungskosten  | 750.000€   | an  | Fertige Erzeugnisse | 750.000€   |
+| s.b.A.              | 15.000€    | an  | Fertige Erzeugnisse | 15.000€    |
+
+**Gewinn- und Verlustrechnung:**
+
+| Von          | Wert       | -   | an                      | Wert       |
+| ------------ | ---------- | --- | ----------------------- | ---------- |
+| GuV          | 825.000€   | an  | Herstellungskosten d.U. | 825.000€   |
+| GuV          | 15.000€    | an  | s.b.A.                  | 15.000€    |
+| Umsatzerlöse | 1.572.500€ | an  | GuV                     | 1.572.500€ | 
+
+$\text{ Rohertrag } = 1.572.500 \texteuro - 840.000 \texteuro = 732.500 \texteuro$
+
+| Von | Wert     | -   | an  | Wert     |
+| --- | -------- | --- | --- | -------- |
+| GuV | 732.500€ | an  | SBK | 732.500€ | 
+
+**c)**
+*Ihr Chef bedankt sich für Ihre Erklärungen. Als er Ihr Büro schon fast verlassen hat, dreht er sich noch einmal um: „Eine Frage habe ich doch noch. Wie Sie wissen, wollen wir im nächsten Jahr mit der Produktion von nachhaltigen Trikots beginnen und uns etwas internationaler aufstellen. Ist das für unsere Entscheidung, ob wir das GKV oder UKV verwenden, irgendwie relevant?“*
+
+- UKV bedingt Skontrationsmethode, daher für kleine Unternehmen ohne viel Lagerpersonal meist unpraktisch
+- International ist UKV verbreiteter
+- 
