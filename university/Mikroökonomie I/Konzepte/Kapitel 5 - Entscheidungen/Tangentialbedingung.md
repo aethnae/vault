@@ -32,3 +32,11 @@ Das nennt man die Tangentialbedingung. (TB)
 - Angenommen, $u$ ist tatsächlich differenzierbar, wann existiert eine innere Lösung?
 
 $\rightarrow$ z.B. wenn $\displaystyle \lim _{x_1 \rightarrow 0} M R S_1(x)=\infty$ und $\displaystyle \lim _{x_1 \rightarrow \infty} M R S_1(x)=0$.
+
+***
+#### Ausnahmefälle
+
+- Indifferenzkurven, welche bei der optimalen Entscheidung einen Knick haben, und somit keine Tangente besitzen.
+- **Randoptima**, also Fälle, in denen die Steigung der Indifferenzkurve sowie der Budgetgerade unterschiedlich sind, diese sich jedoch nicht schneiden. Dies ist in Situationen, in denen nur eins der beiden Güter konsumiert wird, der Fall.
+- Sättigung (Verletzung von [[Monotonie]], einer Standard-Annahme): Optimum kann im Inneren der Budgetmenge liegen...
+- Konkave Indifferenzkurven (Verletzung von [[Konvexität]], einer Standard-Annahme): TB liefert nicht unbedingt ein Maximum...

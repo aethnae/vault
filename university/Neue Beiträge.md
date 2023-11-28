@@ -15,7 +15,10 @@ publish: true
 
 #### Mikroökonomie I
 
-
+##### Kapitel 5 - Entscheidungen (08.11.2023)
+- [[Tangentialbedingung]]
+- [[Optimale Entscheidung]]
+- [[Nachfragefunktion]]
 #### Mathematik I
 
 ##### Finanzmathematik (21.11.2023)

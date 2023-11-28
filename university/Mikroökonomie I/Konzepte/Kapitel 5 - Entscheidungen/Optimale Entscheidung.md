@@ -20,7 +20,7 @@ $$
 \text { s.t. } & x \in B
 \end{array}
 $$
-- Oftmals wird die **optimale Entscheidung** durch das Güterbündel $(x_{1}^{*}, x_{2}^{*})$ dargestellt.
+- Oftmals wird die **optimale Entscheidung** durch das Güterbündel $(x_{1}^{*}, x_{2}^{*})$ dargestellt. Dieses wird auch **nachgefragtes Bündel** genannt.
 
 ![[Pasted image 20231128181904.png|center|400]]
 

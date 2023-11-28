@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f4a35aafa2cf4c3",
+            "id": "147d5a74f9ba9449",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Tangentialbedingung.md",
+                "file": "university/Fehlende Beiträge.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,30 +80,30 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Tangentialbedingung.md",
+                "file": "university/Fehlende Beiträge.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
+                  "localInterlinks": true,
+                  "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
+                  "collapse-display": true,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
+                  "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.3620065230794831,
+                  "scale": 0.7643370088219943,
                   "close": true
                 }
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Tangentialbedingung.md",
+                "file": "university/Fehlende Beiträge.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Tangentialbedingung.md"
+                "file": "university/Fehlende Beiträge.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Tangentialbedingung.md"
+                "file": "university/Fehlende Beiträge.md"
               }
             }
           }
@@ -218,9 +218,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Tangentialbedingung.md",
+                "file": "university/Fehlende Beiträge.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -228,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,17 +249,26 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "9f4a35aafa2cf4c3",
+  "active": "147d5a74f9ba9449",
   "lastOpenFiles": [
-    "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Optimale Entscheidung.md",
+    "university/Neue Beiträge.md",
+    "university/Fehlende Beiträge.md",
+    "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Umsatzkostenverfahren.md",
+    "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Geschäftsmodelle.md",
+    "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Buchen im Handelsbetrieb.md",
+    "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Gesamtkostenverfahren.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Tangentialbedingung.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Nachfragefunktion.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Optimale Entscheidung.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Summenzeichen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Budgetbeschränkung.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
     "files/Pasted image 20231128181904.png",
     "university/Mathematik I/LaTeX Snippets.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Quasilineare Präferenzen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Cobb-Douglas-Präferenzen.md",
     "university/Mikroökonomie I/Übungen/Übungsblatt 4.md",
     "university/Mikroökonomie I/Übungen/Übungsblatt 1.md",
-    "university/Neue Beiträge.md",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Tangenten.md",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md",
@@ -270,23 +280,14 @@
     "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Barwert.md",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale",
     "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Zwischenwertsatz.md",
-    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Stetigkeit.md",
-    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Satz von Maximum und Minimum.md",
     "files/Pasted image 20231128171132.png",
-    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Links- und rechtsseitige Grenzwerte.md",
     "files/Pasted image 20231128170554.png",
     "files/Pasted image 20231128165643.png",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Reellwertige Funktionen.md",
     "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen",
-    "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Stetiger Verzinsung.md",
-    "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Parameter.md",
-    "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Tilgung von Schulden.md",
-    "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Endkapital unter Zinseszins.md",
     "files/Pasted image 20231128162757.png",
     "files/Pasted image 20231128161351.png",
     "files/Pasted image 20231128161040.png",
     "files/Pasted image 20231128160519.png",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Geometrische Folgen.md",
     "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen",
     "university/Literaturverzeichnis",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre",

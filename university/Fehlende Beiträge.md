@@ -17,15 +17,12 @@ publish: true
  - [ ] Definitionen aus Vorlesung 6 (27.11.2023) hinzufügen
 
 #### Mikroökonomie I
-- [ ] Definitionen aus Vorlesung 4 (08.11.2023) hinzufügen
 - [ ] Definitionen aus Vorlesung 5 (15.11.2023) hinzufügen
 - [ ] Definitionen aus Vorlesung 6 (22.11.2023) hinzufügen
 
 #### Mathematik I
-- [ ] Definitionen aus Vorlesung 3 (21.11.2023) hinzufügen
-- [ ] Definitionen aus Vorlesung 4 (24.11.2023) hinzufügen
+
 #### Externes Rechnungswesen
-- [ ] Definitionen aus Vorlesung 5 (20.11.2023) hinzufügen
 - [ ] Definitionen aus Vorlesung 6 (27.112023) hinzufügen
 - [ ] Übersichtsartikel GuV hinzufügen
 - [ ] Definition "Schlussbilanzkonto" hinzufügen

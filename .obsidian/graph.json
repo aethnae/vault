@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:university  ",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.32430447098261184,
-  "close": true
+  "scale": 0.7014770132901099,
+  "close": false
 }
