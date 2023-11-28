@@ -18,7 +18,24 @@ publish: true
 
 #### Mathematik I
 
+##### Finanzmathematik (21.11.2023)
+- [[Parameter]]
+- [[Endkapital unter Zinseszins]]
+- [[Barwert]]
+- [[Bausparkonto mit nachschüssiger Verzinsung]]
+- [[Nachschüssige Rente]]
+- [[Tilgung von Schulden]]
+##### Funktionen mit einer Variablen (24.11.2023)
+- [[Stetigkeit]]
+- [[Links- und rechtsseitige Grenzwerte]]
+- [[Satz von Maximum und Minimum]]
+- [[Zwischenwertsatz]]
 
+##### Ableitungen & Differentiale (28.11.2023)
+- [[Differenzierbarkeit]]
+- [[Links- und rechtsseitige Ableitungen]]
+- [[Tangenten]]
+- [[Differential]]
 #### Externes Rechnungswesen
 
 
