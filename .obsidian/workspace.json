@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "523b1b915649baaa",
+        "id": "77fdafb16292322a",
         "type": "tabs",
         "children": [
           {
-            "id": "d7e855dfcdcfcaab",
+            "id": "979b48d80c946eef",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -28,7 +28,7 @@
       {
         "id": "ce17988e31e66ad3",
         "type": "tabs",
-        "dimension": 43.533568904593636,
+        "dimension": 55.855855855855864,
         "children": [
           {
             "id": "e041748da01c05af",
@@ -66,26 +66,9 @@
         ]
       },
       {
-        "id": "f47073b76d10b071",
-        "type": "tabs",
-        "dimension": 24.452296819787986,
-        "children": [
-          {
-            "id": "9fc406a37397d6e2",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "4cae0943d8942f29",
         "type": "tabs",
-        "dimension": 32.014134275618375,
+        "dimension": 44.144144144144136,
         "children": [
           {
             "id": "110820e6469f9f65",
@@ -115,7 +98,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6113273100834143,
+                  "scale": 1.2990150286159956,
                   "close": true
                 }
               }
@@ -152,6 +135,22 @@
             }
           },
           {
+            "id": "5767c389ed91eef4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "d66306a0e6d4bed9",
             "type": "leaf",
             "state": {
@@ -179,6 +178,16 @@
             }
           },
           {
+            "id": "9fc406a37397d6e2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
             "id": "59bbeda10939caeb",
             "type": "leaf",
             "state": {
@@ -186,29 +195,8 @@
               "state": {}
             }
           }
-        ]
-      },
-      {
-        "id": "5ee73d12479b64cb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5767c389ed91eef4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "f337bac5fba544fc",
@@ -249,7 +237,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d7e855dfcdcfcaab",
+  "active": "979b48d80c946eef",
   "lastOpenFiles": [
     "sfdgsdfg.md",
     "university/Mikroökonomie I/Übungen/Übungsblatt 4.md",
