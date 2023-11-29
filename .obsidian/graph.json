@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:university  ",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -25,7 +25,14 @@
       "query": "path:school  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 14048460
+      }
+    },
+    {
+      "query": "path:misc  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084296
       }
     }
   ],
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7014770132901099,
-  "close": false
+  "scale": 0.3016196956556044,
+  "close": true
 }

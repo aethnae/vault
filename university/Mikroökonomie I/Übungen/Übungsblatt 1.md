@@ -1,3 +1,8 @@
+---
+tags:
+  - übung
+week: 2023-10-18
+---
 ***
 
 ##### Aufgabe 1 | Angebots- & Nachfragekurve

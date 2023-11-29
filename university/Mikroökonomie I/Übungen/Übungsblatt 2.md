@@ -1,3 +1,9 @@
+---
+tags:
+  - übung
+  - budgets
+week: 2023-10-25
+---
 ***
 
 ##### Aufgabe 1 | Budgetmenge und Budgetgerade

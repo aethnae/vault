@@ -1,3 +1,8 @@
+---
+tags:
+  - übung
+week: 2023-11-08
+---
 ***
 
 #### Aufgabe 2 | Cobb-Douglas-Präferenzen

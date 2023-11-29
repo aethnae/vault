@@ -186,8 +186,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5ee73d12479b64cb",
@@ -250,8 +249,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e041748da01c05af",
+  "active": "ba8653a4649b74c5",
   "lastOpenFiles": [
+    "university/Mikroökonomie I/Übungen/Übungsblatt 4.md",
+    "university/Mikroökonomie I/Übungen/Übungsblatt 3.md",
+    "university/Mikroökonomie I/Übungen/Übungsblatt 2.md",
+    "university/Mikroökonomie I/Übungen/Übungsblatt 1.md",
+    "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
+    "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md",
+    "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
+    "university/Externes Rechnungswesen/Übungen/Lernbrief 3 - Buchen auf Bestandskonten.md",
+    "university/Externes Rechnungswesen/Übungen/Lernbrief 2  - Unternehmensgründung, Buchführung und Bilanzen.md",
+    "university/Externes Rechnungswesen/Übungen/Lernbrief 1 - Warum Rechnungswesen?.md",
+    "misc/Taiwan '24/Übersicht.md",
     "university/Fehlende Beiträge.md",
     "university/Neue Beiträge.md",
     "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Umsatzkostenverfahren.md",
@@ -268,19 +278,8 @@
     "university/Mathematik I/LaTeX Snippets.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Quasilineare Präferenzen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Cobb-Douglas-Präferenzen.md",
-    "university/Mikroökonomie I/Übungen/Übungsblatt 4.md",
-    "university/Mikroökonomie I/Übungen/Übungsblatt 1.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Tangenten.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differenzierbarkeit.md",
     "files/Pasted image 20231128174534.png",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Differenzierbarkeit.md",
-    "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Bausparkonto mit nachschüssiger Verzinsung.md",
-    "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Nachschüssige Rente.md",
-    "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Barwert.md",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale",
-    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Zwischenwertsatz.md",
     "files/Pasted image 20231128171132.png",
     "files/Pasted image 20231128170554.png",
     "files/Pasted image 20231128165643.png",
