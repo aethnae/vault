@@ -42,7 +42,10 @@ publish: true
 - [[Tangenten]]
 - [[Differential]]
 #### Externes Rechnungswesen
-
+##### Lernbrief 6 - Steuern
+- [[Steuerarten]]
+- [[Ertragsteuern]]
+- [[Umsatzsteuern]]
 
 #### Handels- und Gesellschaftsrecht
 

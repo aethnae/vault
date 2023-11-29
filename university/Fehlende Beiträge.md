@@ -23,7 +23,7 @@ publish: true
 #### Mathematik I
 
 #### Externes Rechnungswesen
-- [ ] Definitionen aus Vorlesung 6 (27.112023) hinzufügen
+~~- [ ] Definitionen aus Vorlesung 6 (27.112023) hinzufügen~~
 - [ ] Übersichtsartikel GuV hinzufügen
 - [ ] Definition "Schlussbilanzkonto" hinzufügen
 

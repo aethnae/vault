@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ba8cc4b1ff3ad233",
+        "id": "62896137d371faa3",
         "type": "tabs",
         "children": [
           {
-            "id": "6df28fae28cecd05",
+            "id": "11e326805495bcfd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university/Fehlende Beiträge.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -76,6 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university/Fehlende Beiträge.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -98,7 +103,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.2990150286159956,
+                  "scale": 1.4709798058012202,
                   "close": true
                 }
               }
@@ -140,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university/Fehlende Beiträge.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university/Fehlende Beiträge.md"
+              }
             }
           },
           {
@@ -192,7 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university/Fehlende Beiträge.md"
+              }
             }
           }
         ],
@@ -208,6 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university/Fehlende Beiträge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,10 +248,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e041748da01c05af",
+  "active": "11e326805495bcfd",
   "lastOpenFiles": [
-    "university/Externes Rechnungswesen/Konzepte/Steuern",
     "university/Neue Beiträge.md",
+    "university/Externes Rechnungswesen/Konzepte/Steuern/Ertragsteuern.md",
+    "university/Externes Rechnungswesen/Konzepte/Steuern/Umsatzsteuern.md",
+    "files/Pasted image 20231129190146.png",
+    "files/Pasted image 20231129183318.png",
+    "university/Externes Rechnungswesen/Konzepte/Steuern/Steuerarten.md",
+    "university/Externes Rechnungswesen/Konzepte/Steuern",
     "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Geschäftsmodelle.md",
     "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Spickzettel.md",
     "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md",
@@ -262,9 +278,6 @@
     "university/Mikroökonomie I/Übungen/Übungsblatt 3.md",
     "university/Mikroökonomie I/Übungen/Übungsblatt 2.md",
     "university/Mikroökonomie I/Übungen/Übungsblatt 1.md",
-    "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
-    "university/Externes Rechnungswesen/Übungen/Lernbrief 3 - Buchen auf Bestandskonten.md",
-    "university/Externes Rechnungswesen/Übungen/Lernbrief 2  - Unternehmensgründung, Buchführung und Bilanzen.md",
     "files/Pasted image 20231128181904.png",
     "files/Pasted image 20231128174534.png",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale",
@@ -275,16 +288,13 @@
     "files/Pasted image 20231128162757.png",
     "files/Pasted image 20231128161351.png",
     "files/Pasted image 20231128161040.png",
-    "files/Pasted image 20231128160519.png",
     "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen",
     "university/Literaturverzeichnis",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre",
     "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen",
-    "files/Pasted image 20231122233149.png",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Eigentum & Macht",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Spieltheorie",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Wissenschaftsphilosophie",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Knappheit & Arbeit",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
