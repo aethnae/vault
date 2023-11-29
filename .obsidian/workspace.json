@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "644529191279e785",
+        "id": "ba8cc4b1ff3ad233",
         "type": "tabs",
         "children": [
           {
-            "id": "80d5d1d6f4c91566",
+            "id": "6df28fae28cecd05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/Übungsblätter/Freiwilliger Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bded3c9dcad5fe0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/Rechengesetze.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71bbf094430ec854",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Konvergenzkriterien für Reihen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -105,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mathematik I/Rechengesetze.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mathematik I/Rechengesetze.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -205,9 +174,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university/Mathematik I/Rechengesetze.md"
-              }
+              "state": {}
             }
           },
           {
@@ -225,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university/Mathematik I/Rechengesetze.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -243,7 +208,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/Rechengesetze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,18 +237,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3bded3c9dcad5fe0",
+  "active": "e041748da01c05af",
   "lastOpenFiles": [
+    "university/Externes Rechnungswesen/Konzepte/Steuern",
+    "university/Neue Beiträge.md",
+    "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Geschäftsmodelle.md",
+    "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Spickzettel.md",
+    "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test.md",
+    "university/Mathematik I/Rechengesetze.md",
+    "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Konvergenzkriterien für Reihen.md",
+    "university/Mathematik I/LaTeX Snippets.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Grenzwerte von Reihen.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Beschränktheit von Folgen.md",
-    "university/Mathematik I/LaTeX Snippets.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Bestimmte Divergenz.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Monotonie von Folgen.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Grenzwerte.md",
-    "university/Neue Beiträge.md",
     "university/Willkommen!.md",
     "university/Fehlende Beiträge.md",
     "sfdgsdfg.md",
@@ -292,15 +262,9 @@
     "university/Mikroökonomie I/Übungen/Übungsblatt 3.md",
     "university/Mikroökonomie I/Übungen/Übungsblatt 2.md",
     "university/Mikroökonomie I/Übungen/Übungsblatt 1.md",
-    "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
-    "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md",
     "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
     "university/Externes Rechnungswesen/Übungen/Lernbrief 3 - Buchen auf Bestandskonten.md",
     "university/Externes Rechnungswesen/Übungen/Lernbrief 2  - Unternehmensgründung, Buchführung und Bilanzen.md",
-    "university/Externes Rechnungswesen/Übungen/Lernbrief 1 - Warum Rechnungswesen?.md",
-    "misc/Taiwan '24/Übersicht.md",
-    "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Umsatzkostenverfahren.md",
-    "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Geschäftsmodelle.md",
     "files/Pasted image 20231128181904.png",
     "files/Pasted image 20231128174534.png",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale",

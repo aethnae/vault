@@ -21,6 +21,8 @@ publish: true
 - [[Nachfragefunktion]]
 #### Mathematik I
 
+##### Übungen & Tests
+- [[Freiwilliger Test]]
 ##### Finanzmathematik (21.11.2023)
 - [[Parameter]]
 - [[Endkapital unter Zinseszins]]

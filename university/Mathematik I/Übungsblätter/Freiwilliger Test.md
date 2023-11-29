@@ -68,7 +68,7 @@ Der Grenzwert der Folge $a_{n}$ beträgt somit $\frac{3}{2} = 1,5$.
 
 ##### 2. Aufgabe 
 
-**(a)**
+**Teil a)**
 
 **(i)**
 *Berechnen Sie den Grenzwert der Folge*
@@ -96,11 +96,52 @@ Um auf Konvergenz zu prüfen, wird in diesem Fall das Quotientenkriterium angewa
 Damit die Reihe konvergent ist, muss die Folge $a_{j}$
 
 $$
-\lim _{n \rightarrow \infty}\left|\frac{a_{j+1}}{a_j}\right|=q<1,
+\lim _{j \rightarrow \infty}\left|\frac{a_{j+1}}{a_j}\right|=q<1,
 $$
 
-erfüllen.
+erfüllen. Also:
 
 $$
-\lim _{n \rightarrow \infty}\left|\frac{a_{j+1}}{a_j}\right|= \lim_{ n \to \infty } \frac{3(j+1)^{2} - (j+1)}{j^{2}+2} = \lim_{ n \to \infty } 
+\begin{equation}
+\begin{aligned} \displaystyle
+& \lim _{j \rightarrow \infty}\left|\frac{a_{j+1}}{a_j}\right| = \lim_{ j \to \infty } \frac{3(j+1)^{2} - (j+1)}{j^{2}+2} \\
+& = \lim_{ j \to \infty } \frac{3j^{2} + 6j + 3 - j - 1}{j^{2} + 2} \\
+& = \lim_{ j \to \infty } \frac{3j^{2} + 5j + 2}{j^{2} + 2} \\
+& = \lim_{ j \to \infty } \frac{j^{2}\left( 3 + \frac{5}{j} + \frac{2}{j^{2}} \right)}{j^{2}\left( 1 + \frac{2}{j^{2}} \right)} \\
+& = \lim_{ j \to \infty } \frac{3 + \frac{5}{j} + \frac{2}{j^{2}}}{1 + \frac{2}{j^{2}}} \stackrel{j \rightarrow \infty}{\longrightarrow} \frac{3 + 0 + 0}{1 + 0} = 3 = q > 1
+\end{aligned}
+\end{equation}
 $$
+
+Aufgrund dessen, dass $q > 1$, ist das Quotientenkriterium nicht erfüllt, somit divergiert die Reihe $\displaystyle \sum_{j=3}^{\infty} a_j$.
+
+
+**Teil b)**
+*Beweisen Sie mit dem Quotientenkriterium, dass die unendliche Reihe*
+
+$$
+\sum_{k=1}^{\infty} \frac{k}{2^k}=\lim _{n \rightarrow \infty} \sum_{k=1}^n \frac{k}{2^k}
+$$
+
+*konvergent ist.*
+
+Um auf Konvergenz zu prüfen, wird in diesem Fall das Quotientenkriterium angewandt.
+Damit die Reihe konvergent ist, muss die Folge $a_{k}$
+
+$$
+\lim_{k \rightarrow \infty}\left|\frac{a_{k+1}}{a_k}\right|=q<1,
+$$
+
+erfüllen. Also
+
+$$
+\begin{equation}
+\begin{aligned} \displaystyle
+& \lim_{k \rightarrow \infty}\left|\frac{a_{k+1}}{a_k}\right|= \lim_{ k \to \infty } \frac{\frac{k+1}{2^{k+1}}}{\frac{k}{2^{k}}} = \lim_{ k \to \infty } \frac{k+1}{2^{k+1}} \cdot \frac{2^{k}}{k} = \lim_{ k \to \infty } \frac{2^{k}}{2^{k+1}} \cdot \frac{k+1}{k} = \lim_{ k \to \infty } \frac{k + 1}{2k} \\
+& = \lim_{ k \to \infty } \frac{k\left( 1 + \frac{1}{k} \right)}{k(2)} \\
+& = \lim_{ k \to \infty } \frac{1 + \frac{1}{k}}{2} \stackrel{k \rightarrow \infty}{\longrightarrow} \frac{1 + 0}{2} = \frac{1}{2} = q < 1
+\end{aligned}
+\end{equation}
+$$
+
+Aufgrund dessen, dass $q < 1$, ist das Quotientenkriterium erfüllt. Die Reihe $\displaystyle \sum_{k=1}^{\infty} \frac{k}{2^k}$ konvergiert also.
