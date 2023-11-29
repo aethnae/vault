@@ -7,7 +7,7 @@ flashcard: true
 ***
 
 > [!important] Notwendiges Kriterium
-> Damit eine [[Reihen|Reihe]] $\left(s_n\right)$ konvergiert, ist es notwendig, dass a $a_n$ gegen null konvergiert. Also gilt
+> Damit eine [[Reihen|Reihe]] $\left(s_n\right)$ konvergiert, ist es notwendig, dass $a_n$ gegen null konvergiert. Also gilt
 > $$
 > \left(s_n\right) \text { konvergent } \Rightarrow \lim _{n \rightarrow \infty} a_n=0
 > $$
