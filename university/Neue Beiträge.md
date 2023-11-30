@@ -35,7 +35,8 @@ publish: true
 - [[Links- und rechtsseitige Grenzwerte]]
 - [[Satz von Maximum und Minimum]]
 - [[Zwischenwertsatz]]
-
+##### Mathematische Beweisführung (28.11.2023)
+- [[Vollständige Induktion]]
 ##### Ableitungen & Differentiale (28.11.2023)
 - [[Differenzierbarkeit]]
 - [[Links- und rechtsseitige Ableitungen]]
