@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Neue Beiträge.md",
+                "file": "dfn/Stundenzettel.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Neue Beiträge.md",
+                "file": "dfn/Stundenzettel.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Neue Beiträge.md",
+                "file": "dfn/Stundenzettel.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Neue Beiträge.md"
+                "file": "dfn/Stundenzettel.md"
               }
             }
           },
@@ -201,12 +201,11 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Neue Beiträge.md"
+                "file": "dfn/Stundenzettel.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "f337bac5fba544fc",
@@ -218,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Neue Beiträge.md",
+                "file": "dfn/Stundenzettel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,13 +249,13 @@
   },
   "active": "979b48d80c946eef",
   "lastOpenFiles": [
+    "university/Neue Beiträge.md",
     "university/Mathematik I/Konzepte/Einschub - mathematische Beweisführung/Vollständige Induktion.md",
     "university/Mathematik I/Konzepte/Einschub - mathematische Beweisführung",
     "dfn/Mitteilungen/Roadmap.md",
     "misc/Wunschzettel Weihnachten.md",
     "misc/Design Ideas.md",
     "university/Fehlende Beiträge.md",
-    "university/Neue Beiträge.md",
     "university/Externes Rechnungswesen/Konzepte/Steuern/Ertragsteuern.md",
     "university/Externes Rechnungswesen/Konzepte/Steuern/Umsatzsteuern.md",
     "files/Pasted image 20231129190146.png",
