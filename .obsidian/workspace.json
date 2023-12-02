@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5cd6281b7a590cfb",
+        "id": "355569f430e7c53f",
         "type": "tabs",
         "children": [
           {
-            "id": "979b48d80c946eef",
+            "id": "31b120d479b1769d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Lagrange-Multiplikation.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Lagrange-Multiplikation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Lagrange-Multiplikation.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Lagrange-Multiplikation.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Lagrange-Multiplikation.md"
               }
             }
           }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Lagrange-Multiplikation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,10 +247,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "979b48d80c946eef",
+  "active": "31b120d479b1769d",
   "lastOpenFiles": [
-    "misc/Taiwan '24/Übersicht.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Nachfragefunktion.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Lagrange-Multiplikation.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Grenznutzen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Cobb-Douglas-Präferenzen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Quasilineare Präferenzen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Optimale Entscheidung.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Tangentialbedingung.md",
+    "university/Mikroökonomie I/Übungen/Übungsblatt 4.md",
+    "university/Mikroökonomie I/Übungen/Übungsblatt 1.md",
+    "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md",
     "misc/Taiwan '24/Reiseplan.md",
+    "misc/Taiwan '24/Übersicht.md",
     "misc/Design Ideas.md",
     "dfn/Stundenzettel.md",
     "university/Neue Beiträge.md",
@@ -268,17 +279,6 @@
     "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Geschäftsmodelle.md",
     "university/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Spickzettel.md",
     "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md",
-    "university/Mathematik I/Übungsblätter/Freiwilliger Test.md",
-    "university/Mathematik I/Rechengesetze.md",
-    "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Konvergenzkriterien für Reihen.md",
-    "university/Mathematik I/LaTeX Snippets.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Grenzwerte von Reihen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Beschränktheit von Folgen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Bestimmte Divergenz.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Monotonie von Folgen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Grenzwerte.md",
     "files/Pasted image 20231128181904.png",
     "files/Pasted image 20231128174534.png",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale",
