@@ -2,7 +2,7 @@
 tags:
   - produktion
 week: 2023-11-20
-flashcard: false
+flashcard: true
 publish: true
 ---
 ***

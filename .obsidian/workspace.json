@@ -4,59 +4,226 @@
     "type": "split",
     "children": [
       {
-        "id": "bc4cb76b2f265247",
+        "id": "990b862971a92118",
         "type": "tabs",
         "children": [
           {
-            "id": "f02a017db423c905",
+            "id": "ff0fa69db162da08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/4. Eigentum & Macht/Allokationen.md",
+                "file": "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Barwert.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "315a2204e7d0401e",
+            "id": "6692f23661517bd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Durchschnittsprodukt.md",
+                "file": "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Bausparkonto mit nachschüssiger Verzinsung.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ea694ec81ef311cc",
+            "id": "1cbc4a3075aff1ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Einkommens- und Substitutionseffekte.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d56d0f0230a2a6da",
+            "id": "26c52ef2511c895f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/4. Eigentum & Macht/Fairness.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differenzierbarkeit.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3568586fd7e1b695",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Endkapital unter Zinseszins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21233cb6894b2d48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f09451ce8d3e2e87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Links- und rechtsseitige Grenzwerte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53183dfd0eacfacc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Nachschüssige Rente.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdc3c25fef6d2a1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Parameter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e61f75bd957045e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Satz von Maximum und Minimum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "326331fcf6786b0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Satz von Taylor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7bc670dd856b79b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Stetiger Verzinsung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d131d0a50efed15a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Stetigkeit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1466762b72bea8e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Tangenten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "230c176d00fec757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Taylorpolynome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8366b3a1d2f95889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Tilgung von Schulden.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63b40ffe5710f587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Einschub - mathematische Beweisführung/Vollständige Induktion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79be770cc5d4f12c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Zwischenwertsatz.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -87,7 +254,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"university/Einführung in die VWL und Wirtschaftsgeschichte\" [\"flashcard\":] false",
+                "query": "path:\"university/Mathematik I\" [\"publish\":] false",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +285,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/4. Eigentum & Macht/Fairness.md",
+                "file": "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Barwert.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -184,7 +351,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/4. Eigentum & Macht/Fairness.md",
+                "file": "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Barwert.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +387,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/4. Eigentum & Macht/Fairness.md"
+                "file": "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Barwert.md"
               }
             }
           },
@@ -240,7 +407,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/4. Eigentum & Macht/Fairness.md"
+                "file": "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Barwert.md"
               }
             }
           }
@@ -256,7 +423,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/4. Eigentum & Macht/Fairness.md",
+                "file": "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Barwert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,35 +454,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d56d0f0230a2a6da",
+  "active": "ff0fa69db162da08",
   "lastOpenFiles": [
+    "university/Mathematik I/Konzepte/Einschub - mathematische Beweisführung/Vollständige Induktion.md",
+    "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Barwert.md",
+    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Zwischenwertsatz.md",
+    "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Tilgung von Schulden.md",
+    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Taylorpolynome.md",
+    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Tangenten.md",
+    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Stetigkeit.md",
+    "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Stetiger Verzinsung.md",
+    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Satz von Taylor.md",
+    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Satz von Maximum und Minimum.md",
+    "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Parameter.md",
+    "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Nachschüssige Rente.md",
+    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Links- und rechtsseitige Grenzwerte.md",
+    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md",
+    "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Endkapital unter Zinseszins.md",
+    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differenzierbarkeit.md",
+    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md",
+    "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen/Bausparkonto mit nachschüssiger Verzinsung.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/4. Eigentum & Macht/Allokationen.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Durchschnittsprodukt.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Einkommens- und Substitutionseffekte.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/4. Eigentum & Macht/Fairness.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Spieltheorie/Gefangenendilemma.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Grenzprodukt.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Grenzrate der Transformation.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Optimale Entscheidung.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Produktionsfunktion.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution (MRS).md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/1. Wissenschaftsphilosophie/Kausalität.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Spieltheorie/Nash-Gleichgewicht.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/4. Eigentum & Macht/Pareto-Effizienz-Kurve.md",
     "files/Pasted image 20231122232451.png",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/4. Eigentum & Macht/Allokationen.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Spieltheorie/Soziale Präferenzen.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Spieltheorie/Spiel.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Spieltheorie/Wiederholte Spiele.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/4. Eigentum & Macht/Fairness.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Einkommens- und Substitutionseffekte.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Durchschnittsprodukt.md",
-    "university/Neue Beiträge.md",
-    "university/Willkommen!.md",
-    "university/Fehlende Beiträge.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Satz von Taylor.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Taylorpolynome.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Polynomfunktionen.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Linearfaktorzerlegung.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differenzierbarkeit.md",
     "files/Pasted image 20231204212750.png",
     "files/Pasted image 20231204212640.png",
     "files/Pasted image 20231204211610.png",
