@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "206db1cdea230e05",
+        "id": "13134a062b2aae68",
         "type": "tabs",
         "children": [
           {
-            "id": "12e18b0702e438b9",
+            "id": "4765dea12371ac32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "misc/Wunschzettel Weihnachten.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -113,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Wunschzettel Weihnachten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "misc/Wunschzettel Weihnachten.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,8 +137,22 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
+              "state": {}
+            }
+          },
+          {
+            "id": "5be51caf9f8eaf1f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
               "state": {
-                "file": "misc/Wunschzettel Weihnachten.md"
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -174,8 +181,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "12e18b0702e438b9",
+  "active": "4765dea12371ac32",
   "lastOpenFiles": [
+    "misc/Wunschzettel Weihnachten.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test.md",
     "university/Mathematik I/Rechengesetze.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage",
@@ -198,7 +206,6 @@
     "university/Mathematik I/Konzepte/Einschub - mathematische Beweisführung/Vollständige Induktion.md",
     "university/Mathematik I/Konzepte/Einschub - mathematische Beweisführung",
     "dfn/Mitteilungen/Roadmap.md",
-    "misc/Wunschzettel Weihnachten.md",
     "university/Fehlende Beiträge.md",
     "university/Externes Rechnungswesen/Konzepte/Steuern/Ertragsteuern.md",
     "university/Externes Rechnungswesen/Konzepte/Steuern/Umsatzsteuern.md",
