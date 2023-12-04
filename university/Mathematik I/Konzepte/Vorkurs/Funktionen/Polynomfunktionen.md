@@ -67,5 +67,4 @@ $$
 f(x)=\underbrace{(x-3)}_{\text {Linearfaktor }} \cdot \underbrace{\left(2 x^2-2 x-4\right)}_{=g(x)}
 $$
 
-[[Linearfaktorzerlegung]]
-***
+siehe dazu auch [[Linearfaktorzerlegung]]

@@ -31,14 +31,14 @@ $$
 > [!note] Folgerung
 > Die Werte $\mathrm{d} f$ und $\mathrm{d} x$ sind zueinander proportional (für festes $x_0$ ). Für kleine $\mathrm{d} x=\Delta x$ gilt
 > $$
-> \underbrace{\mathrm{d} f}_{\begin{array}{c} \\
+>\underbrace{\mathrm{d} f}_{\begin{array}{c} \\ \\
 \text { Zuwachs der } \\
 \text { Tangente } \\
 \end{array}} \approx \underbrace{\Delta f}_{\begin{array}{c} \\
 \text { Zuwachs der } \\
 \text { Funktion } \\
 \end{array}}
-$$
+> $$
 
 **Bemerkung:**
 Durch Umstellen erhält man
@@ -46,4 +46,4 @@ $$
 \frac{\mathrm{d} f}{\mathrm{~d} x}=f^{\prime}\left(x_0\right)
 $$
 
-d.h. der Differentialquotient kann auch als Quotient zweier Differentiale aufgefasst werden. Wir nutzen deshalb auch die Schreibweise $\frac{\mathrm{d} f}{\mathrm{d} x}$ für die Ableitung von $f$ nach $x$
+d.h. der Differentialquotient kann auch als Quotient zweier Differentiale aufgefasst werden. Wir nutzen deshalb auch die Schreibweise $\frac{\mathrm{d} f}{\mathrm{d} x}$ für die Ableitung von $f$ nach $x$.
