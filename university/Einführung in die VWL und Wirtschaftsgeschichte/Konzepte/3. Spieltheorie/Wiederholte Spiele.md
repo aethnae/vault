@@ -2,7 +2,7 @@
 tags:
   - spieltheorie
 week: 2023-11-13
-flashcard: false
+flashcard: true
 publish: true
 ---
 ***
