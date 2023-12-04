@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "13134a062b2aae68",
+        "id": "77fdafb16292322a",
         "type": "tabs",
         "children": [
           {
-            "id": "4765dea12371ac32",
+            "id": "7693f28591f3a836",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Liquiditätsgrad.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -28,6 +32,7 @@
       {
         "id": "ce17988e31e66ad3",
         "type": "tabs",
+        "dimension": 55.855855855855864,
         "children": [
           {
             "id": "e041748da01c05af",
@@ -63,6 +68,48 @@
             }
           }
         ]
+      },
+      {
+        "id": "4cae0943d8942f29",
+        "type": "tabs",
+        "dimension": 44.144144144144136,
+        "children": [
+          {
+            "id": "110820e6469f9f65",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Liquiditätsgrad.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.2990150286159956,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,22 +124,47 @@
         "type": "tabs",
         "children": [
           {
+            "id": "ba8653a4649b74c5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "51765abe1eb47d88",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5767c389ed91eef4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Liquiditätsgrad.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "d66306a0e6d4bed9",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
-            }
-          },
-          {
-            "id": "ba8653a4649b74c5",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -104,22 +176,13 @@
             }
           },
           {
-            "id": "79ded24ae5a22d5d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "0f6fcecc9b6e74e3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Liquiditätsgrad.md"
+              }
             }
           },
           {
@@ -137,21 +200,26 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Liquiditätsgrad.md"
+              }
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f337bac5fba544fc",
+        "type": "tabs",
+        "children": [
           {
-            "id": "5be51caf9f8eaf1f",
+            "id": "79ded24ae5a22d5d",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outgoing-link",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
+                "file": "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Liquiditätsgrad.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -160,8 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +248,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4765dea12371ac32",
+  "active": "7693f28591f3a836",
   "lastOpenFiles": [
+    "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen.md",
+    "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen",
     "misc/Wunschzettel Weihnachten.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test.md",
     "university/Mathematik I/Rechengesetze.md",
@@ -211,9 +280,7 @@
     "university/Externes Rechnungswesen/Konzepte/Steuern/Umsatzsteuern.md",
     "files/Pasted image 20231129190146.png",
     "files/Pasted image 20231129183318.png",
-    "university/Externes Rechnungswesen/Konzepte/Steuern/Steuerarten.md",
     "university/Externes Rechnungswesen/Konzepte/Steuern",
-    "university/Externes Rechnungswesen/Konzepte/Umsatzerlöse, Wareneinsatz und Herstellungskosten/Geschäftsmodelle.md",
     "files/Pasted image 20231128181904.png",
     "files/Pasted image 20231128174534.png",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale",
@@ -228,7 +295,6 @@
     "university/Literaturverzeichnis",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre",
     "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/4. Eigentum & Macht",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
