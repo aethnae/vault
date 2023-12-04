@@ -28,6 +28,6 @@ $$
 
 $$
 \begin{align}
- & \frac{\text{ Liquide }}{}
+ & \frac{\text{ Liquide Mittel + Wertpapiere des Umlaufvermögens + Forderungen + Vorräte}}{\text{ kurzfristige Verbindlichkeiten }}
 \end{align}
 $$

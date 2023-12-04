@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7693f28591f3a836",
+            "id": "979b48d80c946eef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Liquiditätsgrad.md",
+                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 6 - Umsatzsteuer und Ertragsteuern.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Liquiditätsgrad.md",
+                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 6 - Umsatzsteuer und Ertragsteuern.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Liquiditätsgrad.md",
+                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 6 - Umsatzsteuer und Ertragsteuern.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Liquiditätsgrad.md"
+                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 6 - Umsatzsteuer und Ertragsteuern.md"
               }
             }
           },
@@ -201,12 +201,11 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Liquiditätsgrad.md"
+                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 6 - Umsatzsteuer und Ertragsteuern.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "f337bac5fba544fc",
@@ -218,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Liquiditätsgrad.md",
+                "file": "university/Externes Rechnungswesen/Übungen/Lernbrief 6 - Umsatzsteuer und Ertragsteuern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,8 +247,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7693f28591f3a836",
+  "active": "979b48d80c946eef",
   "lastOpenFiles": [
+    "files/Pasted image 20231204200809.png",
+    "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md",
+    "university/Externes Rechnungswesen/Übungen/Lernbrief 6 - Umsatzsteuer und Ertragsteuern.md",
+    "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
+    "university/Externes Rechnungswesen/Übungen/Lernbrief 1 - Warum Rechnungswesen?.md",
+    "university/Externes Rechnungswesen/Übungen/Lernbrief 2  - Unternehmensgründung, Buchführung und Bilanzen.md",
+    "university/Externes Rechnungswesen/Übungen/Lernbrief 3 - Buchen auf Bestandskonten.md",
+    "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Rückstellungen.md",
+    "files/Pasted image 20231204200023.png",
+    "files/Pasted image 20231204195941.png",
+    "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Personalbuchhaltung.md",
+    "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Preisnachlässe.md",
+    "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Liquiditätsgrad.md",
     "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen.md",
     "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen",
     "misc/Wunschzettel Weihnachten.md",
@@ -267,17 +279,7 @@
     "university/Mikroökonomie I/Übungen/Übungsblatt 4.md",
     "university/Mikroökonomie I/Übungen/Übungsblatt 1.md",
     "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md",
-    "misc/Taiwan '24/Reiseplan.md",
-    "misc/Taiwan '24/Übersicht.md",
-    "misc/Design Ideas.md",
-    "dfn/Stundenzettel.md",
-    "university/Neue Beiträge.md",
-    "university/Mathematik I/Konzepte/Einschub - mathematische Beweisführung/Vollständige Induktion.md",
     "university/Mathematik I/Konzepte/Einschub - mathematische Beweisführung",
-    "dfn/Mitteilungen/Roadmap.md",
-    "university/Fehlende Beiträge.md",
-    "university/Externes Rechnungswesen/Konzepte/Steuern/Ertragsteuern.md",
-    "university/Externes Rechnungswesen/Konzepte/Steuern/Umsatzsteuern.md",
     "files/Pasted image 20231129190146.png",
     "files/Pasted image 20231129183318.png",
     "university/Externes Rechnungswesen/Konzepte/Steuern",
@@ -289,8 +291,6 @@
     "files/Pasted image 20231128165643.png",
     "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen",
     "files/Pasted image 20231128162757.png",
-    "files/Pasted image 20231128161351.png",
-    "files/Pasted image 20231128161040.png",
     "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen",
     "university/Literaturverzeichnis",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre",
