@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Wunschzettel Weihnachten.md",
+                "file": "misc/Wunschzettel von Johann.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "misc/Wunschzettel Weihnachten.md",
+                "file": "misc/Wunschzettel von Johann.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Wunschzettel Weihnachten.md",
+                "file": "misc/Wunschzettel von Johann.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Wunschzettel Weihnachten.md"
+                "file": "misc/Wunschzettel von Johann.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "misc/Wunschzettel Weihnachten.md"
+                "file": "misc/Wunschzettel von Johann.md"
               }
             }
           }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Wunschzettel Weihnachten.md",
+                "file": "misc/Wunschzettel von Johann.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
