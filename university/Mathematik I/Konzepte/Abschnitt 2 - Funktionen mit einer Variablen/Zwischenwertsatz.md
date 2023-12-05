@@ -2,7 +2,7 @@
 tags:
   - funktionen
 week: 2023-11-24
-flashcard: false
+flashcard: true
 publish: true
 ---
 ***

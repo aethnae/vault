@@ -3,7 +3,7 @@ tags:
   - polynome
   - ableitungen
 week: 2023-12-01
-flashcard: false
+flashcard: true
 publish: true
 ---
 ***

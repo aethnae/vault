@@ -2,7 +2,6 @@
 tags:
   - beweis
 week: 2023-11-24
-flashcard: false
 publish: true
 ---
 ***

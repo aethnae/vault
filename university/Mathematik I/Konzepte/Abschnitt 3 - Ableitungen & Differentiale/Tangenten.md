@@ -3,7 +3,7 @@ tags:
   - ableitungen
   - funktionen
 week: 2023-11-28
-flashcard: false
+flashcard: true
 publish: true
 ---
 ***
