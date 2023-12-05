@@ -13,6 +13,5 @@
 - [Chess Set | Famiglia via Crate&Barrel | 300$](https://www.cb2.com/famiglia-chess-set/s670646)
 - ['tokyo 1964' print | homable studio | 24$](https://homeablestudio.com/products/tokyo-1964-print?pr_prod_strat=collection_fallback&pr_rec_id=12d523020&pr_rec_pid=7573558984876&pr_ref_pid=7573564719276&pr_seq=uniform)
 - [Akari Lanterns](https://www.vitra.com/en-de/product/akari-light-sculptures)
-- [Nessino | Giancarlo Mattioli via Artemide | 190€](https://onlinestore.artemide.com/collections/masterpieces/products/nessino?variant=42852925571225)
+- ~~[Nessino | Giancarlo Mattioli via Artemide | 190€](https://onlinestore.artemide.com/collections/masterpieces/products/nessino?variant=42852925571225)~~
 - [ClassiCon E 1027 Beistelltisch | Eileen Gray | 500€](https://www.classicon.com/de/produkt/adjustable-table-e-1027.html)
-- 
