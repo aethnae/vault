@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dfn/Stundenzettel.md",
+                "file": "dfn/Mitteilungen/Roadmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dfn/Stundenzettel.md",
+                "file": "dfn/Mitteilungen/Roadmap.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dfn/Stundenzettel.md",
+                "file": "dfn/Mitteilungen/Roadmap.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dfn/Stundenzettel.md"
+                "file": "dfn/Mitteilungen/Roadmap.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "dfn/Stundenzettel.md"
+                "file": "dfn/Mitteilungen/Roadmap.md"
               }
             }
           }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dfn/Stundenzettel.md",
+                "file": "dfn/Mitteilungen/Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,6 +250,9 @@
   },
   "active": "cf2d15b08bec6c94",
   "lastOpenFiles": [
+    "dfn/Mitteilungen/Roadmap.tex",
+    "dfn/Stundenzettel.md",
+    "dfn/Zeitstrahl",
     "university/Neue Beiträge.md",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Taylorpolynome.md",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Tangenten.md",
@@ -275,8 +278,6 @@
     "misc/Taiwan '24/Reiseplan.md",
     "misc/Design Ideas.md",
     "misc/Finanzplan.md",
-    "misc/Wunschzettel von Johann.md",
-    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Stetigkeit.md",
     "files/Pasted image 20231122232451.png",
     "files/Pasted image 20231204212750.png",
     "files/Pasted image 20231204212640.png",
@@ -296,7 +297,6 @@
     "university/Mathematik I/Konzepte/Einschub - finanzmathematische Anwendungen",
     "university/Literaturverzeichnis",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre",
-    "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
     "school/Englisch/Globalisation/Benefits of Globalisation.canvas"

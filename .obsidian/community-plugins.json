@@ -19,5 +19,6 @@
   "workspaces-plus",
   "obsidian-linter",
   "tag-wrangler",
-  "table-checkboxes"
+  "table-checkboxes",
+  "obsidian-pandoc"
 ]
