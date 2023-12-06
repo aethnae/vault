@@ -21,6 +21,15 @@ $$
 
 ***
 ##### [[Indifferenzkurven#Perfekte Substitute|Perfekte Substitute]]
-Nachfrage nach Gut ist gleich 0, wenn $p_{1} < p_{2}$, eine beliebige Menge auf der [[Budgetgerade]] wenn $p_{1} = p_{2}$ ist, und $\frac{m}{p_{1}}$, wenn $p_{1} < p_{2}$.
+Wenn wir den Preis des Gutes 2 bei einem beliebigen Wert $p_{2}^{*}$ konstant halten, und die Nachfrage nach Gut 1 gegen den Preis $p_{1}$ eintragen, erhalten wir die in der linken Grafik eingetragene Form.
 
 ![[Pasted image 20231206163848.png|center|500]]
+
+##### [[Indifferenzkurven#Perfekte Komplemente|Perfekte Komplemente]]
+Die Nachfrage nach Gut 1 ist durch
+
+$$
+x_{1} = \frac{m}{p_{1} + p_{2}}
+$$
+
+gegeben. Wenn wir $p_{2}$ und $m$ konstant halten, und die Beziehung zwischen $x_{1}$ und $p_{1}$ zeichnen, erhalten wir eine Kurve mit negativer Steigung.
