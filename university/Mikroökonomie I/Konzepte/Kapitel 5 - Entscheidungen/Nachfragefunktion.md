@@ -15,6 +15,7 @@ publish: true
 #### Beispiele für konkrete Nachfragefunktionen
 ##### Perfekte Substitute
 Für [[Indifferenzkurven#Perfekte Substitute|perfekte Substitute]] gibt es immer drei Möglichkeiten: Wenn $p_2>p_1$ dann ist die Steigung der Budgetgeraden flacher als die Steigung der Indifferenzkurven. Im Optimum gibt die Konsumentin ihr ganzes Geld für Gut 1 aus. Wenn $p_1>p_2$ dann kauft die Konsumentin nur Gut 2. Wenn schließlich $p_1=p_2$, dann gibt es einen großen Bereich optimaler Wahlmōglichkeiten - in diesem Fall ist jede Mengenkombination der beiden Guter optimal, welche die Budgetbeschrânkung erfüllt. Die Nachfragefunktion für Gut 1 lautet daher
+
 $$
 x_1= \begin{cases}m / p_1 & \text { wenn } p_1<p_2 ; \\ \text { jede Zahl zwischen } 0 \text { und } m / p_1 & \text { wenn } p_1=p_1 ; \\ 0 & \text { wenn } p_1>p_2 .\end{cases}
 $$
@@ -25,11 +26,13 @@ Entsprechen diese Ergebnisse gesundem Menschenverstand? Sie besagen lediglich, d
 Im Falle [[Indifferenzkurven#Perfekte Komplemente|perfekter Komplemente]] liegt die optimale Entscheidung immer auf der Diagonale, da die Konsumentin von beiden Gütern immer die selbe Menge kauft.
 
 Lösen wir das Beispiel algebraisch. Wir wissen, dass diese Konsumentin unabhängig von den Preisen von beiden Gütern immer dieselbe Menge kauft. Wir wollen diese Menge mit $x$ bezeichnen. Die Lösung muss der [[Budgetbeschränkung]] genügen
+
 $$
 p_1 x+p_2 x=m
 $$
 
 Auflösung nach $x$ ergibt als optimale Mengen der Güter 1 und 2:
+
 $$
 x_1=x_2=x=\frac{m}{p_1+p_2} .
 $$
