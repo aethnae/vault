@@ -11,5 +11,5 @@
   "pdflatex": null,
   "outputFolder": "/Users/aethnae/misc/dokumente",
   "extraArguments": "",
-  "exportFrom": "md"
+  "exportFrom": "html"
 }

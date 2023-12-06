@@ -19,5 +19,3 @@ tags:
 
 ***
 ### Inhaltliche Anpassungen
-
-#
