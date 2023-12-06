@@ -23,3 +23,6 @@ Gerade durch den Ursprung, da [[Nachfragefunktion|Nachfragefunktionen]] beider G
 
 ##### [[Quasilineare Präferenzen]]
 Vertikale Gerade, da für eins der Güter ein "Null-Einkommenseffekt" gegeben ist, heißt das gesamte zusätzliche Einkommen wird allein für eine Erhöhung des Konsums des anderen Guts ausgegeben.
+
+##### [[Nachfragefunktion#Unteilbare Güter|Unteilbare Güter]]
+
