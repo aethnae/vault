@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Nachfragefunktion.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Nachfragefunktion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Nachfragefunktion.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Nachfragefunktion.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Nachfragefunktion.md"
               }
             }
           }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Nachfragefunktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,13 +250,13 @@
   },
   "active": "4f9fe3e9a2f93dc6",
   "lastOpenFiles": [
-    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Nachfragekurven.md",
-    "files/Pasted image 20231206163848.png",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Nachfragekurven.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Nachfragefunktion.md",
+    "files/Pasted image 20231206163848.png",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Normale und inferiore Güter.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Tangentialbedingung.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Optimale Entscheidung.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Nachfragefunktion.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Quasilineare Präferenzen.md",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differenzierbarkeit.md",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md",

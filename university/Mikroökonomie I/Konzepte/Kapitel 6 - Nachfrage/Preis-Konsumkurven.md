@@ -15,3 +15,7 @@ publish: true
 ##### [[Indifferenzkurven#Perfekte Substitute|Perfekte Substitute]]
 Nachfrage nach Gut ist gleich 0, wenn $p_{1} < p_{2}$, eine beliebige Menge auf der [[Budgetgerade]] wenn $p_{1} = p_{2}$ ist, und $\frac{m}{p_{1}}$, wenn $p_{1} < p_{2}$.
 
+##### [[Indifferenzkurven#Perfekte Komplemente|Perfekte Komplemente]]
+Unabhängig vom Preis wird immer die selbe Menge für $x_{1}$ und $x_{2}$ nachgefragt, daher ist die Preis-Konsumkurve eine Diagonale durch den Ursprung.
+
+##### [[Nachfragefunktion#Unteilbare Güter|Unteilbare Güter]]
