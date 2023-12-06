@@ -22,3 +22,5 @@ $$
 ***
 ##### [[Indifferenzkurven#Perfekte Substitute|Perfekte Substitute]]
 Nachfrage nach Gut ist gleich 0, wenn $p_{1} < p_{2}$, eine beliebige Menge auf der [[Budgetgerade]] wenn $p_{1} = p_{2}$ ist, und $\frac{m}{p_{1}}$, wenn $p_{1} < p_{2}$.
+
+![[Pasted image 20231206163848.png|center|500]]
