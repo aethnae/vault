@@ -48,11 +48,11 @@ tags:
 | Samstag    | -              | -             |
 | Sonntag    | -              | -             |
 
-#### Kalenderwoche 48 | 27.11 - 23.12
-| Wochentag  | Arbeitsstunden | Anmerkungen |
-| ---------- | -------------- | ----------- |
-| Montag     | -              | -           |
-| Dienstag   | -              | -           |
-| Mittwoch   | 2,5            | -           |
-| Donnerstag | 4,5            | -           |
-| Freitag    | 3              | -           | 
+#### Kalenderwoche 48 | 27.11 - 03.12
+| Wochentag  | Arbeitsstunden | Anmerkungen   |
+| ---------- | -------------- | ------------- |
+| Montag     | -              | -             |
+| Dienstag   | -              | -             |
+| Mittwoch   | 2,5            | 09:30 - 12:00 |
+| Donnerstag | 4,5            | 09:00 - 13:30 |
+| Freitag    | 3              | 09:00 - 12:00 | 
