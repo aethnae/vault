@@ -4,4 +4,6 @@
 
 ***
 #### Gründung
+- 1984 von Hochschulen, außeruniversitären Forschungseinrichtungen und forschungsnahen Wirtschaftsunternehmen gegründet
+- Administrative und finanzielle Anschubunterstützung durch das **Bundesministerium für Forschung und Technologie** (BMFT)
 - 
