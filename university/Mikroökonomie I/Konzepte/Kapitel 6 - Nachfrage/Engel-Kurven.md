@@ -20,3 +20,6 @@ Die Nachfrage nach Gut 1 ist $x_{1} = \frac{m}{p_{1}}$, daher ist die Engel-Kurv
 
 ##### [[Cobb-Douglas-Präferenzen]]
 Gerade mit der Steigung $\frac{p_{1}}{a}$.
+
+##### [[Quasilineare Präferenzen]]
+Siehe auch [[Einkommensexpansionspfade]]. Da eine Einkommenserhöhung die Nachfrage nach Gut 1 nicht ändert, diese also konstant bleibt, ist die Engelkurve eine Vertikale.

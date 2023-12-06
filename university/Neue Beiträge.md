@@ -12,11 +12,25 @@ publish: true
 ***
 #### Einführung in die VWL & Wirtschaftsgeschichte
 #### Mikroökonomie I
+
+**Vorlesung 5 | 15.11.2023**
+- [[Normale und inferiore Güter]]
+- [[Einkommensexpansionspfade]]
+- [[Engel-Kurven]]
+- [[Homothetische Präferenzen]]
+- [[Gewöhnliche und Giffen-Güter]]
+- [[Preis-Konsumkurven]]
+- [[Nachfragekurven]]
 #### Externes Rechnungswesen
 
 **Vorlesung 6 | 04.12.2023**
 - [[Personalbuchhaltung]]
 - [[Preisnachlässe]]
 - [[Rückstellungen]]
+#### Mathematik I
+
+**Vorlesung 6 | 01.12.2023**
+- [[Taylorpolynome]]
+- [[Satz von Taylor]]
 #### Handels- und Gesellschaftsrecht
 #### Bürgerliches Recht
