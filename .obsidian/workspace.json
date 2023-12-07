@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Starkes Axiom der bekundeten Präferenzen.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Substitutionseffekt.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Starkes Axiom der bekundeten Präferenzen.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Substitutionseffekt.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -113,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 269.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Starkes Axiom der bekundeten Präferenzen.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Substitutionseffekt.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Starkes Axiom der bekundeten Präferenzen.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Substitutionseffekt.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Starkes Axiom der bekundeten Präferenzen.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Substitutionseffekt.md"
               }
             }
           }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Starkes Axiom der bekundeten Präferenzen.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Substitutionseffekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,9 +249,17 @@
   },
   "active": "979b48d80c946eef",
   "lastOpenFiles": [
-    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Budgetgerade.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Starkes Axiom der bekundeten Präferenzen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Homothetische Präferenzen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Einkommensexpansionspfade.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Substitutionseffekt.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Engel-Kurven.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Nachfragefunktion.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Schwaches Axiom der Bekundeten Präferenzen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen",
+    "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Notiz.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Untitled.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Starkes Axiom der bekundeten Präferenzen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Budgetgerade.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Bekundete Präferenzen.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Grenzrate der Transformation.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
@@ -265,17 +273,10 @@
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Beschränktheit von Folgen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen",
-    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Homothetische Präferenzen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Konvexität.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Inverse Nachfragefunktionen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Opportunitätskosten.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Nachfragefunktion.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Substitute und Komplemente.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Einkommensexpansionspfade.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Nachfragekurven.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Engel-Kurven.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Cobb-Douglas-Präferenzen.md",
     "files/Pasted image 20231206163848.png",
     "dfn/Mitteilungen/Roadmap.pdf",
     "dfn/Mitteilungen/Roadmap.tex",
@@ -295,7 +296,6 @@
     "files/Pasted image 20231129190146.png",
     "university/Externes Rechnungswesen/Konzepte/Steuern",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale",
-    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
     "school/Englisch/Globalisation/Benefits of Globalisation.canvas"

@@ -19,7 +19,7 @@ Der Fall perfekter Substitute erläutert sich so: Wenn $p_1<p_2$, sodass sich de
 Da die Konsumentin in jedem Fall stets die gleiche Menge von jedem Gut konsumieren wird, ist der Einkommensexpansionspfad die Diagonale durch den Ursprung.
 
 ##### [[Cobb-Douglas-Präferenzen]]
-Gerade durch den Ursprung, da [[Nachfragefunktion|Nachfragefunktionen]] beider Güter $x_{1}$ und $x_{2}$ linear sind.
+Gerade durch den Ursprung, da [[Nachfragefunktion|Nachfragefunktion]] beider Güter $x_{1}$ und $x_{2}$ linear sind.
 
 ##### [[Quasilineare Präferenzen]]
 Vertikale Gerade, da für eins der Güter ein "Null-Einkommenseffekt" gegeben ist, heißt das gesamte zusätzliche Einkommen wird allein für eine Erhöhung des Konsums des anderen Guts ausgegeben.
