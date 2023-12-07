@@ -4,7 +4,11 @@
 
 ***
 #### Entstehung
-- Die Anfänge des Deutschen Forschungsnetzes reichen bis in das Jahr 1981 zurück
+- Die Anfänge des Deutschen Forschungsnetzes reichen bis in das Jahr 1981 zurück, und wurden maßgeblich von folgenden Ereignissen beeinflusst:
+	- Eine Studie von Stanford Research International für das Bundesministerium für Forschung und Technologie (BMFT), Mai 1981
+	- Die Reise einer Gruppe von deutschen Wissenschaftlern unter Leitung von Prof. Dr. Güntsch, BMFT, in die USA vom 13./27.9. 1981
+	- Ein Vorschlag des Hahn-Meitner-Instituts (HMI) Berlin vom 10.11.1981 zu einem "Norddeutschen Rechnerverbund"
+	- Ideenskizzen der Gesellschaft für Mathematik und Datenverarbeitung (GMD), Dr. Raubold, über ein Deutsches Forschungs-Verbundnetz vom 17.11.1981/16.12.1981
 #### Gründung
 - 1984 von Hochschulen, außeruniversitären Forschungseinrichtungen und forschungsnahen Wirtschaftsunternehmen gegründet
 - Administrative und finanzielle Anschubunterstützung durch das **Bundesministerium für Forschung und Technologie** (BMFT)
