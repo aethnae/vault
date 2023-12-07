@@ -1,6 +1,6 @@
 ---
 tags:
-  - nac
+  - nachfrage
 week: 
 flashcard: false
 publish: true
