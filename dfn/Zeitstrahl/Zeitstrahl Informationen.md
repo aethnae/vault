@@ -9,6 +9,13 @@
 	- Die Reise einer Gruppe von deutschen Wissenschaftlern unter Leitung von Prof. Dr. Güntsch, BMFT, in die USA vom 13./27.9. 1981
 	- Ein Vorschlag des Hahn-Meitner-Instituts (HMI) Berlin vom 10.11.1981 zu einem "Norddeutschen Rechnerverbund"
 	- Ideenskizzen der Gesellschaft für Mathematik und Datenverarbeitung (GMD), Dr. Raubold, über ein Deutsches Forschungs-Verbundnetz vom 17.11.1981/16.12.1981
+
+- Der Vorschlag des Hahn-Meitner-Instituts konnte auf konkretes zurückgreifen: Durch das BMFT wurden bereits Rechnerprojekte in Berlin (BERNET und HMINETII) gefördert, aus welchen Kommunikationssoftware für Control Data, Digital Equipment Corporstion und Siemens-Rechner hervorging, die nun auf gleichartige Rechner in mehreren norddeutschen Städten transportiert werden sollte, um einen "Norddeutschen Rechnerverbund" zu gründen
+- Das BMFT weitete diese Vorstellung weiter aus, indem erstmals von einem Rechnerverbundnetz für die Wissenschaft, welches die gesamte BRD inklusive West-Berlin abdeckt, gesprochen wurde
+- Auf der Festveranstaltung zum zehnjährigen Bestehen des Institutes für Informatik an der Universität Hamburg im November 1981 sprach Ministerialdirektor Prof. Dr. Güntsch zum ersten Mal öffentlich von Plänen zur Erstellung eines Deutschen Forschungsnetzes
+- Anfang 1982 wurde der Verfasser vom BMFT gebeten, innerhalb eines halben Jahres einen Projektvorschlag zu erstellen, der die Teilnahme von Universitäten und hochschulfreien Forschungseinrichtungen am Vorhaben DFN berücksichtigen sollte
+- 
+
 #### Gründung
 - 1984 von Hochschulen, außeruniversitären Forschungseinrichtungen und forschungsnahen Wirtschaftsunternehmen gegründet
 - Administrative und finanzielle Anschubunterstützung durch das **Bundesministerium für Forschung und Technologie** (BMFT)
