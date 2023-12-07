@@ -34,4 +34,4 @@ Obwohl $(x_{1}, x_{2})$ nach wie vor erschwinglich ist, wird es im Allgemeinen n
 >$$
 
 - Um den Substitutionseffekt zu bestimmen, müssen wir die Nachfragefunktion der Konsumentin zur Berechnung der optimalen Entscheidungen bei $(p_{1}', m')$ und $(p_{1}, m)$ verwenden
-- Der Substitutionseffekt bewegt sich immer entgegengesetzt zur Preisbewegung: der Substitutionseffekt ist negativ, da die Nachfrageänderung auf Grund des Substitutionseffekts der Preisänderung entgegengerichtet ist: Wenn der Preis steigt, sinkt auf Grund des Substitutionseffekts die Nachfrage nach dem Gut
+- Der Substitutionseffekt bewegt sich immer entgegengesetzt zur Preisbewegung: der Substitutionseffekt ist negativ, da die Nachfrageänderung auf Grund des Substitutionseffekts der Preisänderung entgegengerichtet ist: Wenn der Preis steigt, sinkt auf Grund des Substitutionseffekts die Nachfrage nach dem Gut - Wenn der Preis sinkt, sinkt auf Grund des Substitutionseffekts das Einkommen durch negative Kompensation
