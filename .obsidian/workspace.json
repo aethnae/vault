@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1dcfa69ad3adb5e5",
+            "id": "7b48b48f1d10d54f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -93,6 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md"
+              }
             }
           },
           {
@@ -183,7 +190,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md"
+              }
             }
           }
         ]
@@ -198,6 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,6 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,10 +260,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1dcfa69ad3adb5e5",
+  "active": "7b48b48f1d10d54f",
   "lastOpenFiles": [
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Produktionsfunktion.md",
+    "university/Fehlende Beiträge.md",
+    "university/Neue Beiträge.md",
+    "university/Willkommen!.md",
+    "university/Mathematik I/Test.md",
+    "university/Mathematik I/Rechengesetze.md",
     "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Produktionsfunktion.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Beschränktheit von Folgen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Untitled.md",
@@ -274,11 +290,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Optimale Entscheidung.md",
     "files/Pasted image 20231206163848.png",
     "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Tangentialbedingung.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differenzierbarkeit.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Grenznutzen.md",
-    "university/Mathematik I/Übungsblätter/Freiwilliger Test.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Gewöhnliche und Giffen-Güter.md",
     "dfn/Mitteilungen/Roadmap.pdf",
     "dfn/Mitteilungen/Roadmap.tex",
     "dfn/Zeitstrahl",
