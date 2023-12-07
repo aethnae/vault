@@ -2,6 +2,9 @@
 
 *Eine Auflistung der wichtigsten $\LaTeX$-Befehle in ==Latex Suite==.*
 
+**Fehlende Snippets:**
+- [ ] $\Delta$
+
 ***
 ### Umgebungen
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "77fdafb16292322a",
+        "id": "6b719deb2f4dc8a7",
         "type": "tabs",
         "children": [
           {
-            "id": "979b48d80c946eef",
+            "id": "5ecc86a4f2118a12",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -247,11 +247,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "979b48d80c946eef",
+  "active": "5ecc86a4f2118a12",
   "lastOpenFiles": [
+    "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Einkommenseffekt.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Substitutionseffekt.md",
+    "university/Mathematik I/LaTeX Snippets.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Homothetische Präferenzen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Einkommensexpansionspfade.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Substitutionseffekt.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Engel-Kurven.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Nachfragefunktion.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Schwaches Axiom der Bekundeten Präferenzen.md",
@@ -275,8 +277,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Konvexität.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Inverse Nachfragefunktionen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Opportunitätskosten.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Substitute und Komplemente.md",
     "files/Pasted image 20231206163848.png",
     "dfn/Mitteilungen/Roadmap.pdf",
     "dfn/Mitteilungen/Roadmap.tex",
