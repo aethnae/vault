@@ -14,7 +14,7 @@
 - Das BMFT weitete diese Vorstellung weiter aus, indem erstmals von einem Rechnerverbundnetz für die Wissenschaft, welches die gesamte BRD inklusive West-Berlin abdeckt, gesprochen wurde
 - Auf der Festveranstaltung zum zehnjährigen Bestehen des Institutes für Informatik an der Universität Hamburg im November 1981 sprach Ministerialdirektor Prof. Dr. Güntsch zum ersten Mal öffentlich von Plänen zur Erstellung eines Deutschen Forschungsnetzes
 - Anfang 1982 wurde der Verfasser vom BMFT gebeten, innerhalb eines halben Jahres einen Projektvorschlag zu erstellen, der die Teilnahme von Universitäten und hochschulfreien Forschungseinrichtungen am Vorhaben DFN berücksichtigen sollte
-- 
+- Erste Diskussionsversammlung der an einem Rechnerverbund interessierten am 23.3.1982 beim Deutschen Elektronen-Synchrotron (DESY) Hamburg
 
 #### Gründung
 - 1984 von Hochschulen, außeruniversitären Forschungseinrichtungen und forschungsnahen Wirtschaftsunternehmen gegründet
