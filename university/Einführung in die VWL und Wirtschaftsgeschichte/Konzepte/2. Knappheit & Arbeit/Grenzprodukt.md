@@ -13,4 +13,4 @@ publish: true
 >\frac{\Delta u}{\Delta x} \rightarrow \frac{d f(x)}{d x}
 >$$
 
-*Für eine ausführlichere Definition und Anwendungen, siehe [[Grenzrate der Substitution (MRS)]].*
+*Für eine ausführlichere Definition und Anwendungen, siehe [[Grenzrate der Substitution]].*

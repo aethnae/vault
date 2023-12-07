@@ -4,6 +4,8 @@ tags:
 week: 2023-11-06
 flashcard: true
 publish: true
+aliases:
+  - MRT
 ---
 ***
 
@@ -16,7 +18,7 @@ publish: true
 #### Optimale Entscheidungen
 
 > [!note] Merke
-> Was Du bereit bist für das andere Gut aufzugeben ([[Grenzrate der Substitution (MRS)|MRS]]) ist genau gleich dem was Du aufgeben musst ([[Grenzrate der Transformation|MRT]])
+> Was Du bereit bist für das andere Gut aufzugeben ([[Grenzrate der Substitution|MRS]]) ist genau gleich dem was Du aufgeben musst ([[Grenzrate der Transformation|MRT]])
 
 - Daraus folgt: $\text{ MRS } = \text{ MRT }$
 

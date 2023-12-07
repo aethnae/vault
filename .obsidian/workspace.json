@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a925e6c904f9833",
+        "id": "77fdafb16292322a",
         "type": "tabs",
         "children": [
           {
-            "id": "7b48b48f1d10d54f",
+            "id": "979b48d80c946eef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Schwaches Axiom der Bekundeten Präferenzen.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
       {
         "id": "ce17988e31e66ad3",
         "type": "tabs",
-        "dimension": 43.533568904593636,
+        "dimension": 55.855855855855864,
         "children": [
           {
             "id": "e041748da01c05af",
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#folgen",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,26 +70,9 @@
         ]
       },
       {
-        "id": "f47073b76d10b071",
-        "type": "tabs",
-        "dimension": 24.452296819787986,
-        "children": [
-          {
-            "id": "9fc406a37397d6e2",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "4cae0943d8942f29",
         "type": "tabs",
-        "dimension": 32.014134275618375,
+        "dimension": 44.144144144144136,
         "children": [
           {
             "id": "110820e6469f9f65",
@@ -97,9 +80,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Schwaches Axiom der Bekundeten Präferenzen.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -108,7 +91,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
                   "collapse-display": false,
                   "showArrow": false,
@@ -120,7 +103,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6113273100834143,
+                  "scale": 1.2990150286159956,
                   "close": true
                 }
               }
@@ -141,18 +124,27 @@
         "type": "tabs",
         "children": [
           {
+            "id": "5767c389ed91eef4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Schwaches Axiom der Bekundeten Präferenzen.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "ba8653a4649b74c5",
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "51765abe1eb47d88",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
               "state": {}
             }
           },
@@ -176,12 +168,30 @@
             }
           },
           {
+            "id": "51765abe1eb47d88",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
             "id": "0f6fcecc9b6e74e3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Schwaches Axiom der Bekundeten Präferenzen.md"
+              }
+            }
+          },
+          {
+            "id": "9fc406a37397d6e2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           },
@@ -191,30 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5ee73d12479b64cb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5767c389ed91eef4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Schwaches Axiom der Bekundeten Präferenzen.md"
               }
             }
           }
@@ -230,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Schwaches Axiom der Bekundeten Präferenzen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,10 +247,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7b48b48f1d10d54f",
+  "active": "110820e6469f9f65",
   "lastOpenFiles": [
-    "university/Mathematik I/Rechengesetze.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Grenzrate der Transformation.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Schwaches Axiom der Bekundeten Präferenzen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Bekundete Präferenzen.md",
     "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
+    "university/Mathematik I/Rechengesetze.md",
     "university/Fehlende Beiträge.md",
     "university/Neue Beiträge.md",
     "university/Willkommen!.md",
@@ -271,7 +262,6 @@
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Produktionsfunktion.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Beschränktheit von Folgen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Untitled.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Homothetische Präferenzen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Konvexität.md",
@@ -286,10 +276,7 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Cobb-Douglas-Präferenzen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Normale und inferiore Güter.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Quasilineare Präferenzen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Optimale Entscheidung.md",
     "files/Pasted image 20231206163848.png",
-    "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Tangentialbedingung.md",
     "dfn/Mitteilungen/Roadmap.pdf",
     "dfn/Mitteilungen/Roadmap.tex",
     "dfn/Zeitstrahl",

@@ -3,6 +3,8 @@ tags:
   - präferenzen
 week: 2023-10-25
 flashcard: true
+aliases:
+  - MRS
 ---
 ***
 

@@ -21,7 +21,7 @@ $$
 \end{gathered}
 $$
 
-Also: [[Opportunitätskosten|OC]] von Gut 1 gleich [[Grenzrate der Substitution (MRS)|MRS]] für Gut 1 . Dies gilt dann auch für Gut 2, also kurz gesagt: $\mathrm{MRS}=\mathrm{OC}$ !
+Also: [[Opportunitätskosten|OC]] von Gut 1 gleich [[Grenzrate der Substitution|MRS]] für Gut 1 . Dies gilt dann auch für Gut 2, also kurz gesagt: $\mathrm{MRS}=\mathrm{OC}$ !
 
 Das nennt man die Tangentialbedingung. (TB)
 
