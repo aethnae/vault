@@ -17,5 +17,5 @@ publish: true
 
 ![[Pasted image 20231204195941.png|center|]]
 
-**Rückstellungen sind Periodenabgrenzungen [[Accrual|Accruals]]**:
+**Rückstellungen sind Periodenabgrenzungen ([[Accrual|Accruals]])**:
 ![[Pasted image 20231204200023.png]]

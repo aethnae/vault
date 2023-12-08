@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6b719deb2f4dc8a7",
+        "id": "9535281485169372",
         "type": "tabs",
         "children": [
           {
-            "id": "4fff2e5b2a4c96a4",
+            "id": "1940ace6cfd8c723",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Willkommen!.md",
+                "file": "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Personalbuchhaltung.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Willkommen!.md",
+                "file": "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Personalbuchhaltung.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Willkommen!.md",
+                "file": "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Personalbuchhaltung.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Willkommen!.md"
+                "file": "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Personalbuchhaltung.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Willkommen!.md"
+                "file": "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Personalbuchhaltung.md"
               }
             }
           }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Willkommen!.md",
+                "file": "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Personalbuchhaltung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,8 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,8 +247,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4fff2e5b2a4c96a4",
+  "active": "1940ace6cfd8c723",
   "lastOpenFiles": [
+    "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Preisnachlässe.md",
+    "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Rückstellungen.md",
+    "university/Willkommen!.md",
     "university/Neue Beiträge.md",
     "university/Fehlende Beiträge.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Hicks-Substitutionseffekt.md",
@@ -273,10 +275,7 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
     "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
     "university/Mathematik I/Rechengesetze.md",
-    "university/Willkommen!.md",
     "university/Mathematik I/Test.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Produktionsfunktion.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Beschränktheit von Folgen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen",
     "files/Pasted image 20231206163848.png",
     "dfn/Mitteilungen/Roadmap.pdf",
