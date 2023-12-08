@@ -11,8 +11,12 @@
             "id": "f6db6406dc43b59a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Brutto- und Nettorente.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -76,6 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Brutto- und Nettorente.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Brutto- und Nettorente.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Brutto- und Nettorente.md"
+              }
             }
           },
           {
@@ -192,7 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Brutto- und Nettorente.md"
+              }
             }
           }
         ]
@@ -207,6 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Brutto- und Nettorente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
