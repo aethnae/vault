@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Slutsky-Identität.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Vorbehaltspreise.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Slutsky-Identität.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Vorbehaltspreise.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Slutsky-Identität.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Vorbehaltspreise.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Slutsky-Identität.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Vorbehaltspreise.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Slutsky-Identität.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Vorbehaltspreise.md"
               }
             }
           }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Slutsky-Identität.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Vorbehaltspreise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,9 +249,13 @@
   },
   "active": "1fc158bdd7c87613",
   "lastOpenFiles": [
+    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Substitute und Komplemente.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Vorbehaltspreise.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Untitled.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Slutsky-Identität.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente",
     "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Substitutionseffekt.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Einkommenseffekt.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Slutsky-Identität.md",
     "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Personalbuchhaltung.md",
     "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Preisnachlässe.md",
     "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Rückstellungen.md",
@@ -273,9 +277,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Budgetgerade.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Bekundete Präferenzen.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Grenzrate der Transformation.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
-    "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
-    "university/Mathematik I/Rechengesetze.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen",
     "files/Pasted image 20231206163848.png",
     "dfn/Mitteilungen/Roadmap.pdf",
@@ -295,7 +296,6 @@
     "university/Mathematik I/Konzepte/Einschub - mathematische Beweisführung",
     "files/Pasted image 20231129190146.png",
     "university/Externes Rechnungswesen/Konzepte/Steuern",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
     "school/Englisch/Globalisation/Benefits of Globalisation.canvas"
