@@ -15,7 +15,7 @@ Diese wird durch
 
 $$
 \begin{gathered}
-\Delta x_1=\Delta x_1^5+\Delta x_1^n \\
+\Delta x_1=\Delta x_1^s+\Delta x_1^n \\
 x_1\left(p_1^{\prime}, m\right)-x_1\left(p_1, m\right)=\left[x_1\left(p_1^{\prime}, m^{\prime}\right)-x_1\left(p_1, m\right)\right]+\left[x_1\left(p_1^{\prime}, m\right)-x_1\left(p_1^{\prime}, m^{\prime}\right)\right]
 \end{gathered}
 $$
@@ -24,6 +24,12 @@ ausgedrückt. Durch Kürzen des ersten und vierten Terms ergibt sich die Identit
 
 $$
 x_{1}(p_{1}^{'}, m) - x_{1}(p_{1}, m) = x_{1}(p_{1}^{'}, m) - x_{1}(p_{1}, m)
+$$
+
+Um die Slutsky-Identität in Form der ersten Ableitung unter Anwendung der Differentialrechnung zu erhalten, differenzieren wir:
+
+$$
+\frac{ \partial x_{1} (p_{1}, p_{2}, \bar{m}) }{ \partial p_{1} } = \frac{ \partial x_{1}^{s} (p_{1}, p_{2}, \bar{x_{1}}, \bar{x_{2}}) }{ \partial p_{1} } + \frac{ \partial x_{1}(p_{1}, p_{2}, \bar{m}) }{ \partial m } \bar{x_{1}}
 $$
 
 ***

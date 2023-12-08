@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9535281485169372",
+        "id": "5620720c2dd47b55",
         "type": "tabs",
         "children": [
           {
-            "id": "1940ace6cfd8c723",
+            "id": "1fc158bdd7c87613",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Personalbuchhaltung.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Slutsky-Identität.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Personalbuchhaltung.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Slutsky-Identität.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Personalbuchhaltung.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Slutsky-Identität.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Personalbuchhaltung.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Slutsky-Identität.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Personalbuchhaltung.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Slutsky-Identität.md"
               }
             }
           }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Personalbuchhaltung.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Slutsky-Identität.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,18 +247,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1940ace6cfd8c723",
+  "active": "1fc158bdd7c87613",
   "lastOpenFiles": [
+    "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Substitutionseffekt.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Einkommenseffekt.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Slutsky-Identität.md",
+    "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Personalbuchhaltung.md",
     "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Preisnachlässe.md",
     "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Rückstellungen.md",
     "university/Willkommen!.md",
     "university/Neue Beiträge.md",
     "university/Fehlende Beiträge.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Hicks-Substitutionseffekt.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Slutsky-Identität.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Substitutionseffekt.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Normale und inferiore Güter.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Einkommenseffekt.md",
     "university/Mathematik I/LaTeX Snippets.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Homothetische Präferenzen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Einkommensexpansionspfade.md",
@@ -275,7 +276,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
     "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
     "university/Mathematik I/Rechengesetze.md",
-    "university/Mathematik I/Test.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen",
     "files/Pasted image 20231206163848.png",
     "dfn/Mitteilungen/Roadmap.pdf",
