@@ -52,4 +52,4 @@ $$
 $$
 
 Wenn der Einkommenseffekt groß genug ist, dann könnte die gesamte Änderung der Nachfrage positiv sein. Das würde bedeuten, dass sich aus einem Preisanstieg eine *Zunahme* der Nachfrage ergeben könnte. Das ist der Fall eines [[Gewöhnliche und Giffen-Güter#Giffen-Gut|Giffen-Gutes]].
-Daher muss ein Giffen-Gut ein inferiores Gut sein.
+Daher muss ein Giffen-Gut ein inferiores Gut sein - ein inferiores Gut ist jedoch nicht automatisch ein Giffen Gut, denn dieses muss "inferior genug" sein, damit der Einkommenseffekt den Substitutionseffekt ausgleicht, und für einen positiven Preiseffekt sorgt.
