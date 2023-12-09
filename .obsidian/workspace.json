@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Rationale Funktionen.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Marginalanalyse.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Rationale Funktionen.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Marginalanalyse.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Rationale Funktionen.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Marginalanalyse.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Rationale Funktionen.md"
+                "file": "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Marginalanalyse.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Rationale Funktionen.md"
+                "file": "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Marginalanalyse.md"
               }
             }
           }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Rationale Funktionen.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Marginalanalyse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,11 +249,13 @@
   },
   "active": "46b8832247b19c36",
   "lastOpenFiles": [
+    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Rationale Funktionen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Marginalanalyse.md",
+    "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Regel von L'Hospital.md",
+    "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung",
     "files/Pasted image 20231209222440.png",
     "files/Pasted image 20231209221524.png",
     "files/Pasted image 20231209221359.png",
-    "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Regel von L'Hospital.md",
-    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Rationale Funktionen.md",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Taylorpolynome.md",
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte",
     "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Links- und rechtsseitige Grenzwerte.md",
@@ -293,9 +295,7 @@
     "files/Pasted image 20231204211610.png",
     "files/Pasted image 20231204210712.png",
     "files/Pasted image 20231204200809.png",
-    "files/Pasted image 20231204200023.png",
     "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen",
-    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
     "school/Englisch/Globalisation/Benefits of Globalisation.canvas"
