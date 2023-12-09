@@ -28,4 +28,3 @@ publish: true
 
 > [!abstract] Definition
 > Die Veränderung der Rente einer Konsumentin als Folge einer Preisänderung wird mit $T + R$ angegeben. $R$ misst hierbei den Verlust der Rente, der daraus entsteht, dass die Konsumentin die Güter nun anstatt des Preises $p'$ zum höheren Preis $p''$ konsumieren muss. $T$ misst den Wert des *entgangenen* Konsums des x-Gutes, der entstanden ist, da die Konsumentin aufgrund der höheren Preise weniger konsumiert.
-
