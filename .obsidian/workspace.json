@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "066ce7d266a735b1",
+        "id": "9fde24b6125dd9ea",
         "type": "tabs",
         "children": [
           {
-            "id": "78343c34e73de2b2",
+            "id": "866e2f19e35827ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
+                "file": "university/Mathematik I/Übungsblätter/Übungsblatt 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9db273f115f1f0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9498d4601114ac0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differenzierbarkeit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -80,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -113,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 288.5,
+    "collapsed": true
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -129,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md"
+                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md"
               }
             }
           },
@@ -201,7 +227,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md"
+                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md"
               }
             }
           }
@@ -217,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +253,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,13 +274,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78343c34e73de2b2",
+  "active": "a9db273f115f1f0d",
   "lastOpenFiles": [
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
+    "university/Mathematik I/Übungsblätter/Übungsblatt 4.md",
+    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differenzierbarkeit.md",
+    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Stetigkeit.md",
+    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Zwischenwertsatz.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Polynomfunktionen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Links- und rechtsseitige Grenzwerte.md",
+    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md",
+    "university/Mathematik I/Rechengesetze.md",
+    "school/Mathe/Differentialrechnung/Kettenregel.md",
+    "school/Mathe/Differentialrechnung/Produktregel.md",
+    "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
+    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Durchschnittsfunktionen.md",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Logistische Funktionen.md",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Marginalanalyse.md",
+    "school/Mathe/Binomische Formeln.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
     "files/Pasted image 20231210011805.png",
     "university/Mathematik I/LaTeX Snippets.md",
     "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Rationale Funktionen.md",
@@ -264,24 +304,11 @@
     "files/Pasted image 20231209221359.png",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Taylorpolynome.md",
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte",
-    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Links- und rechtsseitige Grenzwerte.md",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Tangenten.md",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Satz von Taylor.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differenzierbarkeit.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md",
     "misc/Essence of Calculus/Overview.md",
-    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Stetigkeit.md",
     "university/Mathematik I/Konzepte/Vorkurs/Integration/Bestimmte Integrale.md",
     "misc/Essence of Calculus",
-    "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Brutto- und Nettorente.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Kompensatorische und äquivalente Variation.md",
-    "university/Mathematik I/Rechengesetze.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Vorbehaltspreise.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Nachfrage nach einem unteilbaren Gut.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Vorbehaltspreis.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Substitute und Komplemente.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Slutsky-Identität.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente",
     "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen",
     "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen",

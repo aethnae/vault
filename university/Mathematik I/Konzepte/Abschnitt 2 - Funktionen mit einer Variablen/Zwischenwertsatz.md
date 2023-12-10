@@ -12,5 +12,4 @@ publish: true
 > 
 > Daraus folgt:
 > 
-> Sei $f$ auf $[a, b]$ stetig mit $f(a)>0$ und $f(b)<0($ oder $f(a)<0$ und $f(b)>0)$. Dann hat $f$ mindestens eine Nullstelle im Intervall $[a, b]$.
-
+> Sei $f$ auf $[a, b]$ stetig mit $f(a)>0$ und $f(b)<0$ (oder $f(a)<0$ und $f(b)>0$). Dann hat $f$ mindestens eine Nullstelle im Intervall $[a, b]$.

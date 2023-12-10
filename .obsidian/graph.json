@@ -11,28 +11,28 @@
       "query": "path:dfn  ",
       "color": {
         "a": 1,
-        "rgb": 6059222
+        "rgb": 1187514
       }
     },
     {
       "query": "path:university  ",
       "color": {
         "a": 1,
-        "rgb": 7788124
-      }
-    },
-    {
-      "query": "path:school  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048460
+        "rgb": 13567751
       }
     },
     {
       "query": "path:misc  ",
       "color": {
         "a": 1,
-        "rgb": 6084296
+        "rgb": 2481677
+      }
+    },
+    {
+      "query": "path:school",
+      "color": {
+        "a": 1,
+        "rgb": 16774912
       }
     }
   ],
@@ -41,11 +41,11 @@
   "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 0.93560791015625,
   "lineSizeMultiplier": 2.14485677083333,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.501505533854167,
+  "repelStrength": 10.4402669270833,
+  "linkStrength": 0.833455403645833,
   "linkDistance": 250,
-  "scale": 0.29751041897787633,
+  "scale": 0.2480703547733912,
   "close": true
 }

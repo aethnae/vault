@@ -31,5 +31,6 @@ Dann ist
 | ------------------- | --------------------------------------------- | ------------------------- |
 | Kostenfunktion      | $K(x)$ <br> Kosten für Menge x                | $K'(x)$ <br> Grenzkosten  |
 | Gewinnfunktion      | $G(x)$ <br> Gewinn bei Produktion von $x$     | $G'(x)$ <br> Grenzgewinn  |
-| Produktionsfunktion | $Y(r)$ <br> produzierte Menge bei Einsatz $r$ | $K'(r)$ <br> Grenzprodukt | 
+| Produktionsfunktion | $Y(r)$ <br> produzierte Menge bei Einsatz $r$ | $K'(r)$ <br> Grenzprodukt |
+
 

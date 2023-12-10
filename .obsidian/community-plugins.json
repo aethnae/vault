@@ -20,5 +20,6 @@
   "table-checkboxes",
   "obsidian-pandoc",
   "table-editor-obsidian",
-  "inline-math"
+  "inline-math",
+  "obsidian-tikzjax"
 ]

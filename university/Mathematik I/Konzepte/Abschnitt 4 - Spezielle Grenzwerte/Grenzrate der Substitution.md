@@ -27,14 +27,7 @@ publish: true
 > $$
 
 - Der Zusammenhang $y = h(x)$ gibt für jedes $x$ an, wie $y$ gewählt werden muss, damit der Output $c$ erzielt wird
-
-Die Ableitung
-
-$$
-\frac{ d y }{ d x } = h'(x)
-$$
-
-heißt [[university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution|Grenzrate der Substitution]].
+- Die Ableitung $\frac{ d y }{ d x } = h'(x)$ heißt [[university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution|Grenzrate der Substitution]].
 
 **Interpretation:**
 Bei Veränderung des Produktionsfaktors $x$ um 1 Einheit:
