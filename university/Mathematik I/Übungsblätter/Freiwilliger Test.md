@@ -1,6 +1,9 @@
 ---
 tags:
   - übung
+  - folgen
+  - reihen
+  - grenzwerte
 week: 2023-11-28
 publish: true
 ---
