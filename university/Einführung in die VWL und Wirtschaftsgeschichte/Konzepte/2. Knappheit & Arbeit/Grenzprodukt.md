@@ -13,4 +13,4 @@ publish: true
 >\frac{\Delta u}{\Delta x} \rightarrow \frac{d f(x)}{d x}
 >$$
 
-*Für eine ausführlichere Definition und Anwendungen, siehe [[Grenzrate der Substitution]].*
+*Für eine ausführlichere Definition und Anwendungen, siehe [[university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution]].*

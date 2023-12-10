@@ -18,7 +18,7 @@ aliases:
 #### Optimale Entscheidungen
 
 > [!note] Merke
-> Was Du bereit bist für das andere Gut aufzugeben ([[Grenzrate der Substitution|MRS]]) ist genau gleich dem was Du aufgeben musst ([[Grenzrate der Transformation|MRT]])
+> Was Du bereit bist für das andere Gut aufzugeben ([[university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution|MRS]]) ist genau gleich dem was Du aufgeben musst ([[Grenzrate der Transformation|MRT]])
 
 - Daraus folgt: $\text{ MRS } = \text{ MRT }$
 

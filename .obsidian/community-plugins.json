@@ -1,10 +1,8 @@
 [
-  "table-editor-obsidian",
   "code-block-copy",
   "obsidian-timeline",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-advanced-uri",
-  "obsidian-outliner",
   "dataview",
   "obsidian-admonition",
   "obsidian-latex-suite",
@@ -20,5 +18,7 @@
   "obsidian-linter",
   "tag-wrangler",
   "table-checkboxes",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "table-editor-obsidian",
+  "inline-math"
 ]
