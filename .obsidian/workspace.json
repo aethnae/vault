@@ -44,7 +44,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -105,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md",
+                "file": "university/Mathematik I/Übungsblätter/Übungsblatt 4.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md",
+                "file": "university/Mathematik I/Übungsblätter/Übungsblatt 4.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md"
+                "file": "university/Mathematik I/Übungsblätter/Übungsblatt 4.md"
               }
             }
           },
@@ -227,7 +226,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md"
+                "file": "university/Mathematik I/Übungsblätter/Übungsblatt 4.md"
               }
             }
           }
@@ -243,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md",
+                "file": "university/Mathematik I/Übungsblätter/Übungsblatt 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,8 +273,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9db273f115f1f0d",
+  "active": "e041748da01c05af",
   "lastOpenFiles": [
+    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md",
     "university/Mathematik I/Übungsblätter/Übungsblatt 4.md",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differenzierbarkeit.md",
     "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Stetigkeit.md",
@@ -288,7 +288,6 @@
     "school/Mathe/Differentialrechnung/Produktregel.md",
     "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Durchschnittsfunktionen.md",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Logistische Funktionen.md",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Marginalanalyse.md",

@@ -220,7 +220,7 @@ Da $g(x)$ nicht linksseitig stetig ist, existiert keine linksseitige Ableitung $
 *Berechnen Sie das Differential $\mathrm{d} f$ der Funktion $f$ an der Stelle $x_0=0$.*
 
 **(b)**
-Nutzen Sie das Differential aus (a), um die Näherung*
+*Nutzen Sie das Differential aus (a), um die Näherung*
 
 $$
 (1+x)^m \approx 1+m x \quad \text { für } x \text { nahe bei } 0
@@ -234,3 +234,14 @@ $$
 ***
 
 **(a)**
+$$
+\mathrm{d}f = f'(x_{0})\mathrm{d}x
+$$
+
+also
+
+$$
+\mathrm{d}f = m\mathrm{d}x
+$$
+
+**(b)**
