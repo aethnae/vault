@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "859ac2d23786e7bf",
+        "id": "18e4c55aa4af0504",
         "type": "tabs",
         "children": [
           {
-            "id": "c0646c367ec9b0c6",
+            "id": "7fb097489ff22c95",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Vorlesungsnotizen.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Vorlesungsnotizen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -110,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -144,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Vorlesungsnotizen.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,9 +174,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Vorlesungsnotizen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -199,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Vorlesungsnotizen.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -218,7 +209,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Vorlesungsnotizen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,8 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,10 +253,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "c0646c367ec9b0c6",
+  "active": "7fb097489ff22c95",
   "lastOpenFiles": [
-    "test.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Vorlesungsnotizen.md",
+    "test.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Spieltheorie/Nash-Gleichgewicht.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Grenznutzen.md",
     "university/Mathematik I/Übungsblätter/Übungsblatt 4.md",
