@@ -20,8 +20,6 @@
   "obsidian-pandoc",
   "table-editor-obsidian",
   "inline-math",
-  "obsidian-tikzjax",
   "obsidian-citation-plugin",
-  "obsidian-pandoc-reference-list",
-  "obsidian-annotator"
+  "obsidian-pandoc-reference-list"
 ]

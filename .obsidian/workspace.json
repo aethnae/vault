@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "18e4c55aa4af0504",
+        "id": "fde328f57909082c",
         "type": "tabs",
         "children": [
           {
-            "id": "7fb097489ff22c95",
+            "id": "2231704219e543e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Angebotsfunktion.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Angebotsfunktion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 270.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -140,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Angebotsfunktion.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Angebotsfunktion.md"
+              }
             }
           },
           {
@@ -192,7 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Angebotsfunktion.md"
+              }
             }
           }
         ],
@@ -209,6 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Angebotsfunktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,20 +264,27 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "7fb097489ff22c95",
+  "active": "2231704219e543e6",
   "lastOpenFiles": [
+    "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Kompensatorische und äquivalente Variation.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Angebotsfunktion.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Brutto- und Nettorente.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Inverse Nachfragefunktionen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Vorbehaltspreise.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Vorbehaltspreise.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Untitled",
+    "university/Mikroökonomie I/Übungen/Übungsblatt 4.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Externe Effekte.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Vorlesungsnotizen.md",
+    "Untitled.md",
     "test.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Spieltheorie/Nash-Gleichgewicht.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Grenznutzen.md",
     "university/Mathematik I/Übungsblätter/Übungsblatt 4.md",
-    "Untitled.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test.md",
-    "university/Mikroökonomie I/Übungen/Übungsblatt 4.md",
     "university/Literature Notes/Clio and the Economics of QWERTY.md",
     "files/Vorlesungsfolien/Einführung in die VWL & Wirtschaftsgeschichte",
     "files/Vorlesungsfolien",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Externe Effekte.md",
     "files/Vorlesungsfolien/Einführung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik",
@@ -281,20 +299,13 @@
     "university/Literature Notes/The Holy See and Israel_ The Historic Fight against the Jews and their State.md",
     "university/Literature Notes/John Maynard Keynes 1883-1946.md",
     "university/Literature Notes/@Clio and the Economics of QWERTY.md",
-    "university/Literature Notes/@davidClioEconomicsQWERTY1985.md",
-    "university/Literature Notes/@schumpeterJohnMaynardKeynes1946.md",
     "university/Literature Notes",
-    "@zotero-1.md",
-    "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
-    "university/Mathematik I/Rechengesetze.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md",
     "files/Pasted image 20231210011805.png",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung",
     "files/Pasted image 20231209222440.png",
     "files/Pasted image 20231209221524.png",
     "files/Pasted image 20231209221359.png",
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte",
-    "misc/Essence of Calculus",
     "files/Pasted image 20231206163848.png",
     "Untitled.canvas",
     "files/Pasted image 20231122232451.png",
