@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7572ecfca6932db2",
+        "id": "f6bc2f6cb9a13bfb",
         "type": "tabs",
         "children": [
           {
-            "id": "cd3ff1e751569f4b",
+            "id": "80f3262b840b1be1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md"
+              }
             }
           },
           {
@@ -193,7 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md"
+              }
             }
           }
         ],
@@ -210,6 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,8 +264,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cd3ff1e751569f4b",
+  "active": "80f3262b840b1be1",
   "lastOpenFiles": [
+    "test.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md",
     "university/Mathematik I/LaTeX Snippets.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
     "university/Literature Notes/Clio and the Economics of QWERTY.md",
@@ -281,8 +293,6 @@
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md",
     "school/Mathe/Differentialrechnung/Kettenregel.md",
     "school/Mathe/Differentialrechnung/Produktregel.md",
-    "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
-    "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Durchschnittsfunktionen.md",
     "files/Pasted image 20231210011805.png",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung",
     "files/Pasted image 20231209222440.png",
