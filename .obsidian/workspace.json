@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "77fdafb16292322a",
+        "id": "7572ecfca6932db2",
         "type": "tabs",
         "children": [
           {
-            "id": "979b48d80c946eef",
+            "id": "cd3ff1e751569f4b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -254,8 +254,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "79ded24ae5a22d5d",
+  "active": "cd3ff1e751569f4b",
   "lastOpenFiles": [
+    "university/Mathematik I/LaTeX Snippets.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
     "university/Literature Notes/Clio and the Economics of QWERTY.md",
     "university/Literature Notes/1. Die kapitalistische Revolution – Die Wirtschaft.md",
@@ -282,7 +283,6 @@
     "school/Mathe/Differentialrechnung/Produktregel.md",
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Durchschnittsfunktionen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Logistische Funktionen.md",
     "files/Pasted image 20231210011805.png",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung",
     "files/Pasted image 20231209222440.png",
