@@ -11,8 +11,12 @@
             "id": "815ecf5f8af42c2f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university/Literature Notes/Clio and the Economics of QWERTY.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -76,6 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university/Literature Notes/Clio and the Economics of QWERTY.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university/Literature Notes/Clio and the Economics of QWERTY.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university/Literature Notes/Clio and the Economics of QWERTY.md"
+              }
             }
           },
           {
@@ -192,7 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university/Literature Notes/Clio and the Economics of QWERTY.md"
+              }
             }
           }
         ]
@@ -207,12 +217,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university/Literature Notes/Clio and the Economics of QWERTY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "5e686a648193c182",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -238,6 +258,14 @@
   },
   "active": "815ecf5f8af42c2f",
   "lastOpenFiles": [
+    "university/Literature Notes/John Maynard Keynes 1883-1946.md",
+    "university/Literature Notes/Clio and the Economics of QWERTY.md",
+    "university/Literature Notes/@Clio and the Economics of QWERTY.md",
+    "university/Willkommen!.md",
+    "university/Literature Notes/@davidClioEconomicsQWERTY1985.md",
+    "university/Literature Notes/@schumpeterJohnMaynardKeynes1946.md",
+    "university/Literature Notes",
+    "@zotero-1.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test.md",
     "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
     "university/Mathematik I/Übungsblätter/Übungsblatt 4.md",
@@ -258,18 +286,11 @@
     "school/Mathe/Binomische Formeln.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
     "files/Pasted image 20231210011805.png",
-    "university/Mathematik I/LaTeX Snippets.md",
-    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Rationale Funktionen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Regel von L'Hospital.md",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung",
     "files/Pasted image 20231209222440.png",
     "files/Pasted image 20231209221524.png",
     "files/Pasted image 20231209221359.png",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Taylorpolynome.md",
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Tangenten.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Satz von Taylor.md",
-    "misc/Essence of Calculus/Overview.md",
     "misc/Essence of Calculus",
     "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente",
     "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen",
@@ -284,7 +305,6 @@
     "files/Pasted image 20231204212640.png",
     "files/Pasted image 20231204211610.png",
     "files/Pasted image 20231204210712.png",
-    "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
     "school/Englisch/Globalisation/Benefits of Globalisation.canvas"

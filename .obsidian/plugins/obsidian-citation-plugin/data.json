@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "{{title}}",
+  "literatureNoteFolder": "university/Literature Notes",
+  "literatureNoteContentTemplate": "---\nYear: \"{{year}}\"\nAuthor: \"{{authorString}}\"\nTags: \n  - '#paper'\nURL: \"{{URL}}\"\nDOI: \"{{DOI}}\"\nCite Key: \"[@{{citekey}}]\"\nLinks: \n  - \n---\n### {{title}}\n***\nreleased **{{year}}) by {{authorString}}**\n***\n#### Abstract\n```\n{{abstract}}\n```\n\n#### Notes\n{{note}}",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "/Users/aethnae/Desktop/My Library.bib"
+}

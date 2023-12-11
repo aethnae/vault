@@ -1,0 +1,19 @@
+{
+  "pathToPandoc": "/usr/local/bin/pandoc",
+  "tooltipDelay": 400,
+  "zoteroGroups": [
+    {
+      "id": 1,
+      "name": "My Library"
+    }
+  ],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pathToBibliography": "/Users/aethnae/Desktop/My Library.bib",
+  "pullFromZotero": false,
+  "enableCiteKeyCompletion": true,
+  "showCitekeyTooltips": true,
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-author-date.csl",
+  "cslLang": "en-GB"
+}
