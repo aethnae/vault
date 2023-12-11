@@ -11,14 +11,14 @@
       "query": "path:dfn  ",
       "color": {
         "a": 1,
-        "rgb": 1187514
+        "rgb": 14684176
       }
     },
     {
       "query": "path:university  ",
       "color": {
         "a": 1,
-        "rgb": 13567751
+        "rgb": 34047
       }
     },
     {
@@ -46,6 +46,6 @@
   "repelStrength": 10.4402669270833,
   "linkStrength": 0.833455403645833,
   "linkDistance": 250,
-  "scale": 1.6128381585758047,
+  "scale": 0.6266055945159984,
   "close": true
 }

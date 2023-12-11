@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f6bc2f6cb9a13bfb",
+        "id": "198a7c6a81d8d00b",
         "type": "tabs",
         "children": [
           {
-            "id": "80f3262b840b1be1",
+            "id": "74fe8a2f61dc4819",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md",
-                "mode": "source",
-                "source": false
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Vorlesungsnotizen.md"
               }
             }
           }
@@ -79,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Vorlesungsnotizen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -145,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Vorlesungsnotizen.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md"
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Vorlesungsnotizen.md"
               }
             }
           },
@@ -201,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md"
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Vorlesungsnotizen.md"
               }
             }
           }
@@ -219,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Vorlesungsnotizen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,33 +243,44 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "publish:Publish changes...": false,
-      "switcher:Open quick switcher": false,
+      "workspaces:Manage workspace layouts": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": true,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "workspaces:Manage workspace layouts": false
+      "darlal-switcher-plus:Open in Headings Mode": true,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "80f3262b840b1be1",
+  "active": "74fe8a2f61dc4819",
   "lastOpenFiles": [
-    "test.md",
+    "university/Literature Notes/Clio and the Economics of QWERTY.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Grenznutzen.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Vorlesungsnotizen.md",
+    "files/Vorlesungsfolien/Einführung in die VWL & Wirtschaftsgeschichte",
+    "files/Vorlesungsfolien",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Externe Effekte.md",
+    "files/Vorlesungsfolien/Einführung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/Untitled.md",
+    "files/VL 8 WS2324.pdf",
+    "files/Unconfirmed 845975.crdownload",
+    "test.md",
     "university/Mathematik I/LaTeX Snippets.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
-    "university/Literature Notes/Clio and the Economics of QWERTY.md",
     "university/Literature Notes/1. Die kapitalistische Revolution – Die Wirtschaft.md",
     "university/Willkommen!.md",
     "university/Literature Notes/The Holy See and Israel_ The Historic Fight against the Jews and their State.md",
@@ -289,10 +299,6 @@
     "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Zwischenwertsatz.md",
     "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Stetigkeit.md",
     "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Polynomfunktionen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Links- und rechtsseitige Grenzwerte.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md",
-    "school/Mathe/Differentialrechnung/Kettenregel.md",
-    "school/Mathe/Differentialrechnung/Produktregel.md",
     "files/Pasted image 20231210011805.png",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung",
     "files/Pasted image 20231209222440.png",
@@ -300,13 +306,7 @@
     "files/Pasted image 20231209221359.png",
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte",
     "misc/Essence of Calculus",
-    "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente",
-    "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen",
-    "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen",
     "files/Pasted image 20231206163848.png",
-    "dfn/Mitteilungen/Roadmap.pdf",
-    "dfn/Mitteilungen/Roadmap.tex",
-    "dfn/Zeitstrahl",
     "Untitled.canvas",
     "files/Pasted image 20231122232451.png",
     "files/Pasted image 20231204212750.png",
