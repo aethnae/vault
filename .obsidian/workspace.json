@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e8b4c2e8dfc6fac3",
+        "id": "77fdafb16292322a",
         "type": "tabs",
         "children": [
           {
-            "id": "815ecf5f8af42c2f",
+            "id": "979b48d80c946eef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Literature Notes/Clio and the Economics of QWERTY.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -32,7 +28,7 @@
       {
         "id": "ce17988e31e66ad3",
         "type": "tabs",
-        "dimension": 55.855855855855864,
+        "dimension": 62.16216216216216,
         "children": [
           {
             "id": "e041748da01c05af",
@@ -50,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:funktionen",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +68,7 @@
       {
         "id": "4cae0943d8942f29",
         "type": "tabs",
-        "dimension": 44.144144144144136,
+        "dimension": 37.83783783783784,
         "children": [
           {
             "id": "110820e6469f9f65",
@@ -80,9 +76,8 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Literature Notes/Clio and the Economics of QWERTY.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -91,7 +86,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": false,
                   "showArrow": false,
@@ -113,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 278.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -122,14 +117,30 @@
       {
         "id": "be7961eba01397a0",
         "type": "tabs",
+        "dimension": 40.044994375703034,
         "children": [
+          {
+            "id": "ba8653a4649b74c5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "51765abe1eb47d88",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
           {
             "id": "5767c389ed91eef4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Literature Notes/Clio and the Economics of QWERTY.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,14 +149,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "ba8653a4649b74c5",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -168,21 +171,11 @@
             }
           },
           {
-            "id": "51765abe1eb47d88",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
-          },
-          {
             "id": "0f6fcecc9b6e74e3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university/Literature Notes/Clio and the Economics of QWERTY.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,16 +193,16 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university/Literature Notes/Clio and the Economics of QWERTY.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "f337bac5fba544fc",
+        "id": "587d7e62a66052db",
         "type": "tabs",
+        "dimension": 29.02137232845895,
         "children": [
           {
             "id": "79ded24ae5a22d5d",
@@ -217,22 +210,27 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Literature Notes/Clio and the Economics of QWERTY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "ee23c133083ceb1c",
+        "type": "tabs",
+        "dimension": 30.93363329583802,
+        "children": [
           {
-            "id": "5e686a648193c182",
+            "id": "7ff3c2c22edf1082",
             "type": "leaf",
             "state": {
               "type": "ReferenceListView",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -247,21 +245,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "815ecf5f8af42c2f",
+  "active": "79ded24ae5a22d5d",
   "lastOpenFiles": [
-    "university/Literature Notes/John Maynard Keynes 1883-1946.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
     "university/Literature Notes/Clio and the Economics of QWERTY.md",
-    "university/Literature Notes/@Clio and the Economics of QWERTY.md",
+    "university/Literature Notes/1. Die kapitalistische Revolution – Die Wirtschaft.md",
     "university/Willkommen!.md",
+    "university/Literature Notes/The Holy See and Israel_ The Historic Fight against the Jews and their State.md",
+    "university/Literature Notes/John Maynard Keynes 1883-1946.md",
+    "university/Literature Notes/@Clio and the Economics of QWERTY.md",
     "university/Literature Notes/@davidClioEconomicsQWERTY1985.md",
     "university/Literature Notes/@schumpeterJohnMaynardKeynes1946.md",
     "university/Literature Notes",
@@ -282,9 +283,6 @@
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Durchschnittsfunktionen.md",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Logistische Funktionen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Marginalanalyse.md",
-    "school/Mathe/Binomische Formeln.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
     "files/Pasted image 20231210011805.png",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung",
     "files/Pasted image 20231209222440.png",

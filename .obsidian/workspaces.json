@@ -30,7 +30,7 @@
           {
             "id": "ce17988e31e66ad3",
             "type": "tabs",
-            "dimension": 55.855855855855864,
+            "dimension": 62.16216216216216,
             "children": [
               {
                 "id": "e041748da01c05af",
@@ -70,7 +70,7 @@
           {
             "id": "4cae0943d8942f29",
             "type": "tabs",
-            "dimension": 44.144144144144136,
+            "dimension": 37.83783783783784,
             "children": [
               {
                 "id": "110820e6469f9f65",
@@ -119,6 +119,7 @@
           {
             "id": "be7961eba01397a0",
             "type": "tabs",
+            "dimension": 40.044994375703034,
             "children": [
               {
                 "id": "ba8653a4649b74c5",
@@ -201,8 +202,9 @@
             "currentTab": 2
           },
           {
-            "id": "f337bac5fba544fc",
+            "id": "587d7e62a66052db",
             "type": "tabs",
+            "dimension": 29.021372328458945,
             "children": [
               {
                 "id": "79ded24ae5a22d5d",
@@ -216,6 +218,21 @@
                 }
               }
             ]
+          },
+          {
+            "id": "ee23c133083ceb1c",
+            "type": "tabs",
+            "dimension": 30.93363329583802,
+            "children": [
+              {
+                "id": "7ff3c2c22edf1082",
+                "type": "leaf",
+                "state": {
+                  "type": "ReferenceListView",
+                  "state": {}
+                }
+              }
+            ]
           }
         ],
         "direction": "horizontal",
@@ -223,6 +240,7 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "publish:Publish changes...": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
           "canvas:Create new canvas": false,
@@ -238,7 +256,7 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "e041748da01c05af",
+      "active": "79ded24ae5a22d5d",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "university",
