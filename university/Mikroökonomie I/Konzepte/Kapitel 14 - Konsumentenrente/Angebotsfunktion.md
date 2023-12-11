@@ -10,3 +10,6 @@ publish: true
 
 > [!abstract] Definition 
 > Kurve, welche die angebotene Menge zu jedem Preis misst. Äquivalent zur [[Nachfragefunktion]] misst die Fläche **oberhalb** der Angebotskurve die Rente, deren sich die Anbieterinnen (Produzenten) eines Gutes erfreuen.
+
+***
+#### Brutto- und Nettorente der Produzentin
