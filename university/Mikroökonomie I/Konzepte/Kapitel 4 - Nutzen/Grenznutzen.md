@@ -38,3 +38,7 @@ MRS = \frac{\Delta x_{2}}{\Delta x_{1}} = - \frac{MU_{1}}{MU_{2}}
 $$
 
 Das negative Vorzeichen der MRS wird im Normalfall ausgelassen, da meist nur der Absolutwert eine Rolle spielt.
+
+$$
+\int_{x^{3}}^{m} x^{2} - \sin x + \frac{3}{x^{*}} \, dx 
+$$

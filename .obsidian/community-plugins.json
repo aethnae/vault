@@ -7,7 +7,6 @@
   "obsidian-admonition",
   "obsidian-latex-suite",
   "calendar",
-  "obsidian-annotator",
   "better-word-count",
   "settings-search",
   "url-into-selection",
@@ -23,5 +22,6 @@
   "inline-math",
   "obsidian-tikzjax",
   "obsidian-citation-plugin",
-  "obsidian-pandoc-reference-list"
+  "obsidian-pandoc-reference-list",
+  "obsidian-annotator"
 ]

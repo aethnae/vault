@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "198a7c6a81d8d00b",
+        "id": "859ac2d23786e7bf",
         "type": "tabs",
         "children": [
           {
-            "id": "74fe8a2f61dc4819",
+            "id": "c0646c367ec9b0c6",
             "type": "leaf",
             "state": {
               "type": "pdf-annotator",
@@ -264,11 +264,17 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "74fe8a2f61dc4819",
+  "active": "c0646c367ec9b0c6",
   "lastOpenFiles": [
-    "university/Literature Notes/Clio and the Economics of QWERTY.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Grenznutzen.md",
+    "test.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Vorlesungsnotizen.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Spieltheorie/Nash-Gleichgewicht.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Grenznutzen.md",
+    "university/Mathematik I/Übungsblätter/Übungsblatt 4.md",
+    "Untitled.md",
+    "university/Mathematik I/Übungsblätter/Freiwilliger Test.md",
+    "university/Mikroökonomie I/Übungen/Übungsblatt 4.md",
+    "university/Literature Notes/Clio and the Economics of QWERTY.md",
     "files/Vorlesungsfolien/Einführung in die VWL & Wirtschaftsgeschichte",
     "files/Vorlesungsfolien",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Externe Effekte.md",
@@ -290,15 +296,9 @@
     "university/Literature Notes/@schumpeterJohnMaynardKeynes1946.md",
     "university/Literature Notes",
     "@zotero-1.md",
-    "university/Mathematik I/Übungsblätter/Freiwilliger Test.md",
     "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
-    "university/Mathematik I/Übungsblätter/Übungsblatt 4.md",
     "university/Mathematik I/Rechengesetze.md",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differenzierbarkeit.md",
-    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Zwischenwertsatz.md",
-    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Stetigkeit.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Polynomfunktionen.md",
     "files/Pasted image 20231210011805.png",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung",
     "files/Pasted image 20231209222440.png",

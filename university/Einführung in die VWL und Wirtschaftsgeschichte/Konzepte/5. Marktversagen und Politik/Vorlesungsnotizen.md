@@ -255,3 +255,220 @@ annotation-target: "![[Unit 6 VL 8 WS2324.pdf]]"
 >%%TAGS%%
 >
 ^ecpcaae5bep
+
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-11T15:29:37.038Z","updated":"2023-12-11T15:29:37.038Z","document":{"title":"Unit 6","link":[{"href":"urn:x-pdf:b29f936a29c02a47a6f6c112aaba81e0"},{"href":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf"}],"documentFingerprint":"b29f936a29c02a47a6f6c112aaba81e0"},"uri":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","target":[{"source":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","selector":[{"type":"TextPositionSelector","start":12680,"end":12751},{"type":"TextQuoteSelector","exact":"Erwerbspersonen (auch Erwerbsbevölkerung) = Erwerbstätige + Erwerbslose","prefix":"ng der Arbeitsmarktentwicklung ","suffix":" Erwerbslos (ILO) ≠Arbeitslos ("}]}]}
+>```
+>%%
+>*%%PREFIX%%ng der Arbeitsmarktentwicklung%%HIGHLIGHT%% ==Erwerbspersonen (auch Erwerbsbevölkerung) = Erwerbstätige + Erwerbslose== %%POSTFIX%% Erwerbslos (ILO) ≠Arbeitslos (*
+>%%LINK%%[[#^o9mw1z9tif|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^o9mw1z9tif
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-11T15:29:40.673Z","updated":"2023-12-11T15:29:40.673Z","document":{"title":"Unit 6","link":[{"href":"urn:x-pdf:b29f936a29c02a47a6f6c112aaba81e0"},{"href":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf"}],"documentFingerprint":"b29f936a29c02a47a6f6c112aaba81e0"},"uri":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","target":[{"source":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","selector":[{"type":"TextPositionSelector","start":12753,"end":12812},{"type":"TextQuoteSelector","exact":"Erwerbslos (ILO) ≠Arbeitslos (SGB) Definitionsunterschiede","prefix":" = Erwerbstätige + Erwerbslose ","suffix":" Erwerbslose bzw. Arbeitslose ="}]}]}
+>```
+>%%
+>*%%PREFIX%%= Erwerbstätige + Erwerbslose%%HIGHLIGHT%% ==Erwerbslos (ILO) ≠Arbeitslos (SGB) Definitionsunterschiede== %%POSTFIX%% Erwerbslose bzw. Arbeitslose =*
+>%%LINK%%[[#^450tn77u439|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^450tn77u439
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-11T15:29:47.289Z","updated":"2023-12-11T15:29:47.289Z","document":{"title":"Unit 6","link":[{"href":"urn:x-pdf:b29f936a29c02a47a6f6c112aaba81e0"},{"href":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf"}],"documentFingerprint":"b29f936a29c02a47a6f6c112aaba81e0"},"uri":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","target":[{"source":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","selector":[{"type":"TextPositionSelector","start":12814,"end":12898},{"type":"TextQuoteSelector","exact":"Erwerbslose bzw. Arbeitslose = fähig und gewillt zu arbeiten, aber nicht beschäftigt","prefix":"(SGB) Definitionsunterschiede ","suffix":"BevölkerungBevölkerung in erwerb"}]}]}
+>```
+>%%
+>*%%PREFIX%%(SGB) Definitionsunterschiede%%HIGHLIGHT%% ==Erwerbslose bzw. Arbeitslose = fähig und gewillt zu arbeiten, aber nicht beschäftigt== %%POSTFIX%%BevölkerungBevölkerung in erwerb*
+>%%LINK%%[[#^agmbiggs5g8|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^agmbiggs5g8
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-11T15:34:43.361Z","updated":"2023-12-11T15:34:43.361Z","document":{"title":"Unit 6","link":[{"href":"urn:x-pdf:b29f936a29c02a47a6f6c112aaba81e0"},{"href":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf"}],"documentFingerprint":"b29f936a29c02a47a6f6c112aaba81e0"},"uri":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","target":[{"source":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","selector":[{"type":"TextPositionSelector","start":14126,"end":14299},{"type":"TextQuoteSelector","exact":"Unternehmen und Beschäftigte: Unternehmen setzenLöhne so, dass trotz unvollständiger Verträge die Beschäftigten keinen Anreiz haben zu kündigen und zuLeistung motiviert sind","prefix":"Preis-Setzung und Lohn-Setzung• ","suffix":"• Unternehmen und Kunden: Untern"}]}]}
+>```
+>%%
+>*%%PREFIX%%Preis-Setzung und Lohn-Setzung•%%HIGHLIGHT%% ==Unternehmen und Beschäftigte: Unternehmen setzenLöhne so, dass trotz unvollständiger Verträge die Beschäftigten keinen Anreiz haben zu kündigen und zuLeistung motiviert sind== %%POSTFIX%%• Unternehmen und Kunden: Untern*
+>%%LINK%%[[#^94aw44jdr6u|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^94aw44jdr6u
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-11T15:34:49.056Z","updated":"2023-12-11T15:34:49.056Z","document":{"title":"Unit 6","link":[{"href":"urn:x-pdf:b29f936a29c02a47a6f6c112aaba81e0"},{"href":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf"}],"documentFingerprint":"b29f936a29c02a47a6f6c112aaba81e0"},"uri":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","target":[{"source":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","selector":[{"type":"TextPositionSelector","start":14301,"end":14453},{"type":"TextQuoteSelector","exact":"Unternehmen und Kunden: Unternehmen setzen die Preise als Aufschlag über die Produktionskosten um ihreGewinne zu maximieren, gegeben ihre Nachfragekurve","prefix":" und zuLeistung motiviert sind• ","suffix":"Der ReallohnDer Reallohn ergibt "}]}]}
+>```
+>%%
+>*%%PREFIX%%und zuLeistung motiviert sind•%%HIGHLIGHT%% ==Unternehmen und Kunden: Unternehmen setzen die Preise als Aufschlag über die Produktionskosten um ihreGewinne zu maximieren, gegeben ihre Nachfragekurve== %%POSTFIX%%Der ReallohnDer Reallohn ergibt*
+>%%LINK%%[[#^z81ketpd62|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^z81ketpd62
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-11T15:40:30.796Z","updated":"2023-12-11T15:40:30.796Z","document":{"title":"Unit 6","link":[{"href":"urn:x-pdf:b29f936a29c02a47a6f6c112aaba81e0"},{"href":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf"}],"documentFingerprint":"b29f936a29c02a47a6f6c112aaba81e0"},"uri":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","target":[{"source":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","selector":[{"type":"TextPositionSelector","start":14465,"end":14563},{"type":"TextQuoteSelector","exact":"Der Reallohn ergibt sich aus dem Nominallohn geteilt durchdas Preislevel aller nachgefragten Güter","prefix":" ihre NachfragekurveDer Reallohn","suffix":"1. Jedes Unternehmen entscheidet"}]}]}
+>```
+>%%
+>*%%PREFIX%%ihre NachfragekurveDer Reallohn%%HIGHLIGHT%% ==Der Reallohn ergibt sich aus dem Nominallohn geteilt durchdas Preislevel aller nachgefragten Güter== %%POSTFIX%%1. Jedes Unternehmen entscheidet*
+>%%LINK%%[[#^sxd7id35wp|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^sxd7id35wp
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-11T15:53:31.171Z","updated":"2023-12-11T15:53:31.171Z","document":{"title":"Unit 6","link":[{"href":"urn:x-pdf:b29f936a29c02a47a6f6c112aaba81e0"},{"href":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf"}],"documentFingerprint":"b29f936a29c02a47a6f6c112aaba81e0"},"uri":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","target":[{"source":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","selector":[{"type":"TextPositionSelector","start":15669,"end":15727},{"type":"TextQuoteSelector","exact":"Die Entscheidung über den Preis bestimmt auch die Gewinne.","prefix":"oduzieren.Verteilung des Outputs","suffix":"Für die Gesamtwirtschaft resulti"}]}]}
+>```
+>%%
+>*%%PREFIX%%oduzieren.Verteilung des Outputs%%HIGHLIGHT%% ==Die Entscheidung über den Preis bestimmt auch die Gewinne.== %%POSTFIX%%Für die Gesamtwirtschaft resulti*
+>%%LINK%%[[#^vnotd0feyr|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^vnotd0feyr
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-11T15:53:39.066Z","updated":"2023-12-11T15:53:39.066Z","document":{"title":"Unit 6","link":[{"href":"urn:x-pdf:b29f936a29c02a47a6f6c112aaba81e0"},{"href":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf"}],"documentFingerprint":"b29f936a29c02a47a6f6c112aaba81e0"},"uri":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","target":[{"source":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","selector":[{"type":"TextPositionSelector","start":15908,"end":16062},{"type":"TextQuoteSelector","exact":"Wenn Unternehmen ihre Preise setzen, entscheiden sie überden Aufschlag über die Kosten, über Output und überBeschäftigung. Das bestimmt auch den Reallohn.","prefix":"bleitung der Preissetzungs-Kurve","suffix":"Die Preissetzungs-KurvePreissetz"}]}]}
+>```
+>%%
+>*%%PREFIX%%bleitung der Preissetzungs-Kurve%%HIGHLIGHT%% ==Wenn Unternehmen ihre Preise setzen, entscheiden sie überden Aufschlag über die Kosten, über Output und überBeschäftigung. Das bestimmt auch den Reallohn.== %%POSTFIX%%Die Preissetzungs-KurvePreissetz*
+>%%LINK%%[[#^6t4jloob18p|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^6t4jloob18p
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-11T15:57:00.161Z","updated":"2023-12-11T15:57:00.161Z","document":{"title":"Unit 6","link":[{"href":"urn:x-pdf:b29f936a29c02a47a6f6c112aaba81e0"},{"href":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf"}],"documentFingerprint":"b29f936a29c02a47a6f6c112aaba81e0"},"uri":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","target":[{"source":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","selector":[{"type":"TextPositionSelector","start":16085,"end":16189},{"type":"TextQuoteSelector","exact":"Preissetzungs-Kurve= der Realohnder gezahlt wird, wennUnternehmen ihrengewinnmaximierenden Preis setzen.","prefix":"Reallohn.Die Preissetzungs-Kurve","suffix":" Hängt ab von:• Wettbewerb, best"}]}]}
+>```
+>%%
+>*%%PREFIX%%Reallohn.Die Preissetzungs-Kurve%%HIGHLIGHT%% ==Preissetzungs-Kurve= der Realohnder gezahlt wird, wennUnternehmen ihrengewinnmaximierenden Preis setzen.== %%POSTFIX%%Hängt ab von:• Wettbewerb, best*
+>%%LINK%%[[#^1qzdpcqqwj2|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^1qzdpcqqwj2
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-11T15:57:40.555Z","updated":"2023-12-11T15:57:40.555Z","document":{"title":"Unit 6","link":[{"href":"urn:x-pdf:b29f936a29c02a47a6f6c112aaba81e0"},{"href":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf"}],"documentFingerprint":"b29f936a29c02a47a6f6c112aaba81e0"},"uri":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","target":[{"source":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","selector":[{"type":"TextPositionSelector","start":16452,"end":16539},{"type":"TextQuoteSelector","exact":"Das Nash-Gleichgewicht auf dem Arbeitsmarkt liegt dort, wo sich beide Kurven schneiden.","prefix":"ind zwei Seiten der Wirtschaft. ","suffix":" Arbeitsmarkt-GleichgewichtAlle "}]}]}
+>```
+>%%
+>*%%PREFIX%%ind zwei Seiten der Wirtschaft.%%HIGHLIGHT%% ==Das Nash-Gleichgewicht auf dem Arbeitsmarkt liegt dort, wo sich beide Kurven schneiden.== %%POSTFIX%%Arbeitsmarkt-GleichgewichtAlle*
+>%%LINK%%[[#^j01cr318r6d|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^j01cr318r6d
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-11T16:06:19.739Z","text":"- Unternehmen zahlen den niedrigsten Lohn, der noch sicherstellt, dass sich die Beschäftigten anstrengen\n- Beschäftigung ist maximal, gegeben den Reallohn\n- Die Beschäftigten können ihre Situation nicht verbessern, indem sie höhere Löhne forden oder weniger hart arbeiten\n- Die Arbeitslosen wollen arbeiten, können Unternehmen aber nicht dazu bringen, sie zu niedrigeren Löhnen zu beschäftigen (ArbeitsdisziplinModell)","updated":"2023-12-11T16:06:19.739Z","document":{"title":"Unit 6","link":[{"href":"urn:x-pdf:b29f936a29c02a47a6f6c112aaba81e0"},{"href":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf"}],"documentFingerprint":"b29f936a29c02a47a6f6c112aaba81e0"},"uri":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","target":[{"source":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","selector":[{"type":"TextPositionSelector","start":16566,"end":16635},{"type":"TextQuoteSelector","exact":"Alle verhalten sich optimal, gegeben die Entscheidungen alleranderen:","prefix":"iden. Arbeitsmarkt-Gleichgewicht","suffix":"• Unternehmen zahlen den niedrig"}]}]}
+>```
+>%%
+>*%%PREFIX%%iden. Arbeitsmarkt-Gleichgewicht%%HIGHLIGHT%% ==Alle verhalten sich optimal, gegeben die Entscheidungen alleranderen:== %%POSTFIX%%• Unternehmen zahlen den niedrig*
+>%%LINK%%[[#^9p69ldygnag|show annotation]]
+>%%COMMENT%%
+>- Unternehmen zahlen den niedrigsten Lohn, der noch sicherstellt, dass sich die Beschäftigten anstrengen
+>- Beschäftigung ist maximal, gegeben den Reallohn
+>- Die Beschäftigten können ihre Situation nicht verbessern, indem sie höhere Löhne forden oder weniger hart arbeiten
+>- Die Arbeitslosen wollen arbeiten, können Unternehmen aber nicht dazu bringen, sie zu niedrigeren Löhnen zu beschäftigen (ArbeitsdisziplinModell)
+>%%TAGS%%
+>
+^9p69ldygnag
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-11T16:06:54.160Z","updated":"2023-12-11T16:06:54.160Z","document":{"title":"Unit 6","link":[{"href":"urn:x-pdf:b29f936a29c02a47a6f6c112aaba81e0"},{"href":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf"}],"documentFingerprint":"b29f936a29c02a47a6f6c112aaba81e0"},"uri":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","target":[{"source":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","selector":[{"type":"TextPositionSelector","start":18108,"end":18226},{"type":"TextQuoteSelector","exact":"Okuns „Gesetz”: Beobachtung, dass Veränderungen der BIP Wachstumsrate mit der Arbeitslosenquote oft negativ korreliert","prefix":"sigkeit: Das “Okunsche Gesetz”• ","suffix":"Produktion fällt Arbeitslosigke"}]}]}
+>```
+>%%
+>*%%PREFIX%%sigkeit: Das “Okunsche Gesetz”•%%HIGHLIGHT%% ==Okuns „Gesetz”: Beobachtung, dass Veränderungen der BIP Wachstumsrate mit der Arbeitslosenquote oft negativ korreliert== %%POSTFIX%%Produktion fällt Arbeitslosigke*
+>%%LINK%%[[#^tkwnbnchtso|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^tkwnbnchtso
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-11T16:07:01.720Z","updated":"2023-12-11T16:07:01.720Z","document":{"title":"Unit 6","link":[{"href":"urn:x-pdf:b29f936a29c02a47a6f6c112aaba81e0"},{"href":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf"}],"documentFingerprint":"b29f936a29c02a47a6f6c112aaba81e0"},"uri":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","target":[{"source":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","selector":[{"type":"TextPositionSelector","start":17475,"end":17544},{"type":"TextQuoteSelector","exact":"Konjunkturzyklus =Wechselphasen positiver undnegativer Wachstumsraten","prefix":"vice versa.Der Konjunkturzyklus•","suffix":"•Rezession = Zeitraum in der die"}]}]}
+>```
+>%%
+>*%%PREFIX%%vice versa.Der Konjunkturzyklus•%%HIGHLIGHT%% ==Konjunkturzyklus =Wechselphasen positiver undnegativer Wachstumsraten== %%POSTFIX%%•Rezession = Zeitraum in der die*
+>%%LINK%%[[#^lvfc0hli97i|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^lvfc0hli97i
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-11T16:07:11.012Z","updated":"2023-12-11T16:07:11.012Z","document":{"title":"Unit 6","link":[{"href":"urn:x-pdf:b29f936a29c02a47a6f6c112aaba81e0"},{"href":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf"}],"documentFingerprint":"b29f936a29c02a47a6f6c112aaba81e0"},"uri":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","target":[{"source":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","selector":[{"type":"TextPositionSelector","start":17545,"end":17624},{"type":"TextQuoteSelector","exact":"Rezession = Zeitraum in der dieProduktion sinkt oder unterihrem Potenzial liegt","prefix":"ver undnegativer Wachstumsraten•","suffix":"•Der Konjunkturzyklus beeinfluss"}]}]}
+>```
+>%%
+>*%%PREFIX%%ver undnegativer Wachstumsraten•%%HIGHLIGHT%% ==Rezession = Zeitraum in der dieProduktion sinkt oder unterihrem Potenzial liegt== %%POSTFIX%%•Der Konjunkturzyklus beeinfluss*
+>%%LINK%%[[#^emhr8550ymu|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^emhr8550ymu
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-11T16:16:32.496Z","text":"Dafür existieren verschiedene Strategien:\n\n- **Geldpolitik**\n- **Fiskalpolitik**","updated":"2023-12-11T16:16:32.496Z","document":{"title":"Unit 6","link":[{"href":"urn:x-pdf:b29f936a29c02a47a6f6c112aaba81e0"},{"href":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf"}],"documentFingerprint":"b29f936a29c02a47a6f6c112aaba81e0"},"uri":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","target":[{"source":"vault:/files/Vorlesungsfolien/Einf%C3%BChrung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf","selector":[{"type":"TextPositionSelector","start":19138,"end":19190},{"type":"TextQuoteSelector","exact":"Regierung kannversuchen, die agg. Nachfrage steigern","prefix":"ustellen) statt Löhne zu senken.","suffix":"(von B zurück auf X)• Geldpoliti"}]}]}
+>```
+>%%
+>*%%PREFIX%%ustellen) statt Löhne zu senken.%%HIGHLIGHT%% ==Regierung kannversuchen, die agg. Nachfrage steigern== %%POSTFIX%%(von B zurück auf X)• Geldpoliti*
+>%%LINK%%[[#^8pa2k0z01mf|show annotation]]
+>%%COMMENT%%
+>Dafür existieren verschiedene Strategien:
+>
+>- **Geldpolitik**
+>- **Fiskalpolitik**
+>%%TAGS%%
+>
+^8pa2k0z01mf
