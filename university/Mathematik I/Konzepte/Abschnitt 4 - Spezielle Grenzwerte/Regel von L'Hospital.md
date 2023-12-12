@@ -9,8 +9,8 @@ publish: true
 
 > [!abstract] Definition 
 > Es seien $g, h$ jeweils $n$-mal differenzierbare Funktionen und es gelte
-> - $\lim _{x \rightarrow a} g^{(i)}=\lim _{x \rightarrow a} g^{(i)}=0$ für $i=0,1, \ldots, n-1$,
-> - der Grenzwert $\lim _{x \rightarrow a} \frac{g^{(n)}(x)}{h^{(n)}(x)}$ existiert.
+> - ${} \displaystyle \lim _{x \rightarrow a} g^{(i)}=\lim _{x \rightarrow a} g^{(i)}=0 {}$ für $i=0,1, \ldots, n-1$,
+> - der Grenzwert $\displaystyle\lim _{x \rightarrow a} \frac{g^{(n)}(x)}{h^{(n)}(x)}$ existiert.
 >  
 > Dann gilt
 > $$
