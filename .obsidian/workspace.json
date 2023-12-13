@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Grenzerlös.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Grenzerlös.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Grenzerlös.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Grenzerlös.md"
               }
             }
           },
@@ -202,11 +202,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Grenzerlös.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "587d7e62a66052db",
@@ -219,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Grenzerlös.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,6 +267,12 @@
   },
   "active": "d9d7b96aa96c58a3",
   "lastOpenFiles": [
+    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Erlös.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Grenzerlös.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Marktnachfrage.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Inverse Nachfragekurve.md",
+    "files/Pasted image 20231213155916.png",
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Cobb-Douglas-Präferenzen.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Arithmetische Folgen.md",
     "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Exponentialfunktionen.md",
@@ -274,11 +280,8 @@
     "computer science/Productivity/Rubber duck debugging.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md",
     "school/Erdkunde/Strukturwandel/Fordismus & Postfordismus.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Marktnachfrage.md",
     "university/Mathematik I/Konzepte/Vorkurs/Integration/Hauptsatz der Differential- und Integralrechnung.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Nachfragefunktion.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Inverse Nachfragekurven.md",
     "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Produktionsfunktion.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Grenzrate der Transformation.md",
@@ -292,8 +295,6 @@
     "dfn/Mitteilungen/Roadmap.pdf",
     "dfn/Mitteilungen/Roadmap.md",
     "computer science/Unix Shell System/Working with Files and Directories.md",
-    "computer science/Unix Shell System/Navigating Files and Directories.md",
-    "computer science/Unix Shell System/Pipes and Filters.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage",
     "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Untitled",
     "files/Vorlesungsfolien/Einführung in die VWL & Wirtschaftsgeschichte",
@@ -313,7 +314,6 @@
     "files/Pasted image 20231204212750.png",
     "files/Pasted image 20231204212640.png",
     "files/Pasted image 20231204211610.png",
-    "files/Pasted image 20231204210712.png",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
     "school/Englisch/Globalisation/Benefits of Globalisation.canvas"
