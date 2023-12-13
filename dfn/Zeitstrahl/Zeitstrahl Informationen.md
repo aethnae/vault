@@ -29,4 +29,3 @@
 
 > [!cite] Heinz Riesenhuber, Bundesminister für Forschung und Technologie
 > Denn die von gemeinsamen Interessen getragenen Kooperationen zwischen den Vereinsmitgliedern auf diesem innovativen Gebiet werden dazu beitragen können, unsere Wettbewerbsposition auf internationalen Märkten zu halten und nach Möglichkeit auszubauen. Insofern stellt das Vorhaben „**Deutsches Forschungsnetz**" eine große Herausforderung an alle Beteiligten dar, ihr wissenschaftliches Können zusammenzuführen und durch ein partnerschaftliches, vertrauensvolles Zusammenwirken die motivierte DFN-Gemeinschaft zu entwickeln, die dieses schwierige Projekt zu seiner Durchführung und effizienten Nutzung braucht.
-
