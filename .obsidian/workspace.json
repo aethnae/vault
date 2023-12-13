@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "84df3d4f8d1007ed",
+        "id": "77fdafb16292322a",
         "type": "tabs",
         "children": [
           {
-            "id": "62ff096bcacaf9a6",
+            "id": "979b48d80c946eef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
+                "file": "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63ef6d7810b55b20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Produktionsfunktion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -32,7 +45,7 @@
       {
         "id": "ce17988e31e66ad3",
         "type": "tabs",
-        "dimension": 43.533568904593636,
+        "dimension": 62.16216216216216,
         "children": [
           {
             "id": "e041748da01c05af",
@@ -50,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "isoquan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,26 +83,9 @@
         ]
       },
       {
-        "id": "f47073b76d10b071",
-        "type": "tabs",
-        "dimension": 24.452296819787986,
-        "children": [
-          {
-            "id": "9fc406a37397d6e2",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "4cae0943d8942f29",
         "type": "tabs",
-        "dimension": 32.014134275618375,
+        "dimension": 37.83783783783784,
         "children": [
           {
             "id": "110820e6469f9f65",
@@ -97,7 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Produktionsfunktion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +116,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6113273100834143,
+                  "scale": 1.2990150286159956,
                   "close": true
                 }
               }
@@ -139,6 +135,7 @@
       {
         "id": "be7961eba01397a0",
         "type": "tabs",
+        "dimension": 40.044994375703034,
         "children": [
           {
             "id": "ba8653a4649b74c5",
@@ -154,6 +151,23 @@
             "state": {
               "type": "git-history-view",
               "state": {}
+            }
+          },
+          {
+            "id": "5767c389ed91eef4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Produktionsfunktion.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           },
           {
@@ -181,7 +195,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md"
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Produktionsfunktion.md"
+              }
+            }
+          },
+          {
+            "id": "9fc406a37397d6e2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           },
@@ -191,38 +215,17 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md"
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Produktionsfunktion.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "5ee73d12479b64cb",
+        "id": "587d7e62a66052db",
         "type": "tabs",
-        "children": [
-          {
-            "id": "5767c389ed91eef4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f337bac5fba544fc",
-        "type": "tabs",
+        "dimension": 29.02137232845895,
         "children": [
           {
             "id": "79ded24ae5a22d5d",
@@ -230,10 +233,25 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Produktionsfunktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ee23c133083ceb1c",
+        "type": "tabs",
+        "dimension": 30.93363329583802,
+        "children": [
+          {
+            "id": "7ff3c2c22edf1082",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
             }
           }
         ]
@@ -260,8 +278,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "62ff096bcacaf9a6",
+  "active": "63ef6d7810b55b20",
   "lastOpenFiles": [
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Grenzrate der Transformation.md",
+    "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md",
+    "university/Neue Beiträge.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Marktnachfrage.md",
+    "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
+    "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Regel von L'Hospital.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Brutto- und Nettorente.md",
+    "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
     "dfn/Mitteilungen/Roadmap.pdf",
     "dfn/Mitteilungen/Roadmap.md",
     "computer science/Unix Shell System/Working with Files and Directories.md",
@@ -275,21 +303,12 @@
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Taylorpolynome.md",
     "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test.md",
-    "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Regel von L'Hospital.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Marktnachfrage.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Brutto- und Nettorente.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage",
     "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Angebotsfunktion.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Kompensatorische und äquivalente Variation.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Inverse Nachfragefunktionen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Vorbehaltspreise.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Vorbehaltspreise.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Untitled",
-    "university/Mikroökonomie I/Übungen/Übungsblatt 4.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Externe Effekte.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Vorlesungsnotizen.md",
-    "Untitled.md",
-    "test.md",
     "files/Vorlesungsfolien/Einführung in die VWL & Wirtschaftsgeschichte",
     "files/Vorlesungsfolien",
     "files/Vorlesungsfolien/Einführung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf",
@@ -298,7 +317,6 @@
     "files/Unconfirmed 845975.crdownload",
     "university/Literature Notes",
     "files/Pasted image 20231210011805.png",
-    "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung",
     "files/Pasted image 20231209222440.png",
     "files/Pasted image 20231209221524.png",
     "files/Pasted image 20231209221359.png",
