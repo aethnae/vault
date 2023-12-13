@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - philosophie
 week: 2023-10-18
 flashcard: true
 ---

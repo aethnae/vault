@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "77fdafb16292322a",
+        "id": "47c8bc77bf11a21c",
         "type": "tabs",
         "children": [
           {
-            "id": "979b48d80c946eef",
+            "id": "d9d7b96aa96c58a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63ef6d7810b55b20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Produktionsfunktion.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -93,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Produktionsfunktion.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Produktionsfunktion.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Produktionsfunktion.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md"
               }
             }
           },
@@ -215,12 +202,11 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Produktionsfunktion.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "587d7e62a66052db",
@@ -233,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Produktionsfunktion.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +244,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -278,12 +265,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "63ef6d7810b55b20",
+  "active": "d9d7b96aa96c58a3",
   "lastOpenFiles": [
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Grenzrate der Transformation.md",
-    "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md",
-    "university/Neue Beiträge.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Cobb-Douglas-Präferenzen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Arithmetische Folgen.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Exponentialfunktionen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Ceteris Paribus.md",
+    "computer science/Productivity/Rubber duck debugging.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md",
+    "school/Erdkunde/Strukturwandel/Fordismus & Postfordismus.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Marktnachfrage.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Integration/Hauptsatz der Differential- und Integralrechnung.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Nachfragefunktion.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Inverse Nachfragekurven.md",
+    "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Produktionsfunktion.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Grenzrate der Transformation.md",
+    "university/Neue Beiträge.md",
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Regel von L'Hospital.md",
@@ -295,19 +294,7 @@
     "computer science/Unix Shell System/Working with Files and Directories.md",
     "computer science/Unix Shell System/Navigating Files and Directories.md",
     "computer science/Unix Shell System/Pipes and Filters.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Satz von Taylor.md",
-    "university/Mathematik I/Rechengesetze.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Polstellen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Rationale Funktionen.md",
-    "university/Mathematik I/Übungsblätter/Übungsblatt 4.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Taylorpolynome.md",
-    "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
-    "university/Mathematik I/Übungsblätter/Freiwilliger Test.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage",
-    "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Angebotsfunktion.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Kompensatorische und äquivalente Variation.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Inverse Nachfragefunktionen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Vorbehaltspreise.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Untitled",
     "files/Vorlesungsfolien/Einführung in die VWL & Wirtschaftsgeschichte",
     "files/Vorlesungsfolien",

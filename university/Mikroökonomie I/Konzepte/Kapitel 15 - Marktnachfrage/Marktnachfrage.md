@@ -28,13 +28,12 @@ publish: true
 - Unter dieser Annahme verhält sich die aggregierte Nachfrage wie die Nachfrage eines Individuums, das sich den Preisen $(p_{1}, p_{2})$ gegenübersieht und ein Einkommen von $M$ hat
 
 ***
-#### Inverse Nachfragekurven
+#### Extensive und intensive Grenzen
 
-> [!abstract] Definition 
-> Invertierte Version der aggregierten Nachfragekurve, welche den Preis als eine Funktion der Menge ${} P(X) {}$ darstellt, und somit misst, wie hoch der Marktpreis des Gutes 1 sein müsste, damit $X$ Einheiten davon nachgefragt werden.
+> [!info]
+> Wenn sich der Preis ändert, entscheidet sich der Konsument, mehr oder weniger vom einen oder anderen Gut zu kaufen, er wird aber immer beide Güter konsumieren. Dies wird als **Anpassung an der intensiven Grenze** bezeichnet.
+> 
+> Im Vorbehaltspreis-Modell entscheiden die Konsumenten, ob sie in den Markt für ein Gut eintreten sollen oder nicht. Dies wird als **Anpassung an der extensiven Grenze** bezeichnet.
 
-- Da der Preis eines Gutes die [[university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution|MRS]] zwischen diesem Gut und allen anderen misst, werden alle Personen, die mit den selben Güterpreisen konfrontiert werden, bei ihrer [[Optimale Entscheidung|optimalen Entscheidung]] dieselbe Grenzrate der Substitution haben
-
-> [!caution] Achtung 
-> Niemals individuelle inverse Nachfragen addieren! (Für indirekte Marktnachfrage erst direkte Marktnachfrage ermitteln, dann invertieren)
-
+- Die Steigung der aggregierten Nachfragekurve wird durch beide Arten der Entscheidung beeinflusst
+- Aufgrund des Auftretens [[Normale und inferiore Güter#Normale Güter|normaler Güter]] wirken Anpassung an beiden Grenzen in die "korrekte" Richtung: Wenn der Preis steigt, geht die Nachfrage zurück - somit sind aggregierte Nachfragekurven im Normalfall negativ geneigt
