@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "47c8bc77bf11a21c",
+        "id": "fde4525657022a6a",
         "type": "tabs",
         "children": [
           {
-            "id": "d9d7b96aa96c58a3",
+            "id": "53c22f0ef2524793",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Grenzerlös.md",
+                "file": "misc/Design Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Grenzerlös.md",
+                "file": "misc/Design Ideas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Grenzerlös.md",
+                "file": "misc/Design Ideas.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Grenzerlös.md"
+                "file": "misc/Design Ideas.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Grenzerlös.md"
+                "file": "misc/Design Ideas.md"
               }
             }
           }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Grenzerlös.md",
+                "file": "misc/Design Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,10 +265,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e041748da01c05af",
+  "active": "53c22f0ef2524793",
   "lastOpenFiles": [
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Satz von Taylor.md",
+    "misc/Finanzplan.md",
+    "misc/Wunschzettel von Johann.md",
+    "misc/Statistik Raycast.md",
+    "files/Pasted image 20231214155547.png",
+    "files/Pasted image 20231214155521.png",
+    "files/Pasted image 20231214155508.png",
+    "files/Pasted image 20231214155429.png",
+    "files/Pasted image 20231214155346.png",
+    "misc/Design Ideas.md",
+    "Untitled.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Grenzerlös.md",
+    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Satz von Taylor.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Erlös.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Marktnachfrage.md",
@@ -289,12 +299,7 @@
     "university/Neue Beiträge.md",
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
-    "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Regel von L'Hospital.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Brutto- und Nettorente.md",
-    "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
     "dfn/Mitteilungen/Roadmap.pdf",
-    "dfn/Mitteilungen/Roadmap.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage",
     "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Untitled",
     "files/Vorlesungsfolien/Einführung in die VWL & Wirtschaftsgeschichte",
@@ -308,12 +313,7 @@
     "files/Pasted image 20231209222440.png",
     "files/Pasted image 20231209221524.png",
     "files/Pasted image 20231209221359.png",
-    "files/Pasted image 20231206163848.png",
     "Untitled.canvas",
-    "files/Pasted image 20231122232451.png",
-    "files/Pasted image 20231204212750.png",
-    "files/Pasted image 20231204212640.png",
-    "files/Pasted image 20231204211610.png",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
     "school/Englisch/Globalisation/Benefits of Globalisation.canvas"

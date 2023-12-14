@@ -1,0 +1,19 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "files",
+  "livePreview": true,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "newFileLocation": "current",
+  "useMarkdownLinks": false,
+  "spellcheck": false,
+  "propertiesInDocument": "visible"
+}
