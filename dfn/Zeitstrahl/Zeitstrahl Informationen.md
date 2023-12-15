@@ -39,4 +39,8 @@
 - In den neuen Bundesländern wurde mit dem Zerfall der DDR ab 1990 begonnen, diese an das Deutsche Forschungsnetz anzubinden
 - Bis zur Erweiterung des WiN um neue Anschlüsse 1992 wurde vom DFN-Verein ein eigenes Netz betrieben (ERWIN)
 - 10 Jahre nach Gründung des DFN-Vereins (1994) wurde das WiN bereits durch 298 Mitgliedseinrichtungen genutzt
-- 
+- Der Einstieg in die Hochgeschwindigkeits-Datenkommunikation begann 1994 mit der Einführung regionaler Piloteinrichtungen des DFN-Vereins („Testbeds“ in Nordrhein-Westfalen, Bayern, Berlin, Norddeutschland und Hessen)
+- Im Frühjahr 1996 wurde das Schmalband-Forschungsnetz "WiN" durch die zweite Generation, das Breitband-Netz "B-WiN" ersetzt, welches durch die deutsche Telekom betrieben wurde
+- Bereits zwei Jahre später, 1998, wurden die technischen Grenzen des Breitbandnetzes B-WiN sichtbar. Vor allem für neue – multimediale und interaktive – Anwendungen der Datenkommunikation reichte das B-WiN nicht mehr aus
+- Um Datenübertragungsgeschwindigkeiten im Gigabit-Bereich zu ermöglichen, wurde bereits im Sommer 2000 die dritte Generation, das "G-WiN", welches erneut durch die deutsche Telekom bereitgestellt wurde, zur Nutzung freigegeben
+- 2006 ersetzte die heutige Generation des Forschungsnetzes, das "X-Win", das "G-WiN", um Datenübertragungsraten im Bereich mehrerer hunderter Gigabits zu garantieren, und weltweit zur Spitzengruppe aufzuschließen

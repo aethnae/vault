@@ -7,7 +7,7 @@
   "displayYAMLFrontmatter": false,
   "linkStrippingBehaviour": "text",
   "highDPIDiagrams": true,
-  "pandoc": null,
+  "pandoc": "/usr/local/bin/pandoc",
   "pdflatex": null,
   "outputFolder": "/Users/aethnae/misc/dokumente",
   "extraArguments": "",
