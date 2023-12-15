@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6e0ca13c31933816",
+        "id": "c8eb5ea23d254815",
         "type": "tabs",
         "children": [
           {
-            "id": "eb12458edab68938",
+            "id": "b093c2552be0748d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Methoden der Rechnungsabgrenzung.md",
-                "mode": "preview",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 3 - Knappheit, Arbeit & Entscheidungen.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Methoden der Rechnungsabgrenzung.md",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 3 - Knappheit, Arbeit & Entscheidungen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Methoden der Rechnungsabgrenzung.md",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 3 - Knappheit, Arbeit & Entscheidungen.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Methoden der Rechnungsabgrenzung.md"
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 3 - Knappheit, Arbeit & Entscheidungen.md"
               }
             }
           },
@@ -202,12 +202,11 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Methoden der Rechnungsabgrenzung.md"
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 3 - Knappheit, Arbeit & Entscheidungen.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "587d7e62a66052db",
@@ -220,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Methoden der Rechnungsabgrenzung.md",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 3 - Knappheit, Arbeit & Entscheidungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,13 +264,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "eb12458edab68938",
+  "active": "b093c2552be0748d",
   "lastOpenFiles": [
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 3 - Knappheit, Arbeit & Entscheidungen.md",
+    "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Methoden der Rechnungsabgrenzung.md",
     "university/Externes Rechnungswesen/Übungen/Lernbrief 6 - Umsatzsteuer und Ertragsteuern.md",
     "university/Externes Rechnungswesen/Übungen/Lernbrief 3 - Buchen auf Bestandskonten.md",
     "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
     "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md",
-    "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Methoden der Rechnungsabgrenzung.md",
     "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Folgebewertung des Anlagevermögens.md",
     "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Accrual.md",
     "university/Externes Rechnungswesen/Konzepte/Untitled.md",
@@ -294,8 +295,6 @@
     "Untitleddf",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
     "misc/Design Ideas.md",
-    "misc/Finanzplan.md",
-    "misc/Wunschzettel von Johann.md",
     "files/Pasted image 20231214155547.png",
     "files/Pasted image 20231214155521.png",
     "files/Pasted image 20231214155508.png",

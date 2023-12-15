@@ -60,3 +60,8 @@ Für diesen Fall gibt es zwei Möglichkeiten zur Buchung:
 | ---------------- | ---- | --- | ---------------------- | ---- |
 | Forderung / Bank | -    | an  | passiver RAP           | -    |
 | Aktiver RAP      | -    | an  | Verbindlichkeit / Bank | -    | 
+
+***
+
+> [!note] Lageberichte 
+> Kapitalgesellschaften müssen den aus Bilanz und GuV-Rechnung bestehenden Jahresabschluss durch einen Anhang erweitern. Ein Lagebericht kommt für alle nicht-kleinen KapG als Ergänzung hinzu, gehört aber nicht zum Jahresabschluss. Weitere Details, größenabhängige Erleichterungen und Offenlegungspflichten sind im HGB geregelt.
