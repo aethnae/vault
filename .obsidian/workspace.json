@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c8eb5ea23d254815",
+        "id": "523b1b915649baaa",
         "type": "tabs",
         "children": [
           {
-            "id": "b093c2552be0748d",
+            "id": "d7e855dfcdcfcaab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Unternehmen.md",
+                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
       {
         "id": "ce17988e31e66ad3",
         "type": "tabs",
-        "dimension": 62.16216216216216,
+        "dimension": 43.533568904593636,
         "children": [
           {
             "id": "e041748da01c05af",
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "isoquan",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,9 +70,26 @@
         ]
       },
       {
+        "id": "f47073b76d10b071",
+        "type": "tabs",
+        "dimension": 24.452296819787986,
+        "children": [
+          {
+            "id": "9fc406a37397d6e2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "4cae0943d8942f29",
         "type": "tabs",
-        "dimension": 37.83783783783784,
+        "dimension": 32.014134275618375,
         "children": [
           {
             "id": "110820e6469f9f65",
@@ -80,7 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Unternehmen.md",
+                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -103,7 +120,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.024480560786187,
+                  "scale": 0.6113273100834143,
                   "close": true
                 }
               }
@@ -122,7 +139,6 @@
       {
         "id": "be7961eba01397a0",
         "type": "tabs",
-        "dimension": 40.044994375703034,
         "children": [
           {
             "id": "ba8653a4649b74c5",
@@ -138,23 +154,6 @@
             "state": {
               "type": "git-history-view",
               "state": {}
-            }
-          },
-          {
-            "id": "5767c389ed91eef4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Unternehmen.md",
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
             }
           },
           {
@@ -182,17 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Unternehmen.md"
-              }
-            }
-          },
-          {
-            "id": "9fc406a37397d6e2",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
+                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md"
               }
             }
           },
@@ -202,26 +191,29 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Unternehmen.md"
+                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "587d7e62a66052db",
+        "id": "5ee73d12479b64cb",
         "type": "tabs",
-        "dimension": 29.02137232845895,
         "children": [
           {
-            "id": "79ded24ae5a22d5d",
+            "id": "5767c389ed91eef4",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "backlink",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Unternehmen.md",
-                "linksCollapsed": false,
+                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -229,16 +221,19 @@
         ]
       },
       {
-        "id": "ee23c133083ceb1c",
+        "id": "f337bac5fba544fc",
         "type": "tabs",
-        "dimension": 30.93363329583802,
         "children": [
           {
-            "id": "7ff3c2c22edf1082",
+            "id": "79ded24ae5a22d5d",
             "type": "leaf",
             "state": {
-              "type": "ReferenceListView",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ]
@@ -265,11 +260,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b093c2552be0748d",
+  "active": "d7e855dfcdcfcaab",
   "lastOpenFiles": [
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Unternehmen.md",
     "files/Pasted image 20231215102727.png",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Eigentum & Macht/Pareto-Effizienz-Kurve.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Unternehmen.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Externe Effekte.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Vorlesungsnotizen.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 3 - Knappheit, Arbeit & Entscheidungen.md",
@@ -312,7 +307,6 @@
     "files/Pasted image 20231210011805.png",
     "files/Pasted image 20231209222440.png",
     "files/Pasted image 20231209221524.png",
-    "files/Pasted image 20231209221359.png",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",

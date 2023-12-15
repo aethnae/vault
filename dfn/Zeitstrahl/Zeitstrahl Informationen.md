@@ -29,3 +29,14 @@
 
 > [!cite] Heinz Riesenhuber, Bundesminister für Forschung und Technologie
 > Denn die von gemeinsamen Interessen getragenen Kooperationen zwischen den Vereinsmitgliedern auf diesem innovativen Gebiet werden dazu beitragen können, unsere Wettbewerbsposition auf internationalen Märkten zu halten und nach Möglichkeit auszubauen. Insofern stellt das Vorhaben „**Deutsches Forschungsnetz**" eine große Herausforderung an alle Beteiligten dar, ihr wissenschaftliches Können zusammenzuführen und durch ein partnerschaftliches, vertrauensvolles Zusammenwirken die motivierte DFN-Gemeinschaft zu entwickeln, die dieses schwierige Projekt zu seiner Durchführung und effizienten Nutzung braucht.
+
+#### Entwicklung seit der Gründung
+- Bis 1989 widmete sich der DFN-Verein, der zunächst über kein eigenes Netz verfügte,
+	- der Errichtung flächendeckender leistungsfähiger Infrastrukturen für die Datenkommunikation
+	- ihrer Basis-Software und ihrer Anwendungen
+	- der Realisierung und Erprobung des Wissenschaftsnetzes (WIN)
+- Ab 1990 stand das von der deutschen Bundespost im Auftrag des DFN-Vereins entwickelte Forschungsnetz (WiN) den Hochschulen und wissenschaftlichen Einrichtungen zur Verfügung
+- In den neuen Bundesländern wurde mit dem Zerfall der DDR ab 1990 begonnen, diese an das Deutsche Forschungsnetz anzubinden
+- Bis zur Erweiterung des WiN um neue Anschlüsse 1992 wurde vom DFN-Verein ein eigenes Netz betrieben (ERWIN)
+- 10 Jahre nach Gründung des DFN-Vereins (1994) wurde das WiN bereits durch 298 Mitgliedseinrichtungen genutzt
+- 
