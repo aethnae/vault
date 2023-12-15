@@ -2,7 +2,7 @@
 tags:
   - kapitalismus
   - revolution
-week: 2023-11-24
+week: 2023-10-23
 publish: true
 ---
 ***

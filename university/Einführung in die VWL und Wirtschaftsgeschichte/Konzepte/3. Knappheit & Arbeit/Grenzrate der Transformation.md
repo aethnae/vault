@@ -12,7 +12,7 @@ aliases:
 > [!important] Definition
 > Die Grenzrate der Transfomation besagt, wie viel von der Menge eines Gutes aufgegeben werden muss, um eine zusätzliche marginale Einheit eines zweiten Gutes erhalten (produzieren) zu können.
 
-- graphisch: Steigung auf der [[university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Knappheit & Arbeit/Produktionsfunktion|Funktion der Produktionsmöglichkeitenmenge]]
+- graphisch: Steigung auf der [[university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Produktionsfunktion|Funktion der Produktionsmöglichkeitenmenge]]
 
 ***
 #### Optimale Entscheidungen
