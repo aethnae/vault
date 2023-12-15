@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "91a3fe9a88d31c65",
+        "id": "6e0ca13c31933816",
         "type": "tabs",
         "children": [
           {
-            "id": "402ae0c8bce535ca",
+            "id": "415ed5ffbcbc34d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "739c4f3909b6fb35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Eigenschaften der Technologie.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -93,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Eigenschaften der Technologie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Eigenschaften der Technologie.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -194,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Eigenschaften der Technologie.md"
-              }
+              "state": {}
             }
           },
           {
@@ -214,9 +193,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Eigenschaften der Technologie.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -233,7 +210,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Eigenschaften der Technologie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,11 +254,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "739c4f3909b6fb35",
+  "active": "415ed5ffbcbc34d9",
   "lastOpenFiles": [
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfaktoren.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Kurze und lange Fristen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Skalenerträge.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzprodukt.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Eigenschaften der Technologie.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Monotonie.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfaktoren.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Cobb-Douglas-Präferenzen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Nachfragefunktion.md",
@@ -309,11 +290,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Inverse Nachfragekurve.md",
     "files/Pasted image 20231213155916.png",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Arithmetische Folgen.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Exponentialfunktionen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Ceteris Paribus.md",
-    "computer science/Productivity/Rubber duck debugging.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Preis-Konsumkurven.md",
-    "school/Erdkunde/Strukturwandel/Fordismus & Postfordismus.md",
     "dfn/Mitteilungen/Roadmap.pdf",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage",
     "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Untitled",
