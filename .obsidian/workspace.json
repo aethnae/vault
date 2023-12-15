@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Externe Effekte.md",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Unternehmen.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Externe Effekte.md",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Unternehmen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Externe Effekte.md",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Unternehmen.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Externe Effekte.md"
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Unternehmen.md"
               }
             }
           },
@@ -202,11 +202,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Externe Effekte.md"
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Unternehmen.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "587d7e62a66052db",
@@ -219,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Externe Effekte.md",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Unternehmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,9 +265,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e041748da01c05af",
+  "active": "b093c2552be0748d",
   "lastOpenFiles": [
+    "files/Pasted image 20231215102727.png",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Eigentum & Macht/Pareto-Effizienz-Kurve.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Unternehmen.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Externe Effekte.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Vorlesungsnotizen.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 3 - Knappheit, Arbeit & Entscheidungen.md",
@@ -291,8 +294,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Cobb-Douglas-Präferenzen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Nachfragefunktion.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Produktionsfunktion.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Nachfragekurven.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie",
     "Untitleddf",
     "files/Pasted image 20231214155547.png",
