@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
+                "file": "university/Studienplanung.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
+                "file": "university/Studienplanung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md"
+                "file": "university/Studienplanung.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md"
+                "file": "university/Studienplanung.md"
               }
             }
           }
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
+                "file": "university/Studienplanung.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
+                "file": "university/Studienplanung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,6 +262,9 @@
   },
   "active": "d7e855dfcdcfcaab",
   "lastOpenFiles": [
+    "university/Literature Notes/Clio and the Economics of QWERTY.md",
+    "university/Studienplanung.md",
+    "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Unternehmen.md",
     "files/Pasted image 20231215102727.png",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Eigentum & Macht/Pareto-Effizienz-Kurve.md",
@@ -287,8 +290,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Monotonie.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfaktoren.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Cobb-Douglas-Präferenzen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Nachfragefunktion.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie",
     "Untitleddf",
     "files/Pasted image 20231214155547.png",
