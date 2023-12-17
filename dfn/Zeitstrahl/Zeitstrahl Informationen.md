@@ -43,4 +43,7 @@
 - Im Frühjahr 1996 wurde das Schmalband-Forschungsnetz "WiN" durch die zweite Generation, das Breitband-Netz "B-WiN" ersetzt, welches durch die deutsche Telekom betrieben wurde
 - Bereits zwei Jahre später, 1998, wurden die technischen Grenzen des Breitbandnetzes B-WiN sichtbar. Vor allem für neue – multimediale und interaktive – Anwendungen der Datenkommunikation reichte das B-WiN nicht mehr aus
 - Um Datenübertragungsgeschwindigkeiten im Gigabit-Bereich zu ermöglichen, wurde bereits im Sommer 2000 die dritte Generation, das "G-WiN", welches erneut durch die deutsche Telekom bereitgestellt wurde, zur Nutzung freigegeben
+
+#### Vom G-WiN zum X-WiN - gegenwärtige Situation
 - 2006 ersetzte die heutige Generation des Forschungsnetzes, das "X-Win", das "G-WiN", um Datenübertragungsraten im Bereich mehrerer hunderter Gigabits zu garantieren, und weltweit zur Spitzengruppe aufzuschließen
+- 
