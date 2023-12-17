@@ -46,4 +46,5 @@
 
 #### Vom G-WiN zum X-WiN - gegenwärtige Situation
 - 2006 ersetzte die heutige Generation des Forschungsnetzes, das "X-Win", das "G-WiN", um Datenübertragungsraten im Bereich mehrerer hunderter Gigabits zu garantieren, und weltweit zur Spitzengruppe aufzuschließen
-- 2003: „Wo es Euch beliebt" - so lautet der erste Artikel zum damals neu geplanten Pilotprojekt DFNRoaming. Ziel war es, reisenden Forscherinnen und Forschern einen einfachen und sicheren Netzzugang in das DFN zu ermöglichen. Viel Überzeugungsarbeit war notwendig, um möglichst viele Einrichtungen zum Mitmachen zu bewegen. Heute sind Nutzende aus mehr als 100 Ländern weltweit bei eduroam registriert und tragen zum Erfolg des Dienstes bei.
+- 2003: DFNRoaming geht an den Start. Ziel war es, reisenden Forscherinnen und Forschern einen einfachen und sicheren Netzzugang in das DFN zu ermöglichen. Heute sind Nutzende aus mehr als 100 Ländern weltweit bei eduroam registriert und tragen zum Erfolg des Dienstes bei
+- Zum heutigen Zeitpunkt sind bereits 356 institutionelle Mitglieder Teil des DFN - ein Großteil (252 Hochschulen und 93 Forschungseinrichtungen) der Mitglieder besteht aus Einrichtungen im akademischen Bereich, jedoch sind mittlerweile auch 11 Wirtschaftsunternehmen DFN-Mitglieder
