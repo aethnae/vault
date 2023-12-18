@@ -15,8 +15,19 @@ publish: false
 - [ ] Handels- und Gesellschaftsrecht
 - [ ] Bürgerliches Recht
 
+##### Wahlbereich A - VWL
+- [ ] -
+
 ##### Wahlbereich B - BWL
 - [ ] Externes Rechnungswesen
+
+##### Wahlbereich C - WiWi
+- [ ] -
+
+##### Überfachlicher Wahlbereich
+- [ ] -
+
+*Somit entfallen 6 der nötigen 18 LP auf den Bereich B - BWL.*
 
 ***
 ### 2. Semester
@@ -29,6 +40,7 @@ publish: false
 ##### Wahlbereich A - VWL
 
 ##### Wahlbereich B - BWL
+- [ ] Grundlagen der Finanzwirtschaft I
 
 ##### Wahlbereich C - WiWi
 
@@ -43,6 +55,7 @@ publish: false
 ##### Wahlbereich A - VWL
 
 ##### Wahlbereich B - BWL
+- [ ] Grundlagen der Finanzwirtschaft II
 
 ##### Wahlbereich C - WiWi
 
