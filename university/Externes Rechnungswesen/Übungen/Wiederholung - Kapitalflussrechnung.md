@@ -114,9 +114,10 @@ publish: true
 | **Bilanzsumme**                           |      10.154 |       9.680 |
 
 *Ebenso wissen Sie, dass:
-1. *der Jahresüberschuss in 2021523 TEUR und in 2020385 TEUR war;*
-2. *die Abschreibungen auf BuGA für das Jahr 2021369 TEUR betrugen;*
-3. *im Jahr 2021 die Wertpapiere des Anlagevermögens mit einem Buchwert von 550 TEUR für einen Wert von 660 TEUR per Direktüberweisung verkauft wurden.*
+1. *der Jahresüberschuss in 2021 523.000€ und in 2020 385.000€ war;*
+2. *die Abschreibungen auf BuGA für das Jahr 2021 369.000€ betrugen;*
+3. *im Jahr 2021 die Wertpapiere des Anlagevermögens mit einem Buchwert von 550.000€ für einen Wert von 660.000€ per Direktüberweisung verkauft wurden.*
 
 *Erstellen Sie die Kapitalflussrechnung nach der indirekten Methode für das Geschäftsjahr 2021 der TacTic AG.*
+
 

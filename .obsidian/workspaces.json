@@ -204,7 +204,7 @@
           {
             "id": "587d7e62a66052db",
             "type": "tabs",
-            "dimension": 29.021372328458945,
+            "dimension": 29.02137232845895,
             "children": [
               {
                 "id": "79ded24ae5a22d5d",
@@ -256,12 +256,10 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "79ded24ae5a22d5d",
+      "active": "e041748da01c05af",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
-          "university",
-          "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen",
-          "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen"
+          "university"
         ]
       }
     },

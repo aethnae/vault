@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "77fdafb16292322a",
+        "id": "8ca7eb9c78af1dcd",
         "type": "tabs",
         "children": [
           {
-            "id": "979b48d80c946eef",
+            "id": "bffb5c1850d91c81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Externes Rechnungswesen/Übungen/Wiederholung - Kapitalflussrechnung.md",
+                "file": "university/Studienplanung.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "abschreibung",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Externes Rechnungswesen/Übungen/Wiederholung - Kapitalflussrechnung.md",
+                "file": "university/Studienplanung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Externes Rechnungswesen/Übungen/Wiederholung - Kapitalflussrechnung.md",
+                "file": "university/Studienplanung.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Externes Rechnungswesen/Übungen/Wiederholung - Kapitalflussrechnung.md"
+                "file": "university/Studienplanung.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Externes Rechnungswesen/Übungen/Wiederholung - Kapitalflussrechnung.md"
+                "file": "university/Studienplanung.md"
               }
             }
           }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Externes Rechnungswesen/Übungen/Wiederholung - Kapitalflussrechnung.md",
+                "file": "university/Studienplanung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,11 +265,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "979b48d80c946eef",
+  "active": "bffb5c1850d91c81",
   "lastOpenFiles": [
+    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Kurvendiskussion.md",
+    "university/Mathematik I/Übungsblätter/Freiwilliger Test.md",
+    "university/Mathematik I/Übungsblätter/Übungsblatt 4.md",
+    "university/Externes Rechnungswesen/Übungen/Wiederholung - Handelsbetrieb & Preisnachlässe.md",
+    "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Preisnachlässe.md",
+    "university/Externes Rechnungswesen/Konzepte/Steuern/Umsatzsteuern.md",
+    "university/Externes Rechnungswesen/Übungen/Wiederholung - Kapitalflussrechnung.md",
+    "university/Externes Rechnungswesen/Kursübersicht - Externes Rechnungswesen.md",
+    "university/Externes Rechnungswesen/Konzepte/Steuern/Ertragsteuern.md",
+    "university/Externes Rechnungswesen/Konzepte/Steuern/Steuerarten.md",
     "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Folgebewertung des Anlagevermögens.md",
     "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Methoden der Rechnungsabgrenzung.md",
-    "university/Externes Rechnungswesen/Übungen/Wiederholung - Kapitalflussrechnung.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion.md",
     "university/Studienplanung.md",
     "university/Literature Notes/Clio and the Economics of QWERTY.md",
@@ -286,16 +294,7 @@
     "university/Externes Rechnungswesen/Übungen/Lernbrief 3 - Buchen auf Bestandskonten.md",
     "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
     "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md",
-    "university/Externes Rechnungswesen/Konzepte/Aufwendungen & Erträge/Accrual.md",
-    "university/Externes Rechnungswesen/Konzepte/Untitled.md",
     "university/Externes Rechnungswesen/Konzepte/Jahresabschluss",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Kurze und lange Fristen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Skalenerträge.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzprodukt.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Eigenschaften der Technologie.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Monotonie.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfaktoren.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie",
     "Untitleddf",
     "files/Pasted image 20231214155547.png",
