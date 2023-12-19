@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8ca7eb9c78af1dcd",
+        "id": "849c05929f965236",
         "type": "tabs",
         "children": [
           {
-            "id": "bffb5c1850d91c81",
+            "id": "ae990fb00fd4cedc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Studienplanung.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -80,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Studienplanung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -113,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 285.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -146,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Studienplanung.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university/Studienplanung.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,13 +193,10 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university/Studienplanung.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "587d7e62a66052db",
@@ -220,7 +209,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Studienplanung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,8 +253,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bffb5c1850d91c81",
+  "active": "ae990fb00fd4cedc",
   "lastOpenFiles": [
+    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
+    "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Cournotscher Punkt.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Inverse Nachfragekurve.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Inverse Nachfragefunktionen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Minimalkostenkombination.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Marktnachfrage.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Grenzerlös.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfaktoren.md",
+    "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Marginalanalyse.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion.md",
+    "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Logistische Funktionen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Durchschnittsfunktionen.md",
+    "university/Mathematik I/Konzepte/Untitled.md",
+    "university/Studienplanung.md",
     "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Kurvendiskussion.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test.md",
     "university/Mathematik I/Übungsblätter/Übungsblatt 4.md",
@@ -279,21 +281,7 @@
     "university/Externes Rechnungswesen/Konzepte/Steuern/Steuerarten.md",
     "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Folgebewertung des Anlagevermögens.md",
     "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Methoden der Rechnungsabgrenzung.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion.md",
-    "university/Studienplanung.md",
-    "university/Literature Notes/Clio and the Economics of QWERTY.md",
-    "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Unternehmen.md",
     "files/Pasted image 20231215102727.png",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Eigentum & Macht/Pareto-Effizienz-Kurve.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Externe Effekte.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Marktversagen und Politik/Vorlesungsnotizen.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 3 - Knappheit, Arbeit & Entscheidungen.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
-    "university/Externes Rechnungswesen/Übungen/Lernbrief 6 - Umsatzsteuer und Ertragsteuern.md",
-    "university/Externes Rechnungswesen/Übungen/Lernbrief 3 - Buchen auf Bestandskonten.md",
-    "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
-    "university/Externes Rechnungswesen/Übungen/Lernbrief 5 - Umsatzerlöse, Wareneinsatz und Herstellungskosten.md",
     "university/Externes Rechnungswesen/Konzepte/Jahresabschluss",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie",
     "Untitleddf",

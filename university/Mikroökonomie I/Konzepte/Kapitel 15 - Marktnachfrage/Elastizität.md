@@ -33,6 +33,16 @@ Die Preiselastizität $\epsilon(p)$ ist preisabhängig. Die Nachfrage ist
 
 Typischerweise gibt es sowohl elastische wie unelastische Abschnitte.
 
+> [!abstract] Merke 
+> Es seien $y=f(x)$ und $z=g(x)$ zwei gegebene Funktionen. Dann gelten für die Elastizitäten folgende Beziehungen.
+> $$
+> \begin{aligned}
+> e_{y \cdot z, x} & =e_{y, x}+e_{z, x} \\
+> e_{\frac{y}{z}, x} & =e_{y, x}-e_{z, x} \\
+> e_{y, x} & =\frac{1}{e_{x, y}}
+> \end{aligned}
+> $$
+
 ***
 #### Elastizität einer linearen Nachfragekurve
 Beispielhaft wird hier eine lineare Nachfragekurve $q = a - bp$ betrachtet, wobei die Steigung dieser Nachfragekurve die Konstante $-b$ ist.
