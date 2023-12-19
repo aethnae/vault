@@ -12,14 +12,14 @@ publish: true
 | Nummer | Geschäftsvorfall                                                      | Ein-/Auszahlung? | Ertrag/Aufwand |
 | ------ | --------------------------------------------------------------------- | ---------------- | -------------- |
 | 1      | Barverkauf einer Maschine über dem Buchwert                           | +                | +              |
-| 2      | Aufnahme eines Bankkredits und Auszahlung auf betriebliches Bankkonto | -                | +/-            |
+| 2      | Aufnahme eines Bankkredits und Auszahlung auf betriebliches Bankkonto | +                | /              |
 | 3      | Verkauf von Ware, die der Kunde noch nicht bezahlt hat                | /                | +              |
-| 4      | Erhalt einer RHB-Lieferung und der zugehörigen Rechnung               | /                | -              |
-| 5      | Abschreibung einer Maschine                                           | -                | -              |
+| 4      | Erhalt einer RHB-Lieferung und der zugehörigen Rechnung               | /                | /              | 
+| 5      | Abschreibung einer Maschine                                           | /                | -              |
 | 6      | Verkauf von Ware, der Kunde zahlt bar im Laden                        | +                | +              |
 | 7      | Verbrauch von Rohstoffen während der Produktion                       | /                | -              |
 | 8      | Zinsgutschrift auf unserem Bankkonto                                  | +                | +              |
-| 9      | Eingang einer fälligen Kundenforderung                                | +                | +              |
+| 9      | Eingang einer fälligen Kundenforderung                                | +                | /              |
 | 10     | Im Dezember wird Miete für die Monate Dezember und Januar bezahlt     | -                | -              |
 
 ***
@@ -27,30 +27,31 @@ publish: true
 
 1. **Barverkauf einer Maschine über dem Buchwert**
 
-| Von                         | -   | an    |
-| --------------------------- | --- | ----- |
-| sonst. betrieblicher Ertrag | an  | Kasse |
+| Von   | -   | an                          |
+| ----- | --- | --------------------------- |
+| Kasse | an  | Maschine                    |
+|       | an  | sonst. betrieblicher Ertrag |
 
 
 2. **Aufnahme eines Bankkredits und Auszahlung auf betriebliches Bankkonto**
 
-| Von             | -   | an   |
-| --------------- | --- | ---- |
-| Verbindl. an KI | an  | Bank |
+| Von  | -   | an              |
+| ---- | --- | --------------- |
+| Bank | an  | Verbindl. an KI | 
 
 
 3. **Verkauf von Ware, die der Kunde noch nicht bezahlt hat**
 
-| Von          | -   | an                  |
-| ------------ | --- | ------------------- |
-| Umsatzerlöse | an  | Forderungen aus LuL |
+| Von                 | -   | an           |
+| ------------------- | --- | ------------ |
+| Forderungen aus LuL | an  | Umsatzerlöse |
 
 
 4. **Erhalt einer RHB-Lieferung und der zugehörigen Rechnung**
 
-| Von                 | -   | an                        |
-| ------------------- | --- | ------------------------- |
-| Bestandsveränderung | an  | Verbindlichkeiten aus LuL | 
+| Von | -   | an                        |
+| --- | --- | ------------------------- |
+| WEK | an  | Verbindlichkeiten aus LuL |
 
 
 5. **Abschreibung einer Maschine**
@@ -62,16 +63,16 @@ publish: true
 
 6. **Verkauf von Ware, der Kunde zahlt bar im Laden**
 
-| Von          | -   | an    |
-| ------------ | --- | ----- |
-| Umsatzerlöse | an  | Kasse | 
+| Von   | -   | an  |
+| ----- | --- | --- |
+| Kasse | an  | WVK | 
 
 
 7. **Verbrauch von Rohstoffen während der Produktion**
 
-| Von | -   | an                  |
-| --- | --- | ------------------- |
-| RHB | an  | fertige Erzeugnisse |
+| Von             | -   | an  |
+| --------------- | --- | --- |
+| Materialaufwand | an  | RHB |
 
 
 8. **Zinsgutschrift auf dem Bankkonto**
@@ -83,16 +84,17 @@ publish: true
 
 9. **Eingang einer fälligen Kundenforderung**
 
-| Von                 | -   | an           |
-| ------------------- | --- | ------------ |
-| Forderungen aus LuL | an  | Umsatzerlöse |
+| Von  | -   | an                  |
+| ---- | --- | ------------------- |
+| Bank | an  | Forderungen aus LuL |
 
 
 10. **Im Dezember wird Miete für die Monate Dezember und Januar bezahlt**
 
 | Von         | -   | an   |
 | ----------- | --- | ---- |
-| Mietaufwand | an  | Bank | 
+| Mietaufwand | an  | Bank |
+| aktiver RAP |     |      | 
 
 ***
 ##### Aufgabe 2
@@ -120,4 +122,25 @@ publish: true
 
 *Erstellen Sie die Kapitalflussrechnung nach der indirekten Methode für das Geschäftsjahr 2021 der TacTic AG.*
 
+#### Kapitalflussrechnung nach indirekter Methode
 
+| Position                                               | Wert  |
+| ------------------------------------------------------ | ----- |
+| **Cash am Anfang der Periode (01.01.21)**              | 522   |
+| Jahresüberschuss '21                                   | 523   |
+| Abschreibungen (auf BuGA)                              | 369   |
+| Gewinn aus dem Verkauf von Wertpapieren                | -110  |
+| Abnahme von Vorräten                                   | 842   |
+| Abnahme von Forderungen                                | 100   |
+| Abnahme von Rückstellungen                             | -858  |
+| Zunahme von Verbindlichkeiten aus LuL                  | 100   |
+| **= Cashflow aus operativer Geschäftstätigkeit (CFO)** |       |
+| Kauf von BuGA                                          | -970  |
+| Verkauf von Wertpapieren                               | 660   |
+| Kauf von Wertpapieren                                  | -1044 |
+| **= Cashflow aus Investitionstätigkeit (CFI)**         |       |
+| Zunahme der Verbindlichkeiten ggü. KI                  | 709   |
+| **= Cashflow aus Finanzierungstätigkeit (CFF)**        |       |
+| **Gesamtcashflow**                                     |       |
+| **Cash am Ende der Periode (31.12.21**                 | 843   |
+<!-- TBLFM: @>$2=sum(@I..@-1) -->
