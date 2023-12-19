@@ -56,10 +56,10 @@ publish: true
 
 8. Am 16.11. verkauft die Spielmaus OHG 60 Teddybären für insgesamt 1.920 € auf Ziel an einen Großhändler.
 
-| Von          | Wert    | -   | an                  | Wert      |
-| ------------ | ------- | --- | ------------------- | --------- |
-| Umsatzerlöse | 1.920€  | an  | Forderungen aus LuL | 2.284,80€ |
-| Umsatzsteuer | 364,80€ |     |                     |           |
+| Von                 | Wert      | -   | an           | Wert    |
+| ------------------- | --------- | --- | ------------ | ------- |
+| Forderungen aus LuL | 2.284,80€ | an  | Umsatzerlöse | 1.920€  |
+|                     |           | an  | Umsatzsteuer | 364,80€ | 
 
 9. Am 31.12. gewährt die Spielmaus OHG im Großkunden einen Umsatzbonus in Höhe von 130 € (netto). Den Bonus überweist sie noch am selben Tag per Direktüberweisung.
 
