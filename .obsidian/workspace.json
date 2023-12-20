@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "440d82ff5d06273f",
+        "id": "3a966b268237d953",
         "type": "tabs",
         "children": [
           {
-            "id": "9bc836f46c9688d9",
+            "id": "fd0cbd1376103dab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Regel von L'Hospital.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c95c95d5e04d583c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Reellwertige Funktionen mit mehreren Variablen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -93,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Reellwertige Funktionen mit mehreren Variablen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -116,7 +103,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.2990150286159956,
+                  "scale": 0.9986130953418212,
                   "close": true
                 }
               }
@@ -159,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Reellwertige Funktionen mit mehreren Variablen.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md"
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Reellwertige Funktionen mit mehreren Variablen.md"
               }
             }
           },
@@ -215,12 +202,11 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md"
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Reellwertige Funktionen mit mehreren Variablen.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "587d7e62a66052db",
@@ -233,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Reellwertige Funktionen mit mehreren Variablen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,13 +264,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c95c95d5e04d583c",
+  "active": "fd0cbd1376103dab",
   "lastOpenFiles": [
+    "files/Pasted image 20231220142936.png",
+    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Reellwertige Funktionen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Reellwertige Funktionen mit mehreren Variablen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Cournotscher Punkt.md",
+    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen",
+    "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Durchschnittsfunktionen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md",
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Regel von L'Hospital.md",
+    "misc/Taiwan '24/Übersicht.md",
+    "misc/Taiwan '24/Reiseplan.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Marginalanalyse.md",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Logistische Funktionen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Durchschnittsfunktionen.md",
     "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Kapitalflussrechnung.md",
     "university/Externes Rechnungswesen/Übungen/Wiederholung - Kapitalflussrechnung.md",
     "university/Externes Rechnungswesen/Übungen/Wiederholung - Handelsbetrieb & Preisnachlässe.md",
@@ -294,18 +289,10 @@
     "university/Externes Rechnungswesen/Konzepte/Preisnachlässe, Personalbuchungen und Rückstellungen/Rückstellungen.md",
     "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Folgebewertung des Anlagevermögens.md",
     "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Methoden der Rechnungsabgrenzung.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
-    "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Cournotscher Punkt.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Inverse Nachfragekurve.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Inverse Nachfragefunktionen.md",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Minimalkostenkombination.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Marktnachfrage.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Grenzerlös.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfaktoren.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion.md",
-    "university/Mathematik I/Konzepte/Untitled.md",
-    "university/Studienplanung.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Kurvendiskussion.md",
     "files/Pasted image 20231215102727.png",
     "university/Externes Rechnungswesen/Konzepte/Jahresabschluss",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie",
@@ -322,7 +309,6 @@
     "files/Vorlesungsfolien/Einführung in die VWL & Wirtschaftsgeschichte",
     "files/Vorlesungsfolien",
     "files/Vorlesungsfolien/Einführung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik",
     "files/Pasted image 20231210011805.png",
     "files/Pasted image 20231209222440.png",
     "files/Pasted image 20231209221524.png",

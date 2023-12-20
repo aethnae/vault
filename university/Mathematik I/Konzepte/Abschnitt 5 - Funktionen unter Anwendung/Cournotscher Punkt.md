@@ -1,5 +1,7 @@
 ---
-tags: 
+tags:
+  - nachfrage
+  - funktionen
 week: 2023-12-12
 flashcard: false
 publish: true
