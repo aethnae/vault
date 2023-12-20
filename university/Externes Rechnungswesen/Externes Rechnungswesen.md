@@ -42,7 +42,6 @@
 		- [[Gesamtkostenverfahren]]
 		- [[Geschäftsmodelle]]
 		- [[Umsatzkostenverfahren]]
-- [[Kursübersicht - Externes Rechnungswesen]]
 - **Übungen**
 	- [[Lernbrief 1 - Warum Rechnungswesen?]]
 	- [[Lernbrief 2  - Unternehmensgründung, Buchführung und Bilanzen]]

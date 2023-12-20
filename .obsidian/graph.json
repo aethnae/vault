@@ -15,13 +15,6 @@
       }
     },
     {
-      "query": "path:university  ",
-      "color": {
-        "a": 1,
-        "rgb": 34047
-      }
-    },
-    {
       "query": "path:misc  ",
       "color": {
         "a": 1,
@@ -33,6 +26,34 @@
       "color": {
         "a": 1,
         "rgb": 16774912
+      }
+    },
+    {
+      "query": "path:university/Mathematik I",
+      "color": {
+        "a": 1,
+        "rgb": 10443990
+      }
+    },
+    {
+      "query": "path:university/Mikroökonomie I  ",
+      "color": {
+        "a": 1,
+        "rgb": 16056487
+      }
+    },
+    {
+      "query": "path:\"university/Externes Rechnungswesen\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 41973
+      }
+    },
+    {
+      "query": "path:\"university/Einführung in die VWL und Wirtschaftsgeschichte\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4057343
       }
     }
   ],
@@ -46,6 +67,6 @@
   "repelStrength": 10.4402669270833,
   "linkStrength": 0.833455403645833,
   "linkDistance": 250,
-  "scale": 0.2714442476404709,
+  "scale": 0.37053119479547403,
   "close": true
 }

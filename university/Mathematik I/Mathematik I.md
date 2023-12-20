@@ -28,6 +28,7 @@
 		- [[Differential]]
 		- [[Differenzierbarkeit]]
 		- [[Links- und rechtsseitige Ableitungen]]
+		- [[Mittelwertsatz]]
 		- [[Satz von Taylor]]
 		- [[Tangenten]]
 		- [[Taylorpolynome]]
@@ -43,10 +44,12 @@
 	- **Abschnitt 6 - Funktionen mit mehreren Variablen**
 		- [[Grenzwerte mehrdimensionaler Funktionen]]
 		- [[Partielle Ableitungen]]
+		- [[Partielles Differential]]
 		- [[Reellwertige Funktionen mit mehreren Variablen]]
 		- [[Satz von Schwarz]]
 		- [[Schnittkurven]]
 		- [[Stetigkeit mehrdimensionaler Funktionen]]
+		- [[Totales Differential]]
 	- **Einschub - finanzmathematische Anwendungen**
 		- [[Barwert]]
 		- [[Bausparkonto mit nachschüssiger Verzinsung]]
