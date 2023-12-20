@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Reellwertige Funktionen mit mehreren Variablen.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Schnittkurven.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Reellwertige Funktionen mit mehreren Variablen.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Schnittkurven.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Reellwertige Funktionen mit mehreren Variablen.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Schnittkurven.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Reellwertige Funktionen mit mehreren Variablen.md"
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Schnittkurven.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Reellwertige Funktionen mit mehreren Variablen.md"
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Schnittkurven.md"
               }
             }
           }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Reellwertige Funktionen mit mehreren Variablen.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Schnittkurven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,9 +266,14 @@
   },
   "active": "fd0cbd1376103dab",
   "lastOpenFiles": [
+    "files/Pasted image 20231220151530.png",
+    "files/Pasted image 20231220151228.png",
+    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Reellwertige Funktionen mit mehreren Variablen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Schnittkurven.md",
+    "files/Pasted image 20231220150819.png",
+    "files/Pasted image 20231220150408.png",
     "files/Pasted image 20231220142936.png",
     "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Reellwertige Funktionen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Reellwertige Funktionen mit mehreren Variablen.md",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Cournotscher Punkt.md",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Durchschnittsfunktionen.md",
@@ -292,7 +297,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Inverse Nachfragekurve.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Inverse Nachfragefunktionen.md",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Minimalkostenkombination.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Marktnachfrage.md",
     "files/Pasted image 20231215102727.png",
     "university/Externes Rechnungswesen/Konzepte/Jahresabschluss",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie",
@@ -302,16 +306,12 @@
     "files/Pasted image 20231214155508.png",
     "files/Pasted image 20231214155429.png",
     "files/Pasted image 20231214155346.png",
-    "files/Pasted image 20231213155916.png",
     "dfn/Mitteilungen/Roadmap.pdf",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage",
     "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Untitled",
     "files/Vorlesungsfolien/Einführung in die VWL & Wirtschaftsgeschichte",
     "files/Vorlesungsfolien",
     "files/Vorlesungsfolien/Einführung in die VWL & Wirtschaftsgeschichte/Unit 6 VL 8 WS2324.pdf",
-    "files/Pasted image 20231210011805.png",
-    "files/Pasted image 20231209222440.png",
-    "files/Pasted image 20231209221524.png",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
