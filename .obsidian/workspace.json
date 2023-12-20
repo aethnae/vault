@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Grenzwerte und Stetigkeit mehrdimensionaler Funktionen.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Grenzwerte mehrdimensionaler Funktionen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6666983cd46fb9f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Stetigkeit mehrdimensionaler Funktionen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -80,7 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Grenzwerte und Stetigkeit mehrdimensionaler Funktionen.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Stetigkeit mehrdimensionaler Funktionen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Grenzwerte und Stetigkeit mehrdimensionaler Funktionen.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Stetigkeit mehrdimensionaler Funktionen.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Grenzwerte und Stetigkeit mehrdimensionaler Funktionen.md"
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Stetigkeit mehrdimensionaler Funktionen.md"
               }
             }
           },
@@ -202,7 +215,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Grenzwerte und Stetigkeit mehrdimensionaler Funktionen.md"
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Stetigkeit mehrdimensionaler Funktionen.md"
               }
             }
           }
@@ -219,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Grenzwerte und Stetigkeit mehrdimensionaler Funktionen.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Stetigkeit mehrdimensionaler Funktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,11 +277,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fd0cbd1376103dab",
+  "active": "6666983cd46fb9f9",
   "lastOpenFiles": [
+    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Grenzwerte mehrdimensionaler Funktionen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Stetigkeit mehrdimensionaler Funktionen.md",
+    "files/Pasted image 20231220161031.png",
     "files/Pasted image 20231220154243.png",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Schnittkurven.md",
-    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Grenzwerte und Stetigkeit mehrdimensionaler Funktionen.md",
     "files/Pasted image 20231220151530.png",
     "files/Pasted image 20231220151228.png",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Reellwertige Funktionen mit mehreren Variablen.md",
@@ -304,8 +319,6 @@
     "Untitleddf",
     "files/Pasted image 20231214155547.png",
     "files/Pasted image 20231214155521.png",
-    "files/Pasted image 20231214155508.png",
-    "files/Pasted image 20231214155429.png",
     "dfn/Mitteilungen/Roadmap.pdf",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage",
     "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Untitled",

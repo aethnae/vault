@@ -52,4 +52,32 @@ gilt.
 > $$
 
 ***
-##### Beispiel für
+##### Beispiel für Nichtexistenz
+
+**Funktion:**
+
+$$
+f(x,y) = \frac{x}{\sqrt{ x^{2}+y^{2} }}
+$$
+
+**Frage:**
+Existiert $\displaystyle \lim_{ x,y \to 0,0 } f(x,y)$?
+
+**Antwort:**
+Nein, denn Verschiedene Annäherungen an $P_{0} = (0,0)$ liefern unterschiedliche Grenzwerte:
+
+Folge $(x_{n}, y_{n})=\left( \frac{1}{n}, 0 \right)$ führt zur Folge von Funktionswerten
+
+$$
+f(x_{n}, y_{n}) = \frac{\frac{1}{n}}{\sqrt{ \frac{1}{n}^{2} + 0 }} = \frac{\frac{1}{n}}{\frac{1}{n}} = 1
+$$
+
+Folge $(x_{n}, y_{n}) = \left( 0, \frac{1}{n} \right)$ führt zur Folge von Funktionswerten
+
+$$
+f(x_{n}, y_{n}) = \frac{0}{\sqrt{ 0 + \frac{1}{n}^{2} }} = 0 \stackrel{n \rightarrow \infty}{\longrightarrow} 0
+$$
+
+![[Pasted image 20231220161031.png|center|300]]
+
+***
