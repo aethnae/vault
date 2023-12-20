@@ -21,5 +21,6 @@
   "table-editor-obsidian",
   "inline-math",
   "obsidian-citation-plugin",
-  "obsidian-pandoc-reference-list"
+  "obsidian-pandoc-reference-list",
+  "waypoint"
 ]
