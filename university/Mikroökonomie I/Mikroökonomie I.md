@@ -1,0 +1,89 @@
+***
+
+%% Begin Waypoint %%
+- **Konzepte**
+	- **Kapitel 1 - Angebot und Nachfrage**
+		- [[Angebotsüberhang]]
+		- [[Ceteris Paribus]]
+		- [[Komparative Statik]]
+		- [[Konsumentenrente]]
+		- [[Marktgleichgewicht]]
+		- [[Marktnachfrage]]
+		- [[Nachfrageüberhang]]
+		- [[Pareto-Effizienz]]
+		- [[Produzentenrente]]
+	- **Kapitel 2 - Budgets**
+		- [[Budgetbeschränkung]]
+		- [[Budgetgerade]]
+		- [[Güterbündel]]
+		- [[Mengensteuer]]
+		- [[Numéraire-Preis]]
+		- [[Opportunitätskosten]]
+		- [[Pauschalsteuer]]
+		- [[Wertsteuer]]
+		- [[Zusammengesetztes Gut]]
+	- **Kapitel 3 - Präferenzen**
+		- [[Besser- und Schlechtermengen]]
+		- [[Grenzrate der Substitution]]
+		- [[Indifferenzkurven]]
+		- [[Indifferenzmengen]]
+		- [[Konvexität]]
+		- [[Monotonie]]
+		- [[Präferenzrelationen]]
+	- **Kapitel 4 - Nutzen**
+		- [[Cobb-Douglas-Präferenzen]]
+		- [[Grenznutzen]]
+		- [[Nutzenfunktionen]]
+		- [[Quasilineare Präferenzen]]
+	- **Kapitel 5 - Entscheidungen**
+		- [[Lagrange-Multiplikation]]
+		- [[Nachfragefunktion]]
+		- [[Optimale Entscheidung]]
+		- [[Tangentialbedingung]]
+	- **Kapitel 6 - Nachfrage**
+		- [[Einkommensexpansionspfade]]
+		- [[Engel-Kurven]]
+		- [[Gewöhnliche und Giffen-Güter]]
+		- [[Homothetische Präferenzen]]
+		- [[Inverse Nachfragefunktionen]]
+		- [[Nachfragekurven]]
+		- [[Normale und inferiore Güter]]
+		- [[Preis-Konsumkurven]]
+		- [[Substitute und Komplemente]]
+		- [[Vorbehaltspreise]]
+	- **Kapitel 7 - Bekundete Präferenzen**
+		- [[Bekundete Präferenzen]]
+		- [[Schwaches Axiom der Bekundeten Präferenzen]]
+		- [[Starkes Axiom der bekundeten Präferenzen]]
+	- **Kapitel 8 - Slutsky-Gleichungen**
+		- [[Einkommenseffekt]]
+		- [[Hicks-Substitutionseffekt]]
+		- [[Slutsky-Identität]]
+		- [[Substitutionseffekt]]
+	- **Kapitel 14 - Konsumentenrente**
+		- [[Angebotsfunktion]]
+		- [[Brutto- und Nettorente]]
+		- [[Kompensatorische und äquivalente Variation]]
+	- **Kapitel 15 - Marktnachfrage**
+		- [[Elastizität]]
+		- [[Erlös]]
+		- [[Grenzerlös]]
+		- [[Inverse Nachfragekurve]]
+		- [[Marktnachfrage]]
+	- **Kapitel 19 - Technologie**
+		- [[Eigenschaften der Technologie]]
+		- [[Grenzprodukt]]
+		- [[Grenzrate der technischen Substitution]]
+		- [[Kurze und lange Fristen]]
+		- [[Produktionsfaktoren]]
+		- [[Produktionsfunktion]]
+		- [[Skalenerträge]]
+- [[Kursübersicht - Mikroökonomie]]
+- [[Mikroökonomie I]]
+- **Übungen**
+	- [[Übungsblatt 1]]
+	- [[Übungsblatt 2]]
+	- [[Übungsblatt 3]]
+	- [[Übungsblatt 4]]
+
+%% End Waypoint %%
