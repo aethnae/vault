@@ -143,3 +143,9 @@ $$
 > - $f'''(x) \neq 0$
 
 - Ein Wendepunkt mit einer Steigung $0$ wird als **Terassen-** oder **Sattelpunkt** bezeichnet
+
+***
+#### Bild- und Zielmenge
+In der Wertemenge befinden sich nur die Werte, die wirklich von der Funktion angenommen werden.
+
+Die Zielmenge ist eine Menge, in der die Wertemenge enthalten ist, in der es aber auch noch weitere Elemente gibt. So ist z. B. eine Zielmenge der Funktion $f(x)=x^2$ die Menge der reellen Zahlen $\mathbb{R}$. Die eigentliche Wertemenge ist aber $\mathbb{R}_0^{+}$(alle positiven reellen Zahlen und die Null), da keine negativen Zahlen von der Funktion angenommen werden. Ein anderes Wort für Zielmenge ist Wertevorrat.
