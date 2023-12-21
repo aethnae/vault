@@ -31,6 +31,8 @@ $$
 \underbrace{\sqrt{\left|x_n-x_0\right|^2+\left|y_n-y_0\right|^2}}_{\text {Abstand von }\left(x_n, y_n\right) \text { zu }\left(x_0, y_0\right)}<\epsilon
 $$
 
+^5d563c
+
 ^b67363
 gilt.
 

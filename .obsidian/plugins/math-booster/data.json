@@ -27,7 +27,7 @@
       "eqRefSuffix": "",
       "labelPrefix": "",
       "lineByLine": true,
-      "theoremCalloutStyle": "Vivid",
+      "theoremCalloutStyle": "Framed",
       "theoremCalloutFontInherit": false,
       "beginProof": "\\begin{proof}",
       "endProof": "\\end{proof}",
@@ -148,7 +148,7 @@
     "enableMathPreviewInCalloutAndQuote": true,
     "autocompleteDvQuery": "",
     "searchModalQueryType": "both",
-    "searchModalRange": "recent",
+    "searchModalRange": "vault",
     "searchModalDvQuery": ""
   },
   "excludedFiles": []
