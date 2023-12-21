@@ -98,3 +98,31 @@ f(x) & \text { für } x \neq 3
 $$
 
 ***
+#### [[Grenzwerte]]
+
+***
+#### Nullstellen
+
+> [!note] Herangehensweise 
+> Selbsterklärend, für Polynome höheren Grades Polynomdivision und dann lösen mit p-q-Formel.
+
+***
+#### Monotonie
+
+> [!abstract] Definition 
+> Beschreibt das Steigungsverhalten in einem Intervall der Funktion.
+
+> [!note] Herangehensweise
+> 1. Intervallgrenzen durch Extremwerte der Funktion bestimmen $\implies f'(x) = 0$
+> 2. Nullstellen der Ableitung in die zweite Ableitung einsetzen $\implies f''(x) = 0$
+> 	- Für $f''(x) > 0$ ist ein Hochpunkt an der Stelle $x$ gegeben, für $f''(x) < 0$ ein Tiefpunkt
+> 	- Wenn $f''(x) = 0$, muss die 3. Ableitung gebildet werden. Ist diese auch Null, liegt ein **Terassenpunkt** vor.
+> 
+> Wenn man weiß, ob ein Hoch-, Tief- oder Terrassenpunkt vorliegt, kennt man auch die Monotonie des Graphen vor bzw. nach diesen Stellen:
+> - Tiefpunkt: links davon fallend, rechts davon steigend
+> - Hochpunkt: links davon steigend, rechts davon fallend
+> - Terrassenpunkt: links und rechts davon gleiche Monotonie
+
+***
+#### Extremwerte
+*siehe [[Kurvendiskussion - Übersicht#Monotonie|Monotonie]]*
