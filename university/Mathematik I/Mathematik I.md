@@ -60,6 +60,7 @@
 		- [[Tilgung von Schulden]]
 	- **Einschub - mathematische Beweisführung**
 		- [[Vollständige Induktion]]
+	- [[Kurvendiskussion - Übersicht]]
 	- **Vorkurs**
 		- **[[Funktionen]]**
 			- [[Betragsfunktionen]]
