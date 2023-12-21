@@ -148,8 +148,8 @@
     "enableMathPreviewInCalloutAndQuote": true,
     "autocompleteDvQuery": "",
     "searchModalQueryType": "both",
-    "searchModalRange": "vault",
-    "searchModalDvQuery": ""
+    "searchModalRange": "dataview",
+    "searchModalDvQuery": "LIST WHERE file.cday >= date(\"2023-12-19\")"
   },
   "excludedFiles": []
 }

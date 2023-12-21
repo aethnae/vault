@@ -21,6 +21,10 @@ $$
 **Schreibweisen:**
 
 $$
+
+^39ab45
+
+^e0d003
 \left.\frac{\partial f}{\partial x}\right|_{\substack{x=x_0 \\
 y=y_0}} \quad \text{ oder } \quad \frac{ \partial f(x,y) }{ \partial x }|_{\substack{x=x_{0} \\ y=y_{0}}} \quad \text{ oder } \quad \frac{\partial f}{\partial x}\left(x_0, y_0\right) \quad \text { oder } \quad f_x\left(x_0, y_0\right)
 $$

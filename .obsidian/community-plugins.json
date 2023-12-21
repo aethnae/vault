@@ -24,5 +24,7 @@
   "obsidian-pandoc-reference-list",
   "waypoint",
   "math-booster",
-  "mathlinks"
+  "mathlinks",
+  "quick-preview",
+  "rendered-block-link-suggestions"
 ]

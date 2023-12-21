@@ -41,6 +41,8 @@ $$
 \end{aligned}
 $$
 
+^88268a
+
 ***
 #### Definitionslücken
 
@@ -149,14 +151,3 @@ $$
 In der Wertemenge befinden sich nur die Werte, die wirklich von der Funktion angenommen werden.
 
 Die Zielmenge ist eine Menge, in der die Wertemenge enthalten ist, in der es aber auch noch weitere Elemente gibt. So ist z. B. eine Zielmenge der Funktion $f(x)=x^2$ die Menge der reellen Zahlen $\mathbb{R}$. Die eigentliche Wertemenge ist aber $\mathbb{R}_0^{+}$(alle positiven reellen Zahlen und die Null), da keine negativen Zahlen von der Funktion angenommen werden. Ein anderes Wort für Zielmenge ist Wertevorrat.
-
-> [!definition] Satz von Schwarz
-> Sei $U \subseteq \mathbb{R}^n$ eine offene Menge sowie $f: U \rightarrow \mathbb{R}$ mindestens $k$-mal partiell differenzierbar und sind alle $k$-ten partiellen Ableitungen in $U$ zumindest noch stetig, so ist $f$ $k$-mal total differenzierbar und insbesondere ist die Reihenfolge der Differentiation in allen $l$-ten partiellen Ableitungen mit $l \leq k$ unerheblich. ${ }^{\text {[2] }}$
-> 
-> Insbesondere für $n=2$ und $k \geq 2$ gilt also
-> 
-> $$
-> \frac{\partial}{\partial x}\left(\frac{\partial}{\partial y} f(x, y)\right)=\frac{\partial}{\partial y}\left(\frac{\partial}{\partial x} f(x, y)\right) .
-> $$
-
-> [!theorem] $\LaTeX$ Test

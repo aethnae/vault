@@ -82,6 +82,8 @@ $$
 f(x_{n}, y_{n}) = \frac{0}{\sqrt{ 0 + \frac{1}{n}^{2} }} = 0 \stackrel{n \rightarrow \infty}{\longrightarrow} 0
 $$
 
+^8347bb
+
 ![[Pasted image 20231220161031.png|center|300]]
 
 ***
