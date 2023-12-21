@@ -164,10 +164,10 @@
       "enabled": false
     },
     "empty-line-around-math-blocks": {
-      "enabled": false
+      "enabled": true
     },
     "empty-line-around-tables": {
-      "enabled": false
+      "enabled": true
     },
     "heading-blank-lines": {
       "enabled": false,
@@ -234,6 +234,13 @@
     },
     "remove-multiple-blank-lines-on-paste": {
       "enabled": false
+    },
+    "add-blank-line-after-yaml": {
+      "enabled": false
+    },
+    "default-language-for-code-fences": {
+      "enabled": false,
+      "default-language": ""
     }
   },
   "lintOnSave": false,

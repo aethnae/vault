@@ -22,5 +22,7 @@
   "inline-math",
   "obsidian-citation-plugin",
   "obsidian-pandoc-reference-list",
-  "waypoint"
+  "waypoint",
+  "math-booster",
+  "mathlinks"
 ]

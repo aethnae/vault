@@ -32,14 +32,18 @@ var TableCheckboxesPlugin = class extends import_obsidian.Plugin {
   constructor() {
     super(...arguments);
     this.setupWindowHandlers = (_workspaceWindow, win) => {
-      this.registerDomEvent(win, "keyup", (evt) => {
-        if (evt.key == "]") {
+      this.registerDomEvent(win, "input", (evt) => {
+        console.log(evt);
+        if (evt.data === "]") {
           const view = this.app.workspace.activeEditor;
           if (!view || !view.editor) {
             return;
           }
           const location = view.editor.getCursor("anchor");
-          const rowValue = view.editor.getLine(location.line);
+          let rowValue = view.editor.getLine(location.line);
+          const rowChars = rowValue.split("");
+          rowChars.splice(location.ch, 0, evt.data);
+          rowValue = rowChars.join("");
           if (this.isMDCheckboxInTable(rowValue)) {
             const checkBox = this.getCheckboxLength(rowValue);
             const start = { ...location };

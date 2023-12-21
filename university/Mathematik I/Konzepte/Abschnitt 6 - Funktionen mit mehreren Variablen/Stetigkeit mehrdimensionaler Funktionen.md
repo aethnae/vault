@@ -17,3 +17,4 @@ publish: true
 > 
 > gilt. Eine Funktion $f(x, y)$ ist in einem Gebiet $G \subseteq \mathbb{R}^2$ stetig, wenn sie in jedem Punkt von $G$ stetig ist.
 
+

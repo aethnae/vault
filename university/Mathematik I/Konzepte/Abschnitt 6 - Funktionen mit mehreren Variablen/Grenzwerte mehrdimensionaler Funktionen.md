@@ -30,6 +30,8 @@ Für jedes $\epsilon>0$ gibt es ein $n_0 \in \mathbb{N}$, sodass für alle $n \g
 $$
 \underbrace{\sqrt{\left|x_n-x_0\right|^2+\left|y_n-y_0\right|^2}}_{\text {Abstand von }\left(x_n, y_n\right) \text { zu }\left(x_0, y_0\right)}<\epsilon
 $$
+
+^b67363
 gilt.
 
 ![[Pasted image 20231220154243.png|center|300]]
