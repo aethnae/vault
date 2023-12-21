@@ -126,3 +126,20 @@ $$
 ***
 #### Extremwerte
 *siehe [[Kurvendiskussion - Übersicht#Monotonie|Monotonie]]*
+
+***
+#### Krümmungsverhalten & Wendepunkte
+
+> [!abstract] Definition 
+> Das Krümmungsverhalten eines Funktionsgraphen an einer Stelle $x$ ist die Richtungsänderung in diesem Punkt. Man unterscheidet **rechtsgekrümmte** und **linksgekrümmte** Abschnitte sowie **Wendepunkte**.
+
+> [!note] Herangehensweise 
+> Dazu betrachtet man für $x$ aus einem bestimmten Abschnitt die zweite Ableitung:
+> - $f^{\prime \prime}(x)>0 \Rightarrow f$ linksgekrümmt
+> - $f^{\prime \prime}(x)<0 \Rightarrow f$ rechtsgekrümmt
+> 
+> Als Abschnittsgrenzen bieten sich die **Wendepunkte** an, diese berechnet man mit:
+> - $f''(x) = 0$
+> - $f'''(x) \neq 0$
+
+- Ein Wendepunkt mit einer Steigung $0$ wird als **Terassen-** oder **Sattelpunkt** bezeichnet
