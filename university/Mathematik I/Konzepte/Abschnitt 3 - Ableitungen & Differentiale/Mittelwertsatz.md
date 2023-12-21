@@ -13,3 +13,6 @@ publish: true
 > $$
 > f'(\xi) = \frac{f(b)-f(a)}{b-a}
 $$
+
+
+^d14e99

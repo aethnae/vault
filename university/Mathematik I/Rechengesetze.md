@@ -186,7 +186,7 @@ Die Quotientenregel folgt direkt aus Produkt- und Kettenregel, denn
 #### Grenzwerte
 ***
 
-> [!summary] Grenzwertrechenregeln
+> [!thm] Grenzwertrechenregeln
 > Es sei
 > $$
 > \lim _{n \rightarrow \infty} a_n=a \in \mathbb{R} \quad \text { und } \quad \lim _{n \rightarrow \infty} b_n=b \in \mathbb{R} \quad \text { sowie } \quad c \in \mathbb{R} .

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a21f8a7c705e674e",
+        "id": "0e1a9cc60687d8c7",
         "type": "tabs",
         "children": [
           {
-            "id": "7fab0efedaa9813e",
+            "id": "105b7f6185b68b3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Stetigkeit mehrdimensionaler Funktionen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -32,7 +28,6 @@
       {
         "id": "ce17988e31e66ad3",
         "type": "tabs",
-        "dimension": 62.16216216216216,
         "children": [
           {
             "id": "e041748da01c05af",
@@ -68,52 +63,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "4cae0943d8942f29",
-        "type": "tabs",
-        "dimension": 37.83783783783784,
-        "children": [
-          {
-            "id": "110820e6469f9f65",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Stetigkeit mehrdimensionaler Funktionen.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7064165277300307,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 278.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -122,41 +75,7 @@
       {
         "id": "be7961eba01397a0",
         "type": "tabs",
-        "dimension": 40.044994375703034,
         "children": [
-          {
-            "id": "ba8653a4649b74c5",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "51765abe1eb47d88",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "5767c389ed91eef4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Stetigkeit mehrdimensionaler Funktionen.md",
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "d66306a0e6d4bed9",
             "type": "leaf",
@@ -164,8 +83,16 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
+            }
+          },
+          {
+            "id": "ba8653a4649b74c5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           },
           {
@@ -177,13 +104,22 @@
             }
           },
           {
+            "id": "79ded24ae5a22d5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "0f6fcecc9b6e74e3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Stetigkeit mehrdimensionaler Funktionen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,42 +137,6 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Stetigkeit mehrdimensionaler Funktionen.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "587d7e62a66052db",
-        "type": "tabs",
-        "dimension": 29.02137232845895,
-        "children": [
-          {
-            "id": "79ded24ae5a22d5d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Stetigkeit mehrdimensionaler Funktionen.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ee23c133083ceb1c",
-        "type": "tabs",
-        "dimension": 30.93363329583802,
-        "children": [
-          {
-            "id": "7ff3c2c22edf1082",
-            "type": "leaf",
-            "state": {
-              "type": "ReferenceListView",
               "state": {}
             }
           }
@@ -265,21 +165,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7fab0efedaa9813e",
+  "active": "e041748da01c05af",
   "lastOpenFiles": [
+    "test.md",
+    "Test.md",
     "university/Mathematik I/Konzepte/Kurvendiskussion - Übersicht.md",
+    "university/Mathematik I/Konzepte/Einschub - mathematische Beweisführung/Vollständige Induktion.md",
+    "university/Mathematik I/Rechengesetze.md",
+    "university/Mathematik I/Mathematik I.md",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Satz von Schwarz.md",
-    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Grenzwerte mehrdimensionaler Funktionen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Mittelwertsatz.md",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Stetigkeit mehrdimensionaler Funktionen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Grenzwerte mehrdimensionaler Funktionen.md",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Partielles Differential.md",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Totales Differential.md",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Partielle Ableitungen.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Folgen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
     "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Polstellen.md",
-    "university/Mathematik I/Mathematik I.md",
-    "university/Mathematik I/Rechengesetze.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Mittelwertsatz.md",
     "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Mengen.md",
     "school/Mathe/Stochastik/Mittelwert.md",
     "university/Studienplanung.md",
@@ -290,9 +193,6 @@
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Einführung in die VWL und Wirtschaftsgeschichte.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Kursübersicht - Einführung in die VWL und Wirtschaftsgeschichte.md",
     "university/Mikroökonomie I/Mikroökonomie I.md",
-    "university/Mathematik I/Übungsblätter/Freiwilliger Test.md",
-    "university/Mathematik I/Übungsblätter/Übungsblatt 4.md",
-    "university/university.md",
     "files/Pasted image 20231220161031.png",
     "files/Pasted image 20231220154243.png",
     "files/Pasted image 20231220151530.png",

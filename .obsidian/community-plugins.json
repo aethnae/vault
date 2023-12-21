@@ -13,7 +13,6 @@
   "darlal-switcher-plus",
   "note-refactor-obsidian",
   "obsidian-git",
-  "workspaces-plus",
   "obsidian-linter",
   "tag-wrangler",
   "table-checkboxes",
@@ -26,5 +25,8 @@
   "math-booster",
   "mathlinks",
   "quick-preview",
-  "rendered-block-link-suggestions"
+  "rendered-block-link-suggestions",
+  "obsidian-footnotes",
+  "math-in-callout",
+  "auto-displaystyle-inline-math"
 ]

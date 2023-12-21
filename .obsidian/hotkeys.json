@@ -84,14 +84,6 @@
       "key": "J"
     }
   ],
-  "workspaces-plus:open-workspaces-plus": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "W"
-    }
-  ],
   "darlal-switcher-plus:switcher-plus:open-headings": [
     {
       "modifiers": [
@@ -100,12 +92,20 @@
       "key": "O"
     }
   ],
-  "obsidian-admonition:insert-callout": [
+  "obsidian-footnotes:insert-autonumbered-footnote": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "darlal-switcher-plus:switcher-plus:open-workspaces": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "Q"
+      "key": "W"
     }
   ]
 }
