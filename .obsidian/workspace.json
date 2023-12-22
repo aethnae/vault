@@ -11,8 +11,12 @@
             "id": "105b7f6185b68b3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university/Mikroökonomie I/Mikroökonomie I.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -109,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university/Mikroökonomie I/Mikroökonomie I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university/Mikroökonomie I/Mikroökonomie I.md"
+              }
             }
           },
           {
@@ -137,7 +144,26 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university/Mikroökonomie I/Mikroökonomie I.md"
+              }
+            }
+          },
+          {
+            "id": "8421df4615ba2e02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "university/Mikroökonomie I/Mikroökonomie I.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ]
@@ -165,7 +191,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e041748da01c05af",
+  "active": "105b7f6185b68b3e",
   "lastOpenFiles": [
     "test.md",
     "Test.md",
