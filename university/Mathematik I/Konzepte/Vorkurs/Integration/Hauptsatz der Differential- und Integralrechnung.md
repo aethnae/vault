@@ -7,7 +7,7 @@ flashcard: true
 ***
 
 > [!def] Hauptsatz der Differential- und Integralrechnung
-> Sei $f:[a, b] \rightarrow \mathbb{R}$ eine stetige* Funktion. Dann gilt 
+> Sei $f:[a, b] \rightarrow \mathbb{R}$ eine stetige Funktion. Dann gilt 
 > 
 > - Die Funktion
 > $$

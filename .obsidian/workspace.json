@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "206db1cdea230e05",
+        "id": "e41e243788f9cdc5",
         "type": "tabs",
         "children": [
           {
-            "id": "12e18b0702e438b9",
+            "id": "a0fd5a5f0f1ca3fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Partielle Ableitungen.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -28,6 +32,7 @@
       {
         "id": "ce17988e31e66ad3",
         "type": "tabs",
+        "dimension": 62.16216216216216,
         "children": [
           {
             "id": "e041748da01c05af",
@@ -63,6 +68,48 @@
             }
           }
         ]
+      },
+      {
+        "id": "4cae0943d8942f29",
+        "type": "tabs",
+        "dimension": 37.83783783783784,
+        "children": [
+          {
+            "id": "110820e6469f9f65",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Partielle Ableitungen.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.116380238178207,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -75,7 +122,41 @@
       {
         "id": "be7961eba01397a0",
         "type": "tabs",
+        "dimension": 40.044994375703034,
         "children": [
+          {
+            "id": "ba8653a4649b74c5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "51765abe1eb47d88",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5767c389ed91eef4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Partielle Ableitungen.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
           {
             "id": "d66306a0e6d4bed9",
             "type": "leaf",
@@ -83,16 +164,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
-            }
-          },
-          {
-            "id": "ba8653a4649b74c5",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -104,22 +177,13 @@
             }
           },
           {
-            "id": "79ded24ae5a22d5d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "0f6fcecc9b6e74e3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Partielle Ableitungen.md"
+              }
             }
           },
           {
@@ -137,6 +201,43 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Partielle Ableitungen.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "587d7e62a66052db",
+        "type": "tabs",
+        "dimension": 29.02137232845895,
+        "children": [
+          {
+            "id": "79ded24ae5a22d5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Partielle Ableitungen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ee23c133083ceb1c",
+        "type": "tabs",
+        "dimension": 30.93363329583802,
+        "children": [
+          {
+            "id": "7ff3c2c22edf1082",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
               "state": {}
             }
           }
@@ -144,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,14 +265,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e041748da01c05af",
+  "active": "a0fd5a5f0f1ca3fe",
   "lastOpenFiles": [
-    "university/Mikroökonomie I/Mikroökonomie I.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfaktoren.md",
-    "university/Mathematik I/Mathematik I.md",
-    "university/Mathematik I/Rechengesetze.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Logarithmen.md",
     "university/Mathematik I/LaTeX Snippets.md",
+    "university/Mathematik I/Rechengesetze.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Integration/Hauptsatz der Differential- und Integralrechnung.md",
+    "university/Mathematik I/Test.md",
+    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differenzierbarkeit.md",
+    "files/Pasted image 20231128174534.png",
+    "university/Mathematik I/Mathematik I.md",
+    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Grenzwerte mehrdimensionaler Funktionen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Totales Differential.md",
+    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Stetigkeit mehrdimensionaler Funktionen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Schnittkurven.md",
+    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Satz von Schwarz.md",
+    "university/Mikroökonomie I/Mikroökonomie I.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Marktnachfrage.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfaktoren.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Logarithmen.md",
     "university/Mathematik I/Konzepte/Kurvendiskussion - Übersicht.md",
     "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Wurzelfunktionen.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Grenzwerte.md",
@@ -183,16 +294,6 @@
     "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Polynomfunktionen.md",
     "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Polstellen.md",
     "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Logarithmusfunktionen.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Linearfaktorzerlegung.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Funktionen.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Exponentialfunktionen.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Betragsfunktionen.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Integration/Bestimmte Integrale.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Integration/Hauptsatz der Differential- und Integralrechnung.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Produktzeichen.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Mengen.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Summenzeichen.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Ungleichungen.md",
     "files/Pasted image 20231220161031.png",
     "files/Pasted image 20231220154243.png",
     "files/Pasted image 20231220151530.png",
@@ -206,7 +307,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie",
     "Untitleddf",
     "files/Pasted image 20231214155547.png",
-    "files/Pasted image 20231214155521.png",
     "dfn/Mitteilungen/Roadmap.pdf",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage",
     "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Untitled",

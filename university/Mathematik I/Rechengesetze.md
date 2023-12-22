@@ -6,6 +6,8 @@
 > a + b = b + a \quad \quad a \cdot b = b \cdot a
 > $$
 
+^b9e894
+
 > [!definition] Assoziativgesetz
 > $$
 > (a + b) + c = a + (b + c) \quad \quad a \cdot (b \cdot c) = (a \cdot b) \cdot c

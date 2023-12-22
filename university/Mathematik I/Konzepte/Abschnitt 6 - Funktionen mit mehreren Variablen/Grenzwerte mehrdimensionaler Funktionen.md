@@ -83,3 +83,9 @@ $$
 ![[Pasted image 20231220161031.png|center|300]]
 
 ***
+
+$f(x) = 3x^{2}$ ist in einer Zeile
+
+$$
+f(x) = 3x^{2}
+$$
