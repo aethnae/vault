@@ -8,7 +8,7 @@ publish: true
 ---
 ***
 
-> [!abstract] Definition 
+> [!def] Stetigkeit mehrdimensionaler Funktionen 
 > Die Funktion $f(x, y)$ ist in $\left(x_0, y_0\right)$ stetig, wenn
 > 
 > $$

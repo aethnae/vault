@@ -7,7 +7,7 @@ publish: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Differential
 > Die Größe $\mathrm{d} f=f^{\prime}\left(x_0\right) \Delta x$ heißt Differential von $f$ an der Stelle $x_0$.
 
 **Schreibweise:**
@@ -28,7 +28,7 @@ $$
 $$
 ***
 
-> [!note] Folgerung
+> [!lemma] Proportionalität
 > Die Werte $\mathrm{d} f$ und $\mathrm{d} x$ sind zueinander proportional (für festes $x_0$ ). Für kleine $\mathrm{d} x=\Delta x$ gilt
 > $$
 >\underbrace{\mathrm{d} f}_{\begin{array}{c} \\ \\

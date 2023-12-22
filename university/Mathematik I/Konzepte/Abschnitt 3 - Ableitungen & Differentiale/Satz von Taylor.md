@@ -7,7 +7,7 @@ publish: true
 ---
 ***
 
-> [!abstract] Definition
+> [!def] Satz von Taylor
 > Es sei $f$ eine Funktion, die im Intervall $\left[x_0, x\right](n+1)$-mal stetig differenzierbar ist. Dann gibt es ein $t \in] x_0, x\left[\right.$ (abhängig von $x, x_0$ und $n$ ), sodass gilt
 > $$
 > f(x)=\sum_{k=0}^n \frac{f^{(k)}\left(x_0\right)}{k !}\left(x-x_0\right)^k+R_{n, x_0}(x)=T_{n, x_0}(x)+R_{n, x_0}(x),

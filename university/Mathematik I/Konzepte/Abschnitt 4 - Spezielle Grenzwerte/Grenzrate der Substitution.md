@@ -7,7 +7,7 @@ publish: true
 ---
 ***
 
-> [!abstract] Definition 
+> [!def] Grenzrate der Substitution 
 > Angenommen, wir haben eine ([[Marginalanalyse#Grenzfunktionen|Produktions-]])Funktion
 > 
 > $$

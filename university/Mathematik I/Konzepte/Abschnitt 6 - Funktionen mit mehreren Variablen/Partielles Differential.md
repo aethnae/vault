@@ -8,13 +8,13 @@ publish: true
 ---
 ***
 
-> [!abstract] Definition 
+> [!def] Partielles Differential 
 > Für eine Funktion $z=f\left(x_1, \ldots, x_n\right)$ heißt
 > $$
 > \mathrm{d} f_{x_i}=\frac{\partial f}{\partial x_i} \underbrace{\mathrm{d} x_i}_{=\Delta x_i}
 > $$
 > 
-> das partielle Differential von $f$ bezüglich $x_i$ an der Stelle $x=\left(x_1, \ldots, x_n\right)$.
+> das **partielle Differential** von $f$ bezüglich $x_i$ an der Stelle $x=\left(x_1, \ldots, x_n\right)$.
 
 Das partielle Differential erfüllt die folgende Näherungseigenschaft:
 

@@ -6,7 +6,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Geometrische Reihen
 > Für die allgemeine [[Geometrische Folgen|geometrische Folge]]
 > $$
 > a_n=a q^{n-1}, \quad n \geq 1 \quad \text { mit } q \neq 1

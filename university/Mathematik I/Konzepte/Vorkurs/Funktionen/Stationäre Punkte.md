@@ -6,7 +6,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Stationäre Punkte
 > Für eine differenzierbare Funktion $f$ heißt ein Punkt $\left(x_0, f\left(x_0\right)\right)$ stationärer Punkt, falls
 > $$
 > f^{\prime}\left(x_0\right)=0

@@ -7,7 +7,7 @@ publish: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Links- und rechtsseitige Grenzwerte
 > Die Funktion $f$ hat bei $a$ den **linksseitigen Grenzwert** $f_{-}(a)=\displaystyle \lim _{x \uparrow a} f(x)$, wenn für jede Folge $\left(x_n\right)$ mit $x_n<x_{n+1}<a$ und $x_n \stackrel{n \rightarrow \infty}{\longrightarrow} a$ (kurz: $\left.x_n \uparrow a\right)$ gilt
 > $$
 > f_{-}(a)=\displaystyle \lim _{n \rightarrow \infty} f\left(x_n\right) .

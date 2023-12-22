@@ -7,7 +7,7 @@ publish: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Satz von Maximum und Minimum
 > Die Funktion $f:[a, b] \rightarrow \mathbb{R}$ (d.h. mit abgeschlossenem Definitionsbereich $[a, b])$ sei [[Stetigkeit|stetig]]. Dann gilt
 > - $f$ ist auf $[a, b]$ **beschränkt**. Das heißt es existiert eine Zahl $C \in \mathbb{R}$ mit
 > $$

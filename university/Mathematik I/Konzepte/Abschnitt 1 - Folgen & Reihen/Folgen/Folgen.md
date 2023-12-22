@@ -6,7 +6,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Folgen
 > Eine (reellwertige) Folge ist eine Funktion $a: \mathbb{N} \rightarrow \mathbb{R}$ 
 > (*Allgemeiner auch $a: \mathbb{N} \cup\{0\} \rightarrow \mathbb{R}$ bzw. $a: D \rightarrow \mathbb{R}$ mit $D \subseteq \mathbb{N} \cup\{0\}$*).
 
@@ -28,7 +28,7 @@ $$
 
 - Eine Folge kann auf verschiedene Arten beschrieben werden
 
-> [!note] Explizites Bildungsgesetz
+> [!axm] Explizites Bildungsgesetz
 > $$
 > a_n=f(n) \quad \text{ für alle } n \in \mathbb{N}
 > $$
@@ -39,7 +39,7 @@ $$
 > a_n=\frac{128}{2^n}+64, \quad n \in \mathbb{N}
 > $$
 
-> [!note] Rekursives Bildungsgesetz
+> [!axm] Rekursives Bildungsgesetz
 > $$
 > \begin{aligned}
 > a_1 & =c \\

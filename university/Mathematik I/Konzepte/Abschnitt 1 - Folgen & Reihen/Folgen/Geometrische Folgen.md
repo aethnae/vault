@@ -6,7 +6,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Geometrische Folge
 > Eine Folge $\left(a_n\right)_{n \in \mathbb{N}}$ heißt geometrische Folge, falls
 > $$
 > \frac{a_{n+1}}{a_n}=q

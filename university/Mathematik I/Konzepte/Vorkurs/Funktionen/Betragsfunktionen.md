@@ -6,7 +6,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Betragsfunktionen
 > Die reellwertige Funktion $f: \mathbb{R} \rightarrow \mathbb{R}$ definiert durch
 > $$
 > x \mapsto|x|=\left\{\begin{aligned} 

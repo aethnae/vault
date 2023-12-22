@@ -28,5 +28,5 @@ $$
 
 gilt.
 
-> [!abstract] Definition 
+> [!def] Cournotscher Punkt 
 > Es sei nun genau $x_c$ die Absatzmenge, bei der der Gewinn maximal wird. Dann heißt der Punkt $\left(x_c, p\left(x_c\right)\right)$ auf der [[Inverse Nachfragekurve|Preis-Absatzkurve]] der **Cournotsche Punkt**.

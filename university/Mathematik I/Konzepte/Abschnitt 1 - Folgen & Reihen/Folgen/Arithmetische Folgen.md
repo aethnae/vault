@@ -6,7 +6,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Arithmetische Folgen
 > Eine Folge $\left(a_n\right)_{n \in \mathbb{N}}$ heißt arithmetische Folge, falls
 > $$
 > a_{n+1}-a_n=d

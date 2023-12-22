@@ -26,7 +26,7 @@ $\rightarrow f$ und $T_{1, x_0}$ **stimmen** in $x_0$ in Funktions- und Ableitun
 ***
 #### Approximation 2. Ordnung
 
-> [!abstract] Idee
+> [!claim] Idee
 > Approximation wird besser mit höherem Grad des Polynoms
 
 **Ansatz**: Polynom vom Grad 2
@@ -44,7 +44,7 @@ sodass an der Stelle $x_0$ gilt
 ***
 #### Approximation höherer Ordnung
 
-> [!abstract] Ansatz
+> [!claim] Ansatz
 > Ansatz: Polynom vom Grad $n$
 > $$
 > T_{n, x_0}(x)=A_0+A_1\left(x-x_0\right)+A_2\left(x-x_0\right)^2+\cdots+A_n\left(x-x_0\right)^n

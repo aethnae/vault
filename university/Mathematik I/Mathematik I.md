@@ -66,7 +66,6 @@
 			- [[Betragsfunktionen]]
 			- [[Exponentialfunktionen]]
 			- [[Funktionen]]
-			- [[Kurvendiskussion]]
 			- [[Linearfaktorzerlegung]]
 			- [[Logarithmusfunktionen]]
 			- [[Polstellen]]

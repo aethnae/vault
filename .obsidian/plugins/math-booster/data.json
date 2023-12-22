@@ -137,19 +137,19 @@
     "modifierToJump": "Mod",
     "modifierToNoteLink": "Shift",
     "showModifierInstruction": true,
-    "suggestLeafOption": "Current tab",
+    "suggestLeafOption": "New tab",
     "importerNumThreads": 2,
     "importerUtilization": 0.75,
     "showTheoremCalloutEditButton": true,
-    "setOnlyTheoremAsMain": false,
+    "setOnlyTheoremAsMain": true,
     "setLabelInModal": false,
     "excludeExampleCallout": false,
     "enableProof": true,
     "enableMathPreviewInCalloutAndQuote": true,
     "autocompleteDvQuery": "",
-    "searchModalQueryType": "both",
-    "searchModalRange": "dataview",
-    "searchModalDvQuery": "LIST FROM "
+    "searchModalQueryType": "theorem",
+    "searchModalRange": "vault",
+    "searchModalDvQuery": ""
   },
   "excludedFiles": []
 }

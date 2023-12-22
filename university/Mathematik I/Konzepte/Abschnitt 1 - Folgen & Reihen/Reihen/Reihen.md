@@ -6,7 +6,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Reihen
 > Für eine [[Folgen|Folge]] $\left(a_n\right)$ nennt man
 > $$
 > s_n=\sum_{i=1}^n a_i

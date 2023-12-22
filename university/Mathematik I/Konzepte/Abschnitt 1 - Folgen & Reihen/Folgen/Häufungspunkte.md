@@ -6,7 +6,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Häufungspunkte
 > Ein Wert $a \in \mathbb{R}$ heißt Häufungspunkt der Folge $\left(a_n\right)$, wenn für jedes (noch so kleine) $\epsilon>0$ unendlich viele Glieder der Folge
 > $$
 > \left|a_n-a\right|<\epsilon

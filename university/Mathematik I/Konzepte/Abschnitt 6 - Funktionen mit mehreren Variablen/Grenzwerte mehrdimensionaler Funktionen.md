@@ -13,7 +13,7 @@ publish: true
 
 #### Konvergenz
 
-> [!abstract] Definition 
+> [!def] Konvergenz mehrdimensionaler Funktionen 
 > Eine Folge $P_n=\left(x_n, y_n\right), n \geq 1$ von Punkten in $\mathbb{R}^2$ konvergiert gegen den Punkt $P_0=\left(x_0, y_0\right)$, wenn
 > 
 > $$
@@ -31,9 +31,6 @@ $$
 \underbrace{\sqrt{\left|x_n-x_0\right|^2+\left|y_n-y_0\right|^2}}_{\text {Abstand von }\left(x_n, y_n\right) \text { zu }\left(x_0, y_0\right)}<\epsilon
 $$
 
-^5d563c
-
-^b67363
 gilt.
 
 ![[Pasted image 20231220154243.png|center|300]]
@@ -41,7 +38,7 @@ gilt.
 ***
 #### Funktionsgrenzwerte
 
-> [!abstract] Definition 
+> [!def] Konvergenz mehrdimensionaler Funktionen 
 > Konvergiert für jede beliebige gegen $P_0=\left(x_0, y_0\right)$ konvergierende Folge $P_n=\left(x_n, y_n\right), n \geq 1$ die Folge der Funktionswerte
 > 
 > $$
@@ -82,7 +79,6 @@ $$
 f(x_{n}, y_{n}) = \frac{0}{\sqrt{ 0 + \frac{1}{n}^{2} }} = 0 \stackrel{n \rightarrow \infty}{\longrightarrow} 0
 $$
 
-^8347bb
 
 ![[Pasted image 20231220161031.png|center|300]]
 

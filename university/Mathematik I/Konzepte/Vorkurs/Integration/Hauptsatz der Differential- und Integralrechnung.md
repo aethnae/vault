@@ -6,7 +6,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Hauptsatz der Differential- und Integralrechnung
 > Sei $f:[a, b] \rightarrow \mathbb{R}$ eine stetige* Funktion. Dann gilt 
 > 
 > - Die Funktion
@@ -44,7 +44,7 @@ $$
 ***
 #### Linearität des Integrals
 
-> [!important] Definition
+> [!def] Linearität des Integrals
 > Für zwei stetige Funktionen $f, g:[a, b] \rightarrow \mathbb{R}$ und $c \in \mathbb{R}$ gilt
 > $$
 > \begin{aligned}

@@ -6,7 +6,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Grenzwerte von Reihen
 > Konvergiert $\left(s_n\right)$ gegen einen Grenzwert $s$, so heißt die Reihe $\left(s_n\right)$ **konvergent** und $s$ **Grenzwert der Reihe**.
 > 
 > Wir schreiben in diesem Fall
@@ -17,7 +17,7 @@ flashcard: true
 ***
 ### Grenzwert der geometrischen Reihe
 
-> [!note] Definition
+> [!thm] Grenzwerte geometrischer Reihen
 > Die geometrische Reihe $s_n=\displaystyle \sum_{i=1}^n q^{i-1}$ konvergiert genau dann, wenn $|q|<1$. Es gilt
 > $$
 > \displaystyle \sum_{i=1}^{\infty} q^{i-1}=\frac{1}{1-q}, \quad \text{ wenn } |q|<1
@@ -26,7 +26,7 @@ flashcard: true
 ***
 ### Grenzwerte von (hyper-) harmonischen Reihen
 
-> [!note] Definition
+> [!thm] Grenzwerte (hyper-) harmonischer Reihen
 > Für $\alpha>1$ konvergiert die hyperharmonische Reihe $\displaystyle \sum_{i=1}^{\infty} \frac{1}{i^\alpha}$
 > Die harmonische Reihe $\displaystyle \sum_{i=1}^{\infty} \frac{1}{i}$ divergiert. Es gilt $\displaystyle \sum_{i=1}^{\infty} \frac{1}{i}=\infty$.
 

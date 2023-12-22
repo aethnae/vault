@@ -6,7 +6,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Arithmetische Reihen
 > Für die allgemeine [[Arithmetische Folgen|arithmetische Folge]]
 > $$
 > a_n=a_1+(n-1) d, \quad n \geq 1

@@ -7,7 +7,7 @@ publish: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Zwischenwertsatz
 > Sei $f$ auf $[a, b]$ [[Stetigkeit|stetig]] mit $f(a) \neq f(b)$. Dann gilt, dass $f$ auf $[a, b]$ jeden Wert zwischen $f(a)$ und $f(b)$ mindestens einmal annimmt.
 > 
 > Daraus folgt:

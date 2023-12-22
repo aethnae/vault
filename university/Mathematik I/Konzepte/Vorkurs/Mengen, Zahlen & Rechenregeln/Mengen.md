@@ -6,7 +6,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Mengen
 > Eine Menge ist eine Zusammenfassung von unterscheidbaren Objekten zu einem Ganzen.
 
 **Schreibweise:**
@@ -44,7 +44,7 @@ $$
 
 ##### Mengen und Teilmengen
 
-> [!important] Definition
+> [!def] Teilmengen
 > Gilt für zwei Mengen $B,C$, dass alle Elemente von $C$ auch in $B$ enthalten sind, so heißt $C$ Teilmenge von $B$ (und wir schreiben $C ⊆ B$).
 
 **Mengenoperationen:**

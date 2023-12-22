@@ -7,7 +7,7 @@ publish: true
 ---
 ***
 
-> [!abstract] Definition 
+> [!def] Reellwertige Funktionen mit mehreren Variablen 
 > Für $n > 1$ heißt eine Funktion
 > 
 > $$

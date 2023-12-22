@@ -6,12 +6,14 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Grenzwerte von Folgen
 > Die Zahl $a \in \mathbb{R}$ heißt Grenzwert der Folge $\left(a_n\right)$, wenn es für jedes (noch so kleine) $\epsilon>0$ einen Index $n_0$ gibt, sodass
 > $$
 > \left|a_n-a\right|<\epsilon \quad \text { für } n \geq n_0
 > $$
 > gilt.
+
+^58a6a3
 
 - Der Grenzwert a heißt auch Limes der Folge $\left(a_n\right)$
 - Wenn der Grenzwert existiert schreiben wir
@@ -31,14 +33,14 @@ und sagen, die Folge ist konvergent
 
 Außerdem gilt folgender Satz
 
-> [!note] Konvergenz
+> [!axm] Konvergenz
 > *Jede beschränkte und monotone Folge ist konvergent.*
 
 ***
 ### Grenzwertrechenregeln
 *Für Grenzwertrechenregeln, siehe [[university/Mathematik I/Rechengesetze#Grenzwerte|Rechengesetze]].*
 
-> [!note] Wichtige Grenzwerte
+> [!remark] Wichtige Grenzwerte
 > *Es gilt*
 > $$
 > \begin{aligned}

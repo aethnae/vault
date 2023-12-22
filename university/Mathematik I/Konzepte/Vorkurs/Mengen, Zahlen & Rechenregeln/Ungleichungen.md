@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - ungleichungen
 week: 2023-10-24
 flashcard: true
 ---

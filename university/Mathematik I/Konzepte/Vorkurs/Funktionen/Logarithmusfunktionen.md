@@ -6,7 +6,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Natürliche Logarithmusfunktionen
 > Die reellwertige Funktion $f:(0, \infty) \rightarrow \mathbb{R}$ definiert durch
 > $$
 > x \mapsto \ln (x)=\log _e(x)

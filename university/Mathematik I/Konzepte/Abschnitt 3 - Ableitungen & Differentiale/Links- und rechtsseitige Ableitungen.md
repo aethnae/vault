@@ -7,7 +7,7 @@ publish: true
 ---
 ***
 
-> [!important] Definition (Einseitig)
+> [!def] Links- und rechtsseitige Ableitungen
 > Existieren die Grenzwerte
 > $$
 > f_{-}^{\prime}\left(x_0\right)=\lim _{\Delta x \uparrow 0} \frac{f\left(x_0+\Delta x\right)-f\left(x_0\right)}{\Delta x} \quad \quad (\text{ linksseitige Ableitung })

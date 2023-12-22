@@ -7,7 +7,7 @@ publish: true
 ---
 ***
 
-> [!abstract] Definition 
+> [!def] Satz von Schwarz 
 > Ist $f(x, y)$ zweimal partiell differenzierbar und sind die gemischten Ableitungen
 > $$
 > \frac{\partial^2 f}{\partial y \partial x}(x, y) \quad \text { und } \quad \frac{\partial^2 f}{\partial x \partial y}(x, y)
@@ -22,7 +22,7 @@ publish: true
 ***
 #### Erweiterung für partielle Ableitungen höherer Ordnung
 
-> [!abstract] Definition 
+> [!proposition] Satz von Schwarz (Erweiterung für partielle Ableitungen höherer Ordnung) 
 > Bei einer $m$-mal stetig differenzierbaren Funktion sind alle partiellen Ableitungen bis zur $m$-ten Ordnung von der Reihenfolge der Differentiation unabhängig.
 
 **Beispiel:**

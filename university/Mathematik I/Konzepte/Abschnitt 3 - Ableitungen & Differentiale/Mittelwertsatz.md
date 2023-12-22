@@ -7,12 +7,9 @@ publish: true
 ---
 ***
 
-> [!abstract] Definition 
+> [!def] Mittelwertsatz der Differentialrechnung
 > Sei $f : [a,b] \mapsto \mathbb{R}$ stetig und differenzierbar auf $(a,b)$. Dann existiert (mindestens) ein $\xi \in (a,b)$ mit
 > 
 > $$
 > f'(\xi) = \frac{f(b)-f(a)}{b-a}
 $$
-
-
-^d14e99

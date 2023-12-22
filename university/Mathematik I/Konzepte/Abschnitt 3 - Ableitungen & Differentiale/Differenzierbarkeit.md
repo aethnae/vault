@@ -8,7 +8,7 @@ publish: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Differenzierbarkeit
 > Gilt
 > $$
 > f_{-}^{\prime}\left(x_0\right)=f_{+}^{\prime}\left(x_0\right)
@@ -29,10 +29,10 @@ publish: true
 ***
 #### Differenzierbarkeit & Stetigkeit
 
-> [!note] Merke
+> [!lemma] Zusammenhang von Differenzierbarkeit und Stetigkeit
 > Ist die Funktion $f$ differenzierbar an der Stelle $x_0$, so ist $f$ auch stetig in $x_0$.
 
-- Stetigkeit ist eine notwendige Voraussetzung für Differenzierbarkeit
+- [[Stetigkeit]] ist eine notwendige Voraussetzung für Differenzierbarkeit
 - Ist eine Funktion nicht stetig in $x_0$, so kann sie auch nicht differenzierbar in $x_0$ sein.
 
 ![[Pasted image 20231128174534.png|center|400]]

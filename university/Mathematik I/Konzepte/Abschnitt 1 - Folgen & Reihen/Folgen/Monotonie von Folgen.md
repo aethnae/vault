@@ -6,20 +6,23 @@ flashcard: true
 ---
 ***
 
-```ad-important
-title: Definition
-Eine Folge $\left(a_n\right)$ heißt
-- **monton** (*streng monoton*) **wachsend**, falls
-$$
-a_n \leq a_{n+1} \quad\left(a_n<a_{n+1}\right)
-$$
-für alle $n \in \mathbb{N}$ gilt.
-- **monton** (*streng monoton*) **fallend**, falls
-$$
-a_n \geq a_{n+1} \quad\left(a_n>a_{n+1}\right)
-$$
-für alle $n \in \mathbb{N}$ gilt.
-```
+> [!def] Montonie
+> Eine Folge $\left(a_n\right)$ heißt
+> - **monton** (*streng monoton*) **wachsend**, falls
+> 
+> $$
+> a_n \leq a_{n+1} \quad\left(a_n<a_{n+1}\right)
+> $$
+> 
+> für alle $n \in \mathbb{N}$ gilt.
+> 
+> - **monton** (*streng monoton*) **fallend**, falls
+> 
+> $$
+> a_n \geq a_{n+1} \quad\left(a_n>a_{n+1}\right)
+> $$
+> 
+> für alle $n \in \mathbb{N}$ gilt.
 #### Beispiele
 
 *$a_{n} = n + 1$ ist streng monoton wachsend*

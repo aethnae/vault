@@ -12,7 +12,7 @@ Diese Liste enthält alle Eigenschaften, die man bei einer Funktion überprüfen
 ***
 #### Definitionsbereich
 
-> [!note] Vorgehensweise 
+> [!def] Berechnung des Definitionsbereichs 
 > Betrachtung aller Summanden des Funktionsterms: Gibt es Brüche, Logarithmen oder Wurzeln, die in $\mathbb{R}$ für bestimmte Werte nicht definiert sind?
 > 
 > Der Definitionsbereich der Funktion $f(x)$ wird bspw. mit
@@ -53,7 +53,7 @@ $$
 > 
 > An dieser Stelle ist die Funktion nicht definiert, kann aber (stetig) fortgesetzt werden, deswegen bezeichnet man die Definitionslücke als **hebbar**.
 
-> [!note] Schließen der Lücke 
+> [!def] Schließung einer Definitionslücke 
 > Man kann eine Funktion $\hat{f}$ aus $f$ konstruieren, mit der man die **Definitionslücke** $x_0$ **schließt**:
 > Man kürzt die Nullstelle aus dem Bruch, sodass sie im Nenner nicht mehr vorkommt. Dann definiert man $\hat{f}\left(x_0\right)$ als den Wert, den man erhält, wenn man $x_0$ in den gekürzten Bruch einsetzt.
 > 
@@ -100,7 +100,8 @@ f(x) & \text { für } x \neq 3
 $$
 
 ***
-#### [[Grenzwerte]]
+#### Grenzwerte
+*siehe [[Grenzwerte#^58a6a3]] *
 
 ***
 #### Nullstellen
@@ -111,10 +112,10 @@ $$
 ***
 #### Monotonie
 
-> [!abstract] Definition 
+> [!def] Monotonie einer Funktion
 > Beschreibt das Steigungsverhalten in einem Intervall der Funktion.
 
-> [!note] Herangehensweise
+> [!def] Monotonieuntersuchung
 > 1. Intervallgrenzen durch Extremwerte der Funktion bestimmen $\implies f'(x) = 0$
 > 2. Nullstellen der Ableitung in die zweite Ableitung einsetzen $\implies f''(x) = 0$
 > 	- Für $f''(x) > 0$ ist ein Hochpunkt an der Stelle $x$ gegeben, für $f''(x) < 0$ ein Tiefpunkt
@@ -125,17 +126,19 @@ $$
 > - Hochpunkt: links davon steigend, rechts davon fallend
 > - Terrassenpunkt: links und rechts davon gleiche Monotonie
 
+^590efc
+
 ***
 #### Extremwerte
-*siehe [[Kurvendiskussion - Übersicht#Monotonie|Monotonie]]*
+*siehe [[#^590efc]] *
 
 ***
 #### Krümmungsverhalten & Wendepunkte
 
-> [!abstract] Definition 
+> [!def] Krümmungsverhalten & Wendepunkte 
 > Das Krümmungsverhalten eines Funktionsgraphen an einer Stelle $x$ ist die Richtungsänderung in diesem Punkt. Man unterscheidet **rechtsgekrümmte** und **linksgekrümmte** Abschnitte sowie **Wendepunkte**.
 
-> [!note] Herangehensweise 
+> [!def] Berechnung des Krümmungsverhaltens und der Wendepunkte 
 > Dazu betrachtet man für $x$ aus einem bestimmten Abschnitt die zweite Ableitung:
 > - $f^{\prime \prime}(x)>0 \Rightarrow f$ linksgekrümmt
 > - $f^{\prime \prime}(x)<0 \Rightarrow f$ rechtsgekrümmt

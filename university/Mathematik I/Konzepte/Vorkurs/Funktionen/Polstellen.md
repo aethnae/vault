@@ -6,7 +6,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Polstellen
 > Ein Wert $x_0 \in \mathbb{R}$ heißt Polstelle einer Funktion $f: D \rightarrow \mathbb{R}$, falls
 > $$
 > \lim _{x \uparrow x_0} f(x)= \pm \infty \text { oder } \lim _{x \downarrow x_0} f(x)= \pm \infty

@@ -1,16 +1,19 @@
 ---
-tags: 
+tags:
+  - logarithmen
 week: 2023-10-27
 flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Logarithmen
 > Für $a > 0$ und $x > 0$ definieren wir $log_{a}x$ (**der Logarithmus von $x$ zur Basis $a$**) als die Zahl, mit der $a$ potenziert werden muss, um $x$ zu erhalten, d.h.,
 > $$
 > a^{log_{a}x} = x
 > $$
 > Dabei heißt die Zahl $a > 0$ **Basis**.
+
+^3362bc
 
 **Spezialfälle:**
 

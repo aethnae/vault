@@ -7,7 +7,7 @@ publish: true
 ---
 ***
 
-> [!abstract] Definition 
+> [!def] Rationale Funktionen 
 > Eine Funktion der Art
 > 
 > $$
@@ -28,7 +28,7 @@ publish: true
 ***
 #### Polstellen
 
-> [!abstract] Definition 
+> [!def] Polstellen 
 > Eine Zahl $x_0$ heißt **$k$-fache Nullstelle** eines Polynoms $q(x)$, falls
 > 
 > $$

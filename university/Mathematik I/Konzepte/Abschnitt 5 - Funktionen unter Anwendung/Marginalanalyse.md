@@ -7,8 +7,8 @@ publish: true
 ---
 ***
 
-> [!abstract] Definition 
-> Unter Marginalanalyse versteht man die Untersuchung des Verhalten einer Funktion $f(x)$ bei kleinen Änderungen der (unabhängigen) Variable $x$
+> [!def] Marginalanalyse 
+> Unter **Marginalanalyse** versteht man die Untersuchung des Verhalten einer Funktion $f(x)$ bei kleinen Änderungen der (unabhängigen) Variable $x$
 > 
 > $$
 > \begin{array}{ccc} \\

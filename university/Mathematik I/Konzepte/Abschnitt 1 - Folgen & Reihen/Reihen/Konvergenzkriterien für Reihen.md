@@ -6,7 +6,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Notwendiges Kriterium
+> [!def] Konvergenzkriterien für Reihen
 > Damit eine [[Reihen|Reihe]] $\left(s_n\right)$ konvergiert, ist es notwendig, dass $a_n$ gegen null konvergiert. Also gilt
 > $$
 > \left(s_n\right) \text { konvergent } \Rightarrow \lim _{n \rightarrow \infty} a_n=0
@@ -25,24 +25,24 @@ $$
 ***
 ### Einfache Konvergenzkriterien
 
-> [!note] Beschränktheitskriterium
+> [!axm] Beschränktheitskriterium
 > Es gelte $a_n \geq 0, n \in \mathbb{N}$.
 > Dann ist die Reihe $\displaystyle \sum_{n=1}^{\infty} a_n$ genau dann konvergent, wenn $\left(s_n\right)$ beschränkt ist.
 
-> [!note] Majorantenkriterium
+> [!axm] Majorantenkriterium
 > Für $\left(a_n\right)$ und $\left(b_n\right)$ gelte $\left|a_n\right| \leq b_n$ für $n \in \mathbb{N}$. Zusätzlich konvergiere die Reihe $\displaystyle \sum_{n=1}^{\infty} b_n$. Dann konvergiert die Reihe $\displaystyle \sum_{n=1}^{\infty} a_n$ ebenfalls.
 
 **Beispiel:**
 Die hyperharmonische Reihe $\displaystyle \sum_{n=1}^{\infty} \frac{1}{n^2}$ konvergiert. Da $\frac{1}{n^2+1}<\frac{1}{n^2}$ für alle $n \in \mathbb{N}$, konvergiert die Reihe $\displaystyle \sum_{n=1}^{\infty} \frac{1}{n^2+1}$ ebenfalls.
 
-> [!note] Quotientenkriterium
+> [!axm] Quotientenkriterium
 > Es sei $\left(a_n\right)$ eine Folge. Gilt
 > $$
 > \lim _{n \rightarrow \infty}\left|\frac{a_{n+1}}{a_n}\right|=q<1,
 > $$
 > so ist die Reihe $\displaystyle \sum_{n=1}^{\infty} a_n$ konvergent.
 
-> [!note] Wurzelkriterium
+> [!axm] Wurzelkriterium
 > Es sei $\left(a_n\right)$ eine Folge. Gilt
 > $$
 > \lim _{n \rightarrow \infty} \sqrt[n]{\left|a_n\right|}=q<1

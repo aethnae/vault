@@ -107,5 +107,13 @@
       ],
       "key": "W"
     }
+  ],
+  "math-booster:insert-display-math": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }

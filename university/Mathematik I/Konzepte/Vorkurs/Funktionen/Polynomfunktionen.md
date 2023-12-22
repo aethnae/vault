@@ -6,7 +6,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Polynomfunktionen
 > Eine reellwertige Funktion $f: D \rightarrow \mathbb{R}$ der Form
 > $$
 > x \mapsto f(x)=a_n x^n+a_{n-1} x^{n-1}+\cdots+a_2 x^2+a_1 x+a_0
@@ -27,7 +27,7 @@ flashcard: true
 
 #### Nullstellen von Polynomen
 
-> [!important] Definition
+> [!def] Nullstellen von Polynomen
 > Es gilt $f(x) \cdot g(x)=0$ gilt genau dann, wenn $f(x)=0$ oder $g(x)=0$
 > $\rightarrow$
 > Ausklammern von Faktoren (insbesondere $x$ ) hilft bei der Berechnung von Nullstellen.

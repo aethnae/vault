@@ -6,7 +6,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Wurzelfunktionen
 > Die reellwertige Funktion $f:[0, \infty) \rightarrow \mathbb{R}$ definiert durch
 > $$
 > x \mapsto \sqrt[a]{x}

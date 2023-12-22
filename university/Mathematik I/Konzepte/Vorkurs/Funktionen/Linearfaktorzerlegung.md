@@ -6,7 +6,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Linearfaktorzerlegung
 > Hat ein **Polynom** $f(x)$ vom Grad $n$ die Nullstellen $x_1, \ldots, x_n$, so kann $f(x)$ als
 > $$
 > f(x)=a_n \cdot\left(x-x_1\right) \cdot\left(x-x_2\right) \cdot \ldots \cdot\left(x-x_n\right)

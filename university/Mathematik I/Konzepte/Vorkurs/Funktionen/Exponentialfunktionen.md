@@ -6,7 +6,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Exponentialfunktionen
 > Die reellwertige Funktion $f: \mathbb{R} \rightarrow \mathbb{R}$ definiert durch
 > $$
 > x \mapsto \exp (x)=e^x

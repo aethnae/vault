@@ -5,7 +5,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Produktzeichen
 > $\text { Für } a, b \in \mathbb{Z} \text { mit } a \leq b \text { ist } \prod\limits_{i=a}^{b} x_i \text { definiert als Produkt der Zahlen } x_i \text { mit } i \in \mathbb{Z} \text { zwischen } a \text { und } b \text {. }$
 
 ![[Pasted image 20231031142155.png]]
@@ -21,7 +21,7 @@ $$
 
 #### Leere Produkte
 
-> [!important] Definition
+> [!def] Leere Produkte
 > Wenn $a>b$ ist, dann nennen wir das Produkt $\prod\limits_{i=a}^{b} x_i$ leeres Produkt und wir definieren
 > $$
 > \prod_{i=a}^b x_i=1 \quad \text { für } a>b

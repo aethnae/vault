@@ -6,7 +6,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Bestimmte Integrale
 > Für eine Funktion $f:[a, b] \rightarrow \mathbb{R}$ heißt der Wert
 > $$
 > \int_a^b f(x) \mathrm{d} x=\lim _{\Delta K \rightarrow \infty} \sum_{i=0}^{K-1} \frac{1}{K} \cdot f\left(a+i \cdot \frac{b-a}{K}\right)

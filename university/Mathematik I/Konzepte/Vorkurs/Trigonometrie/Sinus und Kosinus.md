@@ -1,11 +1,12 @@
 ---
-tags: 
+tags:
+  - trigonometrie
 week: 2023-11-10
 flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Sinus und Kosinus
 > Betrachte einen Winkel $\alpha$ in einem rechtwinkligen Dreieck mit längster Seitenlänge 1. Dann ist
 > $\sin (x)=$ Länge der dem Winkel gegenüberliegenden Seite
 > $\cos (x)=$ Länge der am Winkel anliegenden, kürzeren Seite

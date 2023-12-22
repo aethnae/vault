@@ -6,7 +6,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Funktionen
 > Eine **Funktion** ordnet jedem Element einer **Definitionsmenge** $D$ auf eindeutige Weise ein Element einer **Zielmenge** $Z$ zu.
 
 ##### Schreibweise

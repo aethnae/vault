@@ -7,7 +7,7 @@ publish: true
 ---
 ***
 
-> [!abstract] Definition 
+> [!def] Durchschnittsfunktionen 
 > Die *Durchschnittsfunktion* $\bar{y}$ einer Funktion $f$ ist definiert durch
 > 
 > $$

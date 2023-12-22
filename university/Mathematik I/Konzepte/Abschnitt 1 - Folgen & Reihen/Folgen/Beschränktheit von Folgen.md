@@ -6,7 +6,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Beschränktheit von Folgen
 > Eine Folge $\left(a_n\right)$ heißt
 > - nach unten (nach oben) beschränkt, falls
 > $$

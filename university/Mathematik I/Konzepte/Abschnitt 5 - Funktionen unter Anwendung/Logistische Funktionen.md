@@ -7,7 +7,7 @@ publish: true
 ---
 ***
 
-> [!abstract] Definition 
+> [!def] Logistische Funktionen 
 > Eine Funktion $f$ mit
 > 
 > $$

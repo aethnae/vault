@@ -1,12 +1,13 @@
 ---
-tags: 
+tags:
+  - summen
 week: 2023-10-17
 flashcard: true
 ---
 ***
 #### Definition
 
-> [!important] Summenzeichen
+> [!def] Summenzeichen
 > $$
 > \text { Für } a, b \in \mathbb{Z} \text { mit } a \leq b \text { ist } \sum_{i=a}^b x_i \text { definiert als Summe der Zahlen } x_i \text { mit } i \in \mathbb{Z} \text { zwischen } a \text { und } b \text {. }
 > $$
@@ -25,7 +26,7 @@ $$
 
 #### Leere Summen
 
-> [!important] Definition
+> [!def] Leere Summen
 > Wenn $a > b$ ist, dann nennen wir die Summe $\sum_{i=a}^b x_i$ *leere Summe* und wir definieren
 > $$
 > \sum_{i=a}^b x_i=0 \quad \text { für } a>b
