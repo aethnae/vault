@@ -1,10 +1,11 @@
 {
   "accentColor": "#f29d26",
   "theme": "moonstone",
-  "cssTheme": "Minimal",
+  "cssTheme": "Typomagical",
   "baseFontSize": 16,
   "enabledCssSnippets": [
-    "center"
+    "center",
+    "Minimal Theme"
   ],
   "translucency": false,
   "baseFontSizeAction": false

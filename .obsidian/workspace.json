@@ -11,8 +11,12 @@
             "id": "a0fd5a5f0f1ca3fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -76,6 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md"
+              }
             }
           },
           {
@@ -193,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md"
+              }
             }
           }
         ],
@@ -210,6 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,6 +267,8 @@
   },
   "active": "a0fd5a5f0f1ca3fe",
   "lastOpenFiles": [
+    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Angebotsüberhang.md",
+    "university/Literature Notes/Clio and the Economics of QWERTY.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Einführung in die VWL und Wirtschaftsgeschichte.md",
     "university/Mikroökonomie I/Mikroökonomie I.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Opportunitätskosten.md",
@@ -281,8 +294,6 @@
     "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Wurzelfunktionen.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Grenzwerte.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Häufungspunkte.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Wendepunkte.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Stationäre Punkte.md",
     "files/Pasted image 20231220161031.png",
     "files/Pasted image 20231220154243.png",
     "files/Pasted image 20231220151530.png",
