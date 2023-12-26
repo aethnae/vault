@@ -6,7 +6,7 @@ flashcard: true
 ---
 ***
 
-> [!important] Definition
+> [!def] Nutzenfunktionen
 > Die Funktion $u: X \rightarrow \mathbb{R}$ ist eine Nutzenfunktion für $\succeq$, wenn für alle Paare $x \in X$ und $y \in X$ gilt:
 > $$
 > x \succeq y \Leftrightarrow u(x) \geq u(y)
@@ -23,8 +23,8 @@ flashcard: true
 
 - Nutzenwerte beliebig, solange die Ordnung gemäß der Präferenzen erhalten bleibt, daher:
 
-> [!note] Ordinaler Nutzen
-> Wenn $u$ eine Nutzenfunktion für $\succeq$ ist, dann ist auch jede Funktion $v$ eine Nutzenfunktion für $\succeq$, die eine positiv **monotone Transformation** von $u$ ist; d.h., $v(x)=f(u(x))$ für alle $x \in X$ und für eine monoton steigende Funktion $f: \mathbb{R} \rightarrow \mathbb{R}$. ( $f$ monoton steigend heißt: $a>b \Rightarrow f(a)>f(b)$.)
+> [!lemma] Ordinaler Nutzen
+> Wenn $u$ eine Nutzenfunktion für $\succeq$ ist, dann ist auch jede Funktion $v$ eine Nutzenfunktion für $\succeq$, die eine positive **monotone Transformation** von $u$ ist; d.h., $v(x)=f(u(x))$ für alle $x \in X$ und für eine monoton steigende Funktion $f: \mathbb{R} \rightarrow \mathbb{R}$. ( $f$ monoton steigend heißt: $a>b \Rightarrow f(a)>f(b)$.)
 
 - **Ordinaler Nutzen**: Nur die Ordnung ist bedeutsam
 - **Kardinaler Nutzen**: Absolute Nutzenwerte samt bedeutsamer Differenzen

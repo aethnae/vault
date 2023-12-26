@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e41e243788f9cdc5",
+        "id": "cdf815996c10e3e2",
         "type": "tabs",
         "children": [
           {
-            "id": "a0fd5a5f0f1ca3fe",
+            "id": "0089346efa2d9ec5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -80,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,9 +193,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -220,7 +210,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,8 +254,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a0fd5a5f0f1ca3fe",
+  "active": "0089346efa2d9ec5",
   "lastOpenFiles": [
+    "university/Mathematik I/Mathematik I.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Totales Differential.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Angebotsüberhang.md",
     "university/Literature Notes/Clio and the Economics of QWERTY.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Einführung in die VWL und Wirtschaftsgeschichte.md",
@@ -280,10 +272,8 @@
     "university/Mathematik I/Test.md",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differenzierbarkeit.md",
     "files/Pasted image 20231128174534.png",
-    "university/Mathematik I/Mathematik I.md",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Grenzwerte mehrdimensionaler Funktionen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Totales Differential.md",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Stetigkeit mehrdimensionaler Funktionen.md",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Schnittkurven.md",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Satz von Schwarz.md",
@@ -293,7 +283,6 @@
     "university/Mathematik I/Konzepte/Kurvendiskussion - Übersicht.md",
     "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Wurzelfunktionen.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Grenzwerte.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Häufungspunkte.md",
     "files/Pasted image 20231220161031.png",
     "files/Pasted image 20231220154243.png",
     "files/Pasted image 20231220151530.png",
