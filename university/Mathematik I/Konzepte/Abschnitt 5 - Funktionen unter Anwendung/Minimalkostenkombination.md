@@ -13,5 +13,5 @@ publish: true
 > 
 > $$
 > \frac{ \mathrm{d} y }{ \mathrm{d} x } = -\frac{p_{1}}{p_{2}}
-$$
+> $$
 

@@ -4,43 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "cdf815996c10e3e2",
+        "id": "38b5a06e188be30b",
         "type": "tabs",
         "children": [
           {
-            "id": "0089346efa2d9ec5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e47c83a3accb4566",
+            "id": "a548cb7fc48bafec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mathematik I/Rechengesetze.md",
-                "mode": "preview",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5a1e8768c4e42406",
+            "id": "26ebd803d877fdd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Kurvendiskussion - Übersicht.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -101,7 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Kurvendiskussion - Übersicht.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -167,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Kurvendiskussion - Übersicht.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -203,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Kurvendiskussion - Übersicht.md"
+                "file": "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md"
               }
             }
           },
@@ -223,7 +216,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Kurvendiskussion - Übersicht.md"
+                "file": "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md"
               }
             }
           }
@@ -240,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Kurvendiskussion - Übersicht.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +258,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,9 +279,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5a1e8768c4e42406",
+  "active": "26ebd803d877fdd4",
   "lastOpenFiles": [
+    "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Minimalkostenkombination.md",
+    "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion.md",
     "university/Mathematik I/Rechengesetze.md",
+    "university/Mathematik I/Konzepte/Kurvendiskussion - Übersicht.md",
     "university/Mathematik I/Mathematik I.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Totales Differential.md",
@@ -310,10 +308,6 @@
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Satz von Schwarz.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Marktnachfrage.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfaktoren.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Logarithmen.md",
-    "university/Mathematik I/Konzepte/Kurvendiskussion - Übersicht.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Wurzelfunktionen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Grenzwerte.md",
     "files/Pasted image 20231220161031.png",
     "files/Pasted image 20231220154243.png",
     "files/Pasted image 20231220151530.png",
