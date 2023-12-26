@@ -1,6 +1,7 @@
 ---
 tags:
-week:
+  - funktionen
+week: 2023-12-21
 flashcard: false
 publish: true
 ---
