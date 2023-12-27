@@ -5,6 +5,7 @@
     "tags": "tags",
     "flashcard": "checkbox",
     "": "date",
-    "week": "date"
+    "week": "date",
+    "page": "number"
   }
 }

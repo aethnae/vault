@@ -15,5 +15,6 @@
   "newFileLocation": "current",
   "useMarkdownLinks": false,
   "spellcheck": false,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "defaultViewMode": "preview"
 }

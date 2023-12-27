@@ -89,9 +89,9 @@
 - [[LaTeX Snippets]]
 - [[Mathematik I]]
 - [[Rechengesetze]]
-- [[Test]]
 - **Übungsblätter**
-	- [[Freiwilliger Test]]
+	- [[Freiwilliger Test I]]
+	- [[Freiwilliger Test II]]
 	- [[Übungsblatt 1]]
 	- [[Übungsblatt 4]]
 
