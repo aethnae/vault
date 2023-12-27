@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "38b5a06e188be30b",
+        "id": "206db1cdea230e05",
         "type": "tabs",
         "children": [
           {
-            "id": "fae1a463b16404ea",
+            "id": "12e18b0702e438b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -32,7 +28,6 @@
       {
         "id": "ce17988e31e66ad3",
         "type": "tabs",
-        "dimension": 62.16216216216216,
         "children": [
           {
             "id": "e041748da01c05af",
@@ -68,52 +63,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "4cae0943d8942f29",
-        "type": "tabs",
-        "dimension": 37.83783783783784,
-        "children": [
-          {
-            "id": "110820e6469f9f65",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.116380238178207,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 278.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -122,41 +75,7 @@
       {
         "id": "be7961eba01397a0",
         "type": "tabs",
-        "dimension": 40.044994375703034,
         "children": [
-          {
-            "id": "ba8653a4649b74c5",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "51765abe1eb47d88",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "5767c389ed91eef4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "d66306a0e6d4bed9",
             "type": "leaf",
@@ -164,8 +83,16 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
+            }
+          },
+          {
+            "id": "ba8653a4649b74c5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           },
           {
@@ -177,13 +104,22 @@
             }
           },
           {
+            "id": "79ded24ae5a22d5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "0f6fcecc9b6e74e3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,42 +137,6 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "587d7e62a66052db",
-        "type": "tabs",
-        "dimension": 29.02137232845895,
-        "children": [
-          {
-            "id": "79ded24ae5a22d5d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ee23c133083ceb1c",
-        "type": "tabs",
-        "dimension": 30.93363329583802,
-        "children": [
-          {
-            "id": "7ff3c2c22edf1082",
-            "type": "leaf",
-            "state": {
-              "type": "ReferenceListView",
               "state": {}
             }
           }
@@ -265,8 +165,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fae1a463b16404ea",
+  "active": "12e18b0702e438b9",
   "lastOpenFiles": [
+    "misc/Wunschzettel von Johann.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Cournotscher Punkt.md",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Durchschnittsfunktionen.md",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Logistische Funktionen.md",
@@ -291,9 +193,7 @@
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md",
     "university/Mathematik I/LaTeX Snippets.md",
     "university/Mathematik I/Test.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differenzierbarkeit.md",
     "files/Pasted image 20231128174534.png",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md",
     "files/Pasted image 20231220161031.png",
     "files/Pasted image 20231220154243.png",
     "files/Pasted image 20231220151530.png",
