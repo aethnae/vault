@@ -10,7 +10,7 @@
   },
   "attachmentFolderPath": "files",
   "livePreview": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "rightToLeft": false,
   "newFileLocation": "current",
   "useMarkdownLinks": false,
