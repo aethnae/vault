@@ -87,8 +87,74 @@ $$
 f'(7) = 0
 $$
 
-Da aus **(c)** ersichtlich wird, dass es sich bei dieser Extremstelle um ein Minimum handelt, werden weitere Informationen über die Funktionswerte links, bzw. rechts von $x = 7$ gegeben:
+
+**(d)**
+Da $f(x)$ an der der Stelle $x=0$ den Funktionswert 3 und die Steigung 1 hat, gilt
 
 $$
+\begin{align}
+ & f(0) = 3 \\
+ & f'(0) = 1 \\
+\end{align}
+$$
+
+**(e)**
+Da die Funktion im Punkt $(1,-1)$ eine waagerechte Tangente besitzt, gilt
 
 $$
+\begin{align}
+ & f(1) = -1 \\
+ & f'(1) = 0 \\
+\end{align}
+$$
+
+***
+##### 3. Aufgabe
+*Bestimmen Sie die Funktionsgleichung einer kubischen Funktion $y=f(x)$, die in $(0,0)$ ein lokales Maximum und in $(1,-1)$ einen Wendepunkt hat.*
+
+*Fertigen Sie anschließend eine Skizze der kubischen Funktion $f(x)$ an.*
+
+Da $(0,0)$ ein Punkt auf dem Graphen der Funktion ist, muss
+
+$$
+f(0) = a \cdot 0^{3} + b \cdot 0^{2} + c \cdot 0 + d = d
+$$
+
+gelten. Somit ist $d = 0$, da $f(0) = 0$.
+
+Da die Steigung einer Extremstelle 0 betragen muss, gilt an der Stelle $x = 0$ auch $f'(x) = 0$. Somit
+
+$$
+f'(0) = 3 \cdot a \cdot 0^{2} + 2 \cdot b \cdot 0 + c = c
+$$
+
+Somit ist auch $c = 0$. Setzt man $c \text{ und } d$ in $f(x)$ ein, gilt $f(x) = ax^{3}+bx^{2}$.
+
+Da desweiteren gegeben ist, dass ein Wendepunkt in $(1,-1)$ vorliegt, muss eine Extremstelle von $f'(x)$ bei $x = 1$ vorliegen, die zweite Ableitung ($f''(x) = 6ax + 2b$) muss also 0 sein. Außerdem muss $f(1)=-1$ gelten.
+
+Also
+
+$$
+\begin{align}
+ f(1) & = a + b = -1 \\
+ f''(1) & = 6a + 2b = 0
+\end{align}
+$$
+
+Durch Umstellen der zweiten Gleichung nach $b$ ($b = -3a$) und Einsetzen in die erste Gleichung ergibt sich
+
+$$
+f(1) = a -3a = -2a = -1 \quad \Leftrightarrow \quad a = \frac{1}{2}
+$$
+
+Erneutes Einsetzen ergibt für $b$
+
+$$
+f(1) = \frac{1}{2} + b = -1 \quad \Leftrightarrow \quad b = -\frac{3}{2}
+$$
+
+Somit gilt abschließend als Funktionsgleichung $f(x) = \frac{1}{2}x^{3} -\frac{3}{2}x^{2}$.
+
+Anbei eine Skizze des Graphen von $f(x)$:
+
+![[Pasted image 20231227233221.png|center|450]]
