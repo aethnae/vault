@@ -4,6 +4,7 @@ tags:
   - reihen
   - übung
 week: 2023-11-14
+publish: true
 ---
 ***
 ### Übungsaufgaben

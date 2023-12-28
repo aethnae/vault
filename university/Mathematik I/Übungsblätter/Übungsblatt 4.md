@@ -3,7 +3,6 @@ tags:
   - übung
   - ableitungen
 week: 2023-12-05
-flashcard: false
 publish: true
 ---
 ***

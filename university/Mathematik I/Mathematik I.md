@@ -19,6 +19,7 @@
 			- [[Konvergenzkriterien für Reihen]]
 			- [[Reihen]]
 	- **Abschnitt 2 - Funktionen mit einer Variablen**
+		- [[Kurvendiskussion - Übersicht]]
 		- [[Links- und rechtsseitige Grenzwerte]]
 		- [[Rationale Funktionen]]
 		- [[Satz von Maximum und Minimum]]
@@ -50,6 +51,8 @@
 		- [[Schnittkurven]]
 		- [[Stetigkeit mehrdimensionaler Funktionen]]
 		- [[Totales Differential]]
+	- **Abschnitt 7 - Vektorrechnung**
+		- [[Grundbegriffe der Vektorrechnung]]
 	- **Einschub - finanzmathematische Anwendungen**
 		- [[Barwert]]
 		- [[Bausparkonto mit nachschüssiger Verzinsung]]
@@ -60,7 +63,6 @@
 		- [[Tilgung von Schulden]]
 	- **Einschub - mathematische Beweisführung**
 		- [[Vollständige Induktion]]
-	- [[Kurvendiskussion - Übersicht]]
 	- **Vorkurs**
 		- **[[Funktionen]]**
 			- [[Betragsfunktionen]]
