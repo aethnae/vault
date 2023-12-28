@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "206db1cdea230e05",
+        "id": "77fdafb16292322a",
         "type": "tabs",
         "children": [
           {
-            "id": "12e18b0702e438b9",
+            "id": "decf444f0e8fb974",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Grundbegriffe der Vektorrechnung.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -28,6 +32,7 @@
       {
         "id": "ce17988e31e66ad3",
         "type": "tabs",
+        "dimension": 62.16216216216216,
         "children": [
           {
             "id": "e041748da01c05af",
@@ -63,6 +68,48 @@
             }
           }
         ]
+      },
+      {
+        "id": "4cae0943d8942f29",
+        "type": "tabs",
+        "dimension": 37.83783783783784,
+        "children": [
+          {
+            "id": "110820e6469f9f65",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Grundbegriffe der Vektorrechnung.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.2990150286159956,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -75,7 +122,24 @@
       {
         "id": "be7961eba01397a0",
         "type": "tabs",
+        "dimension": 37.54227733934611,
         "children": [
+          {
+            "id": "ba8653a4649b74c5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "51765abe1eb47d88",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
           {
             "id": "d66306a0e6d4bed9",
             "type": "leaf",
@@ -83,16 +147,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
-            }
-          },
-          {
-            "id": "ba8653a4649b74c5",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -104,22 +160,13 @@
             }
           },
           {
-            "id": "79ded24ae5a22d5d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "0f6fcecc9b6e74e3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Grundbegriffe der Vektorrechnung.md"
+              }
             }
           },
           {
@@ -137,15 +184,59 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Grundbegriffe der Vektorrechnung.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ac8e2c4e1d0a0efb",
+        "type": "tabs",
+        "dimension": 33.37091319052987,
+        "children": [
+          {
+            "id": "5767c389ed91eef4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Grundbegriffe der Vektorrechnung.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "587d7e62a66052db",
+        "type": "tabs",
+        "dimension": 29.08680947012401,
+        "children": [
+          {
+            "id": "79ded24ae5a22d5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Grundbegriffe der Vektorrechnung.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,7 +256,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e041748da01c05af",
+  "active": "decf444f0e8fb974",
   "lastOpenFiles": [
     "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Grundbegriffe der Vektorrechnung.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test I.md",

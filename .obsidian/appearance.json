@@ -8,5 +8,7 @@
     "Minimal Theme"
   ],
   "translucency": false,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "textFontFamily": "",
+  "interfaceFontFamily": ""
 }

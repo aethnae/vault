@@ -80,6 +80,10 @@
         "value": 0,
         "label": "Recent items"
       },
+      "isAttachment": {
+        "value": 0,
+        "label": "Attachment file types"
+      },
       "file": {
         "value": 0,
         "label": "Filenames"
@@ -88,9 +92,19 @@
         "value": 0,
         "label": "Aliases"
       },
+      "unresolved": {
+        "value": 0,
+        "label": "Unresolved filenames"
+      },
       "h1": {
         "value": 0,
         "label": "H₁ headings"
+      }
+    },
+    "fileExtAdjustments": {
+      "canvas": {
+        "value": 0,
+        "label": "Canvas files"
       }
     }
   },
