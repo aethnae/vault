@@ -11,26 +11,11 @@
             "id": "3ce1df2cbcc36db8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45c33ce3ea03864b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -91,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -215,7 +195,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -239,7 +218,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,8 +247,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "45c33ce3ea03864b",
+  "active": "3ce1df2cbcc36db8",
   "lastOpenFiles": [
+    "misc/Taiwan '24/Reiseplan.md",
     "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Grundbegriffe der Vektorrechnung.md",
     "files/Pasted image 20231228194230.png",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test I.md",
