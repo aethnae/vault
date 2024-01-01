@@ -54,6 +54,7 @@
 	- **Abschnitt 7 - Vektorrechnung**
 		- [[Gradienten]]
 		- [[Grundbegriffe der Vektorrechnung]]
+		- [[Tangentialebenen]]
 	- **Einschub - finanzmathematische Anwendungen**
 		- [[Barwert]]
 		- [[Bausparkonto mit nachschüssiger Verzinsung]]

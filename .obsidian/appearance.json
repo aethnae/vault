@@ -2,7 +2,7 @@
   "accentColor": "#f29d26",
   "theme": "moonstone",
   "cssTheme": "Typomagical",
-  "baseFontSize": 16,
+  "baseFontSize": 15,
   "enabledCssSnippets": [
     "center",
     "Minimal Theme"
