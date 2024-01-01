@@ -52,6 +52,7 @@
 		- [[Stetigkeit mehrdimensionaler Funktionen]]
 		- [[Totales Differential]]
 	- **Abschnitt 7 - Vektorrechnung**
+		- [[Gradienten]]
 		- [[Grundbegriffe der Vektorrechnung]]
 	- **Einschub - finanzmathematische Anwendungen**
 		- [[Barwert]]

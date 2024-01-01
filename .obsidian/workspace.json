@@ -8,14 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ce1df2cbcc36db8",
+            "id": "fd62957d3447ae9a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Grundbegriffe der Vektorrechnung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "814b8df5f8ec707b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -76,6 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -108,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -160,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md"
+              }
             }
           },
           {
@@ -180,7 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md"
+              }
             }
           }
         ]
@@ -196,6 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -219,6 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,8 +251,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,10 +271,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3ce1df2cbcc36db8",
+  "active": "814b8df5f8ec707b",
   "lastOpenFiles": [
-    "misc/Taiwan '24/Reiseplan.md",
+    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Totales Differential.md",
+    "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md",
     "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Grundbegriffe der Vektorrechnung.md",
+    "university/Mathematik I/Mathematik I.md",
+    "misc/Taiwan '24/Reiseplan.md",
     "files/Pasted image 20231228194230.png",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test I.md",
     "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung",
@@ -277,9 +302,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfaktoren.md",
     "dfn/Wikipedia-Artikel/Roadmap.md",
     "university/Mathematik I/Rechengesetze.md",
-    "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion.md",
-    "university/Mathematik I/Mathematik I.md",
     "files/Pasted image 20231128174534.png",
     "files/Pasted image 20231220161031.png",
     "files/Pasted image 20231220154243.png",
