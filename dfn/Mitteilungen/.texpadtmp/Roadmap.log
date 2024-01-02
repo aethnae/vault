@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.12.6)  6 DEC 2023 10:50
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.12.6)  2 JAN 2024 16:19
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Roadmap.tex
@@ -819,7 +819,7 @@ Here is how much of LuaTeX's memory you used:
    7 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 4 kern, 1 penalty, 3 glyph, 9 attribute, 62 glue_spec, 9 attribute_list, 1 write, 1 user_defined nodes
    avail lists: 2:585,3:219,4:84,5:189,6:45,7:3226,8:1,9:510,10:5,11:180
  39244 multiletter control sequences out of 65536+600000
- 57 fonts using 18392675 bytes
+ 57 fonts using 18392523 bytes
  86i,5n,121p,1003b,343s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman17-regular.otf>
 Output written on Roadmap.pdf (1 page, 15634 bytes).

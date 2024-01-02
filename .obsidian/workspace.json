@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "77fdafb16292322a",
+        "id": "cbb850a4089191ee",
         "type": "tabs",
         "children": [
           {
-            "id": "1024c5e7b688af0b",
+            "id": "1f3be53f4a3fa5fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Folgebewertung des Anlagevermögens.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -80,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Folgebewertung des Anlagevermögens.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -103,7 +98,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.2990150286159956,
+                  "scale": 0.48431224011297747,
                   "close": true
                 }
               }
@@ -164,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Folgebewertung des Anlagevermögens.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Folgebewertung des Anlagevermögens.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -204,7 +195,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Folgebewertung des Anlagevermögens.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -228,7 +218,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Folgebewertung des Anlagevermögens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,8 +247,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1024c5e7b688af0b",
+  "active": "1f3be53f4a3fa5fb",
   "lastOpenFiles": [
+    "Untitled.md",
+    "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Folgebewertung des Anlagevermögens.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfaktoren.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Eigenschaften der Technologie.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
@@ -287,8 +278,6 @@
     "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Stetigkeit.md",
     "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Kurvendiskussion - Übersicht.md",
     "university/Mathematik I/Test.md",
-    "misc/Wunschzettel von Johann.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
     "files/Pasted image 20231128174534.png",
     "files/Pasted image 20231220161031.png",
     "files/Pasted image 20231220154243.png",
