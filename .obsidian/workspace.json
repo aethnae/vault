@@ -11,8 +11,12 @@
             "id": "1f3be53f4a3fa5fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinne.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -46,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "strom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,6 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinne.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinne.md"
+              }
             }
           },
           {
@@ -179,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinne.md"
+              }
             }
           }
         ]
@@ -195,6 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinne.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -218,6 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,11 +258,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1f3be53f4a3fa5fb",
+  "active": "e041748da01c05af",
   "lastOpenFiles": [
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfaktoren.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinne.md",
+    "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Gewinn.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung",
     "Untitled.md",
     "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Folgebewertung des Anlagevermögens.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfaktoren.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Eigenschaften der Technologie.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzprodukt.md",
@@ -276,8 +290,6 @@
     "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Wendepunkte.md",
     "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Satz von Maximum und Minimum.md",
     "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Stetigkeit.md",
-    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Kurvendiskussion - Übersicht.md",
-    "university/Mathematik I/Test.md",
     "files/Pasted image 20231128174534.png",
     "files/Pasted image 20231220161031.png",
     "files/Pasted image 20231220154243.png",
@@ -294,7 +306,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage",
     "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Untitled",
     "files/Vorlesungsfolien/Einführung in die VWL & Wirtschaftsgeschichte",
-    "files/Vorlesungsfolien",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",

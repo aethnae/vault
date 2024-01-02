@@ -11,9 +11,9 @@
 	- **3. Knappheit & Arbeit**
 		- [[Durchschnittsprodukt]]
 		- [[Einkommens- und Substitutionseffekte]]
-		- [[Grenzprodukt]]
+		- [[university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Grenzprodukt]]
 		- [[Grenzrate der Transformation]]
-		- [[Produktionsfunktion]]
+		- [[university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Produktionsfunktion]]
 	- **4. Spieltheorie**
 		- [[Gefangenendilemma]]
 		- [[Nash-Gleichgewicht]]

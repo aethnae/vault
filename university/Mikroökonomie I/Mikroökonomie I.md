@@ -78,6 +78,8 @@
 		- [[Produktionsfaktoren]]
 		- [[Produktionsfunktion]]
 		- [[Skalenerträge]]
+	- **Kapitel 20-22 - Gewinnmaximierung**
+		- [[Gewinne]]
 - [[Kursübersicht - Mikroökonomie]]
 - [[Mikroökonomie I]]
 - **Übungen**
