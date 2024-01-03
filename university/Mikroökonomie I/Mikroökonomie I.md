@@ -79,8 +79,12 @@
 		- [[Produktionsfunktion]]
 		- [[Skalenerträge]]
 	- **Kapitel 20-22 - Gewinnmaximierung**
+		- [[Faktornachfragekurven]]
 		- [[Fixe und variable Faktoren]]
 		- [[Gewinne]]
+		- [[Gewinnmaximierung und Skalenerträge]]
+		- [[Kurzfristige Gewinnmaximierung]]
+		- [[Langfristige Gewinnmaximierung]]
 - [[Kursübersicht - Mikroökonomie]]
 - [[Mikroökonomie I]]
 - **Übungen**

@@ -11,7 +11,7 @@
       "numberSuffix": "",
       "numberInit": 1,
       "numberStyle": "arabic",
-      "numberDefault": "auto",
+      "numberDefault": "",
       "refFormat": "[type] [number] ([title])",
       "noteMathLinkFormat": "[title] if title exists, [type] [number] otherwise",
       "ignoreMainTheoremCalloutWithoutTitle": false,
@@ -151,5 +151,9 @@
     "searchModalRange": "vault",
     "searchModalDvQuery": ""
   },
-  "excludedFiles": []
+  "excludedFiles": [
+    "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Fixe und variable Faktoren.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Kurzfristige Gewinnmaximierung.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Langfristige Gewinnmaximierung.md"
+  ]
 }

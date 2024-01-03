@@ -17,12 +17,10 @@ date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 
 > [!abstract] Definition 
 > Wenn alle Inputs im Ausmaß von $t$ skalieren, bedeuten **konstante Skalenerträge**, dass der $t$-fache Output produziert wird:
->
+> 
 > $$
 > f(tx_{1}, tx_{2}) = tf(x_{1},x_{2})
-
-$$
-
+> $$
 #### Steigende Skalenerträge
 
 > [!abstract] Definition 
@@ -30,7 +28,7 @@ $$
 > 
 > $$
 > f(tx_{1}, tx_{2}) > tf(x_{1}, x_{2})
-$$
+> $$
 
 #### Fallende Skalenerträge
 
