@@ -1,8 +1,13 @@
 ---
+source: 
+publish: true
+page: 
 tags:
   - angebot
 week: 2023-10-18
 flashcard: true
+date created: Tuesday, October 24th 2023, 10:54:51 am
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 

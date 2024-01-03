@@ -1,15 +1,19 @@
 ---
+source: 
+page: 
 tags:
   - nachfrage
 week: 2023-12-06
 flashcard: false
 publish: true
+date created: Monday, December 11th 2023, 7:59:27 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 
 > [!abstract] Definition 
 > Die **Marktnachfrage** nach Gut 1, auch als **aggregierte Nachfrage** bezeichnet, ist die Summe der individuellen Nachfrage über alle Konsumenten:
-> 
+>
 > $$
 > X^{1} (p_{1}, p_{2}, m_{1}, \dots , m_{n}) = \sum_{i = 1}^{n}x_{1}^{1}(p_{1}, p_{2}, m_{i})
 >$$

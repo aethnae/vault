@@ -1,19 +1,25 @@
 ---
+source: 
+page: 
 tags:
   - entscheidungen
 week: 2023-11-08
 flashcard: false
 publish: true
+date created: Tuesday, November 28th 2023, 6:26:26 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 #### Definition
 
 Ein [[Optimale Entscheidung|optimales Bündel]] $x^*$ liegt auf der Budgetgeraden:
+
 $$
 p_1 x_1^*+p_2 x_2^*=m
 $$
 
 Nehmen wir an, $u$ ist differenzierbar. Dann gilt: In einem optimalen "inneren" Bündel (d.h., positive Mengen beider Güter) ist die Steigung der [[Indifferenzkurven|Indifferenzkurve]] gleich derjenigen der [[Budgetgerade|Budgetgeraden]]:
+
 $$
 \begin{gathered}
 -\frac{p_1}{p_2}=-\frac{\partial u\left(x^*\right) / \partial x_1}{\partial u\left(x^*\right) / \partial x_2} \\

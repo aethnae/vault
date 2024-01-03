@@ -1,8 +1,13 @@
 ---
+source: 
+publish: true
+page: 
 tags:
   - präferenzen
 week: 2023-10-25
 flashcard: true
+date created: Sunday, November 12th 2023, 7:06:39 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 

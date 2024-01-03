@@ -1,4 +1,6 @@
 ---
+source: 
+page: 
 tags:
   - ableitungen
   - produktion
@@ -6,12 +8,14 @@ tags:
 week: 2023-12-13
 flashcard: false
 publish: true
+date created: Thursday, December 14th 2023, 7:58:37 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 
 > [!abstract] Definition 
 > Das **Grenzprodukt** von Input $i$ ist die Outputsteigerung, wenn die Inputmenge von Input $i$ marginal erhöht wird:
-> 
+>
 > $$
 > MP_{i}(x_{1},x_{2}) = \frac{ \partial f(x_{1},x_{2}) }{ \partial x_{i} } 
 > $$

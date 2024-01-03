@@ -7,6 +7,9 @@ flashcard: false
 publish: true
 aliases:
   - Isoquante
+source: 
+date created: Thursday, December 14th 2023, 6:51:04 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 

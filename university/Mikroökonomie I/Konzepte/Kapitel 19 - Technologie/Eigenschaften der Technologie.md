@@ -1,4 +1,6 @@
 ---
+source: 
+page: 
 tags:
   - technologie
   - produktion
@@ -6,6 +8,8 @@ tags:
 week: 2023-12-13
 flashcard: false
 publish: true
+date created: Thursday, December 14th 2023, 7:20:39 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 

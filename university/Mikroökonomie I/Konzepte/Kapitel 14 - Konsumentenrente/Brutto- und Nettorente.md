@@ -1,4 +1,6 @@
 ---
+source: 
+page: 
 tags:
   - nutzen
   - nachfrage
@@ -6,6 +8,8 @@ tags:
 week: 2023-12-06
 flashcard: false
 publish: true
+date created: Friday, December 8th 2023, 7:57:17 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 #### Bruttorente

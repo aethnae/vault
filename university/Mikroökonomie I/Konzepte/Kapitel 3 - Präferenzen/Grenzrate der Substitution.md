@@ -1,10 +1,15 @@
 ---
+source: 
+publish: true
+page: 
 tags:
   - präferenzen
 week: 2023-10-25
 flashcard: true
 aliases:
   - MRS
+date created: Wednesday, November 8th 2023, 5:22:14 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 

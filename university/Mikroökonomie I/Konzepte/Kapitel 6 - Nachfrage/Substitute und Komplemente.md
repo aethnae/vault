@@ -1,9 +1,13 @@
 ---
+source: 
+page: 
 tags:
   - nachfrage
 week: 2023-11-15
 flashcard: false
 publish: true
+date created: Wednesday, December 6th 2023, 5:48:17 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 
@@ -14,6 +18,7 @@ publish: true
 
 > [!abstract] Definition
 > Wenn die Nachfrage nach Gut 1 bei steigendem Preis des Gutes 2 steigt, dann sagen wir, dass Gut 1 ein **Substitut** für Gut 2 ist. Als Veränderungsrate ausgedrückt ist Gut 1 ein Substitut für Gut 2, wenn
+>
 > $$
 > \frac{ \partial x_{1} }{ \partial p_{2} } > 0
 > $$
@@ -23,7 +28,7 @@ publish: true
 
 > [!abstract] Definition
 > Wenn bei steigendem Preis des Gutes 2 die Nachfrage nach Gut 1 sinkt, dann sagen wir, dass Gut 1 ein **Komplement** zu Gut 2 ist. Das bedeutet, dass
-> 
+>
 > $$
 > \frac{ \partial x_{1} }{ \partial p_{2} } < 0
 >$$

@@ -1,10 +1,14 @@
 ---
+source: 
+page: 
 tags:
   - angebot
   - nachfrage
 week: 2023-10-18
 flashcard: true
 publish: true
+date created: Friday, October 20th 2023, 12:36:42 am
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 

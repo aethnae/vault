@@ -1,8 +1,13 @@
 ---
+source: 
+publish: true
+page: 
 tags:
   - präferenzen
 week: 2023-10-25
 flashcard: true
+date created: Sunday, November 12th 2023, 3:14:57 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 
@@ -24,9 +29,11 @@ flashcard: true
 > Zwei Güter sind **perfekte Substitute**, wenn der Konsument bereit ist, ein Gut für das andere zu einem konstanten Verhältnis zu tauschen. Der einfachste Fall perfekter Substitute liegt vor, wenn der Konsument bereit ist, die Güter im Verhältnis 1:1 zu tauschen.
 > 
 > Im allgemeinen können Präferenzen für perfekte Substitute durch eine [[Nutzenfunktionen|Nutzenfunktion]] der Form
+>
 > $$
 > u(x_{1}, x_{2}) = ax_{1} + bx_{2}
 > $$
+>
 > dargestellt werden. Dabei sind $a$ und $b$ positive Zahlen, welche den "Wert" der Güter 1 und 2 für die Konsumentin messen. Beachte, dass die Steigung einer typischen Indifferenzkurve in diesem Fall durch $- \frac{a}{b}$ gegeben ist.
 
 
@@ -40,9 +47,11 @@ Nehmen wir zum Beispiel an, wir erwägen die Wahl zwischen roten und blauen Blei
 > **Perfekte Komplemente** sind Güter, die immer in konstantem Verhältnis miteinander konsumiert werden. in gewissem Sinne "ergänzen" diese Güter einander.
 > Ein Beispiel bilden hier linke und rechte Schuhe - Bei einer Steigerung nur einer dieser Güter, etwa vom Bündel $(10, 10)$ zu $(11, 10)$ bleibt der Konsument hinsichtlich der Ausgangsposition indifferent.
 > Im Allgemeinen ist eine Nutzenfunktion, die perfekte Komplemente beschreibt, durch
+>
 > $$
 > u\left(x_1, x_2\right)=\min \left\{a x_1, b x_2\right\}
 > $$
+>
 > gegeben, wobei $a$ und $b$ positive Zahlen sind, welche das Verhältnis angeben, in dem die Güter konsumiert werden.
 
 

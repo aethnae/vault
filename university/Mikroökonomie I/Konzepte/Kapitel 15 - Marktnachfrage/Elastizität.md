@@ -1,23 +1,27 @@
 ---
+source: 
+page: 
 tags:
   - nachfrage
 week: 2023-12-06
 flashcard: false
 publish: true
+date created: Wednesday, December 13th 2023, 3:08:15 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 
 > [!abstract] Definition 
 > Die **Preiselastizität der Nachfrage**, $\epsilon$, ist als die *Prozentänderung* der Menge dividiert durch die *Prozentänderung* des Preises definiert.
 > In Symbolen ausgedrückt ist die Definition der Elastizität
-> 
+>
 > $$
 > \epsilon = \frac{\Delta q}{\Delta p} \cdot \frac{p}{q} \leq 0
 > $$
-> 
+>
 > Elastizität kann somit als das Verhältnis von Preis zu Menge multipliziert mit der Steigung der Nachfragekurve ausgedrückt werden.
 > Oder unter Anwendung der Differentialrechnung
-> 
+>
 > $$
 > \epsilon(p)=Q^{\prime}(p) \frac{p}{Q(p)} \leq 0
 >$$
@@ -35,6 +39,7 @@ Typischerweise gibt es sowohl elastische wie unelastische Abschnitte.
 
 > [!abstract] Merke 
 > Es seien $y=f(x)$ und $z=g(x)$ zwei gegebene Funktionen. Dann gelten für die Elastizitäten folgende Beziehungen.
+>
 > $$
 > \begin{aligned}
 > e_{y \cdot z, x} & =e_{y, x}+e_{z, x} \\

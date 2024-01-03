@@ -1,17 +1,21 @@
 ---
+source: 
+page: 
 tags:
   - präferenzen
   - entscheidungen
 week: 2023-11-22
 flashcard: false
 publish: true
+date created: Thursday, December 7th 2023, 3:13:25 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 
 > [!abstract] Definition
 > Das Bündel $X$, welches gewählt wird, obwohl auch ein anderes Bündel $Y$ hätte gewählt werden können, wird **direkt bevorzugt bekundet**.
 > Mathematisch:
-> 
+>
 > $$
 > p_{1}x_{1} + p_{2}x_{2} \geq p_{1}y_{1} + p_{2}y_{2}
 >$$

@@ -1,17 +1,21 @@
 ---
+source: 
+page: 
 tags:
   - nachfrage
   - entscheidungen
 week: 2023-11-29
 flashcard: false
 publish: true
+date created: Thursday, December 7th 2023, 6:14:38 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 
 > [!abstract] Definition
 > Die Änderung der Nachfrage nach Gut 1, wenn wir das Einkommen von $m'$ auf $m$ ändern und die Preise des Gutes 1 bei $p_{1}'$ konstant halten, wird als **Einkommenseffekt** bezeichnet.
 > Dieser berechnet sich durch
-> 
+>
 > $$
 > \Delta x_{1}^{n} = x_{1}(p_{1}', m) - x_{1}(p_{1}', m')
 >$$

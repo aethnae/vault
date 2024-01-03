@@ -1,10 +1,14 @@
 ---
+source: 
+page: 
 tags:
   - entscheidungen
   - problemsolving
 week: 2023-11-08
 flashcard: false
 publish: true
+date created: Saturday, December 2nd 2023, 5:16:08 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 

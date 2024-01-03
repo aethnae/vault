@@ -1,10 +1,14 @@
 ---
+source: 
+page: 
 tags:
   - entscheidungen
   - nachfrage
 week: 2023-11-29
 flashcard: false
 publish: true
+date created: Thursday, December 7th 2023, 8:09:51 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 

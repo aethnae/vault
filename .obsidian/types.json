@@ -6,6 +6,6 @@
     "flashcard": "checkbox",
     "": "date",
     "week": "date",
-    "page": "number"
+    "source": "text"
   }
 }

@@ -1,10 +1,14 @@
 ---
+source: 
+page: 
 tags:
   - angebot
   - funktionen
 week: 2023-12-06
 flashcard: false
 publish: true
+date created: Monday, December 11th 2023, 7:03:35 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 

@@ -1,16 +1,23 @@
 ---
+source: 
+publish: true
+page: 
 tags:
   - nutzen
 week: 2023-11-01
 flashcard: true
+date created: Wednesday, November 8th 2023, 4:56:32 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 
 > [!def] Nutzenfunktionen
 > Die Funktion $u: X \rightarrow \mathbb{R}$ ist eine Nutzenfunktion für $\succeq$, wenn für alle Paare $x \in X$ und $y \in X$ gilt:
+>
 > $$
 > x \succeq y \Leftrightarrow u(x) \geq u(y)
 > $$
+>
 > Alternative Wortwahl: Die Nutzenfunktion $u$ "repräsentiert" $\succeq$.
 
 - Bedeutung: Es ist möglich, jedem Bündel einen Zahlwert zuzuordnen, sodass besser im Sinne von $\succeq$ gleichbedeutend ist mit einem höheren Zahlenwert; die Werte nennen wir "Nutzen".

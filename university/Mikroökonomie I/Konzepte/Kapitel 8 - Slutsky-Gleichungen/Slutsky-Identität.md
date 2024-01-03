@@ -1,10 +1,14 @@
 ---
+source: 
+page: 
 tags:
   - nachfrage
   - entscheidungen
 week: 2023-11-29
 flashcard: false
 publish: true
+date created: Thursday, December 7th 2023, 6:47:47 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 
@@ -38,6 +42,7 @@ Unter Anwendung des Wissens zu Vorzeichen der Substitutions- und Einkommenseffek
 
 ##### Normale Güter
 Im Falle eines [[Normale und inferiore Güter#Normale Güter|normalen Gutes]] wirken Substitutions- und Preiseffekt immer in die selbe Richtung: Ein Preisanstieg bedeutet, dass die Nachfrage auf Grund des Substitutionseffekts zurückgeht. Wenn der Preis steigt, wirkt dies wie eine Einkommenssenkung, weshalb die Nachfrage fällt (siehe Definition eines normalen Gutes).
+
 $$
 \begin{aligned}
 & \Delta x_1=\Delta x_1^s+\Delta x_1^n \\

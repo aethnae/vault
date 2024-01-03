@@ -1,10 +1,14 @@
 ---
+source: 
+page: 
 tags:
   - nachfrage
   - funktionen
 week: 2023-11-08
 flashcard: false
 publish: true
+date created: Tuesday, November 28th 2023, 6:59:46 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 
@@ -41,12 +45,14 @@ Die Nachfragefunktion entspricht vollständig der Intuition. Da die beiden Guter
 
 ##### Neutrale Güter und Ungüter
 Im Fall eines Gutes, welchem die Konsumentin gegenüber neutral ist, wendet sie ihr ganzes Geld für den Konsum jenes Gutes auf, das sie mag, und kauft überhaupt nicht vom neutralen Gut. Dasselbe geschieht, wenn ein Gut ein „Ungut“ ist. Wenn als Ware 1 ein Gut und Ware 2 ein "Ungut" ist, dann werden die Nachfragefunktionen
+
 $$
 \begin{aligned}
 & x_1=\frac{m}{P_1} \\
 & x_2=0
 \end{aligned}
 $$
+
 lauten.
 
 ##### Unteilbare Güter
@@ -58,6 +64,7 @@ Für diese Präferenzen ist die optimale Entscheidung stets eine Randlösung, wi
 
 ##### Cobb-Douglas-Präferenzen
 Angenommen die [[Nutzenfunktionen|Nutzenfunktion]] hat die Cobb-Douglas-Form $u(x_{1}, x_{2}) = x_{1}^{c}x_{2}^{d}$. Die Lösung lautet
+
 $$
 \begin{aligned}
 & x_1=\frac{c}{c+d} \frac{m}{p_1} \\
@@ -66,6 +73,7 @@ $$
 $$
 
 Cobb-Douglas-Präferenzen haben eine bemerkenswerte Eigenschaft. Betrachte den Einkommensanteil, den eine Cobb-Douglas-Konsumentin für Gut 1 ausgibt. Wenn sie $x_{1}$ Einheiten des Gutes 1 konsumiert, kostet sie das $p_1 x_1$, was einen Anteil von $\frac{p_{1} x_{1}}{m}$ ihres Gesamteinkommens darstellt. Wenn wir für $x_{1}$ die Nachfragefunktion einsetzen, erhalten wir
+
 $$
 \frac{p_1 x_1}{m}=\frac{p_1}{m} \frac{c}{c + d} \frac{m}{p_{1}}=\frac{c}{c+d}
 $$

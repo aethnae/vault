@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f3be53f4a3fa5fb",
+            "id": "2f6c4ef8832e3e2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinne.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Fixe und variable Faktoren.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "strom",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinne.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Fixe und variable Faktoren.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinne.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Fixe und variable Faktoren.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinne.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Fixe und variable Faktoren.md"
               }
             }
           }
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinne.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Fixe und variable Faktoren.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinne.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Fixe und variable Faktoren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,19 +258,28 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e041748da01c05af",
+  "active": "2f6c4ef8832e3e2f",
   "lastOpenFiles": [
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfaktoren.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinne.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Fixe und variable Faktoren.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfaktoren.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Skalenerträge.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Einkommensexpansionspfade.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Engel-Kurven.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Quasilineare Präferenzen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Cobb-Douglas-Präferenzen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Grenznutzen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Eigenschaften der Technologie.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzprodukt.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Kurze und lange Fristen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Kurz.md",
     "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Gewinn.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung",
     "Untitled.md",
     "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Folgebewertung des Anlagevermögens.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Eigenschaften der Technologie.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzprodukt.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Kurze und lange Fristen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Unternehmen.md",
     "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Tangentialebenen.md",
     "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Grundbegriffe der Vektorrechnung.md",
@@ -279,17 +288,8 @@
     "university/Mathematik I/Mathematik I.md",
     "misc/Taiwan '24/Reiseplan.md",
     "files/Pasted image 20231228194230.png",
-    "university/Mathematik I/Übungsblätter/Freiwilliger Test I.md",
     "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung",
-    "university/Mathematik I/Konzepte/Untitled.md",
-    "university/Mathematik I/Übungsblätter/Freiwilliger Test II.md",
-    "university/Mathematik I/Übungsblätter/Übungsblatt 1.md",
-    "university/Mathematik I/Übungsblätter/Übungsblatt 4.md",
     "files/Pasted image 20231227233221.png",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differenzierbarkeit.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Wendepunkte.md",
-    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Satz von Maximum und Minimum.md",
-    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Stetigkeit.md",
     "files/Pasted image 20231128174534.png",
     "files/Pasted image 20231220161031.png",
     "files/Pasted image 20231220154243.png",

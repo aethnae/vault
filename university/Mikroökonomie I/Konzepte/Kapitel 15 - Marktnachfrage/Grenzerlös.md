@@ -1,17 +1,21 @@
 ---
+source: 
+page: 
 tags:
   - gewinn
   - ableitungen
 week: 2023-12-06
 flashcard: false
 publish: true
+date created: Wednesday, December 13th 2023, 4:12:27 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 
 > [!abstract] Definition 
 > Der **Grenzerlös** gibt die Veränderung des [[Erlös|Erlöses]] in Abhängigkeit von der Änderung des Preises an.
 > Mathematisch gilt also
-> 
+>
 > $$
 > M R(p)=Q(p)+p Q^{\prime}(p)=Q(p)\left(1+Q^{\prime}(p) \frac{p}{Q(p)}\right)=Q(p)(1+\epsilon(p))
 > $$

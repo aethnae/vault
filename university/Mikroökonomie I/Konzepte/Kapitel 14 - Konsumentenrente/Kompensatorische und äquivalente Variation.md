@@ -1,9 +1,13 @@
 ---
+source: 
+page: 
 tags:
   - rente
 week: 2023-12-06
 flashcard: false
 publish: true
+date created: Friday, December 8th 2023, 8:40:10 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 

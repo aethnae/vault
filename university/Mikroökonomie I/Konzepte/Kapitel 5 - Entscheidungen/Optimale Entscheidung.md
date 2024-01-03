@@ -1,9 +1,13 @@
 ---
+source: 
+page: 
 tags:
   - entscheidungen
 week: 2023-11-08
 flashcard: false
 publish: true
+date created: Tuesday, November 28th 2023, 6:09:25 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 
@@ -14,12 +18,14 @@ publish: true
 - [[Präferenzrelationen|Präferenzen]] $\succeq$ über Güterraum $X=\mathbb{R}_{+}^n$, welche durch [[Nutzenfunktionen|Nutzenfunktion]] $u: X \rightarrow \mathbb{R}$ dargestellt werden.
 - [[Budgetbeschränkung]], welche die Budgetmenge $B \subset X$ aller leistbaren [[Güterbündel]] definiert.
 - Konsumentscheidung als Nutzenmaximierung unter Nebenbedingungen.
+
 $$
 \begin{array}{cc}
 \max _{x \in X} & u(x) \\
 \text { s.t. } & x \in B
 \end{array}
 $$
+
 - Oftmals wird die **optimale Entscheidung** durch das Güterbündel $(x_{1}^{*}, x_{2}^{*})$ dargestellt. Dieses wird auch **nachgefragtes Bündel** genannt.
 
 ![[Pasted image 20231128181904.png|center|400]]

@@ -1,8 +1,13 @@
 ---
+source: 
+publish: true
+page: 
 tags:
   - philosophie
 week: 2023-10-18
 flashcard: true
+date created: Friday, October 20th 2023, 12:29:33 am
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 

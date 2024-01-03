@@ -1,8 +1,13 @@
 ---
+source: 
+publish: true
+page: 
 tags:
   - nutzen
 week: 2023-11-01
 flashcard: true
+date created: Wednesday, November 15th 2023, 5:18:52 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 
@@ -10,16 +15,20 @@ flashcard: true
 > Gehen wir von einem Konsumenten aus, der ein beliebiges Güterbündel ($x_{1}, x_{2}$) konsumiert. Wie ändert sich der Nutzen dieses Konsumenten, wenn wir ihm ein wenig mehr von Gut 1 geben?
 > 
 > Wir bezeichnen das Verhältnis
+>
 > $$
 > M U_1=\frac{\Delta U}{\Delta x_1}=\frac{u\left(x_1+\Delta x_1, x_2\right)-u\left(x_1, x_2\right)}{\Delta x_1}
 > $$
+>
 > mit $MU_{1}$, der Veränderung des Nutzens ($\Delta U$) auf Grund einer kleinen Änderung der Menge des Gutes 1 ($\Delta x_{1}$), als **Grenznutzen** des Gutes 1.
 > Zu beachten ist, dass dabei die Menge des Gutes 2 konstant gehalten wird.
 
 - Diese Definition impliziert, dass zur Berechnung der Nutzenänderung auf Grund einer kleinen Anderung des Konsums von Gut 1 lediglich die Konsumänderung mit dem Grenznutzen dieses Gutes zu multiplizieren ist:
+
 $$
 \Delta U=M U_1 \Delta x_1
 $$
+
 ***
 ### Grenznutzen und MRS
 

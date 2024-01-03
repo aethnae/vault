@@ -4,6 +4,9 @@ tags:
 week: 2023-12-20
 flashcard: false
 publish: true
+source: pp. 403 ff.
+date created: Tuesday, January 2nd 2024, 6:17:48 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 
@@ -11,7 +14,7 @@ publish: true
 > Angenommen das Unternehmen produziert $n$ Outputs $(y_{1},\dots,y_{n})$ und verwendet dazu $m$ Inputs $(x_{1},\dots,x_{m})$. Die preise der Outputgüter seien $(p_{1},\dots,p_{n})$ und die Preise der Inputs $(w_{1},\dots,w_{m})$.
 > 
 > Die Gewinne, $\pi$, welche das Unternehmen erhält können als
-> 
+>
 >  $$
 > \pi = \sum_{i = 1}^{n} p_{i}y_{i} - \sum_{i = 1}^{m} w_{i}x_{i}
 >$$

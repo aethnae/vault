@@ -1,10 +1,14 @@
 ---
+source: 
+page: 
 tags:
   - nachfrage
   - funktionen
 week: 2023-11-15
 flashcard: false
 publish: true
+date created: Wednesday, December 6th 2023, 6:17:31 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 

@@ -1,4 +1,6 @@
 ---
+source: 
+page: 
 tags:
   - nachfrage
   - entscheidungen
@@ -7,6 +9,8 @@ flashcard: false
 publish: true
 aliases:
   - Änderung der kompensierten Nachfrage
+date created: Thursday, December 7th 2023, 4:38:30 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 
@@ -28,7 +32,7 @@ Obwohl $(x_{1}, x_{2})$ nach wie vor erschwinglich ist, wird es im Allgemeinen n
 
 > [!abstract] Definition
 > Der **Substitutionseffekt**, $\Delta x_{1}^{s}$, ist die Änderung der Nachfrage nach Gut 1, wenn sich der Preis des Gutes 1 auf $p_{1}'$ ändert und sich gleichzeitig das Geldeinkommen auf $m'$ ändert:
-> 
+>
 > $$
 > \Delta x_{1}^{s} = x_{1}(p_{1}', m') - x_{1}(p_{1}, m)
 >$$

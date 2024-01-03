@@ -1,4 +1,6 @@
 ---
+source: 
+page: 
 tags:
   - präferenzen
   - entscheidungen
@@ -7,6 +9,8 @@ flashcard: false
 publish: true
 aliases:
   - WARP
+date created: Thursday, December 7th 2023, 3:55:31 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 

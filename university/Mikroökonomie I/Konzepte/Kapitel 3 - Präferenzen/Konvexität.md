@@ -1,17 +1,24 @@
 ---
+source: 
+publish: true
+page: 
 tags:
   - präferenzen
 week: 2023-10-25
 flashcard: true
+date created: Sunday, November 12th 2023, 7:12:54 pm
+date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
 ***
 
 > [!important] Definition
 > Durchschnitte werden gegenüber Extremen bevorzugt. Diese Annahme kann für jedes Gewicht
 > $t$ zwischen $0$ und $1$ getroffen werden, so dass für $(x_{1}, x_{2}) \sim (y_{1}, y_{2})$ gilt:
+>
 > $$
 > ( tx_{1} + ( 1 - t ) y_{1}, t x_{2} + ( 1 - t ) y_{2} ) \succeq ( x_{1}, x_{2} )
 > $$
+>
 > für jedes $t$ zwischen $0 \leq t \leq 1$.
 
 - Dies besagt, dass die gegenüber $(x_{1}, x_{2})$ schwach bevorzugte Menge an Bündeln eine **konvexe Menge** ist.
