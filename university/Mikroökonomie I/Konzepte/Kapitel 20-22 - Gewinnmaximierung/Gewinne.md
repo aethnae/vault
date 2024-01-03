@@ -11,7 +11,7 @@ date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ***
 
 > [!definition] Gewinne
-> Angenommen das Unternehmen produziert $n$ Outputs $(y_{1},\dots,y_{n})$ und verwendet dazu $m$ Inputs $(x_{1},\dots,x_{m})$. Die preise der Outputgüter seien $(p_{1},\dots,p_{n})$ und die Preise der Inputs $(w_{1},\dots,w_{m})$.
+> Angenommen das Unternehmen produziert $n$ Outputs $(y_{1},\dots,y_{n})$ und verwendet dazu $m$ Inputs $(x_{1},\dots,x_{m})$. Die Preise der Outputgüter seien $(p_{1},\dots,p_{n})$ und die Preise der Inputs $(w_{1},\dots,w_{m})$.
 > 
 > Die Gewinne, $\pi$, welche das Unternehmen erhält können als
 >
