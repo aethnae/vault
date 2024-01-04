@@ -90,6 +90,7 @@
 		- [[Isokostengeraden]]
 		- [[Kostenfunktion]]
 		- [[Kostenminimierung]]
+		- [[Skalenerträge und die Kostenfunktion]]
 - [[Kursübersicht - Mikroökonomie]]
 - [[Mikroökonomie I]]
 - **Übungen**
