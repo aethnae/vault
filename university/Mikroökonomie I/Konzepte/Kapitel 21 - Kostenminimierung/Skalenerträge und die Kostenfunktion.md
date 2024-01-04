@@ -11,3 +11,4 @@ date modified: Thursday, January 4th 2024, 6:15:21 pm
 ---
 ***
 
+Angenommen bei [[Skalenerträge#Konstante Skalenerträge|konstanten Skalenerträgen]] 
