@@ -86,6 +86,7 @@
 		- [[Kurzfristige Gewinnmaximierung]]
 		- [[Langfristige Gewinnmaximierung]]
 	- **Kapitel 21 - Kostenminimierung**
+		- [[Bedingte Faktornachfragefunktionen]]
 		- [[Isokostengeraden]]
 		- [[Kostenfunktion]]
 		- [[Kostenminimierung]]

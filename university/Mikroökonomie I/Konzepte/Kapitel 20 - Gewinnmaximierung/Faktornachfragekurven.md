@@ -12,7 +12,7 @@ date modified: Wednesday, January 3rd 2024, 4:28:12 pm
 ***
 
 > [!definition] Faktornachfragekurven
-> Die **Faktornachfragekurven** eines Unternehmens geben die Beziehung zwischen dem Preis eines Faktor und der Gewinn maximierenden Menge dieses Faktors an.
+> Die **Faktornachfragekurven** eines Unternehmens geben die Beziehung zwischen dem Preis eines Faktors und der Gewinn maximierenden Menge dieses Faktors an.
 
 > [!definition] Inverse Faktornachfragekurven
 > Die **inverse Faktornachfragekurve** misst dieselbe Beziehung, nur aus einer anderen Sichtweise: Sie gibt an, wie hoch die Faktorpreise sein müssen, damit eine bestimmte Menge an Inputs nachgefragt wird. Für die gegebene optimale Menge des Faktors 2 kann die Beziehung zwischen der optimalen Menge des Faktors 1 und seinem Preis in einem Diagramm wie folgt dargestellt werden. Das ist einfach die Grafik der Gleichung
