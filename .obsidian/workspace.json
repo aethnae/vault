@@ -13,20 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinnmaximierung und Skalenerträge.md",
+                "file": "university/Willkommen!.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7bcfaace60908cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Skalenerträge.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -92,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinnmaximierung und Skalenerträge.md",
+                "file": "university/Willkommen!.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinnmaximierung und Skalenerträge.md"
+                "file": "university/Willkommen!.md"
               }
             }
           },
@@ -199,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinnmaximierung und Skalenerträge.md"
+                "file": "university/Willkommen!.md"
               }
             }
           },
@@ -224,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinnmaximierung und Skalenerträge.md",
+                "file": "university/Willkommen!.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -248,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinnmaximierung und Skalenerträge.md",
+                "file": "university/Willkommen!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,12 +269,14 @@
   },
   "active": "ffcf4812adec14a7",
   "lastOpenFiles": [
+    "university/Studienplanung.md",
+    "university/Neue Beiträge.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Langfristige Gewinnmaximierung.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Kurzfristige Gewinnmaximierung.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinnmaximierung und Skalenerträge.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Skalenerträge.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinne.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Faktornachfragekurven.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Langfristige Gewinnmaximierung.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Fixe und variable Faktoren.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion.md",
     "files/Pasted image 20240103164017.png",
@@ -307,8 +297,6 @@
     "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Gewinn.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung",
     "Untitled.md",
-    "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Folgebewertung des Anlagevermögens.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Unternehmen.md",
     "files/Pasted image 20231228194230.png",
     "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung",
     "files/Pasted image 20231227233221.png",

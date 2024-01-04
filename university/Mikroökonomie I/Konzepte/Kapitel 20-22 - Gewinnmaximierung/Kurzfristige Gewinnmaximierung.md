@@ -23,6 +23,12 @@ $$
 pMP_{1}(x_{1}^{*},\bar{x}_{2})=w_{1}
 $$
 
+bzw. unter Verwendung der Differentialrechnung
+
+$$
+p\frac{ \partial f(x_{1}^{*},\bar{x}_{2}) }{ \partial x_{1} } -w_{1}=0
+$$
+
 gelten.
 
 > [!axiom|*] Kurzfristige Gewinnmaximierung

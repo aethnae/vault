@@ -17,12 +17,22 @@ $$
 $$
 
 dargestellt werden. Das ist grundsätzlich das gleiche wie die [[Kurzfristige Gewinnmaximierung]], nur können jetzt beide Faktoren variieren.
+
 Somit gilt für die Optimalbedingung:
 
 $$
 \begin{align}
  & pMP_{1}(x_{1}^{*},x_{2}^{*})=w_{1} \\
  & pMP_{2}(x_{1}^{*},x_{2}^{*})=w_{2}
+\end{align}
+$$
+
+bzw. unter Verwendung der Differentialrechnung
+
+$$
+\begin{align}
+ & p\frac{ \partial f(x_{1}^{*},x_{2}^{*}) }{ \partial x_{1} } - w_{1} = 0 \\
+ & p\frac{ \partial f(x_{1}^{*},x_{2}^{*}) }{ \partial x_{2} } - w_{2} = 0
 \end{align}
 $$
 
