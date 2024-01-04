@@ -86,7 +86,9 @@
 		- [[Kurzfristige Gewinnmaximierung]]
 		- [[Langfristige Gewinnmaximierung]]
 	- **Kapitel 21 - Kostenminimierung**
+		- [[Isokostengeraden]]
 		- [[Kostenfunktion]]
+		- [[Kostenminimierung]]
 - [[Kursübersicht - Mikroökonomie]]
 - [[Mikroökonomie I]]
 - **Übungen**

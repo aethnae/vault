@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ffcf4812adec14a7",
+            "id": "5e1dd1780a07ed71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Kostenminimierung.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Kostenminimierung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Kostenminimierung.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Kostenminimierung.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Kostenminimierung.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Kostenminimierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,9 +266,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ffcf4812adec14a7",
+  "active": "5e1dd1780a07ed71",
   "lastOpenFiles": [
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Kostenminimierung.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Kostenfunktion.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Isokostengeraden.md",
+    "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Minimalkostenkombination.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Faktornachfragekurven.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung",
@@ -283,7 +287,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Skalenerträge.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Gewinne.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Fixe und variable Faktoren.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion.md",
     "files/Pasted image 20240103164017.png",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Eigenschaften der Technologie.md",
     "university/Mikroökonomie I/Mikroökonomie I.md",
@@ -293,9 +296,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Engel-Kurven.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Quasilineare Präferenzen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Cobb-Douglas-Präferenzen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Grenznutzen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzprodukt.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung",
     "files/Pasted image 20231228194230.png",
     "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung",
