@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Willkommen!.md",
+                "file": "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Willkommen!.md",
+                "file": "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -103,7 +103,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.1240852536052892,
+                  "scale": 0.9178117662399944,
                   "close": true
                 }
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Willkommen!.md"
+                "file": "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Willkommen!.md"
+                "file": "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Willkommen!.md",
+                "file": "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Willkommen!.md",
+                "file": "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,15 +268,21 @@
   },
   "active": "ffcf4812adec14a7",
   "lastOpenFiles": [
+    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Kostenfunktion.md",
+    "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Minimalkostenkombination.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Faktornachfragekurven.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung",
+    "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Untitled.md",
+    "university/Willkommen!.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Untitled.md",
     "university/Studienplanung.md",
     "university/Neue Beiträge.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Langfristige Gewinnmaximierung.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Kurzfristige Gewinnmaximierung.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinnmaximierung und Skalenerträge.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Langfristige Gewinnmaximierung.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Kurzfristige Gewinnmaximierung.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Gewinnmaximierung und Skalenerträge.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Skalenerträge.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Gewinne.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Faktornachfragekurven.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Fixe und variable Faktoren.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Gewinne.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Fixe und variable Faktoren.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion.md",
     "files/Pasted image 20240103164017.png",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Eigenschaften der Technologie.md",
@@ -291,12 +296,7 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Cobb-Douglas-Präferenzen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Grenznutzen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzprodukt.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Kurze und lange Fristen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Kurz.md",
-    "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Gewinn.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung",
-    "Untitled.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung",
     "files/Pasted image 20231228194230.png",
     "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung",
     "files/Pasted image 20231227233221.png",
@@ -314,7 +314,6 @@
     "dfn/Mitteilungen/Roadmap.pdf",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage",
     "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Untitled",
-    "files/Vorlesungsfolien/Einführung in die VWL & Wirtschaftsgeschichte",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
