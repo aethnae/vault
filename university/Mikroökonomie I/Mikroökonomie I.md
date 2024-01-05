@@ -96,6 +96,7 @@
 	- **Kapitel 22 - Kostenkurven**
 		- [[Durchschnittskosten]]
 		- [[Grenzkosten]]
+		- [[Kurz- und Langfristige Kosten]]
 - [[Kursübersicht - Mikroökonomie]]
 - [[Mikroökonomie I]]
 - **Übungen**
