@@ -20,3 +20,4 @@ date modified: Thursday, January 4th 2024, 2:32:56 pm
 > 
 > Die Funktion $c$ misst die minimalen Kosten, um $y$ Einheiten des Outputs bei den Faktorpreisen $w_{1}$ und $w_{2}$ zu produzieren.
 
+- Zum Großteil werden die Faktorpreise $w_{1}$ und $w_{2}$ als gegeben angesehen, und die Kostenfunktion wird nur zur Betrachtung der Kosten in Abhängigkeit von der Wahl des Outputs betrachtet, also $c(y)$

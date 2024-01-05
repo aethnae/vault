@@ -22,6 +22,7 @@ Im Falle zweier Produktionsfaktoren, welche die Preise $w_{1}$ und $w_{2}$ haben
 > Es muss sichergestellt werden, dass *alle* Produktionskosten in der Kostenkalkulation enthalten sind und dass alles in miteinander vereinbaren Zeitdimensionen gemessen wird.
 
 - Die Lösung dieses Problems wird von $w_{1}, w_{2} \text{ und } y$ abhängen, und kann durch die [[Kostenfunktion]] ausgedrückt werden.
+- Es empfiehlt sich, auch dieses Minimierungsproblem durch die [[Lagrange-Multiplikation]] zu lösen
 
 ***
 

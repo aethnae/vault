@@ -22,7 +22,6 @@ Wie viel mehr vom Faktor 2, $\Delta x_{2}$ benötigt man, wenn wir ein wenig vom
 >
 > $$
 > MRTS_{1}(x_{1},x_{2}) = \frac{\frac{ \partial f(x_{1},x_{2}) }{ \partial x_{1} } }{\frac{ \partial f(x_{1},x_{2}) }{ \partial x_{2} } } = \frac{MP_{1}(x_{1},x_{2})}{MP_{2}(x_{1},x_{2})}
-
-$$
+> $$
 
 - Die MRTS misst das Austauschverhältnis zwischen zwei Inputs - Sie misst das Verhältnis, zu welchem die Unternehmung einen Input durch den anderen wird ersetzen müssen, um den Output konstant zu halten

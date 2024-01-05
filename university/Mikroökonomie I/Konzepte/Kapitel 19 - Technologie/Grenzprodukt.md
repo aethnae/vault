@@ -1,6 +1,4 @@
 ---
-source: 
-page: 
 tags:
   - ableitungen
   - produktion
@@ -8,6 +6,7 @@ tags:
 week: 2023-12-13
 flashcard: false
 publish: true
+source: 
 date created: Thursday, December 14th 2023, 7:58:37 pm
 date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---

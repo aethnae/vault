@@ -90,8 +90,10 @@
 		- [[Isokostengeraden]]
 		- [[Kostenfunktion]]
 		- [[Kostenminimierung]]
+		- [[Langfristige und kurzfristige Kosten]]
 		- [[Skalenerträge und die Kostenfunktion]]
-		- [[Untitled]]
+		- [[Verlorene Kosten]]
+	- **Kapitel 22 - Kostenkurven**
 - [[Kursübersicht - Mikroökonomie]]
 - [[Mikroökonomie I]]
 - **Übungen**
