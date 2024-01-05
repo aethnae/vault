@@ -94,6 +94,8 @@
 		- [[Skalenerträge und die Kostenfunktion]]
 		- [[Verlorene Kosten]]
 	- **Kapitel 22 - Kostenkurven**
+		- [[Durchschnittskosten]]
+		- [[Grenzkosten]]
 - [[Kursübersicht - Mikroökonomie]]
 - [[Mikroökonomie I]]
 - **Übungen**
