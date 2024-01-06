@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6ccdbf85b5ab0535",
+        "id": "342d6a374e6bfb3e",
         "type": "tabs",
         "children": [
           {
-            "id": "7f89f2613cf8ccb9",
+            "id": "d2494c3751861ba7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Kurz- und Langfristige Kosten.md",
-                "mode": "source",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Kurz- und Langfristige Kosten.md",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Kurz- und Langfristige Kosten.md"
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Kurz- und Langfristige Kosten.md"
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Kurz- und Langfristige Kosten.md",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Kurz- und Langfristige Kosten.md",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,10 +267,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7f89f2613cf8ccb9",
+  "active": "d2494c3751861ba7",
   "lastOpenFiles": [
-    "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Grenzkosten.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Eigentum & Macht/Kombiniert erreichbare Möglichkeitskurve.md",
+    "files/Pasted image 20240106191215.png",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Eigentum & Macht/Pareto-Effizienz-Kurve.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Eigentum & Macht/Fairness.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Eigentum & Macht/Allokationen.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Grenzrate der Transformation.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Produktionsfunktion.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Opportunitätskosten.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Unternehmen.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Wissenschaftsphilosophie/Elemente des Kapitalismus.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Kurz- und Langfristige Kosten.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Grenzkosten.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Durchschnittskosten.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Skalenerträge und die Kostenfunktion.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Kurze und lange Fristen.md",
@@ -279,23 +291,12 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Kostenfunktion.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Kostenminimierung.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Lagrange-Multiplikation.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Bedingte Faktornachfragefunktionen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzprodukt.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven",
     "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Verlorene Kosten.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Fixe und variable Faktoren.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Isokostengeraden.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Faktornachfragekurven.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Untitled 1.md",
-    "university/Mikroökonomie I/Mikroökonomie I.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
-    "university/Mikroökonomie I/Übungen/Übungsblatt 4.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Nachfragekurven.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Quasilineare Präferenzen.md",
-    "university/Mikroökonomie I/Übungen/Übungsblatt 3.md",
-    "university/Mikroökonomie I/Übungen/Übungsblatt 1.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung",
     "files/Pasted image 20240103164017.png",
     "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung",
@@ -307,7 +308,6 @@
     "files/Pasted image 20231220154243.png",
     "files/Pasted image 20231220151530.png",
     "files/Pasted image 20231220151228.png",
-    "files/Pasted image 20231220150819.png",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen",
     "university/Externes Rechnungswesen/Konzepte/Jahresabschluss",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie",

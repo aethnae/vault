@@ -11,9 +11,9 @@
 	- **3. Knappheit & Arbeit**
 		- [[Durchschnittsprodukt]]
 		- [[Einkommens- und Substitutionseffekte]]
-		- [[university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Grenzprodukt]]
+		- [[Grenzprodukt]]
 		- [[Grenzrate der Transformation]]
-		- [[university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Produktionsfunktion]]
+		- [[Produktionsfunktion]]
 	- **4. Spieltheorie**
 		- [[Gefangenendilemma]]
 		- [[Nash-Gleichgewicht]]
@@ -23,6 +23,7 @@
 	- **5. Eigentum & Macht**
 		- [[Allokationen]]
 		- [[Fairness]]
+		- [[Kombiniert erreichbare Möglichkeitskurve]]
 		- [[Pareto-Effizienz-Kurve]]
 	- **6. Marktversagen und Politik**
 		- [[Unternehmen]]
