@@ -14,3 +14,5 @@ publish: true
 >$$
 
 *Für eine ausführlichere Definition und Anwendungen, siehe [[university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution]].*
+
+*Beschreibt das selbe wie die [[Grenzrate der Transformation]]*.
