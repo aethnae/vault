@@ -1,7 +1,6 @@
 ---
 source: 
 publish: true
-page: 
 tags:
   - präferenzen
 week: 2023-10-25

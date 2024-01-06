@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
-                "mode": "preview",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 3 - Knappheit, Arbeit & Entscheidungen.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 3 - Knappheit, Arbeit & Entscheidungen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md"
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 3 - Knappheit, Arbeit & Entscheidungen.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md"
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 3 - Knappheit, Arbeit & Entscheidungen.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 3 - Knappheit, Arbeit & Entscheidungen.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 3 - Knappheit, Arbeit & Entscheidungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,6 +269,12 @@
   },
   "active": "d2494c3751861ba7",
   "lastOpenFiles": [
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Grenzprodukt.md",
+    "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzprodukt.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 3 - Knappheit, Arbeit & Entscheidungen.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Eigentum & Macht/Kombiniert erreichbare Möglichkeitskurve.md",
     "files/Pasted image 20240106191215.png",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Eigentum & Macht/Pareto-Effizienz-Kurve.md",
@@ -291,12 +297,7 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Kostenfunktion.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Kostenminimierung.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Lagrange-Multiplikation.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Bedingte Faktornachfragefunktionen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzprodukt.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven",
-    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Verlorene Kosten.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Fixe und variable Faktoren.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung",
     "files/Pasted image 20240103164017.png",
     "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung",
