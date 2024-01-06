@@ -6,6 +6,7 @@ flashcard: true
 publish: true
 aliases:
   - MRT
+  - Machbarkeitsgrenze
 ---
 ***
 
