@@ -13,13 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Grenzrate der Transformation.md",
-                "mode": "source",
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Einkommens- und Substitutionseffekte.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4daf95e37a79aee3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Grenzkosten.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76b071dc8b174981",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8765545e0becb937",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Wissenschaftsphilosophie/Kritischer Rationalismus.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4c675f414b3e622",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/4. Spieltheorie/Gefangenendilemma.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f7cec33743054e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Rechengesetze.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -67,7 +128,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "4cae0943d8942f29",
@@ -80,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Grenzrate der Transformation.md",
+                "file": "university/Mathematik I/Rechengesetze.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Grenzrate der Transformation.md"
+                "file": "university/Mathematik I/Rechengesetze.md"
               }
             }
           },
@@ -187,7 +249,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Grenzrate der Transformation.md"
+                "file": "university/Mathematik I/Rechengesetze.md"
               }
             }
           },
@@ -212,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Grenzrate der Transformation.md",
+                "file": "university/Mathematik I/Rechengesetze.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -236,7 +298,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Grenzrate der Transformation.md",
+                "file": "university/Mathematik I/Rechengesetze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,8 +329,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "48c8df0973169eec",
+  "active": "5f7cec33743054e3",
   "lastOpenFiles": [
+    "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Lagrange-Multiplikation.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/4. Spieltheorie/Gefangenendilemma.md",
+    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Partielle Ableitungen.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Wissenschaftsphilosophie/Kritischer Rationalismus.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Grenzkosten.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Einkommens- und Substitutionseffekte.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Grenzrate der Transformation.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Grenzprodukt.md",
@@ -288,15 +356,9 @@
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Unternehmen.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Wissenschaftsphilosophie/Elemente des Kapitalismus.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Kurz- und Langfristige Kosten.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Grenzkosten.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Durchschnittskosten.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Skalenerträge und die Kostenfunktion.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Kurze und lange Fristen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Langfristige und kurzfristige Kosten.md",
     "files/Pasted image 20240105183729.png",
-    "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Marginalanalyse.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Kostenfunktion.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Kostenminimierung.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven",
     "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung",
     "files/Pasted image 20240103164017.png",
