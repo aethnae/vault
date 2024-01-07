@@ -4,83 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "342d6a374e6bfb3e",
+        "id": "63111880449b40cf",
         "type": "tabs",
         "children": [
           {
-            "id": "48c8df0973169eec",
+            "id": "71389573b72865a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Einkommens- und Substitutionseffekte.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Präferenzrelationen.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "4daf95e37a79aee3",
+            "id": "05cf9f9fec4a1d66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Grenzkosten.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76b071dc8b174981",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8765545e0becb937",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Wissenschaftsphilosophie/Kritischer Rationalismus.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4c675f414b3e622",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/4. Spieltheorie/Gefangenendilemma.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f7cec33743054e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mathematik I/Rechengesetze.md",
-                "mode": "preview",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Güterbündel.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -128,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "4cae0943d8942f29",
@@ -142,7 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mathematik I/Rechengesetze.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Güterbündel.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mathematik I/Rechengesetze.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Güterbündel.md"
               }
             }
           },
@@ -249,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mathematik I/Rechengesetze.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Güterbündel.md"
               }
             }
           },
@@ -274,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mathematik I/Rechengesetze.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Güterbündel.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -298,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/Rechengesetze.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Güterbündel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,8 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -329,8 +279,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5f7cec33743054e3",
+  "active": "05cf9f9fec4a1d66",
   "lastOpenFiles": [
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Präferenzrelationen.md",
+    "university/Mikroökonomie I/Übungen/Übungsblatt 3.md",
+    "university/Mikroökonomie I/Übungen/Übungsblatt 2.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Budgetbeschränkung.md",
+    "university/Mathematik I/Rechengesetze.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Lagrange-Multiplikation.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/4. Spieltheorie/Gefangenendilemma.md",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Partielle Ableitungen.md",
@@ -353,11 +308,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Produktionsfunktion.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Opportunitätskosten.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/6. Marktversagen und Politik/Unternehmen.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Wissenschaftsphilosophie/Elemente des Kapitalismus.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Kurz- und Langfristige Kosten.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Durchschnittskosten.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Skalenerträge und die Kostenfunktion.md",
     "files/Pasted image 20240105183729.png",
     "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven",
     "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung",
