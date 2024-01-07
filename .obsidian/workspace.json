@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "63111880449b40cf",
+        "id": "853da4ebfc0b366a",
         "type": "tabs",
         "children": [
           {
-            "id": "0a7c3fa5f3dbddc1",
+            "id": "4bb1bebb4551152b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
                 "mode": "preview",
                 "source": false
               }
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "4cae0943d8942f29",
@@ -80,7 +81,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md"
               }
             }
           },
@@ -187,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md"
               }
             }
           },
@@ -212,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -236,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,14 +267,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0a7c3fa5f3dbddc1",
+  "active": "4bb1bebb4551152b",
   "lastOpenFiles": [
+    "university/Mathematik I/Rechengesetze.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Güterbündel.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Präferenzrelationen.md",
     "university/Mikroökonomie I/Übungen/Übungsblatt 3.md",
     "university/Mikroökonomie I/Übungen/Übungsblatt 2.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Budgetbeschränkung.md",
-    "university/Mathematik I/Rechengesetze.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Lagrange-Multiplikation.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/4. Spieltheorie/Gefangenendilemma.md",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Partielle Ableitungen.md",
@@ -286,7 +289,6 @@
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 3 - Knappheit, Arbeit & Entscheidungen.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Lektüre/Kapitel 1 - Die kapitalistische Revolution.md",
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzprodukt.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Eigentum & Macht/Kombiniert erreichbare Möglichkeitskurve.md",
     "files/Pasted image 20240106191215.png",
@@ -294,7 +296,6 @@
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Eigentum & Macht/Fairness.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Eigentum & Macht/Allokationen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Produktionsfunktion.md",
     "files/Pasted image 20240105183729.png",
     "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven",
     "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung",
