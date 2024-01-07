@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "08522ddbcd3399d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Budgetgerade.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -81,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Budgetgerade.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Budgetgerade.md"
               }
             }
           },
@@ -188,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Budgetgerade.md"
               }
             }
           },
@@ -213,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Budgetgerade.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -237,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Budgetgerade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,8 +280,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4bb1bebb4551152b",
+  "active": "08522ddbcd3399d3",
   "lastOpenFiles": [
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
     "university/Mathematik I/Rechengesetze.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
@@ -295,7 +309,6 @@
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Eigentum & Macht/Pareto-Effizienz-Kurve.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Eigentum & Macht/Fairness.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/5. Eigentum & Macht/Allokationen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
     "files/Pasted image 20240105183729.png",
     "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven",
     "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung",

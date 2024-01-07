@@ -1,11 +1,10 @@
 ---
-source: 
-publish: true
-page: 
 tags:
   - budgets
 week: 2023-10-25
+source: 
 flashcard: true
+publish: true
 date created: Thursday, October 26th 2023, 4:30:33 pm
 date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
