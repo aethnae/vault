@@ -28,5 +28,27 @@ aliases:
 #### Anspruch & Anspruchsgrundlage
 
 > [!abstract] Definition 
-> Ein **Anspruch** beschreibt das Recht, von einem anderen Individuum ein Tun oder Unterlassen verlangen zu können.
+> Ein **Anspruch** beschreibt nach § 194 Abs. 1 BGB das Recht, von einem anderen Individuum ein Tun oder Unterlassen verlangen zu können.
 
+- Gewisse Ansprüche, so z.B. [[Schadensersatz|Schadensersatzansprüche]] bestehen unabhängig von etwaigen Klagen, ein Anspruch auf "Strafe" des Schädigenden besteht jedoch nicht, Verhängung von Strafen obliegt alleine Behörden.
+
+> [!important] Tatbestand & Rechtsfolge 
+> Es wird zwischen **Tatbestand** (Anspruchsvoraussetzungen) und **Rechtsfolge** unterschieden.
+
+**Prüfung einer Anspruchsgrundlage:**
+
+(1) **Suchen einer Anspruchsgrundlage (welche Normen sehen als Rechtsfolge einen Schadensersatzanspruch vor)**
+
+- **Wer verlangt** - Anspruchsteller (Gläubiger des Anspruchs)
+- **Was** - Anspruchsziel (die gewünschte Rechtsfolge)
+- **Von wem** - Anspruchsgegner (Schuldner des Anspruchs)
+- **Woraus** (Was ist die in Betracht kommende Rechtsgrundlage für den Ansopruch - Anspruchsgrundlage)
+
+(2) **Anspruch untergegangen?**
+
+- z.B. A hat den Schaden bereits ersetzt $\longrightarrow$ Untergang durch Erfüllung (**§ 362 I BGB**)
+
+(3) **Anspruch durchsetzbar?**
+
+- Kann der Anspruchsgegner dem Anspruchsteller irgendwelche Gegenrechte (Einwendung oder Einreden) entgegenhalten?
+- z.B. Einrede der Verjährung (**§§ 194, 214 BGB**)

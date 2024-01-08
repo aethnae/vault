@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5dfb96090d40e7b0",
+        "id": "8e35478d79d60d7d",
         "type": "tabs",
         "children": [
           {
-            "id": "36b5531d816c4a51",
+            "id": "ddb71142d3185ab3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university/Bürgerliches Recht/Konzepte/Objektives und subjektives Recht.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ee9862b44bf65de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Bürgerliches Recht/Konzepte/Gesetzliche und vertragliche Schuldverhältnisse.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -76,6 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university/Bürgerliches Recht/Konzepte/Gesetzliche und vertragliche Schuldverhältnisse.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university/Bürgerliches Recht/Konzepte/Gesetzliche und vertragliche Schuldverhältnisse.md"
+              }
             }
           },
           {
@@ -179,7 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university/Bürgerliches Recht/Konzepte/Gesetzliche und vertragliche Schuldverhältnisse.md"
+              }
             }
           },
           {
@@ -203,6 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university/Bürgerliches Recht/Konzepte/Gesetzliche und vertragliche Schuldverhältnisse.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -226,6 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university/Bürgerliches Recht/Konzepte/Gesetzliche und vertragliche Schuldverhältnisse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,15 +279,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "36b5531d816c4a51",
+  "active": "8ee9862b44bf65de",
   "lastOpenFiles": [
     "university/Bürgerliches Recht/Konzepte/Objektives und subjektives Recht.md",
-    "files/Pasted image 20240108120508.png",
+    "university/Bürgerliches Recht/Konzepte/Gesetzliche und vertragliche Schuldverhältnisse.md",
+    "files/Pasted image 20240108224004.png",
     "university/Bürgerliches Recht/Konzepte/Schadensersatz.md",
-    "university/Bürgerliches Recht/Exkurs - Zitierweise.md",
     "university/Bürgerliches Recht/Konzepte/Rechtsquellen im Privatrecht.md",
     "university/Bürgerliches Recht/Konzepte/Definition des Rechtsbegriffs.md",
     "university/Bürgerliches Recht/Konzepte/Abgrenzung zu anderen Rechtsgebieten.md",
+    "university/Externes Rechnungswesen/Externes Rechnungswesen.md",
+    "university/Externes Rechnungswesen/Konzepte/Kennzahlen/Gewinn.md",
+    "files/Pasted image 20240108120508.png",
+    "university/Bürgerliches Recht/Exkurs - Zitierweise.md",
     "files/Pasted image 20240108111040.png",
     "university/Bürgerliches Recht/Kursübersicht - Bürgerliches Recht.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Grenzkosten.md",
@@ -282,8 +310,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Lagrange-Multiplikation.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/4. Spieltheorie/Gefangenendilemma.md",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Partielle Ableitungen.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/2. Wissenschaftsphilosophie/Kritischer Rationalismus.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
     "files/Pasted image 20240106191215.png",
     "files/Pasted image 20240105183729.png",
     "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven",
@@ -295,7 +321,6 @@
     "files/Pasted image 20231227233221.png",
     "files/Pasted image 20231128174534.png",
     "files/Pasted image 20231220161031.png",
-    "files/Pasted image 20231220154243.png",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen",
     "university/Externes Rechnungswesen/Konzepte/Jahresabschluss",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie",

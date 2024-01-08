@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 4057343
       }
+    },
+    {
+      "query": "path:\"university/Bürgerliches Recht\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16316407
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +74,6 @@
   "repelStrength": 10.4402669270833,
   "linkStrength": 0.833455403645833,
   "linkDistance": 250,
-  "scale": 0.3443745637540883,
+  "scale": 0.2710960207310579,
   "close": true
 }
