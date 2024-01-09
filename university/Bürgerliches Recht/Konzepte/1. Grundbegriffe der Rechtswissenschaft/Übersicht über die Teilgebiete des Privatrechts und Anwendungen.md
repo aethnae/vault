@@ -34,14 +34,17 @@ Im Kern werden Rechtsstreitigkeiten im Privatrecht auf Grundlage des **Bürgerli
 - In der Realität sieht das anders aus: der gewiefte Händler trifft auf den unbedarften Kunden
 
 > [!note] Unternehmer (§14 BGB) 
-> Es wird unterschieden zwischen sogenannten **kaufmännischen Unternehmern** (definiert in § 1 HGB), welche Vorgaben des **H**
-- Kaufmännische Unternehmen ( 1 HGB) $\rightarrow$ Vorgaben des HGB
-- nichtkaufmännische Unternehmen (z.B. Steuerberater)
-b. „Einfache BGB-Bürger" - idR Verbraucher iSv $\S 13$ BGB
-c. Drei Kategorien - Verträge zwischen
-(1) Unternehmern (b2b)
-(2) Unternehmer und Verbraucher (b2p)
-(3) zwischen Personen, bei denen keine Seite Unternehmer ist (p2p
-$\rightarrow$ Nur bei (3) findet Handels- bzw. Unternehmensrecht keine Anwendung
-$\rightarrow(1)+(2)$ über $95 \%$ der abgeschlossenen Verträge
-$\rightarrow$ Statistisch ist der Vertrag auf den weder Verbraucherschutzrecht, noch Handelsrecht, sondern nur „reines" BGB Anwendung findet, die Ausnahme!
+> Es wird unterschieden zwischen sogenannten **kaufmännischen Unternehmern** (definiert in § 1 HGB), welche Vorgaben des **Handelsrechts** erfüllen müssen, und "**nichtkaufmännischen Unternehmern**", wie z.B. Steuerberater
+
+- Die Definition eines "Bürgers" ist im BGB in § 13 geregelt
+- Drei Kategorien - Verträge zwischen
+	- Unternehmern (b2b)
+	- Unternehmer und Verbraucher (b2p)
+	- Zwischen Personen, bei denen keine Seite Unternehmer ist (p2p)
+
+$\longrightarrow$ Nur bei **p2p** findet Handels- bzw. Unternehmensrecht keine Anwendung
+$\longrightarrow$ **b2b** und **b2p** machen etwa 95% der abgeschlossenen Verträge aus
+
+**Normpyramide im Privatrecht:**
+
+![[Pasted image 20240109231810.png|center|550]]
