@@ -32,7 +32,9 @@ Im Kern werden Rechtsstreitigkeiten im Privatrecht auf Grundlage des **Bürgerli
 
 - Leitbild, das dem BGB zugrunde liegt: Freie, gleiche Bürger schließen untereinander Verträge. In Verträgen regeln sie autonom ihre Verhältnisse (**Vertragsautonomie**)
 - In der Realität sieht das anders aus: der gewiefte Händler trifft auf den unbedarften Kunden
-a. Unternehmer ( $14 \mathrm{BGB})$
+
+> [!note] Unternehmer (§14 BGB) 
+> Es wird unterschieden zwischen sogenannten **kaufmännischen Unternehmern** (definiert in § 1 HGB), welche Vorgaben des **H**
 - Kaufmännische Unternehmen ( 1 HGB) $\rightarrow$ Vorgaben des HGB
 - nichtkaufmännische Unternehmen (z.B. Steuerberater)
 b. „Einfache BGB-Bürger" - idR Verbraucher iSv $\S 13$ BGB
