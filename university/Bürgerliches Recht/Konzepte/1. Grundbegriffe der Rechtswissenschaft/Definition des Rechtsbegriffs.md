@@ -19,3 +19,5 @@ date modified: Monday, January 8th 2024, 10:56:02 am
 > [!caution] Gesetzesvorbehalt 
 > Behörden dürfen niemals nach eigenem Gutdünken handeln, sondern nur aufgrund einer gesetzlichen Ermächtigung.
 
+![[Pasted image 20240109205919.png|center|550]]
+
