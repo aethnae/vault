@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Übersicht über die Teilgebiete des Privatrechts und Anwendungen.md",
+                "file": "misc/Sparplan.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Übersicht über die Teilgebiete des Privatrechts und Anwendungen.md",
+                "file": "misc/Sparplan.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Übersicht über die Teilgebiete des Privatrechts und Anwendungen.md"
+                "file": "misc/Sparplan.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Übersicht über die Teilgebiete des Privatrechts und Anwendungen.md"
+                "file": "misc/Sparplan.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Übersicht über die Teilgebiete des Privatrechts und Anwendungen.md",
+                "file": "misc/Sparplan.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Übersicht über die Teilgebiete des Privatrechts und Anwendungen.md",
+                "file": "misc/Sparplan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,6 +268,9 @@
   },
   "active": "8ee9862b44bf65de",
   "lastOpenFiles": [
+    "misc/Finanzplan.md",
+    "misc/Sparplan.md",
+    "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Übersicht über die Teilgebiete des Privatrechts und Anwendungen.md",
     "files/Pasted image 20240109231810.png",
     "files/Pasted image 20240109210822.png",
     "files/Pasted image 20240109210755.png",
@@ -277,7 +280,6 @@
     "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Definition des Rechtsbegriffs.md",
     "files/Pasted image 20240109205919.png",
     "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Abgrenzung zu anderen Rechtsgebieten.md",
-    "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Übersicht über die Teilgebiete des Privatrechts und Anwendungen.md",
     "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft",
     "files/Pasted image 20240109000914.png",
     "files/Pasted image 20240108224004.png",
@@ -301,12 +303,10 @@
     "university/Mikroökonomie I/Übungen/Übungsblatt 2.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Budgetbeschränkung.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Lagrange-Multiplikation.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/4. Spieltheorie/Gefangenendilemma.md",
     "files/Pasted image 20240106191215.png",
     "files/Pasted image 20240105183729.png",
     "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven",
     "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung",
-    "files/Pasted image 20240103164017.png",
     "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung",
     "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen",
