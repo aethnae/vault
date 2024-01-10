@@ -11,14 +11,7 @@
       "query": "path:dfn  ",
       "color": {
         "a": 1,
-        "rgb": 14684176
-      }
-    },
-    {
-      "query": "path:misc  ",
-      "color": {
-        "a": 1,
-        "rgb": 2481677
+        "rgb": 0
       }
     },
     {
@@ -32,7 +25,7 @@
       "query": "path:university/Mathematik I",
       "color": {
         "a": 1,
-        "rgb": 10443990
+        "rgb": 60199
       }
     },
     {
@@ -40,13 +33,6 @@
       "color": {
         "a": 1,
         "rgb": 16056487
-      }
-    },
-    {
-      "query": "path:\"university/Externes Rechnungswesen\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 41973
       }
     },
     {
@@ -60,11 +46,18 @@
       "query": "path:\"university/Bürgerliches Recht\"  ",
       "color": {
         "a": 1,
-        "rgb": 16316407
+        "rgb": 4607
+      }
+    },
+    {
+      "query": "path:\"university/Externes Rechnungswesen\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 0.93560791015625,
@@ -74,6 +67,6 @@
   "repelStrength": 10.4402669270833,
   "linkStrength": 0.833455403645833,
   "linkDistance": 250,
-  "scale": 0.36337592239976574,
+  "scale": 0.1990670284786764,
   "close": true
 }

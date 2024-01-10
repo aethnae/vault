@@ -143,7 +143,7 @@
     "showTheoremCalloutEditButton": true,
     "setOnlyTheoremAsMain": true,
     "setLabelInModal": false,
-    "excludeExampleCallout": false,
+    "excludeExampleCallout": true,
     "enableProof": true,
     "enableMathPreviewInCalloutAndQuote": true,
     "autocompleteDvQuery": "",
@@ -154,6 +154,8 @@
   "excludedFiles": [
     "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Fixe und variable Faktoren.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Kurzfristige Gewinnmaximierung.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Langfristige Gewinnmaximierung.md"
+    "university/Mikroökonomie I/Konzepte/Kapitel 20-22 - Gewinnmaximierung/Langfristige Gewinnmaximierung.md",
+    "university/Bürgerliches Recht/Konzepte/2. Ideengeschichtlicher Hintergrund & Privatautonomie/Grundgedanken zur Privatautonomie.md",
+    "university/Bürgerliches Recht/Konzepte/2. Ideengeschichtlicher Hintergrund & Privatautonomie/Dispositive Regelungen & Rechte.md"
   ]
 }

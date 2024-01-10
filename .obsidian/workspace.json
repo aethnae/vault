@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d567bc8db425ffcc",
+        "id": "12df11a51cabb18d",
         "type": "tabs",
         "children": [
           {
-            "id": "d5f897072a44f4fb",
+            "id": "4791ad8694aa974f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md",
+                "file": "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Anfechtung aufgrund von Täuschung und Drohung.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md",
+                "file": "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Anfechtung aufgrund von Täuschung und Drohung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md"
+                "file": "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Anfechtung aufgrund von Täuschung und Drohung.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md"
+                "file": "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Anfechtung aufgrund von Täuschung und Drohung.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md",
+                "file": "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Anfechtung aufgrund von Täuschung und Drohung.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md",
+                "file": "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Anfechtung aufgrund von Täuschung und Drohung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,34 +266,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d5f897072a44f4fb",
+  "active": "4791ad8694aa974f",
   "lastOpenFiles": [
-    "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Kurzfristige Gewinnmaximierung.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Gewinnmaximierung und Skalenerträge.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Skalenerträge.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
-    "school/Mathe/Stochastik/Checkliste Klausur nr. 2.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfaktoren.md",
-    "university/Mikroökonomie I/Mikroökonomie I.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Besser- und Schlechtermengen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Einkommenseffekt.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Durchschnittskosten.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Langfristige und kurzfristige Kosten.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Kurze und lange Fristen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Kurz- und Langfristige Kosten.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Grenzkosten.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Kostenfunktion.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Verlorene Kosten.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Skalenerträge und die Kostenfunktion.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Kostenminimierung.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Isokostengeraden.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Bedingte Faktornachfragefunktionen.md",
-    "misc/Sparplan.md",
-    "misc/Finanzplan.md",
+    "files/Pasted image 20240110203314.png",
+    "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Aufgaben des Privatrechts aus Sicht der Ökonomie.md",
+    "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Dispositive Regelungen & Rechte.md",
+    "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Strukturell gestörte Vertragsparität.md",
+    "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Richtigkeitsgewähr.md",
+    "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Grundgedanken zur Privatautonomie.md",
+    "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Gewährleistung von Verfahrensgerechtigkeit.md",
+    "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Anfechtung aufgrund von Täuschung und Drohung.md",
+    "university/Bürgerliches Recht/Bürgerliches Recht.md",
+    "university/Bürgerliches Recht/Kursübersicht - Bürgerliches Recht.md",
+    "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Objektives und subjektives Recht.md",
     "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Übersicht über die Teilgebiete des Privatrechts und Anwendungen.md",
+    "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Definition des Rechtsbegriffs.md",
+    "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Abgrenzung zu anderen Rechtsgebieten.md",
+    "school/Geschichte/Abitur/Industriegesellschaft & Imperialismus.md",
+    "university/Mathematik I/Mathematik I.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Gewinnmaximierung und Skalenerträge.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Kurzfristige Gewinnmaximierung.md",
+    "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit",
+    "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Philosophische und ökonomische Grundlagen des Privatrechts.md",
+    "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Gesetzliche und vertragliche Schuldverhältnisse.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Langfristige Gewinnmaximierung.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Faktornachfragekurven.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Fixe und variable Faktoren.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Gewinne.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfaktoren.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion.md",
     "files/Pasted image 20240109231810.png",
     "files/Pasted image 20240109210822.png",
     "files/Pasted image 20240109210755.png",
@@ -313,7 +314,6 @@
     "university/Externes Rechnungswesen/Konzepte/Jahresabschluss",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie",
     "Untitleddf",
-    "dfn/Mitteilungen/Roadmap.pdf",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
