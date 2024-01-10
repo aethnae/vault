@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4791ad8694aa974f",
+            "id": "c804645409d18fb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Anfechtung aufgrund von Täuschung und Drohung.md",
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Willenserklärungen.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Anfechtung aufgrund von Täuschung und Drohung.md",
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Willenserklärungen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Anfechtung aufgrund von Täuschung und Drohung.md"
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Willenserklärungen.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Anfechtung aufgrund von Täuschung und Drohung.md"
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Willenserklärungen.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Anfechtung aufgrund von Täuschung und Drohung.md",
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Willenserklärungen.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Anfechtung aufgrund von Täuschung und Drohung.md",
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Willenserklärungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,35 +266,38 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4791ad8694aa974f",
+  "active": "c804645409d18fb9",
   "lastOpenFiles": [
-    "files/Pasted image 20240110203314.png",
-    "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Aufgaben des Privatrechts aus Sicht der Ökonomie.md",
-    "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Dispositive Regelungen & Rechte.md",
-    "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Strukturell gestörte Vertragsparität.md",
-    "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Richtigkeitsgewähr.md",
-    "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Grundgedanken zur Privatautonomie.md",
-    "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Gewährleistung von Verfahrensgerechtigkeit.md",
-    "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit/Anfechtung aufgrund von Täuschung und Drohung.md",
+    "files/Pasted image 20240110210959.png",
+    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Grundgedanken zur Privatautonomie.md",
+    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Willenserklärungen.md",
+    "files/Pasted image 20240110210404.png",
+    "university/Mathematik I/Rechengesetze.md",
+    "university/Mathematik I/Mathematik I.md",
     "university/Bürgerliches Recht/Bürgerliches Recht.md",
+    "university/Mikroökonomie I/Mikroökonomie I.md",
+    "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Marktnachfrage.md",
     "university/Bürgerliches Recht/Kursübersicht - Bürgerliches Recht.md",
+    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Anfechtung aufgrund von Täuschung und Drohung.md",
+    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Aufgaben des Privatrechts aus Sicht der Ökonomie.md",
+    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Dispositive Regelungen & Rechte.md",
+    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Gewährleistung von Verfahrensgerechtigkeit.md",
+    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen",
+    "files/Pasted image 20240110203314.png",
+    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Strukturell gestörte Vertragsparität.md",
+    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Richtigkeitsgewähr.md",
     "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Objektives und subjektives Recht.md",
     "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Übersicht über die Teilgebiete des Privatrechts und Anwendungen.md",
     "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Definition des Rechtsbegriffs.md",
     "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Abgrenzung zu anderen Rechtsgebieten.md",
     "school/Geschichte/Abitur/Industriegesellschaft & Imperialismus.md",
-    "university/Mathematik I/Mathematik I.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Gewinnmaximierung und Skalenerträge.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Kurzfristige Gewinnmaximierung.md",
-    "university/Bürgerliches Recht/Konzepte/Privatautonomie & Vertragsgerechtigkeit",
+    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit",
     "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Philosophische und ökonomische Grundlagen des Privatrechts.md",
     "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Gesetzliche und vertragliche Schuldverhältnisse.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Langfristige Gewinnmaximierung.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Faktornachfragekurven.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Fixe und variable Faktoren.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Gewinne.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfaktoren.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion.md",
     "files/Pasted image 20240109231810.png",
     "files/Pasted image 20240109210822.png",
     "files/Pasted image 20240109210755.png",
@@ -304,8 +307,6 @@
     "files/Pasted image 20240108224004.png",
     "files/Pasted image 20240108120508.png",
     "files/Pasted image 20240108111040.png",
-    "files/Pasted image 20240106191215.png",
-    "files/Pasted image 20240105183729.png",
     "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven",
     "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung",
     "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung",
@@ -313,7 +314,6 @@
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen",
     "university/Externes Rechnungswesen/Konzepte/Jahresabschluss",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie",
-    "Untitleddf",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",

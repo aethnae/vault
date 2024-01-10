@@ -10,6 +10,8 @@ publish: true
 source: Skript pp. 14 ff.
 date created: Wednesday, January 10th 2024, 5:39:25 pm
 date modified: Wednesday, January 10th 2024, 5:40:46 pm
+aliases:
+  - Privatautonomie
 ---
 ***
 

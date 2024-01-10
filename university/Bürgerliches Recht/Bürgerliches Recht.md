@@ -30,7 +30,7 @@ Es handelt sich um Zusatzinformationen, die dem besseren Verständnis von Hinter
 5. **Erbrecht**
 
 ***
-#### Inhaltsübersicht
+#### Inhaltsverzeichnis
 
 %% Begin Waypoint %%
 - [[Bürgerliches Recht]]
@@ -43,14 +43,15 @@ Es handelt sich um Zusatzinformationen, die dem besseren Verständnis von Hinter
 		- [[Objektives und subjektives Recht]]
 		- [[Schadensersatz]]
 		- [[Übersicht über die Teilgebiete des Privatrechts und Anwendungen]]
-	- **Privatautonomie & Vertragsgerechtigkeit**
-		- [[Anfechtung aufgrund von Täuschung und Drohung]]
+	- **2. Privatautonomie & Vertragsgerechtigkeit**
 		- [[Aufgaben des Privatrechts aus Sicht der Ökonomie]]
 		- [[Dispositive Regelungen & Rechte]]
 		- [[Gewährleistung von Verfahrensgerechtigkeit]]
 		- [[Grundgedanken zur Privatautonomie]]
 		- [[Richtigkeitsgewähr]]
 		- [[Strukturell gestörte Vertragsparität]]
-- [[Kursübersicht - Bürgerliches Recht]]
+	- **3. Anfechtungen & Wirksamkeit von Verträgen**
+		- [[Anfechtung aufgrund von Täuschung und Drohung]]
+		- [[Willenserklärungen]]
 
 %% End Waypoint %%
