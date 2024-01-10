@@ -14,7 +14,7 @@ date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ***
 
 > [!important] Definition
-> Die **Produktionsfunktion** gibt die höchste Menge an Output an, die mit einer bestimmten Menge an Input hergestellt werden kann. Wird sie grafisch dargestellt, ist dies jeder Punkt auf der Kurve. Jeder Punkt unterhalb der Kurve kann ebenfalls realisiert werden. Diese Menge wird als "_Produktionsmöglichkeitenmenge_" bezeichnet.
+> Die **Produktionsfunktion** gibt die höchste Menge an Output an, die mit einer bestimmten Menge an Input hergestellt werden kann. Wird sie grafisch dargestellt, ist dies jeder Punkt auf der Kurve. Jeder Punkt unterhalb der Kurve kann ebenfalls realisiert werden. Diese Menge wird als "_Produktionsmöglichkeitenmenge_" bezeichnet, und hat bspw. für [[#Cobb-Douglas|cobb-Douglas-Produktionsfunktionen]] die Form $T = \{ (y,x_{1},x_{2}) | y \leq x_{1}^{a}x_{2}^{b} \}$
 
 - Im Falle von zwei Inputs gibt es eine praktische Möglichkeit, die Produktionsrelationen darzustellen, die als **Isoquante** bekannt ist
 

@@ -7,18 +7,11 @@
 
 **Zwei leitende Methodische Prinzipien:**
 
-```ad-abstract
-title: Einzelne: Optimierungsprinzip
-collapse: open
-Im Rahmen ihrer eigenen Möglichkeiten und Informationen wählen einzelne Akteure die Option, die sie bevorzugt.
-```
+> [!abstract] Optimierungsprinzip 
+> Im Rahmen ihrer eigenen Möglichkeiten und Informationen wählen einzelne Akteure die Option, die sie bevorzugt.
 
-```ad-abstract
-title: Mehrere: Gleichgewichtsprinzip
-collapse: open
-Gegeben was alle anderen tun, möchte niemand seine Entscheidung ändern.
-```
-
+ > [!abstract] Gleichgewichtsprinzip 
+> Gegeben was alle anderen tun, möchte niemand seine Entscheidung ändern.
 
 ##### Dieser Kurs ist...
 "Klassische" Preistheorie: Wie funktionieren **Wettbewerbsmärkte**?

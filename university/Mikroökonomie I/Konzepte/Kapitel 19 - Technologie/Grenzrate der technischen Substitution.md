@@ -25,3 +25,14 @@ Wie viel mehr vom Faktor 2, $\Delta x_{2}$ benötigt man, wenn wir ein wenig vom
 > $$
 
 - Die MRTS misst das Austauschverhältnis zwischen zwei Inputs - Sie misst das Verhältnis, zu welchem die Unternehmung einen Input durch den anderen wird ersetzen müssen, um den Output konstant zu halten
+
+#### Beispiel
+
+Beispielsweise wird der Fall einer [[university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion#Cobb-Douglas|Cobb-Douglas-Produktionsfunktion]] betrachtet, welche durch $f(x_{1},x_{2}) = x_{1}^{a}x_{2}^{b}$ dargestellt wird.
+
+Laut Definition gilt also
+
+$$
+\frac{\mathrm{MP}_{1}}{\mathrm{MP}_{2}} = \frac{\frac{ \partial f(x_{1},x_{2}) }{ \partial x_{1} } }{\frac{ \partial f(x_{1},x_{2}) }{ \partial x_{2} } } = \frac{ax_{1}^{a-1}x_{2}^{b}}{bx_{1}^{a}x_{2}^{b-1}} = \frac{a}{b} \cdot \frac{x_{2}}{x_{1}}
+$$
+
