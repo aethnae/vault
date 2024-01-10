@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Sparplan.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Durchschnittskosten.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "misc/Sparplan.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Durchschnittskosten.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Sparplan.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Durchschnittskosten.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "misc/Sparplan.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Durchschnittskosten.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Sparplan.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Durchschnittskosten.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Sparplan.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Durchschnittskosten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,8 +268,18 @@
   },
   "active": "8ee9862b44bf65de",
   "lastOpenFiles": [
-    "misc/Finanzplan.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Kurz- und Langfristige Kosten.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Grenzkosten.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Kostenfunktion.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Verlorene Kosten.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Skalenerträge und die Kostenfunktion.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Langfristige und kurzfristige Kosten.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Kostenminimierung.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Isokostengeraden.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Bedingte Faktornachfragefunktionen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Durchschnittskosten.md",
     "misc/Sparplan.md",
+    "misc/Finanzplan.md",
     "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Übersicht über die Teilgebiete des Privatrechts und Anwendungen.md",
     "files/Pasted image 20240109231810.png",
     "files/Pasted image 20240109210822.png",
@@ -289,20 +299,10 @@
     "university/Bürgerliches Recht/Exkurs - Zitierweise.md",
     "files/Pasted image 20240108111040.png",
     "university/Bürgerliches Recht/Kursübersicht - Bürgerliches Recht.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Grenzkosten.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Kurz- und Langfristige Kosten.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Durchschnittskosten.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Budgetgerade.md",
     "university/Mathematik I/Rechengesetze.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Nutzenfunktionen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Güterbündel.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Präferenzrelationen.md",
-    "university/Mikroökonomie I/Übungen/Übungsblatt 3.md",
-    "university/Mikroökonomie I/Übungen/Übungsblatt 2.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 2 - Budgets/Budgetbeschränkung.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Lagrange-Multiplikation.md",
     "files/Pasted image 20240106191215.png",
     "files/Pasted image 20240105183729.png",
     "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven",
