@@ -14,6 +14,5 @@ date modified: Wednesday, January 10th 2024, 1:06:19 am
 
 - Dassault Aviation
 - BAE Systems
-- Lockheed Martin
 - Northrop Grumman
 - Rheinmetall
