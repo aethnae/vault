@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Erklärungsbewusstsein.md",
-                "mode": "source",
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Anfechtung aufgrund von Täuschung und Drohung.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Erklärungsbewusstsein.md",
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Anfechtung aufgrund von Täuschung und Drohung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Erklärungsbewusstsein.md"
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Anfechtung aufgrund von Täuschung und Drohung.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Erklärungsbewusstsein.md"
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Anfechtung aufgrund von Täuschung und Drohung.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Erklärungsbewusstsein.md",
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Anfechtung aufgrund von Täuschung und Drohung.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Erklärungsbewusstsein.md",
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Anfechtung aufgrund von Täuschung und Drohung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,10 +268,14 @@
   },
   "active": "138d86d8fce82bb3",
   "lastOpenFiles": [
-    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Geschäftswille.md",
-    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Erklärungsbewusstsein.md",
-    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Handlungswille.md",
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Willenserklärungen.md",
+    "files/Pasted image 20240111170323.png",
+    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Gewährleistung von Verfahrensgerechtigkeit.md",
+    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Geschäftswille.md",
+    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Handlungswille.md",
+    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Erklärungsbewusstsein.md",
+    "university/Willkommen!.md",
+    "university/Neue Beiträge.md",
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Anfechtung aufgrund von Täuschung und Drohung.md",
     "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Abgrenzung zu anderen Rechtsgebieten.md",
     "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Schadensersatz.md",
@@ -282,7 +286,6 @@
     "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Strukturell gestörte Vertragsparität.md",
     "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Richtigkeitsgewähr.md",
     "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Grundgedanken zur Privatautonomie.md",
-    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Gewährleistung von Verfahrensgerechtigkeit.md",
     "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Dispositive Regelungen & Rechte.md",
     "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Aufgaben des Privatrechts aus Sicht der Ökonomie.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Schwaches Axiom der Bekundeten Präferenzen.md",
@@ -291,9 +294,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Slutsky-Identität.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Hicks-Substitutionseffekt.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Einkommenseffekt.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Substitutionseffekt.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Kompensatorische und äquivalente Variation.md",
-    "university/Mikroökonomie I/Mikroökonomie I.md",
     "files/Pasted image 20240110210959.png",
     "files/Pasted image 20240110210404.png",
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen",
@@ -306,7 +306,6 @@
     "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft",
     "files/Pasted image 20240109000914.png",
     "files/Pasted image 20240108224004.png",
-    "files/Pasted image 20240108120508.png",
     "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven",
     "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung",
     "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung",

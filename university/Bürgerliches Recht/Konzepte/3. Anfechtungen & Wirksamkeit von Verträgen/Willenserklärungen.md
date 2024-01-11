@@ -57,7 +57,7 @@ $\longrightarrow$ Die Willenserklärung ist die Grundlage von [[#Rechtsgeschäft
 1. Grundvoraussetzung für eine wirksame Willenserklärung ist das Vorliegen der [[Gewährleistung von Verfahrensgerechtigkeit#Einschub Geschäfts(un-)fähigkeit|Geschäftsfähigkeit]]
 2. [[#Objektiver Tatbestand der Willenserklärung]]
 3. [[#Handlungswille, Erklärungsbewusstsein & Geschäftswille]]
-4. Zugang der Willenserklärung
+4. [[#Zugang der Willenserklärung]]
 
 ***
 ##### Objektiver Tatbestand der Willenserklärung
@@ -80,6 +80,29 @@ $\longrightarrow$ Die Willenserklärung ist die Grundlage von [[#Rechtsgeschäft
 
 *An dem äußeren Erklärungswert muss sich der Erklärende aber nur festhalten lassen, wenn dieser von einem entsprechenden **subjektiven Willen** getragen wird. Dabei sind drei verschiedene Merkmale zu unterscheiden:*
 
--  [[Handlungswille]]
--  [[Erklärungsbewusstsein]]
+- [[Handlungswille]]
+- [[Erklärungsbewusstsein]]
 - [[Geschäftswille]]
+
+##### Zugang der Willenserklärung
+
+*Wann wird die Willenserklärung wirksam?*
+
+- Zunächst muss die Willenserklärung wirksam abgegeben werden; es müssen also die Voraussetzungen der [[Gewährleistung von Verfahrensgerechtigkeit#Einschub Geschäfts(un-)fähigkeit|Geschäftsfähigkeit]], eines [[#Objektiver Tatbestand der Willenserklärung|objektiven]] sowie [[#Handlungswille, Erklärungsbewusstsein & Geschäftswille|subjektiven]] Tatbestands vorliegen. Der subjektive Tatbestand gliedert sich in
+
+	- [[Handlungswille]]
+	- [[Erklärungsbewusstsein]]
+	- [[Geschäftswille]] ist jedoch **keine** Voraussetzung des subjektiven Tatbestands
+
+- Darüber hinaus muss die Willenserklärung dem Empfänger zugehen (**§ 130 I**)
+
+**Grafischer Überblick über den Zugang von Willenserklärungen:**
+
+![[Pasted image 20240111170323.png|center|650]]
+
+- Die Anforderungen finden desweiteren entsprechende Anwendung auf rechtsgeschäftsähnliche Handlungen
+	- Das sind solche Handlungen, die zwar formell betracht kein Rechtsgeschäft sind, aber in ähnlicher Weise zu einer Rechtsbindung führen, insbesondere in dem sie die Rechtsverhältnisse umgestalten
+
+> [!example]+ Beispiel 
+> Die Anfechtungserklärung (**§ 143**) ist nach h.M. kein Rechtsgeschäft, aber mit der Anfechtung wird ein Vertrag unwiderruflich nichtig. Damit hat diese eine ähnliche Tragweite wie ein Rechtsgeschäft. Deshalb gelten für sie die [[#Zugang der Willenserklärung|Anforderungen für die Wirksamkeit einer Willenserklärung]] entsprechend.
+

@@ -7,6 +7,8 @@ publish: true
 source: Skript pp. 21 ff.
 date created: Wednesday, January 10th 2024, 6:51:04 pm
 date modified: Wednesday, January 10th 2024, 6:51:30 pm
+aliases:
+  - Geschäftsfähigkeit
 ---
 ***
 
