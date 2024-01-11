@@ -2,7 +2,7 @@
 tags:
   - verträge
   - rechtsgrundlagen
-week: 2023-10-26
+week: 2023-11-02
 flashcard: false
 publish: true
 source: Skript pp. 22 ff.

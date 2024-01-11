@@ -37,6 +37,12 @@ date modified: Wednesday, January 10th 2024, 6:51:30 pm
 - Wenn jemand überlegen ist, und eine erkennbare Unerfahrenheit oder sonstige Schwäche der anderen Seite ausnutzt, dann besteht keine „Verfahrensgerechtigkeit“ - (vgl. Sittenwidrigkeit **§ 138 II BGB**)
 - Minderjährige haben typischerweise ein geringeres Urteilsvermögen
 
+> [!info] Wichtige Begriffe zur Geschäftsfähigkeit 
+> Der Begriff "**zustimmungsbedürftig**" beschreibt das Konzept, wobei die Wirksamkeit des Vertrages von der Zustimmung eines Dritten abhängig ist (vgl. **§ 182**).
+> 
+> - Einwilligung = vorherige Zustimmung (**§ 183**)
+> - Genehmigung = nachträgliche Zustimmung (**§ 184**)
+
 ***
 #### Geschäfts- und Rechtsfähigkeit
 

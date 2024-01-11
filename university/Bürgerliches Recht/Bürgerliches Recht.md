@@ -52,6 +52,9 @@ Es handelt sich um Zusatzinformationen, die dem besseren Verständnis von Hinter
 		- [[Strukturell gestörte Vertragsparität]]
 	- **3. Anfechtungen & Wirksamkeit von Verträgen**
 		- [[Anfechtung aufgrund von Täuschung und Drohung]]
+		- [[Erklärungsbewusstsein]]
+		- [[Geschäftswille]]
+		- [[Handlungswille]]
 		- [[Willenserklärungen]]
 
 %% End Waypoint %%

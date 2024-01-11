@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "69b6204c257673d5",
+        "id": "398dfeea59a09963",
         "type": "tabs",
         "children": [
           {
-            "id": "cf11273d207b7b36",
+            "id": "138d86d8fce82bb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Schwaches Axiom der Bekundeten Präferenzen.md",
-                "mode": "preview",
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Erklärungsbewusstsein.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Schwaches Axiom der Bekundeten Präferenzen.md",
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Erklärungsbewusstsein.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Schwaches Axiom der Bekundeten Präferenzen.md"
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Erklärungsbewusstsein.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Schwaches Axiom der Bekundeten Präferenzen.md"
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Erklärungsbewusstsein.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Schwaches Axiom der Bekundeten Präferenzen.md",
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Erklärungsbewusstsein.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Schwaches Axiom der Bekundeten Präferenzen.md",
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Erklärungsbewusstsein.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,10 +266,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cf11273d207b7b36",
+  "active": "138d86d8fce82bb3",
   "lastOpenFiles": [
-    "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Bekundete Präferenzen.md",
+    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Geschäftswille.md",
+    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Erklärungsbewusstsein.md",
+    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Handlungswille.md",
+    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Willenserklärungen.md",
+    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Anfechtung aufgrund von Täuschung und Drohung.md",
+    "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Abgrenzung zu anderen Rechtsgebieten.md",
+    "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Schadensersatz.md",
+    "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Gesetzliche und vertragliche Schuldverhältnisse.md",
+    "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Übersicht über die Teilgebiete des Privatrechts und Anwendungen.md",
+    "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Objektives und subjektives Recht.md",
+    "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Definition des Rechtsbegriffs.md",
+    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Strukturell gestörte Vertragsparität.md",
+    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Richtigkeitsgewähr.md",
+    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Grundgedanken zur Privatautonomie.md",
+    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Gewährleistung von Verfahrensgerechtigkeit.md",
+    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Dispositive Regelungen & Rechte.md",
+    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Aufgaben des Privatrechts aus Sicht der Ökonomie.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Schwaches Axiom der Bekundeten Präferenzen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Bekundete Präferenzen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Starkes Axiom der bekundeten Präferenzen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Slutsky-Identität.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Hicks-Substitutionseffekt.md",
@@ -277,27 +294,10 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Substitutionseffekt.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Kompensatorische und äquivalente Variation.md",
     "university/Mikroökonomie I/Mikroökonomie I.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Einkommens- und Substitutionseffekte.md",
-    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Willenserklärungen.md",
     "files/Pasted image 20240110210959.png",
-    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Grundgedanken zur Privatautonomie.md",
     "files/Pasted image 20240110210404.png",
-    "university/Mathematik I/Rechengesetze.md",
-    "university/Mathematik I/Mathematik I.md",
-    "university/Bürgerliches Recht/Bürgerliches Recht.md",
-    "university/Mikroökonomie I/Kursübersicht - Mikroökonomie.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 1 - Angebot und Nachfrage/Marktnachfrage.md",
-    "university/Bürgerliches Recht/Kursübersicht - Bürgerliches Recht.md",
-    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Anfechtung aufgrund von Täuschung und Drohung.md",
-    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Aufgaben des Privatrechts aus Sicht der Ökonomie.md",
-    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Dispositive Regelungen & Rechte.md",
-    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Gewährleistung von Verfahrensgerechtigkeit.md",
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen",
     "files/Pasted image 20240110203314.png",
-    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Strukturell gestörte Vertragsparität.md",
-    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Richtigkeitsgewähr.md",
-    "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Objektives und subjektives Recht.md",
-    "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Übersicht über die Teilgebiete des Privatrechts und Anwendungen.md",
     "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit",
     "files/Pasted image 20240109231810.png",
     "files/Pasted image 20240109210822.png",

@@ -2,7 +2,7 @@
 tags:
   - rechtsgrundlagen
   - anspruch
-week: 2023-10-20
+week: 2023-10-19
 flashcard: false
 publish: true
 source: VL 1, Folie 17 ff.

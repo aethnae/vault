@@ -2,6 +2,7 @@
 tags:
   - verträge
   - privatrecht
+  - willenserklärungen
 week: 2023-11-02
 flashcard: false
 publish: true
@@ -45,8 +46,40 @@ $\longrightarrow$ Auch die Beweiskraft einer privatschriftlichen Urkunde sollte 
 - Daher ist nicht nur bei jedem Vertragsschluss, sondern bei jedem Rechtsgeschäft zu prüfen, ob eine entsprechende Willensbetätigung vorliegt
 - Diese Betätigung wird ausgedrückt in der Willenserklärung
 
-$\longrightarrow$ Die Willenserklärung ist die Grundlage von Rechtsgeschäft und Vertrag
-
-![[Pasted image 20240110210959.png|center|650]]
+$\longrightarrow$ Die Willenserklärung ist die Grundlage von [[#Rechtsgeschäft & Vertrag]]
 
 ***
+#### Anforderungen an eine wirksame Willenserklärung
+
+> [!question] Ausgangspunkt 
+> Wann liegt eine Willenserklärung vor, die Grundlage für ein Rechtsgeschäft sein kann? (**Tatbestand der Willenserklärung**)
+
+1. Grundvoraussetzung für eine wirksame Willenserklärung ist das Vorliegen der [[Gewährleistung von Verfahrensgerechtigkeit#Einschub Geschäfts(un-)fähigkeit|Geschäftsfähigkeit]]
+2. [[#Objektiver Tatbestand der Willenserklärung]]
+3. [[#Handlungswille, Erklärungsbewusstsein & Geschäftswille]]
+4. Zugang der Willenserklärung
+
+***
+##### Objektiver Tatbestand der Willenserklärung
+
+> [!summary] Tatbestand 
+> Erfordert eine allgemein oder in bestimmten Geschäftskreisen (allgemeiner ausgedrückt: in einem bestimmten sozialen Umfeld) erkennbare Äußerung, eine bestimmte Rechtsfolge zu wollen.
+
+- Was bedeutet *Erklärung*?
+	- Dies muss nicht ausdrücklich geklärt werden
+	- Es genügt eine Verhalten, dem nach der Anschauung des betroffenen Verkehrskreis ein entsprechender Erklärungswert zukommt (schlüssiges Verhalten, **konkludente Willenserklärung**)
+
+> [!example]- Beispiel für konkludente Willenserklärung 
+> Besteigen der S-Bahn: Öffnen der Türen – Angebot der S-Bahn- GmbH. Indem sie einsteigen, nehmen Sie das Angebot zum Abschluss eines Beförderungsvertrages an.
+
+- Wodurch ist der Erklärungswert schlüssigen Verhaltens begrenzt?
+	- reines Schweigen hat grundsätzlich keinen Erklärungswert
+	- Nur in **Ausnahmefällen**, wenn Gesetz das ausdrücklich vorsieht kann im Schweigen eine Willenserklärung gesehen werden (u.a. **§ 108 II S. 2, 177 II S. 2**, **§ 663 S. 1 362 HGB**)
+
+##### Handlungswille, Erklärungsbewusstsein & Geschäftswille
+
+*An dem äußeren Erklärungswert muss sich der Erklärende aber nur festhalten lassen, wenn dieser von einem entsprechenden **subjektiven Willen** getragen wird. Dabei sind drei verschiedene Merkmale zu unterscheiden:*
+
+-  [[Handlungswille]]
+-  [[Erklärungsbewusstsein]]
+- [[Geschäftswille]]

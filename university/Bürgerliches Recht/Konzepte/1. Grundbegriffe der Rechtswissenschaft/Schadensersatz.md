@@ -1,7 +1,7 @@
 ---
 tags:
   - schaden
-week: 2023-12-19
+week: 2023-10-19
 flashcard: false
 publish: true
 source: Skript p. 4 ff.
