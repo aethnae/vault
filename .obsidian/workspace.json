@@ -11,12 +11,8 @@
             "id": "979b48d80c946eef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Mängel beim Zustandekommen eines Vertrags.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -80,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Mängel beim Zustandekommen eines Vertrags.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Mängel beim Zustandekommen eines Vertrags.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Mängel beim Zustandekommen eines Vertrags.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -204,7 +195,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Mängel beim Zustandekommen eines Vertrags.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -228,7 +218,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Mängel beim Zustandekommen eines Vertrags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,6 +249,7 @@
   },
   "active": "979b48d80c946eef",
   "lastOpenFiles": [
+    "university/Bürgerliches Recht/Bürgerliches Recht.md",
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Mängel beim Zustandekommen eines Vertrags.md",
     "files/Pasted image 20240112210030.png",
     "files/Pasted image 20240112205826.png",

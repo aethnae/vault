@@ -17,6 +17,15 @@ Es handelt sich um Zusatzinformationen, die dem besseren Verständnis von Hinter
 > „Das Recht ist also der Inbegriff der Bedingungen, unter denen die Willkür des einen mit der Willkür des anderen nach einem allgemeinen Gesetz der Freiheit zusammen vereinigt werden kann.“
 
 ***
+#### Exkurs - Juristische Arbeitstechnik
+
+- Nicht verlangt wird der sog. "Juristische Gutachtenstil"
+- Notwendig ist jedoch eine nachvollziehbare Prüfung und Begründung; ein Ergebnis allein reicht nicht aus
+
+> [!example] Beispiel 
+> "Das setzt als Einigung also zwei übereinstimmende Willenserklärungen voraus. Das Angebot liegt vor. Bei der Annahme ist das Problem, dass A die Willenserklärung nicht selbst abgeben hat. Aber F hat als Vertreter die Willenserklärung abgeben. Er hat im fremden Namen gehandelt. Fraglich ist, ob er zur Veräußerung dieses konkreten Sessels bevollmächtigt war."
+
+***
 #### Aufbau des BGB
 
 1. **Allgemeiner Teil**
