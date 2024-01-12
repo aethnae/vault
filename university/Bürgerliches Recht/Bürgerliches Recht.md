@@ -55,6 +55,7 @@ Es handelt sich um Zusatzinformationen, die dem besseren Verständnis von Hinter
 		- [[Erklärungsbewusstsein]]
 		- [[Geschäftswille]]
 		- [[Handlungswille]]
+		- [[Mängel beim Zustandekommen eines Vertrags]]
 		- [[Vertragsschluss unter Abwesenden]]
 		- [[Willenserklärungen]]
 

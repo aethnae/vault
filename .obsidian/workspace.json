@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "398dfeea59a09963",
+        "id": "77fdafb16292322a",
         "type": "tabs",
         "children": [
           {
-            "id": "de96594039e0a01c",
+            "id": "979b48d80c946eef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Vertragsschluss unter Abwesenden.md",
-                "mode": "preview",
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Mängel beim Zustandekommen eines Vertrags.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kompe",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Vertragsschluss unter Abwesenden.md",
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Mängel beim Zustandekommen eines Vertrags.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -103,7 +103,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5091319844013051,
+                  "scale": 1.2990150286159956,
                   "close": true
                 }
               }
@@ -113,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 278.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -122,7 +122,7 @@
       {
         "id": "be7961eba01397a0",
         "type": "tabs",
-        "dimension": 37.542277339346114,
+        "dimension": 37.54227733934611,
         "children": [
           {
             "id": "ba8653a4649b74c5",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Vertragsschluss unter Abwesenden.md"
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Mängel beim Zustandekommen eines Vertrags.md"
               }
             }
           },
@@ -187,16 +187,8 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Vertragsschluss unter Abwesenden.md"
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Mängel beim Zustandekommen eines Vertrags.md"
               }
-            }
-          },
-          {
-            "id": "6fb21d0e6c21ec1f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           }
         ]
@@ -204,7 +196,7 @@
       {
         "id": "ac8e2c4e1d0a0efb",
         "type": "tabs",
-        "dimension": 33.370913190529876,
+        "dimension": 33.37091319052987,
         "children": [
           {
             "id": "5767c389ed91eef4",
@@ -212,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Vertragsschluss unter Abwesenden.md",
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Mängel beim Zustandekommen eines Vertrags.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -228,7 +220,7 @@
       {
         "id": "587d7e62a66052db",
         "type": "tabs",
-        "dimension": 29.086809470124013,
+        "dimension": 29.08680947012401,
         "children": [
           {
             "id": "79ded24ae5a22d5d",
@@ -236,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Vertragsschluss unter Abwesenden.md",
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Mängel beim Zustandekommen eines Vertrags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,14 +258,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "de96594039e0a01c",
+  "active": "979b48d80c946eef",
   "lastOpenFiles": [
-    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Willenserklärungen.md",
-    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Vertragsschluss unter Abwesenden.md",
+    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Mängel beim Zustandekommen eines Vertrags.md",
+    "files/Pasted image 20240112210030.png",
+    "files/Pasted image 20240112205826.png",
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Anfechtung aufgrund von Täuschung und Drohung.md",
+    "university/Mathematik I/Mathematik I.md",
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Erklärungsbewusstsein.md",
-    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Geschäftswille.md",
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Handlungswille.md",
+    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Vertragsschluss unter Abwesenden.md",
+    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Willenserklärungen.md",
+    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Geschäftswille.md",
     "files/Pasted image 20240111170323.png",
     "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Gewährleistung von Verfahrensgerechtigkeit.md",
     "university/Willkommen!.md",
@@ -292,9 +288,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Schwaches Axiom der Bekundeten Präferenzen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Bekundete Präferenzen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Starkes Axiom der bekundeten Präferenzen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Slutsky-Identität.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Hicks-Substitutionseffekt.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Einkommenseffekt.md",
     "files/Pasted image 20240110210959.png",
     "files/Pasted image 20240110210404.png",
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen",
@@ -305,8 +298,6 @@
     "files/Pasted image 20240109210755.png",
     "files/Pasted image 20240109205919.png",
     "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft",
-    "files/Pasted image 20240109000914.png",
-    "files/Pasted image 20240108224004.png",
     "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven",
     "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung",
     "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung",
