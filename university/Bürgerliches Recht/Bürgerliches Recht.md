@@ -55,6 +55,7 @@ Es handelt sich um Zusatzinformationen, die dem besseren Verständnis von Hinter
 		- [[Erklärungsbewusstsein]]
 		- [[Geschäftswille]]
 		- [[Handlungswille]]
+		- [[Vertragsschluss unter Abwesenden]]
 		- [[Willenserklärungen]]
 
 %% End Waypoint %%

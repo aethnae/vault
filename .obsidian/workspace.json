@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "138d86d8fce82bb3",
+            "id": "de96594039e0a01c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Anfechtung aufgrund von Täuschung und Drohung.md",
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Vertragsschluss unter Abwesenden.md",
                 "mode": "preview",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Anfechtung aufgrund von Täuschung und Drohung.md",
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Vertragsschluss unter Abwesenden.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Anfechtung aufgrund von Täuschung und Drohung.md"
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Vertragsschluss unter Abwesenden.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Anfechtung aufgrund von Täuschung und Drohung.md"
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Vertragsschluss unter Abwesenden.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Anfechtung aufgrund von Täuschung und Drohung.md",
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Vertragsschluss unter Abwesenden.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Anfechtung aufgrund von Täuschung und Drohung.md",
+                "file": "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Vertragsschluss unter Abwesenden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,17 +266,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "138d86d8fce82bb3",
+  "active": "de96594039e0a01c",
   "lastOpenFiles": [
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Willenserklärungen.md",
-    "files/Pasted image 20240111170323.png",
-    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Gewährleistung von Verfahrensgerechtigkeit.md",
+    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Vertragsschluss unter Abwesenden.md",
+    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Anfechtung aufgrund von Täuschung und Drohung.md",
+    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Erklärungsbewusstsein.md",
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Geschäftswille.md",
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Handlungswille.md",
-    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Erklärungsbewusstsein.md",
+    "files/Pasted image 20240111170323.png",
+    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Gewährleistung von Verfahrensgerechtigkeit.md",
     "university/Willkommen!.md",
     "university/Neue Beiträge.md",
-    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Anfechtung aufgrund von Täuschung und Drohung.md",
     "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Abgrenzung zu anderen Rechtsgebieten.md",
     "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Schadensersatz.md",
     "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Gesetzliche und vertragliche Schuldverhältnisse.md",
