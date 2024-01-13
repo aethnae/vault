@@ -67,5 +67,7 @@ Es handelt sich um Zusatzinformationen, die dem besseren Verständnis von Hinter
 		- [[Mängel beim Zustandekommen eines Vertrags]]
 		- [[Vertragsschluss unter Abwesenden]]
 		- [[Willenserklärungen]]
+	- **4. Stellvertretung**
+		- [[Grundbegriffe der Stellvertretung]]
 
 %% End Waypoint %%

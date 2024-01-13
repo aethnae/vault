@@ -11,8 +11,12 @@
             "id": "979b48d80c946eef",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -76,6 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md"
+              }
             }
           },
           {
@@ -179,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md"
+              }
             }
           }
         ]
@@ -195,6 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -218,6 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,6 +260,10 @@
   },
   "active": "979b48d80c946eef",
   "lastOpenFiles": [
+    "files/Pasted image 20240112224951.png",
+    "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
+    "university/Bürgerliches Recht/Konzepte/4. Stellvertretung",
+    "university/Bürgerliches Recht/Konzepte/Untitled.md",
     "university/Bürgerliches Recht/Bürgerliches Recht.md",
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Mängel beim Zustandekommen eines Vertrags.md",
     "files/Pasted image 20240112210030.png",
@@ -275,9 +290,6 @@
     "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Grundgedanken zur Privatautonomie.md",
     "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Dispositive Regelungen & Rechte.md",
     "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Aufgaben des Privatrechts aus Sicht der Ökonomie.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Schwaches Axiom der Bekundeten Präferenzen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Bekundete Präferenzen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Starkes Axiom der bekundeten Präferenzen.md",
     "files/Pasted image 20240110210959.png",
     "files/Pasted image 20240110210404.png",
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen",
@@ -294,7 +306,6 @@
     "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen",
     "university/Externes Rechnungswesen/Konzepte/Jahresabschluss",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
