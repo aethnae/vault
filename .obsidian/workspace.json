@@ -8,30 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f291efc63e23fc5d",
+            "id": "4d4388b663251230",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Totales Differential.md",
+                "file": "university/Mathematik I/Übungsblätter/Freiwilliger Test III.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d9230d96019ca77e",
+            "id": "0d4a77f51034ae1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md",
+                "file": "university/Mathematik I/Rechengesetze.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -79,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "4cae0943d8942f29",
@@ -93,7 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Totales Differential.md",
+                "file": "university/Mathematik I/Rechengesetze.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Totales Differential.md"
+                "file": "university/Mathematik I/Rechengesetze.md"
               }
             }
           },
@@ -200,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Totales Differential.md"
+                "file": "university/Mathematik I/Rechengesetze.md"
               }
             }
           }
@@ -217,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Totales Differential.md",
+                "file": "university/Mathematik I/Rechengesetze.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -241,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Totales Differential.md",
+                "file": "university/Mathematik I/Rechengesetze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +252,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,13 +273,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f291efc63e23fc5d",
+  "active": "0d4a77f51034ae1e",
   "lastOpenFiles": [
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md",
-    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Totales Differential.md",
-    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Satz von Schwarz.md",
+    "university/Mathematik I/Übungsblätter/Freiwilliger Test III.md",
+    "university/Mathematik I/Übungsblätter/Freiwilliger Test I.md",
+    "university/Mathematik I/Übungsblätter/Freiwilliger Test II.md",
     "university/Mathematik I/Rechengesetze.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Logarithmen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Tangentialebenen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md",
+    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Totales Differential.md",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Partielle Ableitungen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differenzierbarkeit.md",
+    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Schnittkurven.md",
+    "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Grundbegriffe der Vektorrechnung.md",
+    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differential.md",
+    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Satz von Schwarz.md",
     "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
     "files/Pasted image 20240112224951.png",
     "university/Bürgerliches Recht/Konzepte/4. Stellvertretung",
@@ -295,15 +306,6 @@
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Geschäftswille.md",
     "files/Pasted image 20240111170323.png",
     "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Gewährleistung von Verfahrensgerechtigkeit.md",
-    "university/Willkommen!.md",
-    "university/Neue Beiträge.md",
-    "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Abgrenzung zu anderen Rechtsgebieten.md",
-    "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Schadensersatz.md",
-    "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Gesetzliche und vertragliche Schuldverhältnisse.md",
-    "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Übersicht über die Teilgebiete des Privatrechts und Anwendungen.md",
-    "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Objektives und subjektives Recht.md",
-    "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Definition des Rechtsbegriffs.md",
-    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Strukturell gestörte Vertragsparität.md",
     "files/Pasted image 20240110210959.png",
     "files/Pasted image 20240110210404.png",
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen",
