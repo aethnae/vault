@@ -18,3 +18,53 @@ $$
 $$
 
 *Hinweis: Nutzen Sie Logarithmengesetze und beachten Sie, dass $\sqrt{x}=x^{\frac{1}{2}}$.*
+
+Zunächst werden die ersten beiden Ableitungen unter Anwendung der Logarithmengesetze gebildet:
+
+$$
+\begin{align}
+f(x) & = \ln(e^{ 2x+3 } - \ln(\sqrt{ x }) = 2x+3 - \ln(\sqrt{ x }) \\
+f'(x) & = 2 - \frac{1}{\sqrt{ x }} \cdot \frac{1}{2\sqrt{ x }} = 2 - \frac{1}{2x} \\
+f''(x) & = -\frac{1}{2} \cdot (-x^{-2}) = \frac{1}{2x^{2}} \\
+\end{align}
+$$
+
+Um die Beziehung aus der Aufgabenstellung zu beweisen, muss eingesetzt und umgeformt werden:
+
+$$
+\begin{align}
+\frac{f'(x)}{\sqrt{ f''(x) }}  & = \frac{2 - \frac{1}{2x}}{\sqrt{ \frac{1}{2x^{2}} }} \\
+ & = \frac{2}{\sqrt{ \frac{1}{2x^{2}} }} - \frac{(2x)^{-1}}{\sqrt{ \frac{1}{2x^{2}} }} \\
+ & = \frac{2}{\frac{1}{\sqrt{ 2 }x}} - \frac{(2x)^{-1}}{\frac{1}{\sqrt{ 2 }x}} \\
+ & = 2\sqrt{ 2 }x - \frac{1}{2x} \cdot \sqrt{ 2 }x \\
+ & = 2\sqrt{ 2 }x - \frac{\sqrt{ 2 }}{2} \\
+ & = \frac{4\sqrt{ 2 }x}{2} - \frac{\sqrt{ 2 }}{2} \\
+ & = \frac{\sqrt{ 2 }}{2} \cdot (4x - 1)
+\end{align}
+$$
+
+***
+##### 2. Aufgabe
+*Gegeben ist die Funktion $f(x)=\sqrt{1+x}$ mit $x \geq-1$.*
+
+**(a)**
+*Berechnen Sie das Taylorpolynom dritter Ordung $T_{3,0}(x)$ von $f$ für den Entwicklungspunkt $x_0=0$.*
+
+**(b)**
+*Berechnen Sie den folgenden Grenzwert mit der Regel von L'Hospital.*
+
+$$
+\lim _{x \rightarrow 0} \frac{2-\cos (x)-e^{2 x}+2 x}{\sin (x)+e^{-x}-1}
+$$
+
+**(a)**
+
+Zunächst müssen die ersten drei Ableitungen von $f(x)$ gebildet werden:
+
+$$
+\begin{align}
+f'(x) & = \frac{1}{2\sqrt{ 1+x }} \\
+f''(x) & = \frac{1}{2} \cdot \left( -\frac{1}{2} (1+x)^{-3/2} \right) = \frac{1}{4\sqrt{ (1+x)^{3} }} \\
+
+\end{align}
+$$
