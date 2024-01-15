@@ -69,5 +69,7 @@ Es handelt sich um Zusatzinformationen, die dem besseren Verständnis von Hinter
 		- [[Willenserklärungen]]
 	- **4. Stellvertretung**
 		- [[Grundbegriffe der Stellvertretung]]
+		- [[Offenkundigkeitsprinzip]]
+		- [[Vertreter ohne Vertretungsmacht und Vertrauensschutz]]
 
 %% End Waypoint %%

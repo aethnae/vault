@@ -9,6 +9,8 @@ publish: true
 source: Skript pp. 26 ff.
 date created: Wednesday, January 10th 2024, 8:50:23 pm
 date modified: Wednesday, January 10th 2024, 8:50:50 pm
+aliases:
+  - Vertrag
 ---
 ***
 #### Einführung
