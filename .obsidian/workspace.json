@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Vertreter ohne Vertretungsmacht und Vertrauensschutz.md",
+                "file": "university/Mathematik I/Rechengesetze.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "4cae0943d8942f29",
@@ -80,7 +81,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Vertreter ohne Vertretungsmacht und Vertrauensschutz.md",
+                "file": "university/Mathematik I/Rechengesetze.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Vertreter ohne Vertretungsmacht und Vertrauensschutz.md"
+                "file": "university/Mathematik I/Rechengesetze.md"
               }
             }
           },
@@ -187,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Vertreter ohne Vertretungsmacht und Vertrauensschutz.md"
+                "file": "university/Mathematik I/Rechengesetze.md"
               }
             }
           }
@@ -204,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Vertreter ohne Vertretungsmacht und Vertrauensschutz.md",
+                "file": "university/Mathematik I/Rechengesetze.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -228,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Vertreter ohne Vertretungsmacht und Vertrauensschutz.md",
+                "file": "university/Mathematik I/Rechengesetze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,10 +262,10 @@
   },
   "active": "7dc0a4c6585a2369",
   "lastOpenFiles": [
+    "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Vertreter ohne Vertretungsmacht und Vertrauensschutz.md",
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Willenserklärungen.md",
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Vertragsschluss unter Abwesenden.md",
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Erklärungsbewusstsein.md",
-    "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Vertreter ohne Vertretungsmacht und Vertrauensschutz.md",
     "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Offenkundigkeitsprinzip.md",
     "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
     "files/Pasted image 20240115194150.png",
