@@ -77,5 +77,7 @@ Es handelt sich um Zusatzinformationen, die dem besseren Verständnis von Hinter
 		- [[Vertretung und Willensmängel]]
 	- **5. Fristen & Verährung**
 		- [[Arten von Fristen]]
+		- [[Fristberechnung]]
+		- [[Verjährung]]
 
 %% End Waypoint %%

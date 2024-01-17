@@ -5,7 +5,7 @@ tags:
 week: 2023-12-07
 flashcard: false
 publish: true
-source: 
+source: Skript pp. 50 ff.
 date created: Wednesday, January 17th 2024, 3:51:29 pm
 date modified: Wednesday, January 17th 2024, 3:52:33 pm
 ---
