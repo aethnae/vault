@@ -69,7 +69,11 @@ Es handelt sich um Zusatzinformationen, die dem besseren Verständnis von Hinter
 		- [[Willenserklärungen]]
 	- **4. Stellvertretung**
 		- [[Grundbegriffe der Stellvertretung]]
+		- [[Insichgeschäfte]]
+		- [[Missbrauch der Vertretungsmacht]]
 		- [[Offenkundigkeitsprinzip]]
+		- [[Schutz von Vertrauen auf das Bestehen der Vertretungsmacht im Rechtsverkehr]]
 		- [[Vertreter ohne Vertretungsmacht und Vertrauensschutz]]
+		- [[Vertretung und Willensmängel]]
 
 %% End Waypoint %%
