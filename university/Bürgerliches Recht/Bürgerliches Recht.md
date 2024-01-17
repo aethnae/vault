@@ -75,5 +75,7 @@ Es handelt sich um Zusatzinformationen, die dem besseren Verständnis von Hinter
 		- [[Schutz von Vertrauen auf das Bestehen der Vertretungsmacht im Rechtsverkehr]]
 		- [[Vertreter ohne Vertretungsmacht und Vertrauensschutz]]
 		- [[Vertretung und Willensmängel]]
+	- **5. Fristen & Verährung**
+		- [[Arten von Fristen]]
 
 %% End Waypoint %%
