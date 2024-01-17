@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29f376312fd8c2c8",
+            "id": "28abd4aea3a15c3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Fristberechnung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad911afd8bf1e599",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Verjährung.md",
+                "file": "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Zugangsvereitelung.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -93,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Verjährung.md",
+                "file": "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Zugangsvereitelung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
-    "collapsed": true
+    "width": 284.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -179,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Verjährung.md"
+                "file": "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Zugangsvereitelung.md"
               }
             }
           },
@@ -201,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Verjährung.md"
+                "file": "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Zugangsvereitelung.md"
               }
             }
           }
@@ -218,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Verjährung.md",
+                "file": "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Zugangsvereitelung.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -242,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Verjährung.md",
+                "file": "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Zugangsvereitelung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,8 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,10 +258,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ad911afd8bf1e599",
+  "active": "28abd4aea3a15c3c",
   "lastOpenFiles": [
-    "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Fristberechnung.md",
+    "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
+    "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Zugangsvereitelung.md",
     "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Verjährung.md",
+    "university/Bürgerliches Recht/Konzepte/6. Zugangsvereitelung",
+    "files/Pasted image 20240117182846.png",
+    "files/Pasted image 20240117182109.png",
+    "files/Pasted image 20240117182022.png",
+    "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Fristberechnung.md",
     "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Arten von Fristen.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test II.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test III.md",
@@ -292,7 +283,6 @@
     "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Stationäre Punkte.md",
     "university/Mikroökonomie I/Mikroökonomie I.md",
     "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Missbrauch der Vertretungsmacht.md",
-    "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
     "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Insichgeschäfte.md",
     "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Vertreter ohne Vertretungsmacht und Vertrauensschutz.md",
     "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Vertretung und Willensmängel.md",
@@ -309,18 +299,13 @@
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Erklärungsbewusstsein.md",
     "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Offenkundigkeitsprinzip.md",
     "files/Pasted image 20240115194150.png",
-    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Anfechtung aufgrund von Täuschung und Drohung.md",
     "files/Pasted image 20240112224951.png",
     "university/Bürgerliches Recht/Konzepte/4. Stellvertretung",
     "files/Pasted image 20240112210030.png",
-    "files/Pasted image 20240112205826.png",
-    "files/Pasted image 20240111170323.png",
-    "files/Pasted image 20240110210959.png",
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen",
     "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit",
     "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft",
     "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven",
-    "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",

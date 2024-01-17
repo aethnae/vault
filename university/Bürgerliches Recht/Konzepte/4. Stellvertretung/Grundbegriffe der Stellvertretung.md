@@ -63,5 +63,7 @@ $\longrightarrow$ Die Erfüllung dieser Merkmale hat als Rechtsfolge den **§ 16
 
 > [!warning] Boten 
 > Merke: Nicht jeder Beauftragte ist auch Vertreter. Hat dieser keine eigene Willenserklärung abgegeben, handelt es sich um einen **Boten**, welcher keinen eigenen Entscheidungsspielraum besitzt.
+> 
+> **Empfangsbote** ist, wer vom Empfänger zur Entgegennahme von Erklärungen bestellt worden oder nach der Verkehrsanschauung als bestellt anzusehen ist (im Haushalt lebende Angehörige, Lebensgefährte, Putzfrau, etc.)
 
 ***
