@@ -27,3 +27,47 @@ date modified: Wednesday, January 17th 2024, 6:43:59 pm
 	- Wird eine fällige, vom Schuldner zu erbringende Leistung nicht oder nicht vertragsgemäß erbracht?
 		- **V** hat die mit Lieferung fällig gewordenen 25.000€ noch nicht bezahlt
 	- Soweit nicht **§ 323 II** eingreift, ist Setzen einer Nachfrist zwingend erforderlich!
+		- Diese gilt als rechtsgeschäftsähnliche Handlung, die Setzungsvorschriften entsprechen somit denen von [[Willenserklärungen]]
+		- **Zugang** ist Voraussetzung für die Wirkung der Nachfrist
+3. Prüfen des Zugangs der **Nachfrist**
+	- Für einen erfolgreichen Zugang ist einerseits ein Gelangen der Forderung in den Machtbereich des Empfängers, andererseits eine zumutbare Möglichkeit der Kenntnisnahme erforderlich
+	- Hierbei ist der **Absender** beweispflichtig
+
+> [!question] Wie stelle ich sicher, den Zugang nachweisen zu können? 
+> Wenn man einen Brief absendet und der Adressat bestreitet, diesen erhalten zu haben, ist man machtlos. Im Gerichtsprozess kann man sich dann nicht auf dieses Schreiben berufen. Das Rückschreiben eines Einschreibens mit Rückschein ist hingegen ein Urkundsbeweis (**§ 415 ZPO**), der für den Nachweis des Zugangs ausreicht, aber nur wenn der Empfänger oder ein als befugt anzusehender Empfangsvertreter oder Empfangsbote den Empfang quittiert hat.
+> 
+> Gleiches gilt für das sogenannte **Einwurfeinschreiben** - Unterschied ggü Rückschein: Privatpersonen können geltend machen, dass sie abwesend waren und daher das Schreiben erst später zur Kenntnis genommen haben (Klassiker: Nach Rückkehr aus dem Urlaub).
+> 
+> **E-Mail**: Protokoll der Absendung reicht jedenfalls nicht. Bei elektronischer Empfangsbestätigung kommt aber zumindest ein Anscheinsbeweis für den Zugang in Betracht (strittig, vom BGH noch nicht geklärt).
+
+- Da der U es in diesem Fall darauf angelegt hat, kommt nur eine **Zugangsvereiteilung** in Betracht
+
+***
+#### Zugangsvereitelung
+
+![[Pasted image 20240117193952.png|center|650]]
+
+> [!info] Tatbestand aus Sicht des BGH 
+> Wer mit dem Eingang **rechtsgeschäftlicher Erklärungen** rechnen muss (Anm.: wer als Unternehmen am Geschäftsverkehr teilnimmt, muss **immer** damit rechnen), den trifft die **Obliegenheit**, durch geeignete Vorkehrungen sicherstellen, dass ihn die Erklärungen auch erreichen.
+> - Das beinhaltet auch die Obliegenheit bei Abwesenheit einen Empfangsvertreter zu bestellen
+> - Wer per E-Mail mit jemanden in Geschäftskontakt tritt, muss sicherstellen, dass die Antworten auf die E-Mail ihn auch erreichen
+
+**Rechtsfolge:**
+Scheitert der Zugang an der Verletzung dieser Obliegenheit, dann muss sich der Empfänger gemäß 
+**§ 242** so behandeln lassen, als wäre die Willenserklärung (rechtzeitig) zugegangen.
+
+**Zugangsvereitelung mit Vorsatz**:
+
+- Der Empfänger gilt als **nicht schutzwürdig**
+- Die Willenserklärung gilt als zugegangen, und zwar rückwirkend zum ersten Zustellversuch
+	- So ist es auch hier, da **U** es darauf angelegt hat, den Zugang vereiteln
+- Der Zugang wird fingiert auf den 19.10.2007
+- Damit wird die Rücktrittserklärung wirksam
+- Somit hat **V** Anspruch aus **§ 346 I** auf Rückgewähr des Presslufthammers
+- Beachte **§ 364 I**: J*eder muss dem anderen die empfangene Leistung zurückgewähren*
+	- **V** kann Rückgewähr der Sache nur verlangen, wenn er dem U gleichzeitig Rückzahlung der Anzahlung von 5.000€ anbietet
+	- U hat insoweit ein Zurückbehaltungsrecht (vgl. **§ 273 / § 320**)
+	- Man spricht von der Rückabwicklung; im Falle eines Gerichtsurteils auch von einer Verurteilung, „Zug um Zug“
+
+$\rightarrow$ Praxisproblem bei Zugangsvereitelung: Den Vereitelungsvorsatz wird man nur selten nachweisen
+$\rightarrow$ Daher ist weitgehend nur die fahrlässige Zugangsvereitelung für die Praxis relevant
