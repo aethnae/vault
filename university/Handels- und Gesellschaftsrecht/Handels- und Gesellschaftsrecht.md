@@ -36,5 +36,6 @@
 			- [[Firmengrundsätze]]
 			- [[Handelsregister]]
 			- [[Publizität des Handelsregisters]]
+		- **4. Übertragung von Handelsgeschäften**
 
 %% End Waypoint %%
