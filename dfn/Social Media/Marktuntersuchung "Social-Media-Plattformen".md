@@ -32,23 +32,27 @@ Bei der Auswahl von etwa 15 repräsentativen Instituten habe ich der Bedeutung f
 - NORDUnet
 - CANARIE
 - DANTE
-- Janet[^1]
+- Janet[^1] 
 
 ***
+<div style="page-break-after: always;"></div>
+
 #### Übersicht
 
 | Institution | DFN | HU | RWTH | TUM | SWITCH | Janet | NORDUnet | MPG | Helmholtz |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| X |  |  |  |  |  |  |  |  |  |
+| X | ☑︎ | ☑︎ |  |  |  |  |  |  |  |
 | Threads |  |  |  |  |  |  |  |  |  |
 | BlueSky |  |  |  |  |  |  |  |  |  |
-| Facebook |  |  |  |  |  |  |  |  |  |
-| YouTube |  |  |  |  |  |  |  |  |  |
-| LinkedIn |  |  |  |  |  |  |  |  |  |
-| Instagram |  |  |  |  |  |  |  |  |  |
-| Mastodon |  |  |  |  |  |  |  |  |  |
+| Mastodon | ☑︎ | (☑︎)[^2] |  |  |  |  |  |  |  |
+| Facebook |  | ☑︎ |  |  |  |  |  |  |  |
+| YouTube |  | ☑︎ |  |  |  |  |  |  |  |
+| LinkedIn |  | ☑︎ |  |  |  |  |  |  |  |
+| Instagram |  | ☑︎ |  |  |  |  |  |  |  |
 | TikTok |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
 
 
 
 [^1]: Janet selbst hat keine eigene Social-Media-Präsenz, diese wird komplett durch *Jisc*, die Muttergesellschaft von Janet, betrieben.
+[^2]: Die HU Berlin selbst hat keinen Mastodon-Account, allerdings betreiben mehrere Fakultäten, Institute sowie die Universitätsbibliothek der HU eigene Mastodon-Accounts.

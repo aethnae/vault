@@ -88,16 +88,16 @@ var import_obsidian2 = require("obsidian");
 // src/utils.ts
 var import_obsidian = require("obsidian");
 function getModifierNameInPlatform(mod) {
-  if (mod == "Mod") {
+  if (mod === "Mod") {
     return import_obsidian.Platform.isMacOS || import_obsidian.Platform.isIosApp ? "Command" : "Ctrl";
   }
-  if (mod == "Shift") {
+  if (mod === "Shift") {
     return "Shift";
   }
-  if (mod == "Alt") {
+  if (mod === "Alt") {
     return import_obsidian.Platform.isMacOS || import_obsidian.Platform.isIosApp ? "Option" : "Alt";
   }
-  if (mod == "Meta") {
+  if (mod === "Meta") {
     return import_obsidian.Platform.isMacOS || import_obsidian.Platform.isIosApp ? "Command" : import_obsidian.Platform.isWin ? "Win" : "Meta";
   }
   return "Ctrl";
@@ -159,7 +159,6 @@ var QuickPreviewSettingTab = class extends import_obsidian2.PluginSettingTab {
           displayNames.add(displayName);
         }
       }
-      ;
       dropdown.setValue(this.plugin.settings[settingName]).onChange(async (value) => {
         this.plugin.settings[settingName] = value;
         await this.plugin.saveSettings();
@@ -182,7 +181,6 @@ var QuickPreviewSettingTab = class extends import_obsidian2.PluginSettingTab {
     if (this.plugin.settings.position === "Custom") {
       this.addNumberSetting("customPositionX").setName("Custom x coordinate").setDesc("Offset relative to the left edge of the window.");
       this.addNumberSetting("customPositionY").setName("Custom y coordinate").setDesc("Offset relative to the top edge of the window.");
-      ;
     }
     this.addToggleSetting("stickToMouse").setName("Stick to mouse position").setDesc("If turned on, the preview popover will follow the mouse pointer.");
     this.addToggleSetting("lazyHide").setName("Don't close the current preview until the next preview is ready").setDesc("If turned on, pressing arrow keys or hovering the mouse pointer over a suggestion while holding the modifier key will not immediately close the preview, but instead wait for the preview for the newly selected suggestion to load.");
@@ -230,7 +228,6 @@ var QuickPreviewHoverParent = class {
         this.hide();
         return;
       }
-      ;
       __privateGet(this, _hoverPopover).hoverEl.addClass("quick-preview");
       __privateGet(this, _hoverPopover).position(__privateGet(this, _hoverPopover).shownPos = this.manager.getShownPos());
     }
@@ -428,6 +425,7 @@ var QuickPreviewPlugin = class extends import_obsidian6.Plugin {
           return info;
         }
       );
+      this.patchCanvasSuggest();
     });
   }
   async loadSettings() {
@@ -490,6 +488,26 @@ var QuickPreviewPlugin = class extends import_obsidian6.Plugin {
     });
     this.register(uninstaller);
     return uninstaller;
+  }
+  patchCanvasSuggest() {
+    const plugin = this;
+    const uninstaller = around(import_obsidian5.SuggestModal.prototype, {
+      setInstructions(old) {
+        return function(...args) {
+          old.call(this, ...args);
+          const proto = Object.getPrototypeOf(this);
+          if (this.hasOwnProperty("canvas") && proto.hasOwnProperty("showMarkdownAndCanvas") && proto.hasOwnProperty("showAttachments")) {
+            plugin.patchSuggester(this.constructor, (item) => {
+              if (!item.file)
+                return null;
+              return { linktext: item.file.path, sourcePath: "" };
+            });
+            uninstaller();
+          }
+        };
+      }
+    });
+    this.register(uninstaller);
   }
 };
 _originalOnLinkHover = new WeakMap();
