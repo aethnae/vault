@@ -30,4 +30,25 @@ Bei der Auswahl von etwa 15 repräsentativen Instituten habe ich der Bedeutung f
 - GEANT
 - DFN
 - NORDUnet
+- CANARIE
+- DANTE
+- Janet[^1]
 
+***
+#### Übersicht
+
+| Institution | DFN | HU | RWTH | TUM | SWITCH | Janet | NORDUnet | MPG | Helmholtz |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| X |  |  |  |  |  |  |  |  |  |
+| Threads |  |  |  |  |  |  |  |  |  |
+| BlueSky |  |  |  |  |  |  |  |  |  |
+| Facebook |  |  |  |  |  |  |  |  |  |
+| YouTube |  |  |  |  |  |  |  |  |  |
+| LinkedIn |  |  |  |  |  |  |  |  |  |
+| Instagram |  |  |  |  |  |  |  |  |  |
+| Mastodon |  |  |  |  |  |  |  |  |  |
+| TikTok |  |  |  |  |  |  |  |  |  |
+
+
+
+[^1]: Janet selbst hat keine eigene Social-Media-Präsenz, diese wird komplett durch *Jisc*, die Muttergesellschaft von Janet, betrieben.
