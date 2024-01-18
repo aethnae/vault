@@ -11,6 +11,13 @@
 5. Seehandel
 
 ***
+#### Grundlagen der juristischen Falllösungstechnik
+
+1. Ausgangspunkt: **Anspruchsgrundlage**
+	- Die *Anspruchsgrundlage* beschreibt die Rechtsform, die die gewünschte *Rechtsfolge* enthält
+2. Prüfung der Vorraussetzungen der Anspruchsgrundlage
+
+***
 #### Inhaltsverzeichnis
 
 %% Begin Waypoint %%
@@ -24,6 +31,9 @@
 			- [[Gewerbe und Gewerbebetrieb]]
 			- [[Handelsgewerbe]]
 			- [[Kaufmannsarten]]
-			- [[Scheinkaufmann]]
+		- **3. Handelsfirma & Handelsregister**
+			- [[Firmenbegriff und Abgrenzung]]
+			- [[Firmengrundsätze]]
+			- [[Handelsregister]]
 
 %% End Waypoint %%

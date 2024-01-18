@@ -1,8 +1,12 @@
 ---
 tags:
   - kaufleute
-week: 2023-10-30
-flashcard: true
+week: 2023-10-26
+flashcard: false
+publish: true
+source: VL 2, Folie 6 ff.
+date created: Monday, October 30th 2023, 1:28:37 pm
+date modified: Thursday, January 18th 2024, 6:58:35 pm
 ---
 ***
 

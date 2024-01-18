@@ -15,7 +15,7 @@ date modified: Thursday, January 18th 2024, 4:59:59 pm
 
 ![[Pasted image 20240118170523.png|center|350]]
 
-- Eine weitere Besonderheit ist der [[Scheinkaufmann]]
+- Eine weitere Besonderheit ist der [[#Scheinkaufmann kraft tatsächlichen Verhaltens]]
 
 ***
 #### Ist-Kaufmann
@@ -42,4 +42,46 @@ date modified: Thursday, January 18th 2024, 4:59:59 pm
 		→ wenn das Gewerbe nach Art und Umfang keinen in kaufmännischer Weise eingerichteten Betrieb erfordert
 	- land-und forstwirtschaftliche Unternehmen, **§ 3 HGB**
 		→ „Kann-Kaufmann ohne Rückfahrkarte“: Eintragung als Kaufmann kann nicht mehr rückgängig gemacht werden (§ 3 II HGB)
+
+***
+#### Kaufmann kraft Eintragung | Fiktivkaufmann
+
+> [!important] Definition i.S.v. § 5 HGB 
+> Ist eine Firma im Handelsregister eingetragen, so kann gegenüber demjenigen, welcher sich auf die Eintragung beruft, nicht geltend gemacht werden, dass das unter der Firma betriebene Gewerbe kein Handelsgewerbe sei.
+
+- Nicht notwendigerweise kraft Gesetz ein Kaufmann
+	- Sobald eine Eintragung ins Handelsregister erfolgt, wird der Rechtsträger wie ein Kaufmann behandelt
+- Dieses Verfahren dient der **Rechtssicherheit** und dem **Verkehrsschutz**
+
+***
+#### Formkaufmann
+
+> [!important] Definition i.S.v. § 6 HGB 
+> - Die in Betreff der Kaufleute gegebenen Vorschriften finden auch auf die Handelsgesellschaften Anwendung
+> - Die Rechte und Pflichten eines Vereins, dem das Gesetz ohne Rücksicht auf den Gegenstand des Unternehmens die Eigenschaft eines Kaufmanns beilegt, bleiben unberührt, auch wenn die Voraussetzungen des **§ 1 Abs. 2** nicht vorliegen
+
+- Der Verein ist der Grundtypus der privaten juristischen Person $\longrightarrow$ **§ 6 II** gilt daher auch für AG, GmbH etc
+
+**Personenhandelsgesellschaften:** OHG und KG
+
+- **Deklaratorische** Wirkung des § 6 I HGB:
+	→ bei Betrieb eines Handelsgewerbes $\longrightarrow$ Ist-Kaufmann, **§§ 105 I, 1 II HGB**
+	→ bei freiwilliger Eintragung $\longrightarrow$ Kann-Kaufmann, **§§ 105 II, 2 HGB**
+- **Konstitutive** Wirkung des § 6 I HGB :
+	→ Betrieb ohne Handelsgewerbe, z.B. Vermögensverwaltungsgesellschaften
+
+**Kapitalgesellschaften**: § 6 II HGB – AG, KGaA, SE, GmbH (einschl. UG)
+
+***
+#### Scheinkaufmann kraft tatsächlichen Verhaltens
+
+> [!note] Ungeschriebene Regelung 
+> Es gilt der allgemeine Grundsatz der **Rechtsscheinhaftung**!
+
+- Für diesen müssen die folgenden **Voraussetzungen** gelten
+	- Rechtsscheinstatbestand des Kaufmanns
+	- Zurechenbarkeit des Rechtsscheins
+	- Handeln im Vertrauen auf die Kaufmannseigenschaft
+	- Gutgläubigkeit (keine Kenntnis / grob fahrlässige Unkenntnis) des Geschäftspartners
+- Als **Rechtsfolge** gilt das HGB zugunsten des gutgläubigen Geschäftspartners
 

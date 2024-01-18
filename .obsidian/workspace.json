@@ -8,30 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28abd4aea3a15c3c",
+            "id": "e0bc7e8f40ad3a12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Firmengrundsätze.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3a03b5dcacf10393",
+            "id": "971528c2d7960d96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Kaufmannsarten.md",
-                "mode": "preview",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Handelsregister.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -92,7 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Handelsregister.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten.md"
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Handelsregister.md"
               }
             }
           },
@@ -199,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten.md"
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Handelsregister.md"
               }
             }
           }
@@ -216,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Handelsregister.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -240,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Handelsregister.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,24 +271,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "28abd4aea3a15c3c",
+  "active": "971528c2d7960d96",
   "lastOpenFiles": [
-    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Kaufmannsarten.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Firmengrundsätze.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Handelsregister.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Firmenbegriff und Abgrenzung.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Scheinkaufmann.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Handelsgewerbe.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Betreiber eines Handelsgewerbe.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Gewerbe und Gewerbebetrieb.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/1. Einführung/Was ist Handelsrecht?.md",
+    "university/Handels- und Gesellschaftsrecht/Handels- und Gesellschaftsrecht.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Kaufmannsarten.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Betreiber eines Handelsgewerbe.md",
     "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Rechtsformen.md",
     "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Inventar und Inventur.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Scheinkaufmann.md",
     "files/Pasted image 20240118170523.png",
     "files/Pasted image 20240118170337.png",
     "files/Pasted image 20240118170307.png",
     "files/Pasted image 20240118170306.png",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/1. Einführung/Was ist Handelsrecht?.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/1. Einführung",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute",
-    "university/Handels- und Gesellschaftsrecht/Handels- und Gesellschaftsrecht.md",
     "university/Bürgerliches Recht/Bürgerliches Recht.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht",
@@ -313,11 +318,7 @@
     "university/Bürgerliches Recht/Konzepte/Fristen & Verjährung",
     "dfn/Mitteilungen/Roadmap.md",
     "dfn/Social Media",
-    "dfn/Mitteilungen/Roadmap.pdf",
     "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Stationäre Punkte.md",
-    "university/Mikroökonomie I/Mikroökonomie I.md",
-    "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Missbrauch der Vertretungsmacht.md",
-    "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Insichgeschäfte.md",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",

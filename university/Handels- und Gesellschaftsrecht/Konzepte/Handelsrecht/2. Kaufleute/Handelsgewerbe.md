@@ -1,8 +1,12 @@
 ---
 tags:
-  - rechtsgrundlagen
-week: 2023-10-30
-flashcard: true
+  - kaufleute
+week: 2023-10-26
+flashcard: false
+publish: true
+source: VL 2, Folie 10 ff.
+date created: Sunday, November 5th 2023, 9:17:21 pm
+date modified: Thursday, January 18th 2024, 6:59:58 pm
 ---
 ***
 
