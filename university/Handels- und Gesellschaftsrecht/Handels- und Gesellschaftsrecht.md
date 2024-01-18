@@ -35,5 +35,6 @@
 			- [[Firmenbegriff und Abgrenzung]]
 			- [[Firmengrundsätze]]
 			- [[Handelsregister]]
+			- [[Publizität des Handelsregisters]]
 
 %% End Waypoint %%

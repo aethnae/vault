@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e0bc7e8f40ad3a12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Firmengrundsätze.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "971528c2d7960d96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Handelsregister.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65322f1cac28da26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Publizität des Handelsregisters.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Handelsregister.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Publizität des Handelsregisters.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Handelsregister.md"
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Publizität des Handelsregisters.md"
               }
             }
           },
@@ -200,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Handelsregister.md"
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Publizität des Handelsregisters.md"
               }
             }
           }
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Handelsregister.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Publizität des Handelsregisters.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Handelsregister.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Publizität des Handelsregisters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,10 +271,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "971528c2d7960d96",
+  "active": "65322f1cac28da26",
   "lastOpenFiles": [
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Firmengrundsätze.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Handelsregister.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Publizität des Handelsregisters.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Firmengrundsätze.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Firmenbegriff und Abgrenzung.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Scheinkaufmann.md",
@@ -318,7 +319,6 @@
     "university/Bürgerliches Recht/Konzepte/Fristen & Verjährung",
     "dfn/Mitteilungen/Roadmap.md",
     "dfn/Social Media",
-    "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Stationäre Punkte.md",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
