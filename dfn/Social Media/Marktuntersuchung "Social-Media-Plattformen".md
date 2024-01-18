@@ -32,27 +32,29 @@ Bei der Auswahl von etwa 15 repräsentativen Instituten habe ich der Bedeutung f
 - NORDUnet
 - CANARIE
 - DANTE
-- Janet[^1] 
+- Janet
 
 ***
 <div style="page-break-after: always;"></div>
 
 #### Übersicht
 
-| Institution | DFN | HU | RWTH | TUM | SWITCH | Janet | NORDUnet | MPG | Helmholtz |
+| Institution | DFN | HU | RWTH | TUM | SWITCH | Janet[^2] | NORDUnet | MPG | Helmholtz |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| X | ☑︎ | ☑︎ |  |  |  |  |  |  |  |
-| Threads |  |  |  |  |  |  |  |  |  |
+| X | ☑︎ | ☑︎ | ☑︎ | ☑︎ |  | ☑︎ |  |  |  |
+| Threads |  |  | ☑︎ | ☑︎ |  | (☑︎)[^3] |  |  |  |
 | BlueSky |  |  |  |  |  |  |  |  |  |
-| Mastodon | ☑︎ | (☑︎)[^2] |  |  |  |  |  |  |  |
-| Facebook |  | ☑︎ |  |  |  |  |  |  |  |
-| YouTube |  | ☑︎ |  |  |  |  |  |  |  |
-| LinkedIn |  | ☑︎ |  |  |  |  |  |  |  |
-| Instagram |  | ☑︎ |  |  |  |  |  |  |  |
-| TikTok |  |  |  |  |  |  |  |  |  |
+| Mastodon | ☑︎ | (☑︎)[^1] |  | (☑︎)[^4] |  |  |  |  |  |
+| Facebook |  | ☑︎ | ☑︎ | ☑︎ |  | ☑︎ |  |  |  |
+| YouTube |  | ☑︎ | ☑︎ | ☑︎ |  | ☑︎ |  |  |  |
+| LinkedIn |  | ☑︎ | ☑︎ | ☑︎ |  | ☑︎ |  |  |  |
+| Instagram |  | ☑︎ | ☑︎ | ☑︎ |  |  |  |  |  |
+| TikTok |  |  | ☑︎ |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
 
 
 
-[^1]: Janet selbst hat keine eigene Social-Media-Präsenz, diese wird komplett durch *Jisc*, die Muttergesellschaft von Janet, betrieben.
-[^2]: Die HU Berlin selbst hat keinen Mastodon-Account, allerdings betreiben mehrere Fakultäten, Institute sowie die Universitätsbibliothek der HU eigene Mastodon-Accounts.
+[^1]: Die HU Berlin selbst hat keinen Mastodon-Account, allerdings betreiben mehrere Fakultäten, Institute sowie die Universitätsbibliothek der HU eigene Mastodon-Accounts.
+[^2]: Janet selbst hat keine eigene Social-Media-Präsenz, diese wird komplett durch *Jisc*, die Muttergesellschaft von Janet, betrieben.
+[^3]: Wahrscheinlich inaktiv, Profil besteht jedoch.
+[^4]: Wahrscheinlich inaktiv, Profil besteht jedoch seit Mitte 2022.
