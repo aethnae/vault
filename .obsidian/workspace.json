@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "685d9e265ac8f5d1",
+        "id": "cd64ba5f98c20ca0",
         "type": "tabs",
         "children": [
           {
-            "id": "971528c2d7960d96",
+            "id": "6463ef632057d90f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Handelsregister.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65322f1cac28da26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Publizität des Handelsregisters.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Unternehmen als Übertragungsgegenstand.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -93,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Publizität des Handelsregisters.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Unternehmen als Übertragungsgegenstand.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Publizität des Handelsregisters.md"
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Unternehmen als Übertragungsgegenstand.md"
               }
             }
           },
@@ -200,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Publizität des Handelsregisters.md"
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Unternehmen als Übertragungsgegenstand.md"
               }
             }
           }
@@ -217,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Publizität des Handelsregisters.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Unternehmen als Übertragungsgegenstand.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -241,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Publizität des Handelsregisters.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Unternehmen als Übertragungsgegenstand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,11 +258,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e041748da01c05af",
+  "active": "6463ef632057d90f",
   "lastOpenFiles": [
+    "files/Pasted image 20240118213856.png",
+    "files/Pasted image 20240118213821.png",
+    "files/Pasted image 20240118212949.png",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Publizität des Handelsregisters.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Unternehmen als Übertragungsgegenstand.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Handelsregister.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Publizität des Handelsregisters.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Firmengrundsätze.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Firmenbegriff und Abgrenzung.md",
@@ -310,15 +301,11 @@
     "university/Bürgerliches Recht/Konzepte/6. Zugangsvereitelung",
     "files/Pasted image 20240117182846.png",
     "files/Pasted image 20240117182109.png",
-    "files/Pasted image 20240117182022.png",
     "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Fristberechnung.md",
     "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Arten von Fristen.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test II.md",
-    "university/Mathematik I/Übungsblätter/Freiwilliger Test III.md",
-    "files/Pasted image 20240117161823.png",
     "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung",
     "university/Bürgerliches Recht/Konzepte/Fristen & Verjährung",
-    "dfn/Social Media",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",

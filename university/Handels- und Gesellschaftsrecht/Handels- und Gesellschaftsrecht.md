@@ -37,5 +37,6 @@
 			- [[Handelsregister]]
 			- [[Publizität des Handelsregisters]]
 		- **4. Übertragung von Handelsgeschäften**
+			- [[Unternehmen als Übertragungsgegenstand]]
 
 %% End Waypoint %%
