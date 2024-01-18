@@ -1,9 +1,10 @@
 ---
 tags:
-week:
+  - rechtsgrundlagen
+week: 2023-10-19
 flashcard: false
 publish: true
-source: 
+source: VL 1, Folie 6 ff.
 date created: Thursday, January 18th 2024, 4:20:46 pm
 date modified: Thursday, January 18th 2024, 4:20:54 pm
 ---
@@ -16,8 +17,19 @@ date modified: Thursday, January 18th 2024, 4:20:54 pm
 - Ergänzt das BGB als "Recht der Kaufleute"
 - Die Anwendbarkeit des Handelsrechts knüpft an den Kaufmannsbegriff an
 
+> [!note] Merke 
+> Das Handelsrecht ergänzt das allgemeine Zivilrecht, um den Zwecken des Handelsverkehrs Rechnung zu tragen.
+
+**Weitere Gründe für das Sonderrecht:**
+- Selbstverantwortlichkeit
+- Einfachheit und Schnelligkeit
+- Verkehrs- und Vertrauensschutz
+
 ***
 #### Unterscheidbarkeit zum [[Bürgerliches Recht|Bürgerlichen Recht]]
+
+> [!info] Verhältnis des Handels- zum Bürgerlichen Recht 
+> Verhältnis nach dem Grundsatz "*lex specialis derogat lex generalis*" - teils **modifizierend**, teils **ergänzend**.
 
 > [!example] Fallbeispiel 
 > **A** verkauft **B** mehrere Kisten Rotwein und liefert sie aus. B erhält die Kisten, packt sie aber nicht aus. Nach zwei Wochen macht B die Kisten auf und stellt fest, dass der Wein in einigen der Flaschen verdorben ist. Kann B von A die erneute Lieferung dieser Flaschen verlangen?
@@ -45,3 +57,4 @@ Anspruch **B** $\rightarrow$ **A** auf Nacherfüllung aus **§ 437 Nr. 1, § 439
 
 **Ergebnis**: Es liegt *kein* Anspruch auf erneute Lieferung vor.
 
+***

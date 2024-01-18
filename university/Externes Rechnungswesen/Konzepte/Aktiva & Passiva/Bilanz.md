@@ -15,7 +15,7 @@ flashcard: true
 - Passivseite:
 	- Eigenkapital steht dem Unternehmen dauerhaft zur Verfügung und steht damit "oben".
 	- Schulden werden ihrer Fristigkeit nach auf der Passivseite der Bilanz ausgewiesen. Kurzfristige Schulden befinden sich „unten" und langfristige „oben“.
-- Die Gliederung der Bilanz ist für Kapitalgesellschaften in **§ 266 HGB** vorgegeben. Diese Gliederung wird i.d.R. auch von Personenunternehmen ([[Kaufmannsarten|Einzelkaufleute]] und [[Rechtsformen#Personengesellschaften|Personengesellschaften]]) verwendet (Abweichung: Ausweis des Eigenkapitals).
+- Die Gliederung der Bilanz ist für Kapitalgesellschaften in **§ 266 HGB** vorgegeben. Diese Gliederung wird i.d.R. auch von Personenunternehmen ([[university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Kaufmannsarten|Einzelkaufleute]] und [[Rechtsformen#Personengesellschaften|Personengesellschaften]]) verwendet (Abweichung: Ausweis des Eigenkapitals).
 
 #### Bestandskonten
 - Um nicht nach jedem Geschäftsvorfall eine neue Bilanz erstellen zu müssen, wird jedem Bilanzposten ein eigenes (Bestands-)Konto zugeordnet:

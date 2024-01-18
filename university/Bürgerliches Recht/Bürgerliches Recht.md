@@ -29,14 +29,15 @@ Es handelt sich um Zusatzinformationen, die dem besseren Verständnis von Hinter
 #### Aufbau des BGB
 
 1. **Allgemeiner Teil**
+
 	- Abschnitt 1: Personen - Wer kann verpflichtet werden?
 	- Abschnitt 2: Sachen und Tiere
 	- Abschnitt 3: Rechtsgeschäfte
 
-2. **Recht der Schuldverhältnisse**
-3. **Sachenrecht**
-4. **Familienrecht**
-5. **Erbrecht**
+1. **Recht der Schuldverhältnisse**
+2. **Sachenrecht**
+3. **Familienrecht**
+4. **Erbrecht**
 
 ***
 #### Inhaltsverzeichnis

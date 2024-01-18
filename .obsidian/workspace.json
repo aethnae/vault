@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/Was ist Handelsrecht?.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a03b5dcacf10393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Kaufmannsarten.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -80,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/Was ist Handelsrecht?.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/Was ist Handelsrecht?.md"
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten.md"
               }
             }
           },
@@ -187,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/Was ist Handelsrecht?.md"
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten.md"
               }
             }
           }
@@ -204,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/Was ist Handelsrecht?.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -228,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/Was ist Handelsrecht?.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,12 +272,26 @@
   },
   "active": "28abd4aea3a15c3c",
   "lastOpenFiles": [
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Kaufmannsarten.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Handelsgewerbe.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Betreiber eines Handelsgewerbe.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Gewerbe und Gewerbebetrieb.md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Rechtsformen.md",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Inventar und Inventur.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Scheinkaufmann.md",
+    "files/Pasted image 20240118170523.png",
+    "files/Pasted image 20240118170337.png",
+    "files/Pasted image 20240118170307.png",
+    "files/Pasted image 20240118170306.png",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/1. Einführung/Was ist Handelsrecht?.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/1. Einführung",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute",
     "university/Handels- und Gesellschaftsrecht/Handels- und Gesellschaftsrecht.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/Was ist Handelsrecht?.md",
+    "university/Bürgerliches Recht/Bürgerliches Recht.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Untitled.md",
-    "university/Bürgerliches Recht/Bürgerliches Recht.md",
     "dfn/Social Media/Marktuntersuchung \"Social-Media-Plattformen\".md",
     "university/Bürgerliches Recht/Konzepte/6. Leistungsstörungen bei Schuldverhältnissen/Untitled.md",
     "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Zugangsvereitelung.md",
@@ -283,8 +309,6 @@
     "university/Mathematik I/Übungsblätter/Freiwilliger Test II.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test III.md",
     "files/Pasted image 20240117161823.png",
-    "files/Pasted image 20240117160942.png",
-    "files/Pasted image 20240117160553.png",
     "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung",
     "university/Bürgerliches Recht/Konzepte/Fristen & Verjährung",
     "dfn/Mitteilungen/Roadmap.md",
@@ -294,18 +318,6 @@
     "university/Mikroökonomie I/Mikroökonomie I.md",
     "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Missbrauch der Vertretungsmacht.md",
     "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Insichgeschäfte.md",
-    "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Vertreter ohne Vertretungsmacht und Vertrauensschutz.md",
-    "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Vertretung und Willensmängel.md",
-    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Richtigkeitsgewähr.md",
-    "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Schutz von Vertrauen auf das Bestehen der Vertretungsmacht im Rechtsverkehr.md",
-    "files/Pasted image 20240116191814.png",
-    "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
-    "university/Mathematik I/Rechengesetze.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzprodukt.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
-    "files/Pasted image 20240115194150.png",
-    "university/Bürgerliches Recht/Konzepte/4. Stellvertretung",
-    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",

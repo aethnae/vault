@@ -27,9 +27,7 @@
 		- [[Preisnachlässe]]
 		- [[Rückstellungen]]
 	- **Rechtsgrundlagen**
-		- [[Gewerbe und Gewerbebetrieb]]
 		- [[Grundsätze ordnungsgemäßer Buchführung (GoB)]]
-		- [[Handelsgewerbe]]
 		- [[Inventar und Inventur]]
 		- [[Kaufmannsarten]]
 		- [[Rechtsformen]]
