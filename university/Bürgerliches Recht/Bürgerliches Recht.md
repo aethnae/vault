@@ -80,5 +80,7 @@ Es handelt sich um Zusatzinformationen, die dem besseren Verständnis von Hinter
 		- [[Fristberechnung]]
 		- [[Verjährung]]
 		- [[Zugangsvereitelung]]
+	- **6. Leistungsstörungen bei Schuldverhältnissen**
+		- [[Untitled]]
 
 %% End Waypoint %%
