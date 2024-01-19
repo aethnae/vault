@@ -11,8 +11,12 @@
             "id": "6463ef632057d90f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Unternehmen als Übertragungsgegenstand.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -76,6 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Unternehmen als Übertragungsgegenstand.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -98,7 +103,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6998077907661502,
+                  "scale": 1.1303843500400064,
                   "close": true
                 }
               }
@@ -108,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
-    "collapsed": true
+    "width": 297.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -160,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Unternehmen als Übertragungsgegenstand.md"
+              }
             }
           },
           {
@@ -180,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Unternehmen als Übertragungsgegenstand.md"
+              }
             }
           }
         ]
@@ -196,6 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Unternehmen als Übertragungsgegenstand.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -219,6 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Unternehmen als Übertragungsgegenstand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,8 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
