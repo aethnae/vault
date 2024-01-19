@@ -37,6 +37,11 @@
 			- [[Handelsregister]]
 			- [[Publizität des Handelsregisters]]
 		- **4. Übertragung von Handelsgeschäften**
+			- [[Handelsgeschäfte]]
 			- [[Unternehmen als Übertragungsgegenstand]]
+		- **5. Handelsgeschäftslehre & Handelskauf**
+			- [[Handelskäufe]]
+			- [[Schweigen auf Anträge]]
+			- [[Sonstige Sonderregeln der Handelsgeschäftslehre]]
 
 %% End Waypoint %%

@@ -24,7 +24,7 @@ date modified: Thursday, January 11th 2024, 3:59:13 pm
 
 - Im Allgemeinen liegt ein **fehlendes Erklärungsbewusstsein** in folgenden Fällen vor
 	- Handlungen, die nichts mit dem Rechtsverkehr zu tun haben (reine Meinungskundgabe, Begrüßung, wissenschaftliche Stellungnahmen u.ä. → Bei dem genannten Bsp. liegt diese Konstellation vor
-	- Lediglich vertragsvorbereitende Erklärung (insbesondere sog. **invitatio ad offerendum**, dazu näher unten im folgenden Abschnitt)
+	- Lediglich vertragsvorbereitende Erklärung (insbesondere sog. **invitatio ad offerendum**)
 	- Außerrechtliche Gefälligkeiten
 
 > [!info]- Exkurs: Außerrechtliche Gefälligkeiten 

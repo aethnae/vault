@@ -7,6 +7,9 @@ publish: true
 source: VL 2, Folie 3 ff.
 date created: Thursday, January 18th 2024, 4:58:32 pm
 date modified: Thursday, January 18th 2024, 4:59:59 pm
+aliases:
+  - Kaufmann
+  - Kaufleute
 ---
 ***
 #### Der Kaufmannsbegriff im HGB
