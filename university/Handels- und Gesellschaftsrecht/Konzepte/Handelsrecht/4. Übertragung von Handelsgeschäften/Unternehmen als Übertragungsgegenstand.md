@@ -88,6 +88,11 @@ date modified: Thursday, January 18th 2024, 9:28:29 pm
 ***
 #### Eintritt in einzelkaufmännisches Geschäft i.S.v. § 28 HGB
 
-> [!info] § 28 HGB 
+> [!info]- § 28 HGB 
 > 1. Tritt jemand als persönlich haftender Gesellschafter oder als Kommanditist in das Geschäft eines Einzelkaufmanns ein, so haftet die Gesellschaft, auch wenn sie die frühere Firma nicht fortführt, für alle im Betriebe des Geschäfts entstandenen Verbindlichkeiten des früheren Geschäftsinhabers. Die in dem Betriebe begründeten Forderungen gelten den Schuldnern gegenüber als auf die Gesellschaft übergegangen.
 
+- Gesellschaften, welche aus einzelkaufmännischen Firmen entstanden sind, haften grundsätzlich für **alle** im Betriebe des Geschäfts entstandenen Verbindlichkeiten
+	- Veräußerer haftet weiterhin persönlich
+	- Erwerber haftet nach § 128 HGB für die bisherigen Schulden mit
+
+=> Unterschied zu § 25 HGB: auf die Fortführung der Firma kommt es nicht an!
