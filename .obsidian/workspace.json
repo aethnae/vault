@@ -11,12 +11,8 @@
             "id": "6463ef632057d90f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Unternehmen als Übertragungsgegenstand.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -80,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Unternehmen als Übertragungsgegenstand.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -113,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 284.5,
+    "collapsed": true
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -164,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Unternehmen als Übertragungsgegenstand.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,9 +180,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Unternehmen als Übertragungsgegenstand.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -204,14 +196,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Unternehmen als Übertragungsgegenstand.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -228,7 +219,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Unternehmen als Übertragungsgegenstand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,11 +251,15 @@
   },
   "active": "6463ef632057d90f",
   "lastOpenFiles": [
+    "dfn/Social Media/Marktuntersuchung \"Social-Media-Plattformen\".md",
+    "dfn/Wikipedia-Artikel/Netze/Gigabit-Wissenschaftsnetz.md",
+    "dfn/Wikipedia-Artikel/Netze/Deutsches Wissenschaftsnetz.md",
+    "dfn/Wikipedia-Artikel/Netze/Breitband-Wissenschaftsnetz.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Unternehmen als Übertragungsgegenstand.md",
     "files/Pasted image 20240118213856.png",
     "files/Pasted image 20240118213821.png",
     "files/Pasted image 20240118212949.png",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Publizität des Handelsregisters.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Unternehmen als Übertragungsgegenstand.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Handelsregister.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Firmengrundsätze.md",
@@ -290,7 +285,6 @@
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Untitled.md",
-    "dfn/Social Media/Marktuntersuchung \"Social-Media-Plattformen\".md",
     "university/Bürgerliches Recht/Konzepte/6. Leistungsstörungen bei Schuldverhältnissen/Untitled.md",
     "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Zugangsvereitelung.md",
     "university/Bürgerliches Recht/Konzepte/6. Leistungsstörungen bei Schuldverhältnissen",
@@ -300,10 +294,7 @@
     "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Verjährung.md",
     "university/Bürgerliches Recht/Konzepte/6. Zugangsvereitelung",
     "files/Pasted image 20240117182846.png",
-    "files/Pasted image 20240117182109.png",
     "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Fristberechnung.md",
-    "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Arten von Fristen.md",
-    "university/Mathematik I/Übungsblätter/Freiwilliger Test II.md",
     "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung",
     "university/Bürgerliches Recht/Konzepte/Fristen & Verjährung",
     "Untitled.canvas",

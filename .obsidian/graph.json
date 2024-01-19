@@ -11,7 +11,7 @@
       "query": "path:dfn  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 10290694
       }
     },
     {
@@ -39,7 +39,7 @@
       "query": "path:\"university/Einführung in die VWL und Wirtschaftsgeschichte\"  ",
       "color": {
         "a": 1,
-        "rgb": 4057343
+        "rgb": 11403519
       }
     },
     {
@@ -50,10 +50,10 @@
       }
     },
     {
-      "query": "path:\"university/Externes Rechnungswesen\"  ",
+      "query": "path:\"university/Handels- und Gesellschaftsrecht\"  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 2879191
       }
     }
   ],
@@ -67,6 +67,6 @@
   "repelStrength": 10.4402669270833,
   "linkStrength": 0.833455403645833,
   "linkDistance": 250,
-  "scale": 0.3657471357874961,
+  "scale": 0.2629929770596301,
   "close": true
 }
