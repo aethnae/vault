@@ -18,6 +18,16 @@
 2. Prüfung der Vorraussetzungen der Anspruchsgrundlage
 
 ***
+#### Zur Klausur
+
+- 60 Min. Zeit für ca. 6 Mini-Fälle bzw. Fragen und/oder 3 mittelgroße Fälle/Fragen oder Mischung
+- Optimale Beantwortung anhand folgender Kriterien
+	- **Mindestantwort**: Kurz, nur **Wesentliches**! I.d.R. reichen sehr wenige Sätze (vollständige Sätze, nicht Notizen)
+	- **Notendifferenzierung**: Hinweis auf Norm, Herleitung aus Wortlaut, ggf. Abgrenzung, Vergleich, Normzweck, **Gutachtenstil** oder anderes Kluges
+- Die Bewertung erfolgt nach Schwierigkeitsgrad der Aufgabe
+	- Schwierigkeitsgrade: * max. 4 Punkte, ** max. 6 Punkte, *** max. 8 Punkte
+
+***
 #### Inhaltsverzeichnis
 
 %% Begin Waypoint %%
