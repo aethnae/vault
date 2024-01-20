@@ -44,6 +44,8 @@
 			- [[Schweigen auf Anträge]]
 			- [[Sonstige Sonderregeln der Handelsgeschäftslehre]]
 		- **6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler**
+			- [[Absatz- und Geschäftsmittler]]
 			- [[Handelsrechtliche Stellvertretung]]
+			- [[Weitere Handelsrechtliche Vollmachten]]
 
 %% End Waypoint %%

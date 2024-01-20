@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3d68ba8a5a76190c",
+        "id": "783ac3f7789c5f6c",
         "type": "tabs",
         "children": [
           {
-            "id": "a78eb4aa97417b07",
+            "id": "274b88562c15bdce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler/Handelsrechtliche Stellvertretung.md",
-                "mode": "source",
+                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "deklar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler/Handelsrechtliche Stellvertretung.md",
+                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler/Handelsrechtliche Stellvertretung.md"
+                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler/Handelsrechtliche Stellvertretung.md"
+                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md"
               }
             }
           }
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler/Handelsrechtliche Stellvertretung.md",
+                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler/Handelsrechtliche Stellvertretung.md",
+                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,24 +258,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a78eb4aa97417b07",
+  "active": "274b88562c15bdce",
   "lastOpenFiles": [
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/5. Handelsgeschäftslehre & Handelskauf/Handelskäufe.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler/Absatz- und Geschäftsmittler.md",
+    "files/Pasted image 20240120152038.png",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler/Handelsrechtliche Stellvertretung.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler/Weitere Handelsrechtliche Vollmachten.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/1. Einführung/Was ist Handelsrecht?.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/5. Handelsgeschäftslehre & Handelskauf/Handelskäufe.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/5. Handelsgeschäftslehre & Handelskauf/Schweigen auf Anträge.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/5. Handelsgeschäftslehre & Handelskauf/Sonstige Sonderregeln der Handelsgeschäftslehre.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Handelsgeschäfte.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler/Untitled.md",
+    "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Handelsregister.md",
+    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Willenserklärungen.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Untitled",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/5. Handelsgeschäftslehre & Handelskauf/Untitled",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/5. Handelsgeschäftslehre & Handelskauf/Schweigen auf Anträge.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/5. Handelsgeschäftslehre & Handelskauf/Sonstige Sonderregeln der Handelsgeschäftslehre.md",
     "university/Mikroökonomie I/Mikroökonomie I.md",
     "school/Erdkunde/Strukturwandel/Bruttoinlandsprodukt.md",
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Mängel beim Zustandekommen eines Vertrags.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Unternehmen als Übertragungsgegenstand.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Publizität des Handelsregisters.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Firmengrundsätze.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Handelsregister.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Handelsgewerbe.md",
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Erklärungsbewusstsein.md",
@@ -289,12 +294,7 @@
     "files/Pasted image 20240118212949.png",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Firmenbegriff und Abgrenzung.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Scheinkaufmann.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Gewerbe und Gewerbebetrieb.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/1. Einführung/Was ist Handelsrecht?.md",
-    "university/Handels- und Gesellschaftsrecht/Handels- und Gesellschaftsrecht.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister",
-    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Kaufmannsarten.md",
     "files/Pasted image 20240118170523.png",
     "files/Pasted image 20240118170337.png",
     "files/Pasted image 20240118170307.png",
@@ -305,7 +305,6 @@
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht",
     "files/Pasted image 20240117194511.png",
     "files/Pasted image 20240117193952.png",
-    "files/Pasted image 20240117182846.png",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
