@@ -36,7 +36,7 @@ date modified: Friday, January 19th 2024, 9:27:39 pm
 	- Untersuchung und Rüge:
 		- **Bestimmtheit**: Art und Umfang des Mangels ist so anzugeben, dass Verkäufer nachvollziehen und beheben kann
 		- **Unverzüglich**: ohne schuldhaftes Zögern, § 121 I 1 BGB
-			- *offener Mangel: sofort
+			- *offener Mangel: sofort (wenige Stunden bei verderblicher Ware, sonst 1-2 Tage)*
 			- *verdeckter Mangel: nach Untersuchung/Entdeckung*
 		- maßgeblicher **Zeitpunkt**: Absendung, § 377 IV HGB
 2. **Rechtsfolge:**
