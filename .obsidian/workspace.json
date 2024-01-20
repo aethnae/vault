@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Handels- und Gesellschaftsrecht.md",
-                "mode": "preview",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Grundlagen der Gesellschaft.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Handels- und Gesellschaftsrecht.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Grundlagen der Gesellschaft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Handels- und Gesellschaftsrecht.md"
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Grundlagen der Gesellschaft.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Handels- und Gesellschaftsrecht.md"
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Grundlagen der Gesellschaft.md"
               }
             }
           }
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Handels- und Gesellschaftsrecht.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Grundlagen der Gesellschaft.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Handels- und Gesellschaftsrecht.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Grundlagen der Gesellschaft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,11 +260,15 @@
   },
   "active": "274b88562c15bdce",
   "lastOpenFiles": [
-    "university/Handels- und Gesellschaftsrecht/Handels- und Gesellschaftsrecht.md",
-    "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler/Absatz- und Geschäftsmittler.md",
-    "files/Pasted image 20240120152038.png",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Grundlagen der Gesellschaft.md",
+    "files/Pasted image 20240120173407.png",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler/Handelsrechtliche Stellvertretung.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler/Absatz- und Geschäftsmittler.md",
+    "university/Handels- und Gesellschaftsrecht/Handels- und Gesellschaftsrecht.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/Untitled.md",
+    "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
+    "files/Pasted image 20240120152038.png",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler/Weitere Handelsrechtliche Vollmachten.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/1. Einführung/Was ist Handelsrecht?.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/5. Handelsgeschäftslehre & Handelskauf/Handelskäufe.md",
@@ -288,13 +292,10 @@
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/5. Handelsgeschäftslehre & Handelskauf",
     "dfn/Social Media/Marktuntersuchung \"Social-Media-Plattformen\".md",
     "dfn/Wikipedia-Artikel/Netze/Gigabit-Wissenschaftsnetz.md",
-    "dfn/Wikipedia-Artikel/Netze/Deutsches Wissenschaftsnetz.md",
-    "dfn/Wikipedia-Artikel/Netze/Breitband-Wissenschaftsnetz.md",
     "files/Pasted image 20240118213856.png",
     "files/Pasted image 20240118213821.png",
     "files/Pasted image 20240118212949.png",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Firmenbegriff und Abgrenzung.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister",
     "files/Pasted image 20240118170523.png",
     "files/Pasted image 20240118170337.png",
@@ -303,9 +304,7 @@
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/1. Einführung",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht",
     "files/Pasted image 20240117194511.png",
-    "files/Pasted image 20240117193952.png",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",

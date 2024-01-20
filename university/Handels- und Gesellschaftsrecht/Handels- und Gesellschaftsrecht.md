@@ -34,6 +34,8 @@
 - [[Handels- und Gesellschaftsrecht]]
 - **Konzepte**
 	- **Gesellschaftsrecht**
+		- **1. Gesellschaftsrechtliche Grundlagen**
+			- [[Grundlagen der Gesellschaft]]
 	- **Handelsrecht**
 		- **1. Einführung**
 			- [[Was ist Handelsrecht?]]
