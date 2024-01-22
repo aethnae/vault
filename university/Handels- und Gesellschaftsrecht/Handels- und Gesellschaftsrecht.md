@@ -37,7 +37,9 @@
 		- **1. Gesellschaftsrechtliche Grundlagen**
 			- [[Gesellschaftsformen]]
 			- [[Grundlagen der Gesellschaft]]
+			- [[Konzession]]
 			- [[Merkmale des eingetragenen Vereins]]
+			- [[Organe des Vereins]]
 	- **Handelsrecht**
 		- **1. Einführung**
 			- [[Was ist Handelsrecht?]]

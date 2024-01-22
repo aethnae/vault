@@ -26,6 +26,20 @@ Es handelt sich um Zusatzinformationen, die dem besseren Verständnis von Hinter
 > "Das setzt als Einigung also zwei übereinstimmende Willenserklärungen voraus. Das Angebot liegt vor. Bei der Annahme ist das Problem, dass A die Willenserklärung nicht selbst abgeben hat. Aber F hat als Vertreter die Willenserklärung abgeben. Er hat im fremden Namen gehandelt. Fraglich ist, ob er zur Veräußerung dieses konkreten Sessels bevollmächtigt war."
 
 ***
+#### Exkurs - Zitierweise
+
+Werden einzelne Rechtsnormen zitiert, sind diese so präzise wie möglich anzugeben. An erster Stelle sind die jeweiligen Paragraphen zu nennen, wobei mehrere zitierte Paragraphen mit zwei **„§§“** angezeigt werden. Die Rechtsnorm ist weiter zu konkretisieren durch
+
+- Absätze („Abs.“ oder „I, II, III..."),
+- Sätze („Satz“ oder „S.“ oder „1, 2, 3..."),
+- Halbsätze („Hs.“),
+- Nummern (,Nr."),
+- Ziffern („Ziff.“),
+- Alternativen („Alt.“), oder im Fall von zwei oder mehr Alternativen
+- Varianten („Var.“) oder
+- Fälle („Fall“)
+
+***
 #### Aufbau des BGB
 
 1. **Allgemeiner Teil**
@@ -44,7 +58,6 @@ Es handelt sich um Zusatzinformationen, die dem besseren Verständnis von Hinter
 
 %% Begin Waypoint %%
 - [[Bürgerliches Recht]]
-- [[Exkurs - Zitierweise]]
 - **Konzepte**
 	- **1. Grundbegriffe der Rechtswissenschaft**
 		- [[Abgrenzung zu anderen Rechtsgebieten]]
