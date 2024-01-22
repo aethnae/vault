@@ -35,7 +35,9 @@
 - **Konzepte**
 	- **Gesellschaftsrecht**
 		- **1. Gesellschaftsrechtliche Grundlagen**
+			- [[Gesellschaftsformen]]
 			- [[Grundlagen der Gesellschaft]]
+			- [[Merkmale des eingetragenen Vereins]]
 	- **Handelsrecht**
 		- **1. Einführung**
 			- [[Was ist Handelsrecht?]]

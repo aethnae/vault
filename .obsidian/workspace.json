@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "274b88562c15bdce",
+            "id": "af8aa2381c0aaa16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Grundlagen der Gesellschaft.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Merkmale des eingetragenen Vereins.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deklar",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Grundlagen der Gesellschaft.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Merkmale des eingetragenen Vereins.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Grundlagen der Gesellschaft.md"
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Merkmale des eingetragenen Vereins.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Grundlagen der Gesellschaft.md"
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Merkmale des eingetragenen Vereins.md"
               }
             }
           }
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Grundlagen der Gesellschaft.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Merkmale des eingetragenen Vereins.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Grundlagen der Gesellschaft.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Merkmale des eingetragenen Vereins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,11 +258,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "274b88562c15bdce",
+  "active": "af8aa2381c0aaa16",
   "lastOpenFiles": [
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Gesellschaftsformen.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Merkmale des eingetragenen Vereins.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Grundlagen der Gesellschaft.md",
-    "files/Pasted image 20240120173407.png",
+    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Rechtsformen.md",
+    "university/Externes Rechnungswesen/Übungen/Lernbrief 4 - Aufwendungen und Erträge.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler/Handelsrechtliche Stellvertretung.md",
+    "files/Pasted image 20240120173407.png",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler/Absatz- und Geschäftsmittler.md",
     "university/Handels- und Gesellschaftsrecht/Handels- und Gesellschaftsrecht.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen",
@@ -288,10 +292,7 @@
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Firmengrundsätze.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Handelsgewerbe.md",
-    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Erklärungsbewusstsein.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/5. Handelsgeschäftslehre & Handelskauf",
-    "dfn/Social Media/Marktuntersuchung \"Social-Media-Plattformen\".md",
-    "dfn/Wikipedia-Artikel/Netze/Gigabit-Wissenschaftsnetz.md",
     "files/Pasted image 20240118213856.png",
     "files/Pasted image 20240118213821.png",
     "files/Pasted image 20240118212949.png",

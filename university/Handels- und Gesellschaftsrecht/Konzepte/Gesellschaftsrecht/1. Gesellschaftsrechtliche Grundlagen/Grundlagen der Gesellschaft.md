@@ -5,7 +5,7 @@ tags:
 week: 2023-11-30
 flashcard: false
 publish: true
-source: VL 8, Folie 2 ff.
+source: VL 8, Folie 2 / Folie 5 ff.
 date created: Saturday, January 20th 2024, 5:23:29 pm
 date modified: Saturday, January 20th 2024, 5:26:55 pm
 ---
@@ -23,9 +23,17 @@ date modified: Saturday, January 20th 2024, 5:26:55 pm
 > Die gemeinsame Ausübung einer wirtschaftlichen Tätigkeit selbst ist schon ein Grund *für* eine Gesellschaftgründung. Hinzu kommen außerdem Gründe wie **Kapitalerhöhung** und **Haftungsbegrenzung**.
 
 ***
-#### Unterscheidung verschiedener Gesellschaftsformen
+#### Gründung & Gestaltung einer Gesellschaft
 
-*Gesellschaften kommen in vielen unterschiedlichen Formen vor. Grob lassen sie sich wie in folgender Grafik voneinander unterscheiden:*
+- Es besteht die **Gründungsfreiheit** nach Art. 9 I GG:
 
-![[Pasted image 20240120173407.png|center|650]]
+> [!info] Art. 9 GG 
+> 1. Alle Deutschen haben das Recht, Vereine und Gesellschaften zu bilden.
+> 2. ...
 
+- Desweiteren besteht die Freiheit der Rechtsformwahl innerhalb des **Numerus Clausus** der [[Gesellschaftsformen]]
+- Der **Numerus Clausus** der Gesellschaftsformen sieht vor, dass aus diesen nur innerhalb der rechtlichen Möglichkeiten gewählt werden darf, um einen angemessenen Schutz des Rechtsverkehrs zu gewährleisten
+	- An der Gesellschaftsform ist für Gläubiger, Teilnehmer am Geschäftsverkehr und auch für die Gesellschafter selbst erkennbar, welche Rechtsverhältnisse und ggf. auch Haftungsbeschränkungen bestehen
+- Im Innenverhältnis besteht jedoch ein Gestaltungsspielraum auf Seite der Gesellschafter
+	- Der Gesellschaftsvertrag steht zur Disposition offen, d.h. es können gewisse Klauseln individuell gestaltet werden
+		- **Ausnahme**: Aktiengesellschaften unterliegen einer besonderen *Satzungsstrenge*
