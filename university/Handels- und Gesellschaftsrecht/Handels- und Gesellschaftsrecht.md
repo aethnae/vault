@@ -40,6 +40,10 @@
 			- [[Konzession]]
 			- [[Merkmale des eingetragenen Vereins]]
 			- [[Organe des Vereins]]
+		- **2. Gesellschaften mit beschränkter Haftung**
+			- [[Begriff und Konzeption der GmbH]]
+			- [[Gründung der GmbH]]
+			- [[Organisation der GmbH]]
 	- **Handelsrecht**
 		- **1. Einführung**
 			- [[Was ist Handelsrecht?]]

@@ -16,7 +16,6 @@
     }
   ],
   "editor:delete-paragraph": [],
-  "workspace:close": [],
   "editor:insert-link": [],
   "app:toggle-left-sidebar": [
     {
@@ -100,14 +99,6 @@
       "key": "F"
     }
   ],
-  "darlal-switcher-plus:switcher-plus:open-workspaces": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "W"
-    }
-  ],
   "math-booster:insert-display-math": [
     {
       "modifiers": [
@@ -115,5 +106,15 @@
       ],
       "key": "Q"
     }
-  ]
+  ],
+  "darlal-switcher-plus:switcher-plus:open-workspaces": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "workspace:close-window": []
 }

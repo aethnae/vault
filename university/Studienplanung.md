@@ -16,18 +16,18 @@ publish: false
 - [ ] Bürgerliches Recht
 
 ##### Wahlbereich A - VWL
-- [ ] -
+- [ ] Keine gewählt
 
 ##### Wahlbereich B - BWL
-- [ ] Externes Rechnungswesen
+- [ ] ~~Externes Rechnungswesen~~
 
 ##### Wahlbereich C - WiWi
-- [ ] -
+- [ ] Keine gewählt
 
 ##### Überfachlicher Wahlbereich
-- [ ] -
+- [ ] Keine Gewählt
 
-*Somit entfallen 6 der nötigen 18 LP auf den Bereich B - BWL.*
+*Somit entfallen 0 der nötigen 18 LP auf den Bereich B - BWL. Dies muss im 3. Fachsemester kompensiert werden.*
 
 ***
 ### 2. Semester
@@ -38,13 +38,17 @@ publish: false
 - [ ] Mikroökonomie II (VWL IV)
 
 ##### Wahlbereich A - VWL
+- [ ] 
 
 ##### Wahlbereich B - BWL
 - [ ] Grundlagen der Finanzwirtschaft I
+- [ ] Strategie & Organisation
 
 ##### Wahlbereich C - WiWi
+- [ ] 
 
 ##### Überfachlicher Wahlbereich
+- [ ] 
 
 ***
 ### 3. Semester
