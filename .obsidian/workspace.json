@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
-                "mode": "preview",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Gründung der GmbH.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "juristische person",
+                "query": "rechtsformzusatz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4cae0943d8942f29",
@@ -80,7 +81,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Gründung der GmbH.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md"
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Gründung der GmbH.md"
               }
             }
           },
@@ -187,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md"
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Gründung der GmbH.md"
               }
             }
           }
@@ -204,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Gründung der GmbH.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -228,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Gründung der GmbH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,6 +261,12 @@
   },
   "active": "76ace3576e56e6ef",
   "lastOpenFiles": [
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Firmenbegriff und Abgrenzung.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Gründung der GmbH.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Gesellschaftsformen.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Begriff und Konzeption der GmbH.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Organisation der GmbH.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Totales Differential.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test IV.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test III.md",
@@ -268,12 +275,9 @@
     "university/Mathematik I/Rechengesetze.md",
     "university/Bürgerliches Recht/Bürgerliches Recht.md",
     "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Gründung der GmbH.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Organisation der GmbH.md",
     "files/Pasted image 20240122214232.png",
     "university/Studienplanung.md",
     "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Gewährleistung von Verfahrensgerechtigkeit.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Begriff und Konzeption der GmbH.md",
     "files/Pasted image 20240122211243.png",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Organe des Vereins.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung",
@@ -286,9 +290,6 @@
     "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Willenserklärungen.md",
     "university/Bürgerliches Recht/Konzepte/6. Leistungsstörungen bei Schuldverhältnissen/Untitled.md",
     "university/Bürgerliches Recht/Exkurs - Zitierweise.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Gesellschaftsformen.md",
-    "university/Externes Rechnungswesen/Konzepte/Rechtsgrundlagen/Rechtsformen.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Grenzrate der Transformation.md",
     "files/Pasted image 20240120173407.png",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen",
     "files/Pasted image 20240120152038.png",
