@@ -1,6 +1,5 @@
 ---
 source: 
-page: 
 tags:
   - nachfrage
 week: 2023-12-06
