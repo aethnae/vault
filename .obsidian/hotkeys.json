@@ -116,5 +116,6 @@
       "key": "W"
     }
   ],
-  "workspace:close-window": []
+  "workspace:close-window": [],
+  "make-md:mk-blink": []
 }

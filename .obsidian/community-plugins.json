@@ -28,5 +28,7 @@
   "obsidian-footnotes",
   "math-in-callout",
   "auto-displaystyle-inline-math",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "insert-heading-link",
+  "link-headers-directly"
 ]

@@ -49,6 +49,7 @@
 			- [[Unternehmergesellschaften]]
 		- **3. Aktiengesellschaften**
 			- [[Begriff und Konzeption der AG]]
+			- [[Finanzverfassung der AG]]
 			- [[Fremdorganschaft]]
 			- [[Gründung der AG]]
 			- [[Organisation der AG]]

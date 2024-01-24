@@ -57,3 +57,13 @@ Der Aufsichtsrat einer Aktiengesellschaft unterliegt folgenden, durch das Aktien
 	- Mindestens 3 Mitglieder; Höchstzahl richtet sich je nach Grundkapital
 
 ***
+#### Hauptversammlung
+
+Die Mitgliederversammlung einer Aktiengesellschaft unterliegt folgenden, durch das Aktiengesetz definierten Pflichten:
+
+1. **§ 118 AktG**: „Sitz der *Aktionärsdemokratie*“
+	- Diese Rechtsnorm stellt genaue Anforderungen an die Teilnahme an einer Mitgliederversammlung auf, etwa über eine Anwesenheitspflicht
+2. **§ 119 AktG**: **Rechte** der Hauptversammlung
+	- Abs. 1 regelt den *Zuständigkeitskatalog* der Hauptversammlung gegenüber des [[#Vorstand|Vorstands]] und des [[#Aufsichtsrat|Aufsichtsrats]]
+		- z.B. Bestellung der Mitglieder des Aufsichtsrats, Verwendung des Bilanzgewinns, Bestellung des Abschlussprüfers
+	- Abs. 2 definiert, dass über Fragen der Geschäftsführung nur auf Verlangen des Vorstands beraten werden darf, der Grund dafür liegt in **§ 76 AktG**
