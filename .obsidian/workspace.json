@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7aad1d42afb29af9",
+        "id": "743499c4d2783793",
         "type": "tabs",
         "children": [
           {
-            "id": "76ace3576e56e6ef",
+            "id": "b89a5606178c7c77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Gründung der GmbH.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Organisation der AG.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rechtsformzusatz",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4cae0943d8942f29",
@@ -81,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Gründung der GmbH.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Organisation der AG.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Gründung der GmbH.md"
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Organisation der AG.md"
               }
             }
           },
@@ -188,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Gründung der GmbH.md"
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Organisation der AG.md"
               }
             }
           }
@@ -205,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Gründung der GmbH.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Organisation der AG.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -229,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Gründung der GmbH.md",
+                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Organisation der AG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,37 +258,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76ace3576e56e6ef",
+  "active": "b89a5606178c7c77",
   "lastOpenFiles": [
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Organisation der AG.md",
+    "files/Pasted image 20240123233440.png",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Gründung der AG.md",
+    "files/Pasted image 20240123233007.png",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Fremdorganschaft.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Begriff und Konzeption der AG.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Handelsgewerbe.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Firmenbegriff und Abgrenzung.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Gründung der GmbH.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Gesellschaftsformen.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Begriff und Konzeption der GmbH.md",
+    "files/Pasted image 20240123231252.png",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Unternehmergesellschaften.md",
+    "university/Mathematik I/Mathematik I.md",
+    "university/Mathematik I/Konzepte/Einschub - mathematische Beweisführung/Vollständige Induktion.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Organisation der GmbH.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Gründung der GmbH.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Gesellschafterwechsel.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Begriff und Konzeption der GmbH.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Außenverhältnis der GmbH.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Gesellschaftsformen.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Organe des Vereins.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Merkmale des eingetragenen Vereins.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Grundlagen der Gesellschaft.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler/Handelsrechtliche Stellvertretung.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Totales Differential.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test IV.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test III.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test II.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test I.md",
-    "university/Mathematik I/Rechengesetze.md",
-    "university/Bürgerliches Recht/Bürgerliches Recht.md",
-    "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md",
     "files/Pasted image 20240122214232.png",
-    "university/Studienplanung.md",
-    "university/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Gewährleistung von Verfahrensgerechtigkeit.md",
     "files/Pasted image 20240122211243.png",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Organe des Vereins.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Vertretung und Haftung eines Vereins.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Merkmale des eingetragenen Vereins.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Konzession.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Grundlagen der Gesellschaft.md",
-    "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
-    "university/Bürgerliches Recht/Konzepte/1. Grundbegriffe der Rechtswissenschaft/Schadensersatz.md",
-    "university/Bürgerliches Recht/Konzepte/3. Anfechtungen & Wirksamkeit von Verträgen/Willenserklärungen.md",
-    "university/Bürgerliches Recht/Konzepte/6. Leistungsstörungen bei Schuldverhältnissen/Untitled.md",
-    "university/Bürgerliches Recht/Exkurs - Zitierweise.md",
     "files/Pasted image 20240120173407.png",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen",
     "files/Pasted image 20240120152038.png",
@@ -302,11 +304,7 @@
     "files/Pasted image 20240118212949.png",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister",
-    "files/Pasted image 20240118170523.png",
-    "files/Pasted image 20240118170337.png",
-    "files/Pasted image 20240118170307.png",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/1. Einführung",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",

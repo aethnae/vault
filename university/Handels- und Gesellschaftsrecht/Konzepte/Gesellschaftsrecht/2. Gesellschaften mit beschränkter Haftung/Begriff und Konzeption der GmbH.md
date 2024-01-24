@@ -2,6 +2,7 @@
 tags:
   - GmbH
   - rechtsgrundlagen
+  - gesellschaften
 week: 2023-12-07
 flashcard: false
 publish: true

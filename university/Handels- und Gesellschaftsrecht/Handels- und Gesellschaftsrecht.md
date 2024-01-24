@@ -41,9 +41,17 @@
 			- [[Merkmale des eingetragenen Vereins]]
 			- [[Organe des Vereins]]
 		- **2. Gesellschaften mit beschränkter Haftung**
+			- [[Außenverhältnis der GmbH]]
 			- [[Begriff und Konzeption der GmbH]]
+			- [[Gesellschafterwechsel]]
 			- [[Gründung der GmbH]]
 			- [[Organisation der GmbH]]
+			- [[Unternehmergesellschaften]]
+		- **3. Aktiengesellschaften**
+			- [[Begriff und Konzeption der AG]]
+			- [[Fremdorganschaft]]
+			- [[Gründung der AG]]
+			- [[Organisation der AG]]
 	- **Handelsrecht**
 		- **1. Einführung**
 			- [[Was ist Handelsrecht?]]

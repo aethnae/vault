@@ -7,6 +7,8 @@ publish: true
 source: VL 3, Folie 4 ff.
 date created: Thursday, January 18th 2024, 7:02:38 pm
 date modified: Thursday, January 18th 2024, 7:02:53 pm
+aliases:
+  - Firma
 ---
 ***
 #### Der Firmenbegriff

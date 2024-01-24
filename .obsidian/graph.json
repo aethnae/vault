@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:dfn  ",
-      "color": {
-        "a": 1,
-        "rgb": 10290694
-      }
-    },
-    {
       "query": "path:school",
       "color": {
         "a": 1,
@@ -55,6 +48,13 @@
         "a": 1,
         "rgb": 2879191
       }
+    },
+    {
+      "query": "path:\"university/Externes Rechnungswesen\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16384000
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +67,6 @@
   "repelStrength": 10.4402669270833,
   "linkStrength": 0.833455403645833,
   "linkDistance": 250,
-  "scale": 0.47927541151993275,
+  "scale": 0.13410271773054463,
   "close": true
 }
