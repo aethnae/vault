@@ -4,15 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "0be77fefa81dc80c",
+        "id": "0f7dad3647fd5c68",
         "type": "tabs",
         "children": [
           {
-            "id": "bae400aaa5672d1f",
+            "id": "b9e312fe77e66895",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Klausurvorbereitung - Mikroökonomie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e92b47c4ec8c579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Präferenzrelationen.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -76,6 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Klausurvorbereitung - Mikroökonomie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Klausurvorbereitung - Mikroökonomie.md"
+              }
             }
           },
           {
@@ -179,7 +198,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Klausurvorbereitung - Mikroökonomie.md"
+              }
             }
           }
         ]
@@ -195,6 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Klausurvorbereitung - Mikroökonomie.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -218,6 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Klausurvorbereitung - Mikroökonomie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,8 +271,11 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "bae400aaa5672d1f",
+  "active": "b9e312fe77e66895",
   "lastOpenFiles": [
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Präferenzrelationen.md",
+    "Klausurvorbereitung - Mikroökonomie.md",
+    "university/Mikroökonomie I/Mikroökonomie I.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Marktnachfrage.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/4. Gesellschaften bürgerlichen Rechts/Beendigung der GbR.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/4. Gesellschaften bürgerlichen Rechts/Außenverhältnis der GbR.md",
@@ -275,9 +301,6 @@
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Fremdorganschaft.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Organisation der AG.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Handelsgewerbe.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Gewerbe und Gewerbebetrieb.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler/Weitere Handelsrechtliche Vollmachten.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler/Handelsrechtliche Stellvertretung.md",
     "Spaces/Home",
     "Spaces",
     "files/Pasted image 20240123233440.png",

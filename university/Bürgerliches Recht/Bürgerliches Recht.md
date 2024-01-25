@@ -95,6 +95,6 @@ Werden einzelne Rechtsnormen zitiert, sind diese so präzise wie möglich anzuge
 		- [[Verjährung]]
 		- [[Zugangsvereitelung]]
 	- **6. Leistungsstörungen bei Schuldverhältnissen**
-		- [[Untitled]]
+		- [[Klausurvorbereitung - Mikroökonomie]]
 
 %% End Waypoint %%
