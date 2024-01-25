@@ -13,7 +13,7 @@ date modified: Thursday, January 11th 2024, 5:26:52 pm
 > [!example]+ Beispiel 
 > **A** ist selbständiger Architekt und braucht dringend ein neues Kopiergerät. Aus einem Katalog des Büromaterialhändlers **Meyer** sucht er sich einen Kopierer des Typs CX-P-35 zum Preis von 2.000€ aus und sendet am 3.1.2023 an diese folgendes Schreiben: „Hiermit bestelle ich einen Kopierer des Typs CX-P-35.“ Am 4.1.2023 landet das Schreiben um 18 Uhr im Briefkasten der Meyer-GmbH. Am Vormittag des 6.1.2023 nimmt Meyer das Schreiben zur Kenntnis. Am 7.1.2023 verfasst Meyer folgendes Schreiben: „Hiermit bestätigen wir die Bestellung eines Kopierers des Typs CX-P-35 zum Preis von 2000€; Lieferung in einer Woche. Das Schreiben landet am Vormittag des 8.1.2023 bei A im Briefkasten.
 
-- Wann kam im obigen Beispiel ein Vertrag zustande?
+- Wann kam im obigen Beispiel ein [[Willenserklärungen|Vertrag]] zustande?
 
 > [!note] Voraussetzungen für einen Vertragsschluss 
 > Für einen Vertragsschluss sind zwei kongruente Willenserklärungen notwendig, diese werden auch als **Angebot** und **Annahme** bezeichnet.
@@ -30,7 +30,7 @@ date modified: Thursday, January 11th 2024, 5:26:52 pm
 
 2. **Bestellung im Schreiben des A vom 3.1.**
 	- Abgabe einer [[Willenserklärungen|Willenserklärung]]?
-		- Geschäftsfähigkeit (+)
+		- [[Gewährleistung von Verfahrensgerechtigkeit|Geschäftsfähigkeit]] (+)
 		- Abgabe einer Willenserklärung mit [[Handlungswille]] und [[Erklärungsbewusstsein]] (+)
 		- Wichtig für ein gültiges Angebot: Inhalt i.S.v. § 145
 

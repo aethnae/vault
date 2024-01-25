@@ -32,7 +32,7 @@ date modified: Monday, January 22nd 2024, 9:11:49 pm
 	- Einforderung von Einzahlungen auf die Stammeinlagen (Stammkapital)
 	- Bestellung / Abberufung von Geschäftsführern sowie deren Entlastung
 	- Prüfung und Überwachung der Geschäftsführung
-	- Bestellung von Prokuristen und Handlungsbevollmächtigten
+	- Bestellung von [[Handelsrechtliche Stellvertretung|Prokuristen]] und Handlungsbevollmächtigten
 2. Die **Beschlussfassung** findet nach Kapitalmehrheit statt (**§ 47 GmbhG**)
 	- Es bestehen in Ausnahmefällen **Stimmverbote** (**§ 47 IV GmbHG**)
 	- Die Einberufung findet durch den [[#Merkmale des Geschäftsführers i.S.v. §§ 6, 35 GmbHG|Geschäftsführer]] statt

@@ -345,7 +345,7 @@ Bestimmen Sie die Größen $a_1, q, a_4$ und $\displaystyle \sum_{i=1}^4 a_i$.
 
 ***
 #### Aufgabe 1.14
-In einer Firma soll innerhalb eines Jahres eine monatliche Produktionserhöhung von $3 \%$ erreicht werden. Im Monat Januar betrug die Produktion 1000 Stück.
+In einer [[Firmenbegriff und Abgrenzung|Firma]] soll innerhalb eines Jahres eine monatliche Produktionserhöhung von $3 \%$ erreicht werden. Im Monat Januar betrug die Produktion 1000 Stück.
 
 **a)**
 Bestimmen sie die Produktion für den Monat Juli.

@@ -36,9 +36,9 @@ $\longrightarrow$ Somit liegen die Voraussetzungen für einen Missbrauch der Ver
 
 - Diese werden analog nach **§§ 177 ff.** gebildet
 	→ Anwendung der Vorschriften zum Vertreter ohne Vertretungsmacht
-	→ Vertrag über den Verkauf der Jacke schwebend unwirksam
+	→ [[Willenserklärungen|Vertrag]] über den Verkauf der Jacke schwebend unwirksam
 	→ Abteilungsleiter verweigert Herausgabe der Sache; darin liegt Verweigerung der Zustimmung zum Vertragsschluss
-	→ kein Vertrag zustande gekommen
+	→ kein [[Willenserklärungen|Vertrag]] zustande gekommen
 	→ Stellt sich die Folgefrage: Haftet M nach **§ 179 I**? Antwort nein: beachten Sie **§ 179 III S. 1**!
 
 

@@ -41,7 +41,7 @@ aliases:
 ***
 #### Erteilung der Prokura
 
-- Die Erteilung findet durch einen Kaufmann statt (**§ 48 I HGB**)
+- Die Erteilung findet durch einen [[university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten|Kaufmann]] statt (**§ 48 I HGB**)
 	- Anders gesprochen: Erteilung durch den Inhaber des Handelsgeschäfts od. gesetzlichen Vertreter 
 - Die Erteilung richtet sich an eine (andere) natürliche Person
 - Dies findet mittels ausdrücklicher Erklärung statt
@@ -75,7 +75,7 @@ aliases:
 ***
 #### Zeichnungszusatz und Erlöschen der Prokura
 
-- Der Prokurist hat laut **§ 51 HGB** so zu unterzeichnen, dass er der Firma seinen Namen mit einem angemessenen Zusatz andeutet (ppa.)
+- Der Prokurist hat laut **§ 51 HGB** so zu unterzeichnen, dass er der [[Firmenbegriff und Abgrenzung|Firma]] seinen Namen mit einem angemessenen Zusatz andeutet (ppa.)
 - Die Prokura endet mit Beendigung des **Grundverhältnisses**, also des Rechtsgeschäfts, auf dessen Grundlage sie erteilt wurde (§ 168 S. 1 BGB)
 - Auch kann eine Prokura widerrufen werden, dies ist laut **§ 52 HGB** jedoch **eintragungspflichtig**
 

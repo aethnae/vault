@@ -14,8 +14,8 @@ date modified: Wednesday, January 24th 2024, 3:52:58 pm
 
 - Der Mindestnennbetrag des Grundkapitals muss i.S.v. **§ 7 AktG** mindestens 50.000€ betragen
 	- Dieser muss laut **§ 8 AktG** in *Nennbetrags-* oder *Stückaktien* aufgeteilt sein
-		- **Nennbetragsaktien**: Aktien mit einem festen Geldwert $\geq$ 1€; Anteil am Grundkapital bestimmt sich nach dem Verhältnis ihres Nennbetrags zum Grundkapital
-		- **Stückaktien:** Stückaktien einer Gesellschaft sind am Grundkapital in gleichem Umfang beteiligt, dürfen jedoch 1€ nicht unterschreiten; Anteil am Grundkapital bestimmt sich nach der Zahl der Aktien
+		- **Nennbetragsaktien**: [[Aktien]] mit einem festen Geldwert $\geq$ 1€; Anteil am Grundkapital bestimmt sich nach dem Verhältnis ihres Nennbetrags zum Grundkapital
+		- **Stückaktien:** Stückaktien einer Gesellschaft sind am Grundkapital in gleichem Umfang beteiligt, dürfen jedoch 1€ nicht unterschreiten; Anteil am Grundkapital bestimmt sich nach der Zahl der [[Aktien]]
 
 > [!caution] Wichtige Abgrenzungen 
 > - Das **Grundkapital** entspricht nicht zwangsläufig dem **Gesellschaftsvermögen**!
@@ -32,6 +32,17 @@ date modified: Wednesday, January 24th 2024, 3:52:58 pm
 		- Die Pflicht zur Deckung der Wertdifferenz besteht analog zu **§ 9 GmbHG**
 	- Es existiert *keine* Befreiung von der **Einlagepflicht** (**§ 66 I 1 AktG**)
 	- Auch **Aufrechnungen**, also gegenseitige Schuldtilgung ist i.S.v.  **§ 66 I 2 AktG** nicht zulässig
-	- Der durch Aktien eingeforderte Betrag steht „*zur freien Verfügung des Vorstands*“ – **§ 36 II AktG**
-3. Problemfall "**verdeckte Sacheinlagen**" i.S.v. **§ 27 III AktG**
+	- Der durch [[Aktien]] eingeforderte Betrag steht „*zur freien Verfügung des Vorstands*“ – **§ 36 II AktG**
+1. Problemfall "**verdeckte Sacheinlagen**" i.S.v. **§ 27 III AktG**
 	- Die Geldeinlagepflicht besteht fort (**§ 27 III 1 AktG**), jedoch findet eine Anrechnung des Sachwertes statt (**§ 27 III 3 AktG**)
+
+***
+#### Kapitalerhaltung
+
+1. Es besteht der Grundsatz der **strengen Kapitalbindung** i.S.v. **§ 57 AktG**
+	- Abs 1: Es besteht ein Verbot der *Einlagerückgewähr*
+	- Abs 2: Desweiteren ist eine feste *Zinszusage* sowie *-Ausschüttung* verboten
+	- Abs 3: Begrenzung der Ausschüttung auf den Bilanzgewinn
+	- Zusätzlich besteht das Verbot "*verdeckter Gewinnausschüttungen*"
+
+**Rechtsfolgen:** $\longrightarrow$ Pflicht zur Rückgewähr nach **§ 62 AktG**

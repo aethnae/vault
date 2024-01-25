@@ -12,8 +12,8 @@ date modified: Thursday, January 18th 2024, 7:45:33 pm
 #### Kennzeichnungs- und Unterscheidungskraft | Firmenwahrheit
 
 > [!important] Kennzeichnungs- und Unterscheidungskraft & Firmenwahrheit i.S.v. § 18 HGB 
-> - Die Firma muss zur Kennzeichnung des Kaufmanns geeignet sein und Unterscheidungskraft besitzen.
-> - Die Firma darf keine Angaben enthalten, die geeignet sind, über geschäftliche Verhältnisse, die für die angesprochenen Verkehrskreise wesentlich sind, irrezuführen. Im Verfahren vor dem Registergericht wird die Eignung zur Irreführung nur berücksichtigt, wenn sie ersichtlich ist.
+> - Die [[Firmenbegriff und Abgrenzung|Firma]] muss zur Kennzeichnung des Kaufmanns geeignet sein und Unterscheidungskraft besitzen.
+> - Die [[Firmenbegriff und Abgrenzung|Firma]] darf keine Angaben enthalten, die geeignet sind, über geschäftliche Verhältnisse, die für die angesprochenen Verkehrskreise wesentlich sind, irrezuführen. Im Verfahren vor dem Registergericht wird die Eignung zur Irreführung nur berücksichtigt, wenn sie ersichtlich ist.
 
 1. **Kennzeichnungskraft**
 	- Es muss eine *abstrakte Namensfähigkeit* gegeben sein
@@ -47,8 +47,8 @@ Maßgeblich ist hier der Gesamteindruck, sowie das Wort- und Klangbild. Höhere 
 1. **Firmenöffentlichkeit** i.S.v. **§§ 29, 31 HGB**
 	- Eine Eintragung ins [[Handelsregister]] ist vorzunehmen
 2. **Firmenbeständigkeit** i.S.v. **§§ 21 - 24 HGB**
-	- Es bestehen Einschränkungen der [[#Kennzeichnungs- und Unterscheidungskraft Firmenwahrheit|Firmenwahrheit]] bei Fortführung der Firma, welche jedoch gerechtfertigt sind
+	- Es bestehen Einschränkungen der [[#Kennzeichnungs- und Unterscheidungskraft Firmenwahrheit|Firmenwahrheit]] bei Fortführung der [[Firmenbegriff und Abgrenzung|Firma]], welche jedoch gerechtfertigt sind
 3. **Firmeneinheit**
-	- Ein **Unternehmen** kann immer nur einer **Firma** zugeordnet werden
+	- Ein **Unternehmen** kann immer nur einer **[[Firmenbegriff und Abgrenzung|Firma]]** zugeordnet werden
 	- Ein Einzelkaufmann kann jedoch mehrere Unternehmen betreiben, solange diese jeweils unter eigenem Namen *firmieren*
-	- Personenhandelsgeselschaften und Kapitalgesellschaften dürfen immer nur eine Firma führen
+	- Personenhandelsgeselschaften und Kapitalgesellschaften dürfen immer nur eine [[Firmenbegriff und Abgrenzung|Firma]] führen

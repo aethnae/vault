@@ -1,11 +1,10 @@
 ---
-source: 
-page: 
 tags:
   - nachfrage
 week: 2023-11-15
 flashcard: false
 publish: true
+source: 
 date created: Tuesday, December 5th 2023, 9:16:22 pm
 date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
@@ -26,4 +25,4 @@ Da die Konsumentin in jedem Fall stets die gleiche Menge von jedem Gut konsumier
 Gerade durch den Ursprung, da [[Nachfragefunktion|Nachfragefunktion]] beider Güter $x_{1}$ und $x_{2}$ linear sind.
 
 ##### [[Quasilineare Präferenzen]]
-Vertikale Gerade, da für eins der Güter ein "Null-Einkommenseffekt" gegeben ist, heißt das gesamte zusätzliche Einkommen wird allein für eine Erhöhung des Konsums des anderen Guts ausgegeben.
+Vertikale Gerade, da für eins der Güter ein "Null-[[Einkommenseffekt]]" gegeben ist, heißt das gesamte zusätzliche Einkommen wird allein für eine Erhöhung des Konsums des anderen Guts ausgegeben.

@@ -44,6 +44,6 @@ publish: true
 | 1.     | +                    | Einzahlungen aus der Aufnahme von Krediten                             |
 | 2.     | -                    | Auszahlungen für die Tilgung von Krediten                              |
 | 3.     | -                    | Auszahlung an Unternehmenseigner/Gesellschafter in Form von Dividenden |
-| 4.     | +                    | Einzahlung aus der Ausgabe von Unternehmensanteilen (z.B. Aktien)      |
+| 4.     | +                    | Einzahlung aus der Ausgabe von Unternehmensanteilen (z.B. [[Aktien]])      |
 | 5.     | **=**                | **Cashflow aus Finanzierungstätigkeit**                                | 
 

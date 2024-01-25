@@ -43,10 +43,10 @@ $$
 gelten. Auflösung nach der Steigung der Indifferenzkurve ergibt
 
 $$
-MRS = \frac{\Delta x_{2}}{\Delta x_{1}} = - \frac{MU_{1}}{MU_{2}}
+[[university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution|MRS]] = \frac{\Delta x_{2}}{\Delta x_{1}} = - \frac{MU_{1}}{MU_{2}}
 $$
 
-Das negative Vorzeichen der MRS wird im Normalfall ausgelassen, da meist nur der Absolutwert eine Rolle spielt.
+Das negative Vorzeichen der [[university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution|MRS]] wird im Normalfall ausgelassen, da meist nur der Absolutwert eine Rolle spielt.
 
 $$
 \int_{x^{3}}^{m} x^{2} - \sin x + \frac{3}{x^{*}} \, dx 

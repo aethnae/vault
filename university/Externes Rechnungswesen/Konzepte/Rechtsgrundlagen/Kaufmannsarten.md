@@ -7,7 +7,7 @@ flashcard: true
 ***
 
 - **Istkaufmann**: Ein Kaufmann, der ein Handelsgewerbe im Sinne des § 1 (2) HGB betreibt
-- **Kannkaufmann**: Ein Kleingewerbe, dass durch Eintragung der Firma im Handelsregister die Kaufmannseigenschaft erwirbt (§2 HGB)
+- **Kannkaufmann**: Ein Kleingewerbe, dass durch Eintragung der [[Firmenbegriff und Abgrenzung|Firma]] im Handelsregister die Kaufmannseigenschaft erwirbt (§2 HGB)
 - **Formkaufmann**: Auf eine **Handelsgesellschaft** werden die Kaufleute betreffenden Vorschriften des HGBs angewendet (§ 6 (1) HGB). Handelsgesellschaften sind alle Personengesellschaften, die Handelsgewerbe betreiben, sowie UGs/GmbHs (§ 13 (3) GmbHG) und AGs (§ 3 (1) AG)
 
 #### Verpflichtung zur Rechnungslegung

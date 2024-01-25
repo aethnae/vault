@@ -45,7 +45,7 @@ $\longrightarrow$ Einzel- und Einpreis passen nicht zusammen, man spricht deshal
 
 - Um die Frage danach, ob der End- oder der Einzelpreis nun relevant ist, zu beantworten, müssen die §§ 137, 157 BGB beachtet werden
 	- Aus Sicht eines objektiven Dritten ist eindeutig, welche Ziffer maßgeblich ist
-	- Somit liegt eine **perplexe Willenserklärung** vor, und damit ist kein Vertrag zustande gekommen
+	- Somit liegt eine **perplexe Willenserklärung** vor, und damit ist kein [[Willenserklärungen|Vertrag]] zustande gekommen
 
 ***
 #### Übersicht
@@ -63,13 +63,13 @@ $\longrightarrow$ Einzel- und Einpreis passen nicht zusammen, man spricht deshal
 - Somit existieren unterschiedliche Beweismethoden für verschiedene Arten von Rechtsgeschäften
 
 > [!info] Gewillkürte Schriftform (**§§ 126, 125 I S. 2**) 
-> Wenn durch keine Gesetzesnorm eine besondere Formerfordernis aufgestellt wurde, ist ein Vertrag über dieses Rechtsgeschäft auch formfrei wirksam. Allerdings können die Vertragsparteien vereinbaren, dass nur eine schriftliche Vereinbarung wirksam sein soll.
+> Wenn durch keine Gesetzesnorm eine besondere Formerfordernis aufgestellt wurde, ist ein [[Willenserklärungen|Vertrag]] über dieses Rechtsgeschäft auch formfrei wirksam. Allerdings können die Vertragsparteien vereinbaren, dass nur eine schriftliche Vereinbarung wirksam sein soll.
 
 ***
 #### Beweiswert privatschriftlich geschlossener Verträge
 
 > [!example]+ Beispiel 
-> **A** und **B** einigen sich am 20.10.2023, dass A dem B seinen Wagen für 4 Wochen zum Preis von 600€ vermietet und schreiben diese Vereinbarung auf ein Blatt Papier, welche beide unterschreiben. Am 22.10.2023 fragt der B den A, ob er den Wagen für weitere 50€ nicht eine Woche länger haben könne, der A nickt. Nach Ablauf von vier Wochen verlangt A den Wagen zurück. B verweist darauf, dass A ihm eine weitere Woche zugestanden hat. A sagt, im Vertrag steht vier Wochen, basta! Wer hat Recht?
+> **A** und **B** einigen sich am 20.10.2023, dass A dem B seinen Wagen für 4 Wochen zum Preis von 600€ vermietet und schreiben diese Vereinbarung auf ein Blatt Papier, welche beide unterschreiben. Am 22.10.2023 fragt der B den A, ob er den Wagen für weitere 50€ nicht eine Woche länger haben könne, der A nickt. Nach Ablauf von vier Wochen verlangt A den Wagen zurück. B verweist darauf, dass A ihm eine weitere Woche zugestanden hat. A sagt, im [[Willenserklärungen|Vertrag]] steht vier Wochen, basta! Wer hat Recht?
 
 - Laut **§415 ZPO** haben alleine öffentliche Urkunden Beweiskraft für die Richtigkeit des Inhalts der Urkunde
 - Privaturkunden erbringen laut **§ 416 ZPO** jedoch nur einen Beweis darüber, dass X am Tag Y diese Erklärung abgegeben hat, nicht jedoch, ob die Aussage zutrifft
@@ -87,7 +87,7 @@ $\longrightarrow$ Einzel- und Einpreis passen nicht zusammen, man spricht deshal
 - Wie kann also sichergestellt werden, dass wirklich nur schriftlich fixierte Änderungen "zählen"?
 
 > [!note] Qualifizierte Schriftformklausel 
-> "*Der Vertrag wird erst mit der Unterschrift beider Parteien wirksam. Auch Änderungen des Vertrages bedürfen der Schriftform. Auch die Änderung oder Aufhebung dieser Klausel bedarf der Schriftform.*"
+> "*Der [[Willenserklärungen|Vertrag]] wird erst mit der Unterschrift beider Parteien wirksam. Auch Änderungen des Vertrages bedürfen der Schriftform. Auch die Änderung oder Aufhebung dieser Klausel bedarf der Schriftform.*"
 
 - Hier bringen die Parteien hinreichend zum Ausdruck, dass die Schriftform eine derart hohe Bedeutung für sie hat, dass sie sich daran auch für die Zukunft fest binden wollen
 

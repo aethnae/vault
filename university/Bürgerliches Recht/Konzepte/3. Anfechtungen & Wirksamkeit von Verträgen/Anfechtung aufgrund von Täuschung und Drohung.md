@@ -18,7 +18,7 @@ date modified: Wednesday, January 10th 2024, 7:51:58 pm
 > In dem selben Tauschgeschäft (jedoch ohne gefälschte Unterschrift) ist sich eine der Vertragsparteien darüber bewusst, dass sie ein schlechtes Geschäft macht, sie steht jedoch unter Drohung der anderen Partei, und geht deswegen das Geschäft trotzdem ein.
 
 - Im Falle des ersten Beispiels kann von einem angemessenen Interessenausgleich keine Rede sein
-- Lösung des BGB: Der Getäuschte kann seine Willenserklärung, die zum Vertragsschluss geführt hat, **anfechten** (**§ 123 I BGB**). Der Vertrag ist dann nichtig (**§ 142 I BGB**) und der Getäuschte kann das Trikot nach **§ 812 BGB** zurückverlangen
+- Lösung des BGB: Der Getäuschte kann seine Willenserklärung, die zum Vertragsschluss geführt hat, **anfechten** (**§ 123 I BGB**). Der [[Willenserklärungen|Vertrag]] ist dann nichtig (**§ 142 I BGB**) und der Getäuschte kann das Trikot nach **§ 812 BGB** zurückverlangen
 - Auch die Drohung, wie in Beispiel 2 beschrieben, ist ein Anfechtungsgrund (**§ 123 I und Var. 1**)
 
 ***

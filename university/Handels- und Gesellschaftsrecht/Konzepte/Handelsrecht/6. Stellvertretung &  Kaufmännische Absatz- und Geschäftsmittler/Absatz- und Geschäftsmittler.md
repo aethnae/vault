@@ -34,7 +34,7 @@ date modified: Saturday, January 20th 2024, 3:01:15 pm
 > Der **Vertragshändler** erwirbt und vertreibt Produkte des Haupthändlers unter seinem eigenen Namen und auf eigene Rechnung. Dabei ist dieser ständig eingegliedert in die Vertriebsorganisation eines Herstellers.
 
 - z.B. das Audi-Autohaus X
-	- Der Vertrag des Autokäufers kommt mit dem Autohaus zustande, nicht mit Audi direkt
+	- Der [[Willenserklärungen|Vertrag]] des Autokäufers kommt mit dem Autohaus zustande, nicht mit Audi direkt
 
 ***
 #### Franchisenehmer

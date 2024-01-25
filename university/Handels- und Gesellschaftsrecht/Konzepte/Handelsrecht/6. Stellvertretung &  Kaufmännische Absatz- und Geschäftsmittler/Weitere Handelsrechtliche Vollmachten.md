@@ -18,7 +18,7 @@ date modified: Saturday, January 20th 2024, 2:43:27 pm
 - Da für Handlungsvollmachten kein präzise definierter gesetzlicher Umfang existiert, fungiert der § 54 HGB als Auslegungshilfe für den Umfang der erteilten Vollmacht
 
 > [!info] § 54 HGB 
-> 1. Ist jemand ohne Erteilung der Prokura zum Betrieb eines Handelsgewerbes oder zur Vornahme einer bestimmten zu einem Handelsgewerbe gehörigen Art von Geschäften oder zur Vornahme einzelner zu einem Handelsgewerbe gehöriger Geschäfte ermächtigt, so erstreckt sich die Vollmacht (Handlungsvollmacht) auf alle Geschäfte und Rechtshandlungen, die der Betrieb eines derartigen Handelsgewerbes oder die Vornahme derartiger Geschäfte gewöhnlich mit sich bringt.
+> 1. Ist jemand ohne Erteilung der [[Handelsrechtliche Stellvertretung|Prokura]] zum Betrieb eines Handelsgewerbes oder zur Vornahme einer bestimmten zu einem Handelsgewerbe gehörigen Art von Geschäften oder zur Vornahme einzelner zu einem Handelsgewerbe gehöriger Geschäfte ermächtigt, so erstreckt sich die Vollmacht (Handlungsvollmacht) auf alle Geschäfte und Rechtshandlungen, die der Betrieb eines derartigen Handelsgewerbes oder die Vornahme derartiger Geschäfte gewöhnlich mit sich bringt.
 > 2. ...
 
 ***

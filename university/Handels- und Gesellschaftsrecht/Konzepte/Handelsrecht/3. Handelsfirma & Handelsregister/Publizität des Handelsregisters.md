@@ -24,7 +24,7 @@ date modified: Thursday, January 18th 2024, 8:43:41 pm
 - **Ausnahme**: Rechtshandlungen innerhalb von 15 Tagen nach Eintragung oder Bekanntmachung können nicht geltend gemacht werden, es sei denn der Dritte kannte, bzw. musste sie kennen
 
 > [!example]+ Beispiel 
-> **P** war Prokurist der ABC GmbH. Die Prokura wurde widerrufen und dies in das Handelsregister eingetragen (eintragungspflichtige Tatsache nach **§ 53 I HGB**). Trotzdem schließt er mit **A** einen Monat später einen Vertrag ab. Hat er die ABC GmbH wirksam vertreten?
+> **P** war Prokurist der ABC GmbH. Die [[Handelsrechtliche Stellvertretung|Prokura]] wurde widerrufen und dies in das Handelsregister eingetragen (eintragungspflichtige Tatsache nach **§ 53 I HGB**). Trotzdem schließt er mit **A** einen Monat später einen [[Willenserklärungen|Vertrag]] ab. Hat er die ABC GmbH wirksam vertreten?
 
 - Nein, denn A kann sich nicht mehr auf die vormalige Vertretungsmacht des P berufen, da die Tatsache bereits in Handelsregister eingetragen war
 
@@ -36,7 +36,7 @@ date modified: Thursday, January 18th 2024, 8:43:41 pm
 
 **Voraussetzungen:**
 
-1. Eintragungspflichtige Tatsache (zB Prokura nach **§ 53 I HGB**)
+1. Eintragungspflichtige Tatsache (zB [[Handelsrechtliche Stellvertretung|Prokura]] nach **§ 53 I HGB**)
 2. Unrichtig eingetragen und bekannt gemacht
 3. Handeln im Geschäftsverkehr
 4. Keine Kenntnis von der Unrichtigkeit
@@ -49,7 +49,7 @@ date modified: Thursday, January 18th 2024, 8:43:41 pm
 
 **Voraussetzungen:**
 
-1. Eintragungspflichtige Tatsache (zB Prokura nach **§ 53 I HGB**)
+1. Eintragungspflichtige Tatsache (zB [[Handelsrechtliche Stellvertretung|Prokura]] nach **§ 53 I HGB**)
 2. Fehlende Eintragung oder fehlende Bekanntmachung
 3. Handeln im Geschäftsverkehr
 4. Keine Kenntnis des Dritten (**guter Glaube**)

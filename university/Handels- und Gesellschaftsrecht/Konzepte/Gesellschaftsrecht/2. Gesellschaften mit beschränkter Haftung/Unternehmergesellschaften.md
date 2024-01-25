@@ -14,7 +14,7 @@ date modified: Tuesday, January 23rd 2024, 10:45:00 pm
 #### Definition
 
 > [!info] § 5a GmbHG 
-> 1. Eine Gesellschaft, die mit einem Stammkapital gegründet wird, das den **Betrag** des **Mindeststammkapitals** nach § 5 Abs. 1 **unterschreitet**, muss in der Firma abweichend von § 4 die Bezeichnung "**Unternehmergesellschaft (haftungsbeschränkt)**" oder "UG (haftungsbeschränkt)" führen.
+> 1. Eine Gesellschaft, die mit einem Stammkapital gegründet wird, das den **Betrag** des **Mindeststammkapitals** nach § 5 Abs. 1 **unterschreitet**, muss in der [[Firmenbegriff und Abgrenzung|Firma]] abweichend von § 4 die Bezeichnung "**Unternehmergesellschaft (haftungsbeschränkt)**" oder "UG (haftungsbeschränkt)" führen.
 > 2. Abweichend von § 7 Abs. 2 darf die Anmeldung erst erfolgen, wenn das Stammkapital in voller Höhe eingezahlt ist. Sacheinlagen sind ausgeschlossen.
 > 3. ...
 

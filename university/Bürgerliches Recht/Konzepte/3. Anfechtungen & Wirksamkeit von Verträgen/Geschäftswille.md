@@ -18,7 +18,7 @@ date modified: Thursday, January 11th 2024, 3:58:50 pm
 > [!example]- Beispiel 
 > Die **Sekretärin** legt dem **Geschäftsführer** eine Unterschriftsmappe vor, mit der Erklärung, es gehe um die Unterzeichnung von Auftragsbestätigungen, also der Bestätigung, dass das Unternehmen den Auftrag annehmen und durchführen wird. Mechanisch zeichnet er die Schreiben ab, dabei übersieht er, dass sich dabei auch ein Schreiben befindet, in dem neues Büromaterial bestellt wird. 
 > 
-> - Dem Geschäftsführer ist klar, dass er mit der Unterschrift eine Rechtsfolge herbeiführt (mit der Auftragsbestätigung kommt ein Vertrag zustande. Sein Geschäftswille ist jedoch nur auf die Auftragsbestätigungen gerichtet, nicht auf die Bestellung von Büromaterial.
+> - Dem Geschäftsführer ist klar, dass er mit der Unterschrift eine Rechtsfolge herbeiführt (mit der Auftragsbestätigung kommt ein [[Willenserklärungen|Vertrag]] zustande. Sein Geschäftswille ist jedoch nur auf die Auftragsbestätigungen gerichtet, nicht auf die Bestellung von Büromaterial.
 
 ***
 #### Fehlender Geschäftswille

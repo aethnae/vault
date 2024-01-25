@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "743499c4d2783793",
+        "id": "0be77fefa81dc80c",
         "type": "tabs",
         "children": [
           {
-            "id": "d9f07b534f98a7a2",
+            "id": "bae400aaa5672d1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Finanzverfassung der AG.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -80,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Finanzverfassung der AG.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -103,7 +98,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.1303843500400064,
+                  "scale": 0.7909909298061735,
                   "close": true
                 }
               }
@@ -164,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Finanzverfassung der AG.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Finanzverfassung der AG.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -204,7 +195,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Finanzverfassung der AG.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -228,7 +218,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Finanzverfassung der AG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,43 +244,46 @@
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "d9f07b534f98a7a2",
+  "active": "bae400aaa5672d1f",
   "lastOpenFiles": [
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Finanzverfassung der AG.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Gründung der AG.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Organisation der AG.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Fremdorganschaft.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Marktnachfrage.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/4. Gesellschaften bürgerlichen Rechts/Beendigung der GbR.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/4. Gesellschaften bürgerlichen Rechts/Außenverhältnis der GbR.md",
+    "university/Handels- und Gesellschaftsrecht/Handels- und Gesellschaftsrecht.md",
+    "university/Bürgerliches Recht/Bürgerliches Recht.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/4. Gesellschaften bürgerlichen Rechts/Innenverhältnis der GbR.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/4. Gesellschaften bürgerlichen Rechts/Gründung der GbR.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/4. Gesellschaften bürgerlichen Rechts/Begriff und Konzeption der GbR.md",
+    "files/Pasted image 20240124174249.png",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/4. Gesellschaften bürgerlichen Rechts",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Aktien.md",
+    "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Kapitalflussrechnung.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Begriff und Konzeption der AG.md",
+    "misc/Taiwan '24/Übersicht.md",
+    "misc/Taiwan '24/Reiseplan.md",
+    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Grenzrate der Transformation.md",
+    "misc/Finanzplan.md",
+    "Spaces/Untitled.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Finanzverfassung der AG.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Haftung der AG.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Einkommensexpansionspfade.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Gründung der AG.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Fremdorganschaft.md",
+    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Organisation der AG.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Handelsgewerbe.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Gewerbe und Gewerbebetrieb.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler/Weitere Handelsrechtliche Vollmachten.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler/Handelsrechtliche Stellvertretung.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler/Absatz- und Geschäftsmittler.md",
-    "university/Studienplanung.md",
-    "university/university.md",
     "Spaces/Home",
     "Spaces",
     "files/Pasted image 20240123233440.png",
     "files/Pasted image 20240123233007.png",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/3. Handelsfirma & Handelsregister/Firmenbegriff und Abgrenzung.md",
     "files/Pasted image 20240123231252.png",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Unternehmergesellschaften.md",
-    "university/Mathematik I/Mathematik I.md",
-    "university/Mathematik I/Konzepte/Einschub - mathematische Beweisführung/Vollständige Induktion.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Organisation der GmbH.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Gründung der GmbH.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Gesellschafterwechsel.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Begriff und Konzeption der GmbH.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung/Außenverhältnis der GmbH.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Gesellschaftsformen.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Organe des Vereins.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Merkmale des eingetragenen Vereins.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen/Grundlagen der Gesellschaft.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
     "files/Pasted image 20240122214232.png",
     "files/Pasted image 20240122211243.png",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung",
@@ -304,8 +296,6 @@
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/5. Handelsgeschäftslehre & Handelskauf",
     "files/Pasted image 20240118213856.png",
     "files/Pasted image 20240118213821.png",
-    "files/Pasted image 20240118212949.png",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",

@@ -18,7 +18,7 @@ aliases:
 > [!info] Historischer Hintergrund 
 > Als das BGB um 1900 erstmals Form annahm, hatte man die Ständegesellschaft bereits überwunden, laut Gesetz waren alle Bürger also gleichberechtigt, und somit auch gleichermaßen dazu verpflichtet, eigenverantwortlich ihre Geschicke zu bestimmen. Man ging davon aus, dass der einzelne Bürger seine individuellen Interessen am besten kennt, und es legitim ist, diese "egoistisch" zu verfolgen.
 
-- Ohne Einigung kein Vertrag: Der egoistische Effekt ist gerechtfertigt, da der Vertragspartner den Vertragsschluss ablehnen kann
+- Ohne Einigung kein [[Willenserklärungen|Vertrag]]: Der egoistische Effekt ist gerechtfertigt, da der Vertragspartner den Vertragsschluss ablehnen kann
 - Bei Abschluss von Verträgen ist jeder für sich selbst verantwortlich
 
 > [!quote] Sinnbild 

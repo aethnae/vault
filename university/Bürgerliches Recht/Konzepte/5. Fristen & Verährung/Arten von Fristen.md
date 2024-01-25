@@ -27,7 +27,7 @@ $\rightarrow$ Nach Ablauf der Frist *kann* die andere Seite die Leistung verweig
 ***
 #### Fristen für Leistungserbringung
 
-- In der Regel nicht im Gesetz, sondern individuell im Vertrag geregelt (Zweifelsregelung im Gesetz: **§ 271**)
+- In der Regel nicht im Gesetz, sondern individuell im [[Willenserklärungen|Vertrag]] geregelt (Zweifelsregelung im Gesetz: **§ 271**)
 - z.B. Zahlung innerhalb von 14 Tagen ab Lieferung
 
 ![[Pasted image 20240117161823.png|center|600]]
@@ -36,7 +36,7 @@ $\rightarrow$ Nach Ablauf der Frist *kann* die andere Seite die Leistung verweig
 #### Fristsetzung mit Ablehnungsandrohung
 
 > [!info] Definition 
-> Wenn ein Vertragspartner seine Leistung nicht ordnungsgemäß, bzw. nicht rechtzeitigt erbringt, dann berechtigt dies allein in der Regel noch nicht zur Beendigung des Vertrages. In der Regel muss zunächst eine Frist zur Nacherfüllung gesetzt werden; erst nach deren Ablauf kann vom Vertrag zurückgetreten, bzw. gekündigt werden (für Schuldverhältnisse allgemein: **§ 323 I**).
+> Wenn ein Vertragspartner seine Leistung nicht ordnungsgemäß, bzw. nicht rechtzeitigt erbringt, dann berechtigt dies allein in der Regel noch nicht zur Beendigung des Vertrages. In der Regel muss zunächst eine Frist zur Nacherfüllung gesetzt werden; erst nach deren Ablauf kann vom [[Willenserklärungen|Vertrag]] zurückgetreten, bzw. gekündigt werden (für Schuldverhältnisse allgemein: **§ 323 I**).
 
 ![[Pasted image 20240117160553.png|center|600]]
 

@@ -35,21 +35,21 @@ $\longrightarrow$ Die Rechtsfolge dieses Rechtsgeschäfts wird laut **§ 177 I**
 
 | Vertretener genehmigt (vgl. § 184) | Verweigerung der Genehmigung |
 | :--- | :--- |
-| $\rightarrow$ Vertrag kommt zustande | $\rightarrow$ Vertrag kommt nicht zustande |
+| $\rightarrow$ [[Willenserklärungen|Vertrag]] kommt zustande | $\rightarrow$ [[Willenserklärungen|Vertrag]] kommt nicht zustande |
 | $\rightarrow$ im vorliegenden Fall aber verweigert | $\rightarrow$ A wird nicht verpflichtet |
 |  | $\rightarrow$ Aber Haftung des F nach § 179 I |
 
 ***
 #### Haftung des Vertreters ohne Vertretungsmacht (i.S.v. §179)
 
-- Grundsatz: Vertreter muss den Vertrag erfüllen oder [[Schadensersatz]] leisten
+- Grundsatz: Vertreter muss den [[Willenserklärungen|Vertrag]] erfüllen oder [[Schadensersatz]] leisten
 - Das bedeutet nicht, dass ein Kaufvertrag zwischen **F** und **S** vorliegt, sondern nur, dass Haftung für die Erfüllung vonseiten des F vorliegt
 - Der S hat nun ein Wahlrecht, er kann sich zwischen Schadensersatz oder Vertragserfüllung im Rahmen der Möglichkeiten des Gegenüber entscheiden
 
 > [!example]- Anwendung im konkreten Beispiel 
 > Die Option der Erfüllung des Kaufvertrags kommt hier kaum in Frage, da der Sessel ein Einzelstück ist, und der F genau diese Sache übereignen muss (anders als bei Massenware, dort muss nur die Gattung dem Ursprungsobjekt entsprechen, vgl. **§ 243**). Der F kann diesen Sessel jedoch nicht übereignen, da der Sessel nicht ihm, sondern dem A gehört (sogenannte **rechtliche Unmöglichkeit**, vgl. **§ 275 I**).
 > 
-> Da der S also auf Schadensersatz besteht, muss der F nach dem Prinzip des **positiven Interesse** handeln, also gilt der S so zu stellen, wie er stünde, wenn der Vertrag ordentlich durchgeführt worden wäre. Konkret bedeutet dies, dass der F
+> Da der S also auf Schadensersatz besteht, muss der F nach dem Prinzip des **positiven Interesse** handeln, also gilt der S so zu stellen, wie er stünde, wenn der [[Willenserklärungen|Vertrag]] ordentlich durchgeführt worden wäre. Konkret bedeutet dies, dass der F
 > - persönlich für die Rückzahlung der Anzahlung aufkommen muss
 > - darüber hinaus für erhöhte Kosten, die aus Ersatzbeschaffung entstehen (ein Sessel dieser Art ist nur für 500€ zu haben), haftet
 
@@ -61,7 +61,7 @@ $\longrightarrow$ Die Rechtsfolge dieses Rechtsgeschäfts wird laut **§ 177 I**
 ***
 #### Schwebezustände bei Vertragsschluss durch Vertretung
 
-- Problematik: Der Vertrag ist zunächst unwirksam, kann aber noch wirksam werden. Hier liegt ein unangenehmer Schwebezustand vor, da Ungewissheit auf der einen Seite herrscht.
+- Problematik: Der [[Willenserklärungen|Vertrag]] ist zunächst unwirksam, kann aber noch wirksam werden. Hier liegt ein unangenehmer Schwebezustand vor, da Ungewissheit auf der einen Seite herrscht.
 
 > [!note] Lösung 
 > **§ 177 II** liefert eine Antwort für diese Problematik: nach zwei Wochen besteht Klarheit, da nicht angenommene, bzw. verweigerte Verträge nach Ablauf dieser Frist automatisch als nicht abgeschlossen gelten.

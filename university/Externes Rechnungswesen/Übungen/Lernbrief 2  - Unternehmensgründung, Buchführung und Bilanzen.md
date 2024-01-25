@@ -23,7 +23,7 @@ week: 2023-10-30
 | Personen       | unbegrenzt       | unbegrenzt       | mindestens drei  |
 | Haftung        | mit Stammkapital | mit Stammkapital | mit Stammkapital |
 | Handelsgewerbe | möglich          | möglich          | möglich          |
-| Kaufmann       | Formkaufmann     | Formkaufmann     | Formkaufmann     |
+| [[university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten|Kaufmann]]       | Formkaufmann     | Formkaufmann     | Formkaufmann     |
 | Buchführung    | verpflichtend    | verpflichtend    | verpflichtend    | 
 
 ##### Aufgabe 2
@@ -36,7 +36,7 @@ week: 2023-10-30
 Frau X ist als Einzelunternehmerin von der Buchführungspflicht laut §241a HGB befreit, wenn ihre Umsatzerlöse 600.000€,  und ihr Gewinn 60.000€ nicht übersteigen. Laut §242 Abs. 4 HGB ist sie in diesem Fall auch von der Gewinn- und Verlustsrechnung befreit.
 
 **b)**
-*Herr Y betreibt einen Gewerbebetrieb, ist aber kein Kaufmann gem. § 1 HGB und damit nicht buchführungspflichtig. Jedoch ist er gewillt Bücher zu führen, um gegenüber seinem Geschäftspartner seriös zu erscheinen. Kann er zum Kaufmann werden?*
+*Herr Y betreibt einen Gewerbebetrieb, ist aber kein [[university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten|Kaufmann]] gem. § 1 HGB und damit nicht buchführungspflichtig. Jedoch ist er gewillt Bücher zu führen, um gegenüber seinem Geschäftspartner seriös zu erscheinen. Kann er zum [[university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten|Kaufmann]] werden?*
 
 Ja, zum Beispiel indem er sein Gewerbe im Handelsregister einträgt.
 
@@ -82,4 +82,4 @@ Richtig, laut § 238 (1) | S. 3 HGB ist dies Teil der [[Grundsätze ordnungsgem�
 **e)**
 *Bei Umsätzen von 650.000 € und einem Jahresüberschuss von 70.000 € in den letzten zwei Geschäftsjahren sind immer Bücher zu führen.*
 
-Nur, sofern es sich bei dem spezifierten Gewerbe um ein Handelsgewerbe samt Kaufmann laut § 1 HGB handelt.
+Nur, sofern es sich bei dem spezifierten Gewerbe um ein Handelsgewerbe samt [[university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten|Kaufmann]] laut § 1 HGB handelt.

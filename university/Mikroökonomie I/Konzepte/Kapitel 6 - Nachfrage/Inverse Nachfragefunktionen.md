@@ -19,13 +19,13 @@ date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 - Da laut [[Tangentialbedingung]] im Optimum der Absolutwert der [[university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution]] gleich dem Preisverhältnis ([[Opportunitätskosten]]) sein muss, also
 
 $$
-\mid \text{MRS} \mid = \frac{p_{1}}{p_{2}}
+\mid \text{[[university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution|MRS]]} \mid = \frac{p_{1}}{p_{2}}
 $$
 
 besagt dies, dass wir bei der optimalen Höhe der Nachfrage, zum Beispiel für Gut 1
 
 $$
-p_{1} = p_{2} \mid \text{MRS} \mid
+p_{1} = p_{2} \mid \text{[[university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution|MRS]]} \mid
 $$
 
 haben müssen. Daher ist bei der optimalen Höhe der Nachfrage nach Gut 1 der Preis des Gutes 1 proportional zum Absolutwert der Grenzrate der Substitution zwischen Gut 1 und Gut 2.

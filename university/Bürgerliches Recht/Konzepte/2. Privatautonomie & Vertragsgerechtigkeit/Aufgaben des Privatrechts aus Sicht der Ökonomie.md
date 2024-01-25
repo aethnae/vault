@@ -14,7 +14,7 @@ date modified: Wednesday, January 10th 2024, 6:09:46 pm
 ***
 #### Grundidee
 
-- Privatautonomie entspricht dem Grundgedanken der Aufklärung und dem Menschbild des Grundgesetzes, des eigenverantwortlich handelnden Menschen
+- [[Grundgedanken zur Privatautonomie|Privatautonomie]] entspricht dem Grundgedanken der Aufklärung und dem Menschbild des Grundgesetzes, des eigenverantwortlich handelnden Menschen
 - Auch aus ökonomischer Sicht spricht viel dafür, den beteiligten Vertragsparteien das Aushandeln von Verträgen zu überlassen
 - Warum ist das BGB dann so dick?
 

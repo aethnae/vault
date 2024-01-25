@@ -29,7 +29,7 @@ Im Falle zweier Produktionsfaktoren, welche die Preise $w_{1}$ und $w_{2}$ haben
 > [!abstract] Vorgehensweise 
 > Unter Verwendung der [[Isokostengeraden]] kann das Minimierungsproblem umformuliert werden, indem nach jenem Punkt auf der [[university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion|Isoquante]] gesucht wird, der mit der niedrigsten Isokostengeraden assoziiert ist.
 
-- Laut der [[Tangentialbedingung]] muss die [[Grenzrate der technischen Substitution]] (Steigung der Isoquante) gleich dem **Faktorpreisverhältnis** (Steigung der Isokostengeraden) sein
+- Laut der [[Tangentialbedingung]] muss die [[Grenzrate der technischen Substitution]] (Steigung der [[university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion|Isoquante]]) gleich dem **Faktorpreisverhältnis** (Steigung der Isokostengeraden) sein
 
 Also gilt
 

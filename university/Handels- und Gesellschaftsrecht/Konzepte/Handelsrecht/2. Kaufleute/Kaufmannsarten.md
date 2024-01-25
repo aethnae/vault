@@ -37,7 +37,7 @@ aliases:
 #### Kann-Kaufmann
 
 > [!important] Definition i.S.v. § 2 HGB 
-> Ein gewerbliches Unternehmen, dessen Gewerbebetrieb nicht schon nach **§ 1 Abs. 2** [[Handelsgewerbe]] ist, gilt als Handelsgewerbe im Sinne dieses Gesetzbuchs, wenn die Firma des Unternehmens in das **Handelsregister eingetragen** ist. Der Unternehmer ist berechtigt, aber nicht verpflichtet, die Eintragung nach den für die Eintragung kaufmännischer Firmen geltenden Vorschriften herbeizuführen. Ist die Eintragung erfolgt, so findet eine Löschung der Firma auch auf Antrag des Unternehmers statt, sofern nicht die Voraussetzung des § 1 Abs. 2 eingetreten ist.
+> Ein gewerbliches Unternehmen, dessen Gewerbebetrieb nicht schon nach **§ 1 Abs. 2** [[Handelsgewerbe]] ist, gilt als Handelsgewerbe im Sinne dieses Gesetzbuchs, wenn die [[Firmenbegriff und Abgrenzung|Firma]] des Unternehmens in das **Handelsregister eingetragen** ist. Der Unternehmer ist berechtigt, aber nicht verpflichtet, die Eintragung nach den für die Eintragung kaufmännischer Firmen geltenden Vorschriften herbeizuführen. Ist die Eintragung erfolgt, so findet eine Löschung der [[Firmenbegriff und Abgrenzung|Firma]] auch auf Antrag des Unternehmers statt, sofern nicht die Voraussetzung des § 1 Abs. 2 eingetreten ist.
 
 - Ein Kann-Kaufmann ist somit nicht kraft Gesetz ein Kaufmann, sondern erlangt dieses Attribut erst durch **freiwillige** Eintragung ins Handelsregister
 - Dies trifft in folgenden Fällen zu
@@ -50,7 +50,7 @@ aliases:
 #### Kaufmann kraft Eintragung | Fiktivkaufmann
 
 > [!important] Definition i.S.v. § 5 HGB 
-> Ist eine Firma im Handelsregister eingetragen, so kann gegenüber demjenigen, welcher sich auf die Eintragung beruft, nicht geltend gemacht werden, dass das unter der Firma betriebene Gewerbe kein Handelsgewerbe sei.
+> Ist eine [[Firmenbegriff und Abgrenzung|Firma]] im Handelsregister eingetragen, so kann gegenüber demjenigen, welcher sich auf die Eintragung beruft, nicht geltend gemacht werden, dass das unter der [[Firmenbegriff und Abgrenzung|Firma]] betriebene Gewerbe kein Handelsgewerbe sei.
 
 - Nicht notwendigerweise kraft Gesetz ein Kaufmann
 	- Sobald eine Eintragung ins Handelsregister erfolgt, wird der Rechtsträger wie ein Kaufmann behandelt

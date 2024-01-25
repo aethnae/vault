@@ -16,7 +16,7 @@ aliases:
 > z = f(x, y),
 > $$
 > 
-> die von zwei Einflussgrößen (**Produktionsfaktoren**) $x \text{ und } y$ abhängt. Wir nennen dann die Menge $\{(x, y) \mid c=f(x, y)\}$ die **Isoquante zum Niveau $c$**.
+> die von zwei Einflussgrößen (**Produktionsfaktoren**) $x \text{ und } y$ abhängt. Wir nennen dann die Menge $\{(x, y) \mid c=f(x, y)\}$ die **[[university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Produktionsfunktion|Isoquante]] zum Niveau $c$**.
 > Nach Auflösen nach $y$ der Gleichung ergibt 
 > 
 > $$

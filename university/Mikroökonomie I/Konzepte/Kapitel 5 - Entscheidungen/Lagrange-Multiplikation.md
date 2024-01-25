@@ -19,7 +19,7 @@ date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 Wir wissen, dass optimale Entscheidungen die Bedingung
 
 $$
-\text{MRS}(x_{1}, x_{2}) = -\frac{p_{1}}{p_{2}}
+\text{[[university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution|MRS]]}(x_{1}, x_{2}) = -\frac{p_{1}}{p_{2}}
 $$
 
 erfüllen müssen, was das selbe wie

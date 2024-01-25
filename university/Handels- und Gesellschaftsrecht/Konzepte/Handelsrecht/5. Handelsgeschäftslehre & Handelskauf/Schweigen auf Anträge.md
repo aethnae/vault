@@ -13,15 +13,15 @@ date modified: Friday, January 19th 2024, 8:25:52 pm
 #### Definition
 
 > [!info] § 362 HGB 
-> 1. Geht einem **Kaufmanne**, dessen Gewerbebetrieb die **Besorgung von Geschäften** für andere mit sich bringt, ein **Antrag** über die Besorgung solcher Geschäfte von jemand zu, mit dem er in **Geschäftsverbindung** steht, so ist er verpflichtet, unverzüglich zu antworten; sein **Schweigen gilt als Annahme des Antrags**. Das gleiche gilt, wenn einem Kaufmann ein Antrag über die Besorgung von Geschäften von jemand zugeht, dem gegenüber er sich zur Besorgung solcher Geschäfte erboten hat.
-> 2. Auch wenn der Kaufmann den Antrag ablehnt, hat er die mitgesendeten Waren auf Kosten des Antragstellers, soweit er für diese Kosten gedeckt ist und soweit es ohne Nachteil für ihn geschehen kann, einstweilen vor Schaden zu bewahren.
+> 1. Geht einem **Kaufmanne**, dessen Gewerbebetrieb die **Besorgung von Geschäften** für andere mit sich bringt, ein **Antrag** über die Besorgung solcher Geschäfte von jemand zu, mit dem er in **Geschäftsverbindung** steht, so ist er verpflichtet, unverzüglich zu antworten; sein **Schweigen gilt als Annahme des Antrags**. Das gleiche gilt, wenn einem [[university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten|Kaufmann]] ein Antrag über die Besorgung von Geschäften von jemand zugeht, dem gegenüber er sich zur Besorgung solcher Geschäfte erboten hat.
+> 2. Auch wenn der [[university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten|Kaufmann]] den Antrag ablehnt, hat er die mitgesendeten Waren auf Kosten des Antragstellers, soweit er für diese Kosten gedeckt ist und soweit es ohne Nachteil für ihn geschehen kann, einstweilen vor Schaden zu bewahren.
 
 1. Der Empfänger des Angebots ist ein [[university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten|Kaufmann]]
 2. Es besteht ein Zugang eines Antrags auf **Geschäftsbesorgung**
 	- z.B. Makler-, Bank-, Börsen-, Speditions-, Lagergeschäfte
 	- Umfasst **keine** Kaufgeschäfte
 3. Der Antrag muss im Rahmen einer Geschäftsbeziehung oder einer vorherigen **invitatio ad offerendum** des Kaufmanns eingehen
-4. Der Kaufmann muss zu diesem Angebot *schweigen*
+4. Der [[university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten|Kaufmann]] muss zu diesem Angebot *schweigen*
 	- Gilt nicht bei *unverzüglichem* (i.S.v. **§ 121 BGB**) Widerspruch oder unklarer Antwort
 
 **Rechtsfolge:**

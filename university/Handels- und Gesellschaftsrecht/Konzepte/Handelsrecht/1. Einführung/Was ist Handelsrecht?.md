@@ -11,10 +11,10 @@ date modified: Thursday, January 18th 2024, 4:20:54 pm
 ***
 
 > [!info] Was ist Handelsrecht?  
-> Das Handelsrecht ist ein sogenanntes **Sonderprivatrecht** der Kaufleute, und damit ein Teilgebiet des [[Übersicht über die Teilgebiete des Privatrechts und Anwendungen|Privatrechts]], welches jedoch besondere Rechtsvorschriften mit Vorrang vor dem allgemeinen Recht hat.
+> Das Handelsrecht ist ein sogenanntes **Sonderprivatrecht** der [[university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten|Kaufleute]], und damit ein Teilgebiet des [[Übersicht über die Teilgebiete des Privatrechts und Anwendungen|Privatrechts]], welches jedoch besondere Rechtsvorschriften mit Vorrang vor dem allgemeinen Recht hat.
 > 
 
-- Ergänzt das BGB als "Recht der Kaufleute"
+- Ergänzt das BGB als "Recht der [[university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Kaufmannsarten|Kaufleute]]"
 - Die Anwendbarkeit des Handelsrechts knüpft an den Kaufmannsbegriff an
 
 > [!note] Merke 

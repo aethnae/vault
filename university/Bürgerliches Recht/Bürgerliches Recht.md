@@ -66,7 +66,7 @@ Werden einzelne Rechtsnormen zitiert, sind diese so präzise wie möglich anzuge
 		- [[Objektives und subjektives Recht]]
 		- [[Schadensersatz]]
 		- [[Übersicht über die Teilgebiete des Privatrechts und Anwendungen]]
-	- **2. Privatautonomie & Vertragsgerechtigkeit**
+	- **2. [[Grundgedanken zur Privatautonomie|Privatautonomie]] & Vertragsgerechtigkeit**
 		- [[Aufgaben des Privatrechts aus Sicht der Ökonomie]]
 		- [[Dispositive Regelungen & Rechte]]
 		- [[Gewährleistung von Verfahrensgerechtigkeit]]

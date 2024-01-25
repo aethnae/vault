@@ -13,9 +13,9 @@
 ***
 #### Grundlagen der juristischen Falllösungstechnik
 
-1. Ausgangspunkt: **Anspruchsgrundlage**
-	- Die *Anspruchsgrundlage* beschreibt die Rechtsform, die die gewünschte *Rechtsfolge* enthält
-2. Prüfung der Vorraussetzungen der Anspruchsgrundlage
+1. Ausgangspunkt: **[[Objektives und subjektives Recht|Anspruchsgrundlage]]**
+	- Die *[[Objektives und subjektives Recht|Anspruchsgrundlage]]* beschreibt die Rechtsform, die die gewünschte *Rechtsfolge* enthält
+2. Prüfung der Vorraussetzungen der [[Objektives und subjektives Recht|Anspruchsgrundlage]]
 
 ***
 #### Zur Klausur
@@ -48,11 +48,19 @@
 			- [[Organisation der GmbH]]
 			- [[Unternehmergesellschaften]]
 		- **3. Aktiengesellschaften**
+			- [[Aktien]]
 			- [[Begriff und Konzeption der AG]]
 			- [[Finanzverfassung der AG]]
 			- [[Fremdorganschaft]]
 			- [[Gründung der AG]]
+			- [[Haftung der AG]]
 			- [[Organisation der AG]]
+		- **4. Gesellschaften bürgerlichen Rechts**
+			- [[Außenverhältnis der GbR]]
+			- [[Beendigung der GbR]]
+			- [[Begriff und Konzeption der GbR]]
+			- [[Gründung der GbR]]
+			- [[Innenverhältnis der GbR]]
 	- **Handelsrecht**
 		- **1. Einführung**
 			- [[Was ist Handelsrecht?]]

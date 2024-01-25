@@ -115,7 +115,7 @@ $$
 **d)**
 *Berechnen sie die Grenzrate der Substitution. Was sagt diese aus?*
 
-Die Grenzrate der Substitution (MRS, von englisch "marginal rate of substitution") gibt Antwort auf die Frage: Wieviel von Gut 2 ist der Konsument bereit, für eine zusätzliche (marginale) Einheit von Gut 1 höchstens, d.h. bei gleichbleibendem Nutzen, aufzugeben? Die MRS ist somit die negative Steigung der Indifferenzkurve. In unserem speziellen Beispiel ist die MRS also
+Die Grenzrate der Substitution ([[university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution|MRS]], von englisch "marginal rate of substitution") gibt Antwort auf die Frage: Wieviel von Gut 2 ist der Konsument bereit, für eine zusätzliche (marginale) Einheit von Gut 1 höchstens, d.h. bei gleichbleibendem Nutzen, aufzugeben? Die [[university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution|MRS]] ist somit die negative Steigung der Indifferenzkurve. In unserem speziellen Beispiel ist die [[university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution|MRS]] also
 
 $$
 M R S=\frac{\frac{\partial u}{\partial x_1}}{\frac{\partial u}{\partial x_2}}=\frac{2 x_1 x_2}{x_1^2}=\frac{2 x_2}{x_1}
