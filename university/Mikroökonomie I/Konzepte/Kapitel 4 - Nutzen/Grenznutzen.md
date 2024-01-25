@@ -32,7 +32,7 @@ $$
 ***
 ### Grenznutzen und MRS
 
-Eine Nutzenfunktion $u(x_{1}, x_{2})$ kann verwendet werden, um die [[university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution]] zu berechnen.
+Eine Nutzenfunktion $u(x_{1}, x_{2})$ kann verwendet werden, um die [[university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution|MRS]] zu berechnen.
 Geht man von einer Konsumänderung beider Güter ($\Delta x_{1}, \Delta x_{2}$) aus, sodass der Nutzen konstant bleibt - das heißt eine Veränderung des Konsums, bei der wir uns entlang einer Indifferenzkurve bewegen.
 Dann muss
 
@@ -43,11 +43,7 @@ $$
 gelten. Auflösung nach der Steigung der Indifferenzkurve ergibt
 
 $$
-[[university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution|MRS]] = \frac{\Delta x_{2}}{\Delta x_{1}} = - \frac{MU_{1}}{MU_{2}}
+MRS = \frac{\Delta x_{2}}{\Delta x_{1}} = - \frac{MU_{1}}{MU_{2}}
 $$
 
 Das negative Vorzeichen der [[university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution|MRS]] wird im Normalfall ausgelassen, da meist nur der Absolutwert eine Rolle spielt.
-
-$$
-\int_{x^{3}}^{m} x^{2} - \sin x + \frac{3}{x^{*}} \, dx 
-$$

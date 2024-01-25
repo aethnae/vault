@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0f7dad3647fd5c68",
+        "id": "38196378cfdd29c3",
         "type": "tabs",
         "children": [
           {
-            "id": "b9e312fe77e66895",
+            "id": "dba8ed1922d307d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Klausurvorbereitung - Mikroökonomie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e92b47c4ec8c579",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Präferenzrelationen.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
                 "mode": "preview",
                 "source": false
               }
@@ -92,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Klausurvorbereitung - Mikroökonomie.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Klausurvorbereitung - Mikroökonomie.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md"
               }
             }
           },
@@ -199,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Klausurvorbereitung - Mikroökonomie.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md"
               }
             }
           }
@@ -216,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Klausurvorbereitung - Mikroökonomie.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -240,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Klausurvorbereitung - Mikroökonomie.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,8 +259,10 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "b9e312fe77e66895",
+  "active": "dba8ed1922d307d5",
   "lastOpenFiles": [
+    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Grenznutzen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Präferenzrelationen.md",
     "Klausurvorbereitung - Mikroökonomie.md",
     "university/Mikroökonomie I/Mikroökonomie I.md",
@@ -299,8 +289,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Einkommensexpansionspfade.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Gründung der AG.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Fremdorganschaft.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Organisation der AG.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/2. Kaufleute/Handelsgewerbe.md",
     "Spaces/Home",
     "Spaces",
     "files/Pasted image 20240123233440.png",
