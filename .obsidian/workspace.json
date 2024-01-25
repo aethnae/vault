@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dba8ed1922d307d5",
+            "id": "f03b2c23d5b26fa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
-                "mode": "preview",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Tangentialbedingung.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Tangentialbedingung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Tangentialbedingung.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Tangentialbedingung.md"
               }
             }
           }
@@ -204,11 +204,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
-                "collapseAll": false,
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Tangentialbedingung.md",
+                "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Tangentialbedingung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,12 +259,14 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "dba8ed1922d307d5",
+  "active": "f03b2c23d5b26fa0",
   "lastOpenFiles": [
-    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Grenznutzen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Präferenzrelationen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Tangentialbedingung.md",
+    "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Tangentialebenen.md",
     "Klausurvorbereitung - Mikroökonomie.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Grenznutzen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Präferenzrelationen.md",
     "university/Mikroökonomie I/Mikroökonomie I.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Marktnachfrage.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/4. Gesellschaften bürgerlichen Rechts/Beendigung der GbR.md",
@@ -287,8 +289,6 @@
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Finanzverfassung der AG.md",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Haftung der AG.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Einkommensexpansionspfade.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Gründung der AG.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Fremdorganschaft.md",
     "Spaces/Home",
     "Spaces",
     "files/Pasted image 20240123233440.png",

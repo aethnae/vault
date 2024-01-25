@@ -3,7 +3,7 @@
 
 - [x] Übung 1
 - [x] Übung 2
-- [ ] Übung 3
+- [x] Übung 3
 - [ ] Übung 4
 - [ ] Übung 5
 - [ ] Übung 6
