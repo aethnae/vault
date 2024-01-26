@@ -1,11 +1,10 @@
 ---
-source: 
-page: 
 tags:
   - nachfrage
 week: 2023-11-15
 flashcard: false
 publish: true
+source: 
 date created: Tuesday, December 5th 2023, 9:33:29 pm
 date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---

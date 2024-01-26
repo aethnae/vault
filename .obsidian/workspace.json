@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Substitute und Komplemente.md",
-                "mode": "preview",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Einkommensexpansionspfade.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Substitute und Komplemente.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Einkommensexpansionspfade.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Substitute und Komplemente.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Einkommensexpansionspfade.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Substitute und Komplemente.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Einkommensexpansionspfade.md"
               }
             }
           }
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Substitute und Komplemente.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Einkommensexpansionspfade.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Substitute und Komplemente.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Einkommensexpansionspfade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +261,11 @@
   },
   "active": "787edbc687a9349a",
   "lastOpenFiles": [
+    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Homothetische Präferenzen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Engel-Kurven.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Einkommensexpansionspfade.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Gewöhnliche und Giffen-Güter.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Nachfragekurven.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Substitute und Komplemente.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Normale und inferiore Güter.md",
     "dfn/Social Media/Marktuntersuchung \"Social-Media-Plattformen\".md",
@@ -285,10 +289,6 @@
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/4. Gesellschaften bürgerlichen Rechts/Begriff und Konzeption der GbR.md",
     "files/Pasted image 20240124174249.png",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/4. Gesellschaften bürgerlichen Rechts",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Aktien.md",
-    "university/Externes Rechnungswesen/Konzepte/Jahresabschluss/Kapitalflussrechnung.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Begriff und Konzeption der AG.md",
-    "misc/Taiwan '24/Übersicht.md",
     "Spaces/Home",
     "Spaces",
     "files/Pasted image 20240123233440.png",
