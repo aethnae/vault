@@ -1,12 +1,11 @@
 ---
-source: 
-page: 
 tags:
   - nachfrage
   - güter
 week: 2023-11-15
 flashcard: false
 publish: true
+source: 
 date created: Tuesday, December 5th 2023, 9:03:38 pm
 date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 ---
