@@ -4,7 +4,7 @@
 - [x] Übung 1
 - [x] Übung 2
 - [x] Übung 3
-- [ ] Übung 4
+- [x] Übung 4
 - [ ] Übung 5
 - [ ] Übung 6
 - [ ] Übung 7

@@ -2,9 +2,7 @@
 tags:
   - dfn
 week: 2024-01-17
-flashcard: false
 publish: false
-source: 
 date created: Wednesday, January 17th 2024, 12:46:16 pm
 date modified: Wednesday, January 17th 2024, 12:46:40 pm
 ---
@@ -41,13 +39,13 @@ Bei der Auswahl von etwa 15 repräsentativen Instituten habe ich der Bedeutung f
 
 | Institution | DFN | HU | RWTH | TUM | SWITCH | Janet[^2] | NORDUnet | MPG | Helmholtz |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| X | ☑︎ | ☑︎ | ☑︎ | ☑︎ |  | ☑︎ |  |  |  |
+| X | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ |  |  |  |
 | Threads |  |  | ☑︎ | ☑︎ |  | (☑︎)[^3] |  |  |  |
 | BlueSky |  |  |  |  |  |  |  |  |  |
 | Mastodon | ☑︎ | (☑︎)[^1] |  | (☑︎)[^4] |  |  |  |  |  |
-| Facebook |  | ☑︎ | ☑︎ | ☑︎ |  | ☑︎ |  |  |  |
+| Facebook |  | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ |  |  |  |
 | YouTube |  | ☑︎ | ☑︎ | ☑︎ |  | ☑︎ |  |  |  |
-| LinkedIn |  | ☑︎ | ☑︎ | ☑︎ |  | ☑︎ |  |  |  |
+| LinkedIn |  | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ |  |  |  |
 | Instagram |  | ☑︎ | ☑︎ | ☑︎ |  |  |  |  |  |
 | TikTok |  |  | ☑︎ |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |

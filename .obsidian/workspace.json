@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Klausurvorbereitung - Mikroökonomie.md",
+                "file": "dfn/Mitteilungen/Liste Mitteilungen.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Klausurvorbereitung - Mikroökonomie.md",
+                "file": "dfn/Mitteilungen/Liste Mitteilungen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -103,7 +103,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7909909298061735,
+                  "scale": 0.2588163975134512,
                   "close": true
                 }
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Klausurvorbereitung - Mikroökonomie.md"
+                "file": "dfn/Mitteilungen/Liste Mitteilungen.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Klausurvorbereitung - Mikroökonomie.md"
+                "file": "dfn/Mitteilungen/Liste Mitteilungen.md"
               }
             }
           }
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Klausurvorbereitung - Mikroökonomie.md",
+                "file": "dfn/Mitteilungen/Liste Mitteilungen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Klausurvorbereitung - Mikroökonomie.md",
+                "file": "dfn/Mitteilungen/Liste Mitteilungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,12 +261,15 @@
   },
   "active": "f03b2c23d5b26fa0",
   "lastOpenFiles": [
+    "dfn/Social Media/Marktuntersuchung \"Social-Media-Plattformen\".md",
+    "dfn/Mitteilungen/Liste Mitteilungen.md",
+    "Klausurvorbereitung - Mikroökonomie.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Grenznutzen.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
     "university/Mathematik I/Rechengesetze.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Tangentialbedingung.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
     "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Tangentialebenen.md",
-    "Klausurvorbereitung - Mikroökonomie.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Grenznutzen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Präferenzrelationen.md",
     "university/Mikroökonomie I/Mikroökonomie I.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Marktnachfrage.md",
@@ -286,9 +289,6 @@
     "misc/Taiwan '24/Reiseplan.md",
     "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/3. Knappheit & Arbeit/Grenzrate der Transformation.md",
     "misc/Finanzplan.md",
-    "Spaces/Untitled.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Finanzverfassung der AG.md",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/3. Aktiengesellschaften/Haftung der AG.md",
     "Spaces/Home",
     "Spaces",
     "files/Pasted image 20240123233440.png",
