@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "38196378cfdd29c3",
+        "id": "d652f234a79d02c4",
         "type": "tabs",
         "children": [
           {
-            "id": "f03b2c23d5b26fa0",
+            "id": "787edbc687a9349a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dfn/Mitteilungen/Liste Mitteilungen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -80,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dfn/Mitteilungen/Liste Mitteilungen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "dfn/Mitteilungen/Liste Mitteilungen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "dfn/Mitteilungen/Liste Mitteilungen.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -204,7 +195,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dfn/Mitteilungen/Liste Mitteilungen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -228,7 +218,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dfn/Mitteilungen/Liste Mitteilungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +248,7 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f03b2c23d5b26fa0",
+  "active": "787edbc687a9349a",
   "lastOpenFiles": [
     "dfn/Social Media/Marktuntersuchung \"Social-Media-Plattformen\".md",
     "dfn/Mitteilungen/Liste Mitteilungen.md",

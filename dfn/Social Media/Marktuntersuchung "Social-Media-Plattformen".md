@@ -13,17 +13,12 @@ date modified: Wednesday, January 17th 2024, 12:46:40 pm
 ***
 #### Auswahl der untersuchten Institute
 
-Bei der Auswahl von etwa 15 repräsentativen Instituten habe ich der Bedeutung für die Wissenschaft eine hohe Gewichtung zugerechnet, und mich auf den deutschsprachigen Raum beschränkt.
+Bei der Auswahl von repräsentativen Instituten habe ich der Bedeutung für die Wissenschaft eine hohe Gewichtung zugerechnet, und mich auf den deutschsprachigen Raum beschränkt.
 
 - Humboldt-Universität zu Berlin
-- RWTH Aachen
 - TU München
-- Karlsruhe Institute of Technology
-- LMU München
-- Fraunhofer-Gesellschaft
 - Max-Planck-Gesellschaft
 - Helmholtz-Gemeinschaft
-- Leibniz-Gemeinschaft
 - SWITCH
 - GEANT
 - DFN
@@ -39,14 +34,14 @@ Bei der Auswahl von etwa 15 repräsentativen Instituten habe ich der Bedeutung f
 
 | Institution | DFN | HU | RWTH | TUM | SWITCH | Janet[^2] | NORDUnet | MPG | Helmholtz |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| X | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ |  |  |  |
+| X | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ |
 | Threads |  |  | ☑︎ | ☑︎ |  | (☑︎)[^3] |  |  |  |
-| BlueSky |  |  |  |  |  |  |  |  |  |
-| Mastodon | ☑︎ | (☑︎)[^1] |  | (☑︎)[^4] |  |  |  |  |  |
-| Facebook |  | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ |  |  |  |
-| YouTube |  | ☑︎ | ☑︎ | ☑︎ |  | ☑︎ |  |  |  |
-| LinkedIn |  | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ |  |  |  |
-| Instagram |  | ☑︎ | ☑︎ | ☑︎ |  |  |  |  |  |
+| BlueSky |  | (☑︎)[^5] |  |  |  |  |  |  |  |
+| Mastodon | ☑︎ | (☑︎)[^1] |  | (☑︎)[^4] |  |  | ☑︎ | ☑︎ | ☑︎ |
+| Facebook |  | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ |  |
+| YouTube |  | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | (☑︎)[^6] | ☑︎ | ☑︎ |
+| LinkedIn |  | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ |  | ☑︎ |
+| Instagram |  | ☑︎ | ☑︎ | ☑︎ |  |  |  |  | ☑︎ |
 | TikTok |  |  | ☑︎ |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
 
@@ -56,3 +51,5 @@ Bei der Auswahl von etwa 15 repräsentativen Instituten habe ich der Bedeutung f
 [^2]: Janet selbst hat keine eigene Social-Media-Präsenz, diese wird komplett durch *Jisc*, die Muttergesellschaft von Janet, betrieben.
 [^3]: Wahrscheinlich inaktiv, Profil besteht jedoch.
 [^4]: Wahrscheinlich inaktiv, Profil besteht jedoch seit Mitte 2022.
+[^5]: Ein Institut der HU betreibt ein eigenes BlueSky-Profil
+[^6]: Mehrere Mitgliedsnetze des NORDUnet-Verbunds betreiben neben eigenen Facebook-, LinkedIn- und X-Kanälen auch eigene Youtube-Kanäle
