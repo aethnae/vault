@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Klausurvorbereitung - Mikroökonomie.md",
+                "file": "misc/Sparplan.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Klausurvorbereitung - Mikroökonomie.md",
+                "file": "misc/Sparplan.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Klausurvorbereitung - Mikroökonomie.md"
+                "file": "misc/Sparplan.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Klausurvorbereitung - Mikroökonomie.md"
+                "file": "misc/Sparplan.md"
               }
             }
           }
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Klausurvorbereitung - Mikroökonomie.md",
+                "file": "misc/Sparplan.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Klausurvorbereitung - Mikroökonomie.md",
+                "file": "misc/Sparplan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,6 +261,8 @@
   },
   "active": "bbf6269c9c9d233a",
   "lastOpenFiles": [
+    "misc/Finanzplan.md",
+    "Klausurvorbereitung - Mikroökonomie.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Brutto- und Nettorente.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Kompensatorische und äquivalente Variation.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Angebotsfunktion.md",
@@ -285,8 +287,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Substitute und Komplemente.md",
     "dfn/Social Media/Marktuntersuchung \"Social-Media-Plattformen\".md",
     "dfn/Mitteilungen/Liste Mitteilungen.md",
-    "Klausurvorbereitung - Mikroökonomie.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Grenznutzen.md",
     "files/Pasted image 20240124174249.png",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/4. Gesellschaften bürgerlichen Rechts",
     "Spaces/Home",
