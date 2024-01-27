@@ -5,9 +5,9 @@
 - [x] Übung 2
 - [x] Übung 3
 - [x] Übung 4
-- [ ] Übung 5
-- [ ] Übung 6
-- [ ] Übung 7
+- [x] Übung 5
+- [x] Übung 6
+- [x] Übung 7
 - [ ] Übung 8
 - [ ] Übung 9
 - [ ] Übung 10

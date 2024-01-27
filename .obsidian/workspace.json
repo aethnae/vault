@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Brutto- und Nettorente.md",
+                "file": "Klausurvorbereitung - Mikroökonomie.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zahlungsbereit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4cae0943d8942f29",
@@ -81,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Brutto- und Nettorente.md",
+                "file": "Klausurvorbereitung - Mikroökonomie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Brutto- und Nettorente.md"
+                "file": "Klausurvorbereitung - Mikroökonomie.md"
               }
             }
           },
@@ -188,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Brutto- und Nettorente.md"
+                "file": "Klausurvorbereitung - Mikroökonomie.md"
               }
             }
           }
@@ -205,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Brutto- und Nettorente.md",
+                "file": "Klausurvorbereitung - Mikroökonomie.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -229,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Brutto- und Nettorente.md",
+                "file": "Klausurvorbereitung - Mikroökonomie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,11 +259,11 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "6a6354d041164900",
+  "active": "bbf6269c9c9d233a",
   "lastOpenFiles": [
+    "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Brutto- und Nettorente.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Kompensatorische und äquivalente Variation.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Angebotsfunktion.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Brutto- und Nettorente.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Inverse Nachfragefunktionen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Einkommenseffekt.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Normale und inferiore Güter.md",
