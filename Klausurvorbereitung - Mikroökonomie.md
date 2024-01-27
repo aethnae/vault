@@ -8,7 +8,7 @@
 - [x] Übung 5
 - [x] Übung 6
 - [x] Übung 7
-- [ ] Übung 8
+- [x] Übung 8
 - [ ] Übung 9
 - [ ] Übung 10
 - [ ] Übung 11
