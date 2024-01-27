@@ -15,10 +15,10 @@ date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 > Die **Marktnachfrage** nach Gut 1, auch als **aggregierte Nachfrage** bezeichnet, ist die Summe der individuellen Nachfrage über alle Konsumenten:
 >
 > $$
-> X^{1} (p_{1}, p_{2}, m_{1}, \dots , m_{n}) = \sum_{i = 1}^{n}x_{1}^{1}(p_{1}, p_{2}, m_{i})
+> X^{1} (p_{1}, p_{2}, m_{1}, \dots , m_{n}) = \sum_{i = 1}^{n}x_{i}^{1}(p_{1}, p_{2}, m_{i})
 >$$
 >
->wobei $i$ eine Konsumentin aus einer Menge von $n$ Konsumentinnen darstellt, und $x_{1}^{1}(p_{1}, p_{2}, m)$ für die Nachfragefunktion der Konsumentin nach Gut 1 steht.
+>wobei $i$ eine Konsumentin aus einer Menge von $n$ Konsumentinnen darstellt, und $x_{i}^{1}(p_{1}, p_{2}, m)$ für die Nachfragefunktion der Konsumentin nach Gut 1 steht.
 
 - Da die Nachfrage eines jeden Individuums nach Gut 1 von den Preisen und von seinem Geldeinkommen abhängt, wird die aggregierte Nachfrage im allgemeinen von den Preisen und der *Verteilung* der Einkommen abhängen
 

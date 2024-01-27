@@ -13,3 +13,9 @@
 - [ ] Übung 10
 - [ ] Übung 11
 - [ ] Übung 12
+
+***
+#### Anmerkungen
+
+- [[Slutsky-Identität]] wiederholen
+- [[Inverse Nachfragefunktionen]] wiederholen
