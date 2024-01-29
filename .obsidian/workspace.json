@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cc98a342af8a8330",
+        "id": "0d552da0028012ba",
         "type": "tabs",
         "children": [
           {
-            "id": "f7ddc0bba01636bf",
+            "id": "30cdbd159d173888",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mathematik I/Übungsblätter/Freiwilliger Test IV.md",
-                "mode": "source",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Durchschnittskosten.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mathematik I/Übungsblätter/Freiwilliger Test IV.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Durchschnittskosten.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mathematik I/Übungsblätter/Freiwilliger Test IV.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Durchschnittskosten.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mathematik I/Übungsblätter/Freiwilliger Test IV.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Durchschnittskosten.md"
               }
             }
           }
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mathematik I/Übungsblätter/Freiwilliger Test IV.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Durchschnittskosten.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/Übungsblätter/Freiwilliger Test IV.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Durchschnittskosten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,10 +260,14 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f7ddc0bba01636bf",
+  "active": "30cdbd159d173888",
   "lastOpenFiles": [
-    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Angebotsfunktion.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Durchschnittskosten.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Grenzkosten.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 22 - Kostenkurven/Kurz- und Langfristige Kosten.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test IV.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test III.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Kostenfunktion.md",
     "university/Mathematik I/Rechengesetze.md",
@@ -284,10 +288,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 4 - Nutzen/Cobb-Douglas-Präferenzen.md",
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
-    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Kurvendiskussion - Übersicht.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Erlös.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Inverse Nachfragekurve.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Marktnachfrage.md",
     "files/Pasted image 20240124174249.png",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/4. Gesellschaften bürgerlichen Rechts",
     "Spaces/Home",
