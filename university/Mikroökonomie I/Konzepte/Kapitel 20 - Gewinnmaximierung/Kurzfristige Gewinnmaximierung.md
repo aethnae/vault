@@ -10,7 +10,7 @@ date modified: Wednesday, January 3rd 2024, 3:01:01 pm
 ---
 ***
 
-Da ein Problem innerhalb einer kurzen Frist betrachtet wird, muss Input 2 auf einem bestimmten Niveau $\bar{x}_{2}$ fixiert werden. Die Unternehmung habe die Produktionsfunktion $f(x_{1},x_{2})$, $p$ sei der Preis des Outputs, $w_{1}$ und $w_{2}$ die Preise der beiden Inputs. Das Gewinnmaximierungsproblem kann dann als
+Da ein Problem innerhalb einer kurzen Frist betrachtet wird, muss Input 2 auf einem bestimmten Niveau $\bar{x}_{2}$ fixiert werden. Die Unternehmung habe die Produktionsfunktion $f(x_{1},x_{2})$, $p$ sei der Preis des Outputs, $w_{1}$ und $w_{2}$ die Preise der beiden Inputs. Das **Gewinnmaximierungsproblem** kann dann als
 
 $$
 \max_{x_{1}} pf(x_{1}, \bar{x}_{2}) - w_{1}x_{1}-w_{2}\bar{x}_{2}
