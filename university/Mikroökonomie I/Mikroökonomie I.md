@@ -95,6 +95,14 @@ Formal: **Mathematische Modelle**. Stilisiert, um die Essenz der Zusammenhänge 
 		- [[Grenzerlös]]
 		- [[Inverse Nachfragekurve]]
 		- [[Marktnachfrage]]
+	- **Kapitel 16 - Marktgleichgewicht**
+		- [[Besteuerung und Auswirkungen auf das Marktgleichgewicht]]
+		- [[Gleichgewichtspreis]]
+		- [[Konkurrenzmarkt]]
+		- [[Marktangebot]]
+		- [[Pareto-Effizienz]]
+		- [[Überwälzung einer Steuer]]
+		- [[Wohlfahrtsverlust einer Steuer]]
 	- **Kapitel 19 - Technologie**
 		- [[Eigenschaften der Technologie]]
 		- [[Grenzprodukt]]

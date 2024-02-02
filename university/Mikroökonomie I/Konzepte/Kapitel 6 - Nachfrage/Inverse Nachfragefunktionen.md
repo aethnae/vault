@@ -16,7 +16,7 @@ date modified: Wednesday, January 3rd 2024, 2:24:34 pm
 > Die **inverse Nachfragefunktion** ist jene Nachfragefunktion, bei der wir den Preis als eine Funktion der Menge betrachten. Das heißt, für jedes Nachfrageniveau des Gutes 1 misst die inverse Nachfragefunktion, wie hoch der Preis sein müsste, damit der Konsument dieses Konsumniveau wählen würde.
 
 - Die inverse Nachfragefunktion misst genau die selbe Beziehung wie die [[Nachfragefunktion]], nur von einem anderen Standpunkt aus.
-- Da laut [[Tangentialbedingung]] im Optimum der Absolutwert der [[university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution]] gleich dem Preisverhältnis ([[Opportunitätskosten]]) sein muss, also
+- Da laut [[Tangentialbedingung]] im Optimum der Absolutwert der [[university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution|MRS]] gleich dem Preisverhältnis ([[Opportunitätskosten]]) sein muss, also
 
 $$
 \mid \mathrm{MRS} \mid = \frac{p_{1}}{p_{2}}
