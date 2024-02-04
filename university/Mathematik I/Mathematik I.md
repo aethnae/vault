@@ -1,7 +1,5 @@
 ***
 
-Das ist ein Test, wird dies in Obsidian angezeit? Abschnitt
-
 %% Begin Waypoint %%
 - **Konzepte**
 	- **Abschnitt 1 - Folgen & Reihen**
