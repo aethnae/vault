@@ -4,23 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7f6fbb765f62dba8",
+        "id": "dc1c73fdbaef421f",
         "type": "tabs",
         "children": [
           {
-            "id": "9f1bc84708ba2761",
+            "id": "2c2557075c5149d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tester.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tester.md",
+                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,13 +121,21 @@
       {
         "id": "be7961eba01397a0",
         "type": "tabs",
-        "dimension": 37.542277339346114,
+        "dimension": 44.46952595936794,
         "children": [
           {
             "id": "ba8653a4649b74c5",
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6796b5913387f8c2",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
               "state": {}
             }
           },
@@ -165,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tester.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -187,16 +194,17 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Tester.md"
+                "file": "Untitled.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ac8e2c4e1d0a0efb",
         "type": "tabs",
-        "dimension": 33.370913190529876,
+        "dimension": 29.119638826185103,
         "children": [
           {
             "id": "5767c389ed91eef4",
@@ -204,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tester.md",
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +228,7 @@
       {
         "id": "587d7e62a66052db",
         "type": "tabs",
-        "dimension": 29.086809470124013,
+        "dimension": 26.410835214446955,
         "children": [
           {
             "id": "79ded24ae5a22d5d",
@@ -228,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tester.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,14 +261,16 @@
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obisidian-note-linker:Note Linker": false
+      "obisidian-note-linker:Note Linker": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mathpad:Open Mathpad": false
     }
   },
-  "active": "9f1bc84708ba2761",
+  "active": "2c2557075c5149d0",
   "lastOpenFiles": [
+    "Untitled.md",
     "Tester.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
     "university/Mathematik I/Mathematik I.md",
@@ -292,7 +302,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Kurzfristige Gewinnmaximierung.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Gewinnmaximierung und Skalenerträge.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Skalenerträge.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Normale und inferiore Güter.md",
     "files/Pasted image 20240124174249.png",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/4. Gesellschaften bürgerlichen Rechts",
     "Spaces/Home",
