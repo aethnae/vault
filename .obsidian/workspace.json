@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9d14adb67ebf4367",
+        "id": "7f6fbb765f62dba8",
         "type": "tabs",
         "children": [
           {
-            "id": "3474e5d5bb1ed130",
+            "id": "9f1bc84708ba2761",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
+                "file": "Tester.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
+                "file": "Tester.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md"
+                "file": "Tester.md"
               }
             }
           },
@@ -188,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md"
+                "file": "Tester.md"
               }
             }
           }
@@ -205,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
+                "file": "Tester.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -229,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
+                "file": "Tester.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,8 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,8 +259,10 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "3474e5d5bb1ed130",
+  "active": "9f1bc84708ba2761",
   "lastOpenFiles": [
+    "Tester.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
     "university/Mathematik I/Mathematik I.md",
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.log",
     "university/Mikroökonomie I/Konzepte/Kapitel 16 - Marktgleichgewicht/Pareto-Effizienz.md",
@@ -271,7 +271,6 @@
     "university/Mikroökonomie I/Mikroökonomie I.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 16 - Marktgleichgewicht/Überwälzung einer Steuer.md",
     "files/Pasted image 20240201185224.png",
-    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 16 - Marktgleichgewicht/Besteuerung und Auswirkungen auf das Marktgleichgewicht.md",
     "files/Pasted image 20240201182229.png",
     "university/Mikroökonomie I/Konzepte/Kapitel 16 - Marktgleichgewicht/Marktangebot.md",
@@ -294,7 +293,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 20 - Gewinnmaximierung/Gewinnmaximierung und Skalenerträge.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Skalenerträge.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Normale und inferiore Güter.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Slutsky-Identität.md",
     "files/Pasted image 20240124174249.png",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/4. Gesellschaften bürgerlichen Rechts",
     "Spaces/Home",
