@@ -132,9 +132,9 @@ Formal: **Mathematische Modelle**. Stilisiert, um die Essenz der Zusammenhänge 
 		- [[Kurz- und Langfristige Kosten]]
 - [[Mikroökonomie I]]
 - **Übungen**
-	- [[Übungsblatt 1]]
+	- [[university/Mikroökonomie I/Übungen/Übungsblatt 1]]
 	- [[Übungsblatt 2]]
 	- [[Übungsblatt 3]]
-	- [[Übungsblatt 4]]
+	- [[university/Mikroökonomie I/Übungen/Übungsblatt 4]]
 
 %% End Waypoint %%

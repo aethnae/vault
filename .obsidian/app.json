@@ -17,5 +17,5 @@
   "spellcheck": false,
   "propertiesInDocument": "visible",
   "defaultViewMode": "preview",
-  "vimMode": true
+  "vimMode": false
 }

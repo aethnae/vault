@@ -93,12 +93,5 @@
 - [[LaTeX Snippets]]
 - [[Mathematik I]]
 - [[Rechengesetze]]
-- **Übungsblätter**
-	- [[Freiwilliger Test I]]
-	- [[Freiwilliger Test II]]
-	- [[Freiwilliger Test III]]
-	- [[Freiwilliger Test IV]]
-	- [[Übungsblatt 1]]
-	- [[Übungsblatt 4]]
 
 %% End Waypoint %%
