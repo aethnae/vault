@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b5f6f32010bd4c4",
+            "id": "3474e5d5bb1ed130",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mathematik I/Mathematik I.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mathematik I/Mathematik I.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mathematik I/Mathematik I.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md"
               }
             }
           },
@@ -187,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mathematik I/Mathematik I.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md"
               }
             }
           }
@@ -204,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mathematik I/Mathematik I.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -228,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/Mathematik I.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +239,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,8 +261,10 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "8b5f6f32010bd4c4",
+  "active": "3474e5d5bb1ed130",
   "lastOpenFiles": [
+    "university/Mathematik I/Mathematik I.md",
+    "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.log",
     "university/Mikroökonomie I/Konzepte/Kapitel 16 - Marktgleichgewicht/Pareto-Effizienz.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 16 - Marktgleichgewicht/Wohlfahrtsverlust einer Steuer.md",
     "files/Pasted image 20240201190426.png",
@@ -291,7 +295,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Skalenerträge.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Normale und inferiore Güter.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Slutsky-Identität.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 8 - Slutsky-Gleichungen/Substitutionseffekt.md",
     "files/Pasted image 20240124174249.png",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/4. Gesellschaften bürgerlichen Rechts",
     "Spaces/Home",
@@ -306,7 +309,6 @@
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Untitled",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/5. Handelsgeschäftslehre & Handelskauf/Untitled",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
