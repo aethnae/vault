@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "14f42c6b76be3e65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Partielle Ableitungen.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Partielle Ableitungen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md"
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Partielle Ableitungen.md"
               }
             }
           },
@@ -231,7 +243,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md"
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Partielle Ableitungen.md"
               }
             }
           }
@@ -249,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Partielle Ableitungen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -273,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Partielle Ableitungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,8 +317,9 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "790f1650b093abf3",
+  "active": "14f42c6b76be3e65",
   "lastOpenFiles": [
+    "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md",
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
     "university/Mathematik I/Rechengesetze.md",
@@ -336,7 +349,6 @@
     "university/Externes Rechnungswesen/Konzepte/Steuern/Steuerarten.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 16 - Marktgleichgewicht/Gleichgewichtspreis.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 16 - Marktgleichgewicht/Konkurrenzmarkt.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Inverse Nachfragefunktionen.md",
     "files/Pasted image 20240201173224.png",
     "university/Mikroökonomie I/Konzepte/Kapitel 16 - Marktgleichgewicht",
     "files/Pasted image 20240124174249.png",
