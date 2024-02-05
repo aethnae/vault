@@ -23,7 +23,3 @@ publish: true
 $$
 \mathrm{d}f = \sum_{i = 1}^{n} \frac{ \partial f }{ \partial x_{i} } = \underbrace{ \langle \operatorname{grad}f, (\mathrm{d}x_{1},\dots,\mathrm{d}x_{n}) \rangle }_{ \text{ Skalarprodukt } }
 $$
-
-$$
-\frac{ \mathrm{d} y }{ \mathrm{d} x } 
-$$

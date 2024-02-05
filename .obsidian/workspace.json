@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Polstellen.md",
+                "file": "university/Mathematik I/Rechengesetze.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a513732cbdd5e112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "790f1650b093abf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -62,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nutzenmaxi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Polstellen.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Polstellen.md"
+                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md"
               }
             }
           },
@@ -207,7 +231,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Polstellen.md"
+                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md"
               }
             }
           }
@@ -225,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Polstellen.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -249,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Polstellen.md",
+                "file": "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,10 +305,13 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9bd41cb062d04662",
+  "active": "790f1650b093abf3",
   "lastOpenFiles": [
-    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Rationale Funktionen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
+    "university/Mathematik I/Rechengesetze.md",
     "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Polstellen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Rationale Funktionen.md",
     "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Kurvendiskussion - Übersicht.md",
     "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Mengen.md",
     "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Produktzeichen.md",
@@ -311,9 +338,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 16 - Marktgleichgewicht/Konkurrenzmarkt.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Inverse Nachfragefunktionen.md",
     "files/Pasted image 20240201173224.png",
-    "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Marginalanalyse.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 14 - Konsumentenrente/Angebotsfunktion.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Konzepte/4. Spieltheorie/Nash-Gleichgewicht.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 16 - Marktgleichgewicht",
     "files/Pasted image 20240124174249.png",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/4. Gesellschaften bürgerlichen Rechts",
