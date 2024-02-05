@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "744c0daf6202b5c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md"
               }
             }
           },
@@ -195,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md"
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md"
               }
             }
           }
@@ -213,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -237,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,8 +282,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "9863e132885534c7",
+  "active": "744c0daf6202b5c0",
   "lastOpenFiles": [
+    "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
+    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
     "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Cournotscher Punkt.md",
     "university/Mikroökonomie I/Mikroökonomie I.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
@@ -279,7 +294,6 @@
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Totales Differential.md",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Partielle Ableitungen.md",
     "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md",
-    "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
     "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Polstellen.md",
     "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Rationale Funktionen.md",
@@ -299,7 +313,6 @@
     "files/Pasted image 20240201190426.png",
     "university/Mikroökonomie I/Konzepte/Kapitel 16 - Marktgleichgewicht/Überwälzung einer Steuer.md",
     "files/Pasted image 20240201185224.png",
-    "university/Mikroökonomie I/Konzepte/Kapitel 16 - Marktgleichgewicht/Besteuerung und Auswirkungen auf das Marktgleichgewicht.md",
     "files/Pasted image 20240201182229.png",
     "files/Pasted image 20240201173224.png",
     "university/Mikroökonomie I/Konzepte/Kapitel 16 - Marktgleichgewicht",
