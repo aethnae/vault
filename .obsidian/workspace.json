@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Bürgerliches Recht/Bürgerliches Recht.md",
-                "mode": "preview",
+                "file": "university/Bürgerliches Recht/Konzepte/6. Leistungsstörungen bei Schuldverhältnissen/Untitled.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Bürgerliches Recht/Bürgerliches Recht.md",
+                "file": "university/Bürgerliches Recht/Konzepte/6. Leistungsstörungen bei Schuldverhältnissen/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Bürgerliches Recht/Bürgerliches Recht.md"
+                "file": "university/Bürgerliches Recht/Konzepte/6. Leistungsstörungen bei Schuldverhältnissen/Untitled.md"
               }
             }
           },
@@ -194,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Bürgerliches Recht/Bürgerliches Recht.md"
+                "file": "university/Bürgerliches Recht/Konzepte/6. Leistungsstörungen bei Schuldverhältnissen/Untitled.md"
               }
             }
           }
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Bürgerliches Recht/Bürgerliches Recht.md",
+                "file": "university/Bürgerliches Recht/Konzepte/6. Leistungsstörungen bei Schuldverhältnissen/Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Bürgerliches Recht/Bürgerliches Recht.md",
+                "file": "university/Bürgerliches Recht/Konzepte/6. Leistungsstörungen bei Schuldverhältnissen/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,6 +270,7 @@
   },
   "active": "5f2481d5204b491b",
   "lastOpenFiles": [
+    "university/Bürgerliches Recht/Bürgerliches Recht.md",
     "university/Bürgerliches Recht/Konzepte/6. Leistungsstörungen bei Schuldverhältnissen/Untitled.md",
     "university/Bürgerliches Recht/Konzepte/5. Fristen & Verährung/Verjährung.md",
     "university/Willkommen!.md",
@@ -295,7 +296,6 @@
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Partielles Differential.md",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Totales Differential.md",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Partielle Ableitungen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md",
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.log",
     "files/Pasted image 20240201190426.png",
     "files/Pasted image 20240201185224.png",
