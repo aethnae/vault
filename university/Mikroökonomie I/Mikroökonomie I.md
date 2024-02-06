@@ -26,6 +26,7 @@ Formal: **Mathematische Modelle**. Stilisiert, um die Essenz der Zusammenhänge 
 #### Inhaltsverzeichnis
 
 %% Begin Waypoint %%
+- [[Klausurvorbereitung - Mikroökonomie]]
 - **Konzepte**
 	- **Kapitel 1 - Angebot und Nachfrage**
 		- [[Angebotsüberhang]]
@@ -132,9 +133,9 @@ Formal: **Mathematische Modelle**. Stilisiert, um die Essenz der Zusammenhänge 
 		- [[Kurz- und Langfristige Kosten]]
 - [[Mikroökonomie I]]
 - **Übungen**
-	- [[university/Mikroökonomie I/Übungen/Übungsblatt 1]]
+	- [[Übungsblatt 1]]
 	- [[Übungsblatt 2]]
 	- [[Übungsblatt 3]]
-	- [[university/Mikroökonomie I/Übungen/Übungsblatt 4]]
+	- [[Übungsblatt 4]]
 
 %% End Waypoint %%
