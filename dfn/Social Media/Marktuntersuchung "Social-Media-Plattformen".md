@@ -19,13 +19,18 @@ Bei der Auswahl von repräsentativen Instituten habe ich der Bedeutung für die 
 - TU München
 - Max-Planck-Gesellschaft
 - Helmholtz-Gemeinschaft
+- Fraunhofer
 - SWITCH
 - GEANT
 - DFN
 - NORDUnet
 - CANARIE
-- DANTE
+- Internet2
 - Janet
+- SURF
+- RENATER
+- GARR
+- RedIRIS
 
 ***
 <div style="page-break-after: always;"></div>
@@ -43,13 +48,28 @@ Bei der Auswahl von repräsentativen Instituten habe ich der Bedeutung für die 
 | LinkedIn |  | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ |  | ☑︎ |
 | Instagram |  | ☑︎ | ☑︎ | ☑︎ |  |  |  |  | ☑︎ |
 | TikTok |  |  | ☑︎ |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
 
+| Institution | GEANT | CANARIE | Internet2 | SURF | RENATER | GARR | RedIRIS | Fraunhofer |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| X | ☑︎ | (☑︎)[^7] | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ |
+| Threads |  |  |  |  |  |  |  | ☑︎ |
+| BlueSky |  |  |  |  |  |  |  | (☑︎)[^9] |
+| Mastodon | ☑︎ |  |  | ☑︎ | (☑︎)[^8] |  |  | (☑︎)[^10] |
+| Facebook | ☑︎ | ☑︎ | ☑︎ |  |  | ☑︎ | ☑︎ | ☑︎ |
+| Youtube | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ |  | ☑︎ |
+| LinkedIn | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ |
+| Instagram | ☑︎ |  | ☑︎ |  |  | ☑︎ |  |  |
+| TikTok |  |  |  |  |  |  |  |  |
 
+***
 
 [^1]: Die HU Berlin selbst hat keinen Mastodon-Account, allerdings betreiben mehrere Fakultäten, Institute sowie die Universitätsbibliothek der HU eigene Mastodon-Accounts.
 [^2]: Janet selbst hat keine eigene Social-Media-Präsenz, diese wird komplett durch *Jisc*, die Muttergesellschaft von Janet, betrieben.
 [^3]: Wahrscheinlich inaktiv, Profil besteht jedoch.
 [^4]: Wahrscheinlich inaktiv, Profil besteht jedoch seit Mitte 2022.
-[^5]: Ein Institut der HU betreibt ein eigenes BlueSky-Profil
-[^6]: Mehrere Mitgliedsnetze des NORDUnet-Verbunds betreiben neben eigenen Facebook-, LinkedIn- und X-Kanälen auch eigene Youtube-Kanäle
+[^5]: Ein Institut der HU betreibt ein eigenes BlueSky-Profil.
+[^6]: Mehrere Mitgliedsnetze des NORDUnet-Verbunds betreiben neben eigenen Facebook-, LinkedIn- und X-Kanälen auch eigene Youtube-Kanäle.
+[^7]: Seit dem 31. Januar 2024 nicht mehr aktiv.
+[^8]: Profil besteht, ist bis jetzt jedoch noch nicht aktiv.
+[^9]: Einzelne Institute der Fraunhofer-Gesellschaft betreiben BlueSky-Kanäle.
+[^10]: Das "Fraunhofer-Institut für sichere Informationstechnologie" (SIT) betreibt einen eigenen Mastodon-Kanal.
