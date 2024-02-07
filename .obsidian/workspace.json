@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5d616b2c6bdbbda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f084c2380886add2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
-                "mode": "preview",
+                "file": "university/Mathematik I/Rechengesetze.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "4cae0943d8942f29",
@@ -92,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
+                "file": "university/Mathematik I/Rechengesetze.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md"
+                "file": "university/Mathematik I/Rechengesetze.md"
               }
             }
           },
@@ -207,7 +195,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md"
+                "file": "university/Mathematik I/Rechengesetze.md"
               }
             }
           }
@@ -225,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
+                "file": "university/Mathematik I/Rechengesetze.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -249,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
+                "file": "university/Mathematik I/Rechengesetze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +271,10 @@
   },
   "active": "f084c2380886add2",
   "lastOpenFiles": [
+    "misc/Sommerurlaub '24/Untitled.md",
     "misc/Taiwan '24/Reiseplan.md",
+    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
+    "misc/Sommerurlaub '24",
     "misc/Taiwan '24/Übersicht.md",
     "dfn/Social Media/Marktuntersuchung \"Social-Media-Plattformen\".md",
     "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Grenzwerte mehrdimensionaler Funktionen.md",
@@ -306,9 +297,7 @@
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Bestimmte Divergenz.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Beschränktheit von Folgen.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Arithmetische Folgen.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.md",
-    "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Arithmetische Reihe.md",
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.log",
     "files/Pasted image 20240201190426.png",
     "files/Pasted image 20240201185224.png",
@@ -328,7 +317,6 @@
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/2. Gesellschaften mit beschränkter Haftung",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/1. Gesellschaftsrechtliche Grundlagen",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/6. Stellvertretung &  Kaufmännische Absatz- und Geschäftsmittler",
-    "university/Handels- und Gesellschaftsrecht/Konzepte/Untitled",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
