@@ -15,8 +15,18 @@ date modified: Wednesday, January 17th 2024, 12:46:40 pm
 
 Bei der Auswahl von repräsentativen Instituten habe ich der Bedeutung für die Wissenschaft eine hohe Gewichtung zugerechnet, und mich auf den deutschsprachigen Raum beschränkt.
 
+- Universität Hamburg
+- Ruhr-Uni Bochum
+- Universität zu Köln
+- LMU München
+- Karlsruhe Institute of Technology
+- Universität Bonn
+- TU Berlin
+- TU Dresden
+- 
 - Humboldt-Universität zu Berlin
 - TU München
+- RWTH Aachen
 - Max-Planck-Gesellschaft
 - Helmholtz-Gemeinschaft
 - Fraunhofer
