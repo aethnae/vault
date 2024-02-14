@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d1183bba897b76f0",
+        "id": "07eb9189cb99d96d",
         "type": "tabs",
         "children": [
           {
-            "id": "c70fe3c3a9827da4",
+            "id": "e8be7e69f0cba828",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md",
-                "mode": "preview",
+                "file": "dfn/Social Media/Marktuntersuchung \"Social-Media-Plattformen\".md",
+                "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "97f33763925d24ca",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md",
+                "file": "dfn/Social Media/Marktuntersuchung \"Social-Media-Plattformen\".md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md"
+                "file": "dfn/Social Media/Marktuntersuchung \"Social-Media-Plattformen\".md"
               }
             }
           },
@@ -187,11 +178,28 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md"
+                "file": "dfn/Social Media/Marktuntersuchung \"Social-Media-Plattformen\".md"
               }
             }
+          },
+          {
+            "id": "7bf6e547a5d54458",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2bc7e7fde2471314",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "ac8e2c4e1d0a0efb",
@@ -204,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md",
+                "file": "dfn/Social Media/Marktuntersuchung \"Social-Media-Plattformen\".md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -228,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md",
+                "file": "dfn/Social Media/Marktuntersuchung \"Social-Media-Plattformen\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,11 +268,12 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "51765abe1eb47d88",
+  "active": "e8be7e69f0cba828",
   "lastOpenFiles": [
+    "dfn/Mitteilungen/Liste Mitteilungen.md",
+    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Satz von Taylor.md",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Taylorpolynome.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md",
     "university/Mathematik I/Rechengesetze.md",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differenzierbarkeit.md",
     "misc/Sommerurlaub '24/Untitled.md",
@@ -288,7 +297,6 @@
     "university/Mathematik I/Mathematik I.md",
     "university/Mathematik I/LaTeX Snippets.md",
     "university/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Folgen/Folgen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Kurvendiskussion - Übersicht.md",
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.log",
     "files/Pasted image 20240201190426.png",
     "files/Pasted image 20240201185224.png",

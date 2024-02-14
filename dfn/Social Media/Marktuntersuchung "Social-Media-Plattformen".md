@@ -23,7 +23,7 @@ Bei der Auswahl von repräsentativen Instituten habe ich der Bedeutung für die 
 - Universität Bonn
 - TU Berlin
 - TU Dresden
-- 
+- Goethe-Universität Frankfurt
 - Humboldt-Universität zu Berlin
 - TU München
 - RWTH Aachen
@@ -71,7 +71,17 @@ Bei der Auswahl von repräsentativen Instituten habe ich der Bedeutung für die 
 | Instagram | ☑︎ |  | ☑︎ |  |  | ☑︎ |  |  |
 | TikTok |  |  |  |  |  |  |  |  |
 
-***
+| Institution | Uni Hamburg | Ruhr-Uni Bochum | Uni zu Köln | LMU | KIT | Uni Bonn | TU Berlin | TU Dresden |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| X | ☑︎ | ☑︎ |  |  |  |  |  |  |
+| Threads | ☑︎[^11] |  |  |  |  |  |  |  |
+| BlueSky | ☑︎ |  |  |  |  |  |  |  |
+| Mastodon |  |  |  |  |  |  |  |  |
+| Facebook | ☑︎ | ☑︎ |  |  |  |  |  |  |
+| YouTube | ☑︎ | ☑︎ |  |  |  |  |  |  |
+| LinkedIn | ☑︎ | ☑︎ |  |  |  |  |  |  |
+| Instagram | ☑︎ | ☑︎ |  |  |  |  |  |  |
+| TikTok |  |  |  |  |  |  |  |  |
 
 [^1]: Die HU Berlin selbst hat keinen Mastodon-Account, allerdings betreiben mehrere Fakultäten, Institute sowie die Universitätsbibliothek der HU eigene Mastodon-Accounts.
 [^2]: Janet selbst hat keine eigene Social-Media-Präsenz, diese wird komplett durch *Jisc*, die Muttergesellschaft von Janet, betrieben.
@@ -83,3 +93,4 @@ Bei der Auswahl von repräsentativen Instituten habe ich der Bedeutung für die 
 [^8]: Profil besteht, ist bis jetzt jedoch noch nicht aktiv.
 [^9]: Einzelne Institute der Fraunhofer-Gesellschaft betreiben BlueSky-Kanäle.
 [^10]: Das "Fraunhofer-Institut für sichere Informationstechnologie" (SIT) betreibt einen eigenen Mastodon-Kanal.
+[^11]: Profil besteht, jedoch bis jetzt noch nicht aktiv.
