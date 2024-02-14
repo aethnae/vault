@@ -73,14 +73,14 @@ Bei der Auswahl von repräsentativen Instituten habe ich der Bedeutung für die 
 
 | Institution | Uni Hamburg | Ruhr-Uni Bochum | Uni zu Köln | LMU | KIT | Uni Bonn | TU Berlin | TU Dresden |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| X | ☑︎ | ☑︎ |  |  |  |  |  |  |
+| X | ☑︎ | ☑︎ | ☑︎ | ☑︎ |  |  |  |  |
 | Threads | ☑︎[^11] |  |  |  |  |  |  |  |
 | BlueSky | ☑︎ |  |  |  |  |  |  |  |
-| Mastodon |  |  |  |  |  |  |  |  |
-| Facebook | ☑︎ | ☑︎ |  |  |  |  |  |  |
-| YouTube | ☑︎ | ☑︎ |  |  |  |  |  |  |
-| LinkedIn | ☑︎ | ☑︎ |  |  |  |  |  |  |
-| Instagram | ☑︎ | ☑︎ |  |  |  |  |  |  |
+| Mastodon |  |  | ☑︎ |  |  |  |  |  |
+| Facebook | ☑︎ | ☑︎ | ☑︎ | ☑︎ |  |  |  |  |
+| YouTube | ☑︎ | ☑︎ | ☑︎ | ☑︎ |  |  |  |  |
+| LinkedIn | ☑︎ | ☑︎ | ☑︎ | ☑︎ |  |  |  |  |
+| Instagram | ☑︎ | ☑︎ | ☑︎ | ☑︎ |  |  |  |  |
 | TikTok |  |  |  |  |  |  |  |  |
 
 [^1]: Die HU Berlin selbst hat keinen Mastodon-Account, allerdings betreiben mehrere Fakultäten, Institute sowie die Universitätsbibliothek der HU eigene Mastodon-Accounts.
