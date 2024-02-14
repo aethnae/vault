@@ -73,15 +73,25 @@ Bei der Auswahl von repräsentativen Instituten habe ich der Bedeutung für die 
 
 | Institution | Uni Hamburg | Ruhr-Uni Bochum | Uni zu Köln | LMU | KIT | Uni Bonn | TU Berlin | TU Dresden |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| X | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ |  |
-| Threads | ☑︎[^11] |  |  |  |  |  |  |  |
+| X | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ |
+| Threads | ☑︎[^11] |  |  |  |  |  |  | ☑︎[^12] |
 | BlueSky | ☑︎ |  |  |  |  |  |  |  |
 | Mastodon |  |  | ☑︎ |  | ☑︎ |  |  |  |
-| Facebook | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ |  |  |
-| YouTube | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ |  |  |
-| LinkedIn | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ |  |  |
-| Instagram | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ |  |  |
+| Facebook | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ |
+| YouTube | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ |
+| LinkedIn | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ |  |
+| Instagram | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ | ☑︎ |
 | TikTok |  |  |  |  |  |  |  |  |
+
+***
+<div style="page-break-after: always;"></div>
+
+#### Schlussfolgerungen
+
+- Besonders bei jungen Menschen beliebte Medien wie TikTok spielen in der Wissenschaftskommunikation (noch) keine Rolle, möglicherweise aufgrund der besonderen Informalität und der Einschränkung bzgl. der Länge der Videos
+- Durch alle drei Bereiche (Universitäten, Forschungsinstitute & Forschungsnetze) hindurch genießen die Plattformen **X (Twitter)**, **Facebook**, **YouTube** und **LinkedIn** (!) die größe Verbreitung. Besonders in der universitären Kommunikation mit Studenten kommt oft noch **Instagram** dazu
+- Bezüglich der Verbreitung einiger populärer Twitter-Alternativen wie **Mastodon**, **BlueSky** und **Threads** lässt sich sagen, dass diese (noch) keinen großen Anklang finden, und daher in der Priorisierung hinter die oben genannten Medien fallen sollten. Eine Ausnahme besteht hier bei **Mastodon**, was im deutschsprachigen Raum teilweise größere Nutzung erfährt
+
 
 [^1]: Die HU Berlin selbst hat keinen Mastodon-Account, allerdings betreiben mehrere Fakultäten, Institute sowie die Universitätsbibliothek der HU eigene Mastodon-Accounts.
 [^2]: Janet selbst hat keine eigene Social-Media-Präsenz, diese wird komplett durch *Jisc*, die Muttergesellschaft von Janet, betrieben.
@@ -94,3 +104,4 @@ Bei der Auswahl von repräsentativen Instituten habe ich der Bedeutung für die 
 [^9]: Einzelne Institute der Fraunhofer-Gesellschaft betreiben BlueSky-Kanäle.
 [^10]: Das "Fraunhofer-Institut für sichere Informationstechnologie" (SIT) betreibt einen eigenen Mastodon-Kanal.
 [^11]: Profil besteht, jedoch bis jetzt noch nicht aktiv.
+[^12]: Profil besteht, jedoch bis jetzt noch nicht aktiv.
