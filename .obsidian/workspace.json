@@ -88,6 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,22 +133,6 @@
         "dimension": 44.469525959367935,
         "children": [
           {
-            "id": "ba8653a4649b74c5",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "6796b5913387f8c2",
-            "type": "leaf",
-            "state": {
-              "type": "mathpad-view",
-              "state": {}
-            }
-          },
-          {
             "id": "51765abe1eb47d88",
             "type": "leaf",
             "state": {
@@ -179,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md"
+              }
             }
           },
           {
@@ -199,11 +186,12 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ac8e2c4e1d0a0efb",
@@ -216,6 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -239,6 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Links- und rechtsseitige Ableitungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +260,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "97f33763925d24ca",
+  "active": "51765abe1eb47d88",
   "lastOpenFiles": [
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Satz von Taylor.md",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Taylorpolynome.md",
