@@ -22,7 +22,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "tags:\nweek:\nflashcard: false\npublish: true\nsource: "
+      "text-to-insert": "tags:\nflashcard: false\npublish: false\nsource: "
     },
     "move-tags-to-yaml": {
       "enabled": false,
@@ -245,7 +245,7 @@
   },
   "lintOnSave": false,
   "recordLintOnSaveLogs": false,
-  "displayChanged": true,
+  "displayChanged": false,
   "lintOnFileChange": false,
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
