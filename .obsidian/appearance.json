@@ -1,8 +1,8 @@
 {
   "accentColor": "#f29d26",
-  "theme": "obsidian",
-  "cssTheme": "Minimal",
-  "baseFontSize": 15,
+  "theme": "moonstone",
+  "cssTheme": "Typomagical",
+  "baseFontSize": 16,
   "enabledCssSnippets": [
     "center",
     "Minimal Theme"

@@ -22,7 +22,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "tags:\nflashcard: false\npublish: false\nsource: "
+      "text-to-insert": "tags:\nflashcard: false\npublish: false\nsource:\naliases: "
     },
     "move-tags-to-yaml": {
       "enabled": false,
