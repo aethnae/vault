@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fa3969263b507308",
+        "id": "22eed1ecc6c50d46",
         "type": "tabs",
         "children": [
           {
-            "id": "3ac8c74306a205ce",
+            "id": "3368dd9fdad5cfde",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -150,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md"
+              }
             }
           },
           {
@@ -170,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md"
+              }
             }
           },
           {
@@ -203,6 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -226,6 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,7 +270,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "3ac8c74306a205ce",
+  "active": "3368dd9fdad5cfde",
   "lastOpenFiles": [
     "misc/Taiwan '24/Reiseplan.md",
     "misc/Taiwan '24/Übersicht.md",
