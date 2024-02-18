@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "65078e93b1502018",
+        "id": "3308edd82689aaf3",
         "type": "tabs",
         "children": [
           {
-            "id": "82650d67d4a3e6fc",
+            "id": "0720b17bb7108165",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Mathematical Definition.md",
-                "mode": "preview",
+                "file": "university/Mathematik I/Übungsblätter/Freiwilliger Test II.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "templates/Mathematical Definition.md",
+                "file": "university/Mathematik I/Übungsblätter/Freiwilliger Test II.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -98,24 +98,13 @@
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.46810599413974,
-                  "repelStrength": 10.3621198827948,
-                  "linkStrength": 0.953501772647736,
-                  "linkDistance": 448,
-                  "scale": 0.2588163975134512,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.27691107850602104,
                   "close": true
                 }
-              }
-            }
-          },
-          {
-            "id": "d66306a0e6d4bed9",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": false
               }
             }
           }
@@ -148,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/Mathematical Definition.md"
+                "file": "university/Mathematik I/Übungsblätter/Freiwilliger Test II.md"
               }
             }
           },
@@ -158,6 +147,39 @@
             "state": {
               "type": "mathpad-view",
               "state": {}
+            }
+          },
+          {
+            "id": "d66306a0e6d4bed9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "af118ebccc09dcbe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "e655ce3a061e91f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "university/Mathematik I/Übungsblätter/Freiwilliger Test II.md"
+              }
             }
           }
         ]
@@ -173,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Mathematical Definition.md",
+                "file": "university/Mathematik I/Übungsblätter/Freiwilliger Test II.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -197,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Mathematical Definition.md",
+                "file": "university/Mathematik I/Übungsblätter/Freiwilliger Test II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,6 +233,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
       "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -224,14 +248,18 @@
       "workspaces:Manage workspace layouts": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "82650d67d4a3e6fc",
+  "active": "0720b17bb7108165",
   "lastOpenFiles": [
+    "university/Mathematik I/Übungsblätter/Freiwilliger Test IV.md",
+    "university/Mikroökonomie I/Mikroökonomie I.md",
+    "university/Mathematik I/Übungsblätter/Freiwilliger Test II.md",
+    "university/Mathematik I/LaTeX Snippets.md",
     "university (TU)/Grundwissen Mathematikstudium/1. Geschichte der Mathematik & Beweisführung/Untitled.md",
+    "school/Deutsch/Politische Reden & Rhetorik/Strategien der Beeinflussung.md",
+    "university/Mathematik I/Konzepte/Einschub - mathematische Beweisführung/Vollständige Induktion.md",
     "templates/Mathematical Definition.md",
     "university (TU)/Grundwissen Mathematikstudium/1. Geschichte der Mathematik & Beweisführung/Axiome.md",
     "templates",
@@ -255,13 +283,7 @@
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Taylorpolynome.md",
     "university/Mathematik I/Rechengesetze.md",
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differenzierbarkeit.md",
-    "misc/Sommerurlaub '24/Untitled.md",
-    "university/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Grenzrate der Substitution.md",
     "misc/Sommerurlaub '24",
-    "university/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Grenzwerte mehrdimensionaler Funktionen.md",
-    "university/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Logistische Funktionen.md",
-    "university/Bürgerliches Recht/Konzepte/6. Leistungsstörungen bei Schuldverhältnissen/Untitled.md",
-    "university/Bürgerliches Recht/Bürgerliches Recht.md",
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.log",
     "files/Pasted image 20240201190426.png",
     "files/Pasted image 20240201185224.png",

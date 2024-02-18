@@ -32,5 +32,6 @@
   "obsidian-discordrpc",
   "obsidian-living-graph",
   "templater-obsidian",
-  "omnisearch"
+  "omnisearch",
+  "obsidian-hider"
 ]

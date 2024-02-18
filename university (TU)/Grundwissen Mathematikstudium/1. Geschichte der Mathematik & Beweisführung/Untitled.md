@@ -10,6 +10,9 @@ date modified: Sunday, February 18th 2024, 11:22:33 pm
 ***
 #### Definition
 
+$$
+\text{ Das ist ein Test, wie der Text aussieht. } - \frac{5}{s} \{ df \} tester
+$$
 
 ***
 #### Herleitung
@@ -17,3 +20,4 @@ date modified: Sunday, February 18th 2024, 11:22:33 pm
 
 ***
 #### Verweise
+
