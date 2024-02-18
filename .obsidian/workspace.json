@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "27e8a14b245a2283",
+        "id": "fa3969263b507308",
         "type": "tabs",
         "children": [
           {
-            "id": "2c1adb8edc04334e",
+            "id": "3ac8c74306a205ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md"
-              }
+              "state": {}
             }
           },
           {
@@ -212,7 +203,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -236,7 +226,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,10 +257,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "2c1adb8edc04334e",
+  "active": "3ac8c74306a205ce",
   "lastOpenFiles": [
-    "misc/Taiwan '24/Übersicht.md",
     "misc/Taiwan '24/Reiseplan.md",
+    "misc/Taiwan '24/Übersicht.md",
     "dfn/Zeitstrahl/Zeitstrahl Informationen.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 5 - Entscheidungen/Nachfragefunktion.md",
     "dfn/Stundenzettel.md",

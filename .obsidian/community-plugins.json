@@ -32,5 +32,6 @@
   "insert-heading-link",
   "link-headers-directly",
   "obisidian-note-linker",
-  "mathpad"
+  "mathpad",
+  "obsidian-discordrpc"
 ]
