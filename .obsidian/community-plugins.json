@@ -1,6 +1,5 @@
 [
   "code-block-copy",
-  "obsidian-timeline",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-advanced-uri",
   "dataview",
@@ -8,7 +7,6 @@
   "obsidian-latex-suite",
   "calendar",
   "settings-search",
-  "url-into-selection",
   "darlal-switcher-plus",
   "note-refactor-obsidian",
   "obsidian-git",
@@ -31,7 +29,8 @@
   "obsidian-minimal-settings",
   "insert-heading-link",
   "link-headers-directly",
-  "obisidian-note-linker",
-  "mathpad",
-  "obsidian-discordrpc"
+  "obsidian-discordrpc",
+  "obsidian-living-graph",
+  "templater-obsidian",
+  "omnisearch"
 ]
