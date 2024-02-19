@@ -7,6 +7,15 @@
     "": "date",
     "week": "date",
     "source": "text",
-    "date created": "text"
+    "date created": "text",
+    "test": "text",
+    "types": "multitext",
+    "examples": "multitext",
+    "constructions": "multitext",
+    "equivalences": "multitext",
+    "justifications": "multitext",
+    "generalizations": "multitext",
+    "proved by": "multitext",
+    "references": "multitext"
   }
 }
