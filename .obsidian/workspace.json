@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/Mathematik I/Rechengesetze.md",
+                "file": "misc/Taiwan '24/Reiseplan.md",
                 "mode": "preview",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "4cae0943d8942f29",
@@ -80,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Mathematik I/Rechengesetze.md",
+                "file": "misc/Taiwan '24/Reiseplan.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university/Mathematik I/Rechengesetze.md"
+                "file": "misc/Taiwan '24/Reiseplan.md"
               }
             }
           },
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university/Mathematik I/Rechengesetze.md"
+                "file": "misc/Taiwan '24/Reiseplan.md"
               }
             }
           }
@@ -196,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Mathematik I/Rechengesetze.md",
+                "file": "misc/Taiwan '24/Reiseplan.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Mathematik I/Rechengesetze.md",
+                "file": "misc/Taiwan '24/Reiseplan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,6 +251,8 @@
   },
   "active": "ffa4a611ccece748",
   "lastOpenFiles": [
+    "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Kurvendiskussion - Übersicht.md",
+    "university/Mathematik I/Rechengesetze.md",
     "templates/Definition.md",
     "templates/Theorem.md",
     "templates/Proposition.md",
@@ -280,8 +281,6 @@
     "university (TU)/Grundwissen Mathematikstudium/1. Geschichte der Mathematik & Beweisführung",
     "university (TU)/Grundwissen Mathematikstudium",
     "university (TU)",
-    "university/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Elastizität.md",
-    "misc/Taiwan '24/Reiseplan.md",
     "misc/Sommerurlaub '24",
     "university/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution.log",
     "files/Pasted image 20240201190426.png",
