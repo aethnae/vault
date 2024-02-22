@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md",
+                "file": "university/Mikroökonomie I/Mikroökonomie I.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "df7b583031f63cfb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +88,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -102,7 +110,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.3102580124118457,
+                  "scale": 0.3753261080397051,
                   "close": true
                 }
               }
@@ -136,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,9 +183,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,7 +199,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -219,7 +222,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Taiwan '24/Reiseplan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,8 +251,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "ffa4a611ccece748",
+  "active": "df7b583031f63cfb",
   "lastOpenFiles": [
+    "university/Mikroökonomie I/Mikroökonomie I.md",
+    "university/Mikroökonomie I/Klausurvorbereitung - Mikroökonomie.md",
+    "misc/Taiwan '24/Reiseplan.md",
     "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Kurvendiskussion - Übersicht.md",
     "university/Mathematik I/Rechengesetze.md",
     "templates/Definition.md",
@@ -264,7 +269,6 @@
     "university/Mathematik I/Übungsblätter/Freiwilliger Test II.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test III.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test IV.md",
-    "university/Mikroökonomie I/Mikroökonomie I.md",
     "university/Mikroökonomie I/Übungen/Übungsblatt 4.md",
     "university/Mikroökonomie I/Übungen/Übungsblatt 2.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 6 - Nachfrage/Inverse Nachfragefunktionen.md",
@@ -275,8 +279,6 @@
     "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Differenzierbarkeit.md",
     "university/Mikroökonomie I/Konzepte/Kapitel 21 - Kostenminimierung/Kostenfunktion.md",
     "university/Mathematik I/LaTeX Snippets.md",
-    "school/Deutsch/Politische Reden & Rhetorik/Strategien der Beeinflussung.md",
-    "university/Mathematik I/Konzepte/Einschub - mathematische Beweisführung/Vollständige Induktion.md",
     "templates",
     "university (TU)/Grundwissen Mathematikstudium/1. Geschichte der Mathematik & Beweisführung",
     "university (TU)/Grundwissen Mathematikstudium",

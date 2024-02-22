@@ -26,7 +26,6 @@ Formal: **Mathematische Modelle**. Stilisiert, um die Essenz der Zusammenhänge 
 #### Inhaltsverzeichnis
 
 %% Begin Waypoint %%
-- [[Klausurvorbereitung - Mikroökonomie]]
 - **Konzepte**
 	- **Kapitel 1 - Angebot und Nachfrage**
 		- [[Angebotsüberhang]]
