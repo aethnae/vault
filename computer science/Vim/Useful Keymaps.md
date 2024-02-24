@@ -47,3 +47,32 @@ date modified: Saturday, February 24th 2024, 2:40:23 am
 > [!note] Normal mode 
 > Pressing `<Esc>` will place you in **Normal mode** or will cancel an unwanted and partially completed command.
 
+***
+#### Change Commands
+
+> [!info] Change commands 
+>The format for a change command is:
+>
+operator   [number] motion
+> 
+> where
+> 
+> - **operator** - what to do, such as `d` for *delete*
+> - [number] - optional count to repeat the motion
+> - motion - moves over the text to operate on, such as
+> 	- `w` (word)
+> 	- `$` (to the end of the line)
+
+- To delete a *whole* line, type `dd`
+- To move to the start of the line, use a zero `0`
+
+***
+#### Undo Commands
+
+- To undo previous actions, type `u`
+- To undo **all** the changes on a line, type `U`
+- To undo the undo's, type `C-r` (command - r)
+
+***
+
+TODO: Lesson 3.1
