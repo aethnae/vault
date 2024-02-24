@@ -11,8 +11,12 @@
             "id": "c399b0ad67b3994b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "computer science/Vim/Useful Keymaps.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "computer science/Vim/Useful Keymaps.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "computer science/Vim/Useful Keymaps.md"
+              }
             }
           },
           {
@@ -170,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "computer science/Vim/Useful Keymaps.md"
+              }
             }
           }
         ]
@@ -186,6 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "computer science/Vim/Useful Keymaps.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -209,6 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "computer science/Vim/Useful Keymaps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,6 +251,8 @@
   },
   "active": "c399b0ad67b3994b",
   "lastOpenFiles": [
+    "computer science/Vim/Useful Keymaps.md",
+    "computer science/Vim",
     "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
     "university/Bürgerliches Recht/Bürgerliches Recht.md",
     "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Offenkundigkeitsprinzip.md",
@@ -265,7 +278,6 @@
     "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Stationäre Punkte.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test II.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test III.md",
-    "university/Mathematik I/Übungsblätter/Freiwilliger Test IV.md",
     "templates",
     "university (TU)/Grundwissen Mathematikstudium/1. Geschichte der Mathematik & Beweisführung",
     "university (TU)/Grundwissen Mathematikstudium",
@@ -280,7 +292,6 @@
     "files/Pasted image 20240124174249.png",
     "university/Handels- und Gesellschaftsrecht/Konzepte/Gesellschaftsrecht/4. Gesellschaften bürgerlichen Rechts",
     "Spaces/Home",
-    "Spaces",
     "files/Pasted image 20240123233440.png",
     "files/Pasted image 20240123233007.png",
     "files/Pasted image 20240123231252.png",
