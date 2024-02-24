@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8be3584979fd35ac",
+        "id": "4525f46489472bdb",
         "type": "tabs",
         "children": [
           {
-            "id": "dd7808cd88afcbd8",
+            "id": "c399b0ad67b3994b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,7 +186,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -219,7 +209,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,8 +238,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "dd7808cd88afcbd8",
+  "active": "c399b0ad67b3994b",
   "lastOpenFiles": [
+    "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
     "university/Bürgerliches Recht/Bürgerliches Recht.md",
     "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Offenkundigkeitsprinzip.md",
     "university/Mikroökonomie I/Mikroökonomie I.md",
@@ -276,7 +266,6 @@
     "university/Mathematik I/Übungsblätter/Freiwilliger Test II.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test III.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test IV.md",
-    "university/Mikroökonomie I/Übungen/Übungsblatt 4.md",
     "templates",
     "university (TU)/Grundwissen Mathematikstudium/1. Geschichte der Mathematik & Beweisführung",
     "university (TU)/Grundwissen Mathematikstudium",
