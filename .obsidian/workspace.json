@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f58d2f95f654cb73",
+        "id": "70dbdace3897aabb",
         "type": "tabs",
         "children": [
           {
-            "id": "7948a371453c3346",
+            "id": "2773b58a4c593239",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -238,7 +238,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "7948a371453c3346",
+  "active": "2773b58a4c593239",
   "lastOpenFiles": [
     "computer science/Vim/Useful Keymaps.md",
     "computer science/Vim",
