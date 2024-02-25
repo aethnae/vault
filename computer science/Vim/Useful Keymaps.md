@@ -124,3 +124,28 @@ To search for specified terms, use these commands
 - To substitute phrases between two line **#'s**, type `:#,#s/old/new/g`
 - To substitute all occurrences in the file, type `:%s/old/new/g` 
 	- To ask for confirmation each time add 'c', and type `:%s/old/new/gc`
+
+***
+#### Visual Selection
+
+> [!info] Visual selection 
+> Pressing `v` starts **visual selection**. You can move the cursor around to make the selection bigger or smaller. Then you can use an operator to do something with the text. For example, `d` deletes the text.
+
+The format for visual selection commands is as follows:
+
+`v`    motion    operator
+
+***
+#### Using External Commands
+
+- `:!command` executes an external command
+- Some useful examples are
+	- `:!ls` shows a directory listing
+	- `:!rm FILENAME` removes file FILENAME
+
+***
+#### Writing and Retrieving Files
+
+- `:w FILENAME` writes the current Neovim file to disk with name FILENAME
+- `:r FILENAME` retrieves disk file FILENAME and puts it **below** the cursor position
+	- `:r !dir` reads the output of the `dir` command and puts it **below** the cursor position
