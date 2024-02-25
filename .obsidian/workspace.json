@@ -11,8 +11,12 @@
             "id": "2773b58a4c593239",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "computer science/Vim/Useful Keymaps.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "computer science/Vim/Useful Keymaps.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "computer science/Vim/Useful Keymaps.md"
+              }
             }
           },
           {
@@ -170,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "computer science/Vim/Useful Keymaps.md"
+              }
             }
           }
         ]
@@ -186,6 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "computer science/Vim/Useful Keymaps.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -209,6 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "computer science/Vim/Useful Keymaps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,6 +251,8 @@
   },
   "active": "2773b58a4c593239",
   "lastOpenFiles": [
+    "misc/Taiwan '24/Reiseplan.md",
+    "misc/Sommerurlaub '24/Untitled.md",
     "computer science/Vim/Useful Keymaps.md",
     "computer science/Vim",
     "university/Bürgerliches Recht/Konzepte/4. Stellvertretung/Grundbegriffe der Stellvertretung.md",
@@ -255,7 +268,6 @@
     "university/Mathematik I/LaTeX Snippets.md",
     "university/Willkommen.md",
     "university/Mikroökonomie I/Klausurvorbereitung - Mikroökonomie.md",
-    "misc/Taiwan '24/Reiseplan.md",
     "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Kurvendiskussion - Übersicht.md",
     "university/Mathematik I/Rechengesetze.md",
     "templates/Definition.md",
@@ -266,7 +278,6 @@
     "university (TU)/Grundwissen Mathematikstudium/1. Geschichte der Mathematik & Beweisführung/Theoreme.md",
     "university/Mathematik I/Konzepte/Vorkurs/Funktionen/Stationäre Punkte.md",
     "university/Mathematik I/Übungsblätter/Freiwilliger Test II.md",
-    "university/Mathematik I/Übungsblätter/Freiwilliger Test III.md",
     "templates",
     "university (TU)/Grundwissen Mathematikstudium/1. Geschichte der Mathematik & Beweisführung",
     "university (TU)/Grundwissen Mathematikstudium",
