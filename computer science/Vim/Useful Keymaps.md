@@ -97,3 +97,30 @@ The format for change is:
 **c**    [number]    motion
 
 ***
+#### Cursor Status and Navigation
+
+- `<Ctrl> g` displays your location and the file status
+- `G` moves to the end of the file
+- `[line number] G` moves to that line number
+- `gg` moves to the first line
+
+To search for specified terms, use these commands
+
+- `/` followed by a phrase searches **forward** for that phrase
+- `?` followed by a phrase searches **backwards** for that phrase
+	- After a search, type `n` to find the next occurence in the same direction
+	- `N` works the same, but searches in the opposite direction
+- `<Ctrl> o` takes you back to older positions
+- `<Ctrl> i` takes you to newer positions, when currently on an older position
+
+> [!note] Bracket Search 
+> Typing `%` while the cursor is on a (, ), [, ], { or } goes to its match.
+
+***
+#### Substitution
+
+- To substitute "new" for the first "old" in a line, type `:s/old/new`
+- To substitute "new" for all "old" on a line, type `:s/old/new/g`
+- To substitute phrases between two line **#'s**, type `:#,#s/old/new/g`
+- To substitute all occurrences in the file, type `:%s/old/new/g` 
+	- To ask for confirmation each time add 'c', and type `:%s/old/new/gc`
