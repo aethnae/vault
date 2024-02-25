@@ -85,6 +85,7 @@ operator   [number] motion
 #### The Replace Command
 
 - To replace the character under the cursor, type `r` and then the character you want to have there
+- Typing a capital `R` enters Replace mode until `<Esc>` is pressed
 
 ***
 #### The Change Command
@@ -149,3 +150,37 @@ The format for visual selection commands is as follows:
 - `:w FILENAME` writes the current Neovim file to disk with name FILENAME
 - `:r FILENAME` retrieves disk file FILENAME and puts it **below** the cursor position
 	- `:r !dir` reads the output of the `dir` command and puts it **below** the cursor position
+
+***
+#### Opening new Lines
+
+- Type `o` to open a line **below** the cursor and start insert mode
+- Type `O` to open a line **above** the cursor and start insert mode
+
+***
+#### Appending Text
+
+- Type `a` to insert text **after** the cursor
+- Type `A` to insert text after the end of the line
+
+***
+#### Yanking & Putting Text
+
+> [!info] Copy & Paste
+>  The `y` operator copies text, `p` pastes it.
+
+***
+#### Changing Settings
+
+> [!info] The "set" Command 
+> Typing `:set xxx` sets the option "xxx". Some options are
+> - `ic`, short for `ignorecase` - ignore upper/lower case when [[Useful Keymaps#Cursor Status and Navigation|searching]]
+> - `is`, short for `incsearch` - show partial matches for a search phrase
+> - `hsl`, short for `hlsearch` - highlight all matching phrases
+
+- You can either use the short or long option name
+- Prepend `no` to switch an option off
+	- For example, `:set noic` switches ignore case off
+- Prepend `inv` to invert an option
+
+***
