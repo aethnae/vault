@@ -184,3 +184,14 @@ The format for visual selection commands is as follows:
 - Prepend `inv` to invert an option
 
 ***
+#### Command Line Completion
+
+- While in command mode, press `<Ctrl> d` to see possible completions
+	- Press `<Tab>` to use one completion
+
+***
+#### Startup Scripts
+
+> [!info] init.vim 
+> Create an `init.vim` file to configure the startup behavior of nvim. For information about possible content, type `:help init.vim`
+
