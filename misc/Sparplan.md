@@ -9,10 +9,40 @@ date modified: Wednesday, January 10th 2024, 1:06:19 am
 ---
 ***
 
-70% MSCI World
-20% Emerging Markets
+- 10% USD TIPS
 
-- Dassault Aviation
-- BAE Systems
-- Northrop Grumman
+Rüstungsfirmen:
 - Rheinmetall
+- Leonardo DRS
+- General Dynamics
+
+Halbleiter:
+- Nvidia
+- ASML
+- ASM
+- Tokyo Electron
+
+Tech:
+- Alphabet
+- Apple
+- Amazon
+- Meta
+- Microsoft
+
+Pharma:
+- Novo Nordisk
+- McKesson
+- Eli Lilly
+- United Health
+
+Finanzwesen:
+- Unicredit
+- Wolters Kluwer
+- Berkshire Hathaway
+- Manhattan Associates
+
+Consumer Goods:
+- Chipotle
+- Costco
+- Pepsi
+- LVMH

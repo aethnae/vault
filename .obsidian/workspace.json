@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer science/Unix Shell System/Depot Lihuel.md",
+                "file": "misc/Sparplan.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "computer science/Unix Shell System/Depot Lihuel.md",
+                "file": "misc/Sparplan.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "computer science/Unix Shell System/Depot Lihuel.md"
+                "file": "misc/Sparplan.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer science/Unix Shell System/Depot Lihuel.md"
+                "file": "misc/Sparplan.md"
               }
             }
           }
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer science/Unix Shell System/Depot Lihuel.md",
+                "file": "misc/Sparplan.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer science/Unix Shell System/Depot Lihuel.md",
+                "file": "misc/Sparplan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,8 +251,9 @@
   },
   "active": "5ef472caa48a0b38",
   "lastOpenFiles": [
-    "computer science/Unix Shell System/Navigating Files and Directories.md",
+    "misc/Finanzplan.md",
     "computer science/Unix Shell System/Depot Lihuel.md",
+    "computer science/Unix Shell System/Navigating Files and Directories.md",
     "computer science/Unix Shell System/Pipes and Filters.md",
     "misc/Taiwan '24/Reiseplan.md",
     "misc/Taiwan '24/Übersicht.md",
@@ -277,7 +278,6 @@
     "templates/Definition.md",
     "templates/Theorem.md",
     "templates/Proposition.md",
-    "university (TU)/Grundwissen Mathematikstudium/1. Geschichte der Mathematik & Beweisführung/Axiome.md",
     "templates",
     "university (TU)/Grundwissen Mathematikstudium/1. Geschichte der Mathematik & Beweisführung",
     "university (TU)/Grundwissen Mathematikstudium",
