@@ -9,37 +9,37 @@ date modified: Wednesday, January 10th 2024, 1:06:19 am
 ---
 ***
 
-- 10% USD TIPS
+- ~~10% USD TIPS~~
 
 Rüstungsfirmen:
-- Rheinmetall
-- Leonardo DRS
-- General Dynamics
+- ~~Rheinmetall~~
+- ~~Leonardo DRS~~
+- ~~General Dynamics~~
 
 Halbleiter:
-- Nvidia
-- ASML
-- ASM
-- Tokyo Electron
+- ~~Nvidia~~
+- ~~ASML~~
+- ~~ASM~~
+- ~~Tokyo Electron~~
 
 Tech:
-- Alphabet
-- Apple
-- Amazon
-- Meta
-- Microsoft
+- ~~Alphabet~~
+- ~~Apple~~
+- ~~Amazon~~
+- ~~Meta~~
+- ~~Microsoft~~
 
 Pharma:
-- Novo Nordisk
-- McKesson
-- Eli Lilly
-- United Health
+- ~~Novo Nordisk~~
+- ~~McKesson~~
+- ~~Eli Lilly~~
+- ~~United Health~~ 
 
 Finanzwesen:
-- Unicredit
-- Wolters Kluwer
-- Berkshire Hathaway
-- Manhattan Associates
+- ~~Unicredit~~
+- ~~Wolters Kluwer~~
+- ~~Berkshire Hathaway~~
+- ~~Manhattan Associates~~
 
 Consumer Goods:
 - Chipotle
