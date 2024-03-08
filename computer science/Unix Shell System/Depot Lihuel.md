@@ -1,0 +1,44 @@
+***
+- 8%
+	- USD Tips
+- 5%
+	- Microsoft
+	- Nvidia
+	- Amazon
+	- Alphabet
+	- Apple
+- 3%
+	- Eli Lilly
+	- Tokyo Electron
+	- ASML
+	- ASM
+	- Broadcom
+	- LVMH
+	- AMD
+	- Wolters Kluwer
+	- Novo Nordisk
+	- Berkshire Hathaway
+- 2%
+	- TSMC
+	- Meta
+	- JP Morgan
+	- Tesla
+	- UnitedHealth
+	- Costco
+	- Chipotle
+	- Lam Research
+	- KLA
+	- Goldman Sachs
+	- Hermes
+	- Unicredit
+	- Mercado Libre
+	- First Solar
+	- Johnson & Johnson
+- 1%
+	- Enphase
+	- Leonardo
+	- Lattice
+	- Manhattan Associates
+	- Pepsi
+	- Walmart
+	- Toyota
