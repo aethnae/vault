@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4c61e466edc2a580",
+        "id": "58c98a61d0ca58d1",
         "type": "tabs",
         "children": [
           {
-            "id": "6fcfc0081698f4d8",
+            "id": "34e0b094d1c99a61",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -238,10 +238,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "6fcfc0081698f4d8",
+  "active": "34e0b094d1c99a61",
   "lastOpenFiles": [
-    "misc/Sparplan.md",
     "misc/Finanzplan.md",
+    "misc/Design Ideas.md",
+    "misc/Sparplan.md",
     "computer science/Unix Shell System/Depot Lihuel.md",
     "computer science/Unix Shell System/Navigating Files and Directories.md",
     "computer science/Unix Shell System/Pipes and Filters.md",
@@ -266,7 +267,6 @@
     "university/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Kurvendiskussion - Übersicht.md",
     "university/Mathematik I/Rechengesetze.md",
     "templates/Definition.md",
-    "templates/Theorem.md",
     "templates",
     "university (TU)/Grundwissen Mathematikstudium/1. Geschichte der Mathematik & Beweisführung",
     "university (TU)/Grundwissen Mathematikstudium",
