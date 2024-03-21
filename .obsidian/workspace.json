@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58c98a61d0ca58d1",
+        "id": "d4705c34aeeb365c",
         "type": "tabs",
         "children": [
           {
-            "id": "34e0b094d1c99a61",
+            "id": "d11506e0364cdcef",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -238,7 +238,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "34e0b094d1c99a61",
+  "active": "d11506e0364cdcef",
   "lastOpenFiles": [
     "misc/Finanzplan.md",
     "misc/Design Ideas.md",
