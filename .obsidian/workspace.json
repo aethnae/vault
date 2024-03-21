@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d11506e0364cdcef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "verwaltungsrat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9717304327a1e89e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer science/Vim/Useful Keymaps.md",
+                "file": "verwaltungsrat.md",
                 "mode": "preview",
                 "source": false
               }
@@ -261,7 +249,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "d11506e0364cdcef",
+  "active": "9717304327a1e89e",
   "lastOpenFiles": [
     "computer science/Vim/Useful Keymaps.md",
     "verwaltungsrat.md",
