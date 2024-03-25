@@ -1,11 +1,8 @@
 ---
 id: 1711357192-CLEK
-aliases:
-  - wikipedia Struktur
-tags: []
+aliases: []
+tags:
 ---
-
-# Struktur Wikipedia-Artikel
 
 ***
 *Diese Struktur soll als Hilfsmittel dienen, um neue Infotexte für wikipedia zu verfassen.*
@@ -18,6 +15,8 @@ tags: []
   - Gründungsdatum
   - Mitgliedszahl / Übersicht Mitgliedsorganisationen
   - Organisationsstruktur
+
+***
 
 2. Geschichte
 
@@ -36,11 +35,15 @@ tags: []
   - Motivation zur Entwicklung der nächsten Generation
   - Technische Neuheiten
 
+***
+
 3. Technische Daten
 
 - Knotenpunkte
 - Verbindungsgeschwindigkeit
 - Internationaler Vergleich
+
+***
 
 4. Organisation
 
@@ -50,11 +53,15 @@ tags: []
 - Eingliederung in Internationale Kooperation
 - Aktuelle Forschungsaktivitäten
 
+***
+
 5. Services
 
 - Kurzportraits aktueller Dienste, z.B.:
   - DFNconf
   - DFNFernsprechen
   - DFN-CERT
+
+***
 
 6. Quellen
