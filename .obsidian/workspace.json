@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e4edc1056e2916ca",
+        "id": "3b2015ecdab8e585",
         "type": "tabs",
         "children": [
           {
-            "id": "c9a40ead1478ede0",
+            "id": "75d2eeabe57e31fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer science/Vim/Useful Keymaps.md",
+                "file": "misc/Japanisch.md",
                 "mode": "preview",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "computer science/Vim/Useful Keymaps.md",
+                "file": "misc/Japanisch.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "computer science/Vim/Useful Keymaps.md"
+                "file": "misc/Japanisch.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer science/Vim/Useful Keymaps.md"
+                "file": "misc/Japanisch.md"
               }
             }
           }
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer science/Vim/Useful Keymaps.md",
+                "file": "misc/Japanisch.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer science/Vim/Useful Keymaps.md",
+                "file": "misc/Japanisch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,10 +249,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "c9a40ead1478ede0",
+  "active": "75d2eeabe57e31fc",
   "lastOpenFiles": [
-    "Test.md",
+    "misc/Japanisch.md",
     "computer science/Vim/Useful Keymaps.md",
+    "Test.md",
     "verwaltungsrat.md",
     "1711051817-HRFJ.md",
     "1711051655-CCTX.md",
@@ -277,7 +278,6 @@
     "university/Mikroökonomie I/Konzepte/Kapitel 16 - Marktgleichgewicht/Pareto-Effizienz.md",
     "university/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Grundbegriffe der Vektorrechnung.md",
     "university/Mathematik I/Mathematik I.md",
-    "university/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Satz von Taylor.md",
     "templates",
     "university (TU)/Grundwissen Mathematikstudium/1. Geschichte der Mathematik & Beweisführung",
     "university (TU)/Grundwissen Mathematikstudium",
