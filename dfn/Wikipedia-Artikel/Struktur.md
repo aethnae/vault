@@ -38,6 +38,9 @@ tags:
   - Motivation zur Entwicklung der nächsten Generation
   - Technische Neuheiten
 
+> [!summary] Entwurf 
+> 
+
 ***
 
 3. Technische Daten
