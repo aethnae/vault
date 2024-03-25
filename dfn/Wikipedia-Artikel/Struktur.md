@@ -5,7 +5,7 @@ tags:
 ---
 
 ***
-*Diese Struktur soll als Hilfsmittel dienen, um neue Infotexte für wikipedia zu verfassen.*
+*Diese Struktur soll als Hilfsmittel dienen, um neue Infotexte für Wikipedia zu verfassen.*
 ***
 
 1. Einleitungssatz
@@ -15,6 +15,9 @@ tags:
   - Gründungsdatum
   - Mitgliedszahl / Übersicht Mitgliedsorganisationen
   - Organisationsstruktur
+
+> [!summary] Entwurf 
+> Der **Verein zur Förderung eines Deutschen Forschungsnetzes e. V.** (DFN-Verein) ist eine selbstverwaltete Organisation,
 
 ***
 
