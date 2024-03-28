@@ -1,6 +1,5 @@
 ---
-id: 1711357192-CLEK
-aliases: []
+aliases: 
 tags:
 ---
 
