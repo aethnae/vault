@@ -112,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -252,8 +253,8 @@
   },
   "active": "75d2eeabe57e31fc",
   "lastOpenFiles": [
-    "dfn/Wikipedia-Artikel/x-win.md",
     "dfn/Wikipedia-Artikel/Struktur.md",
+    "dfn/Wikipedia-Artikel/x-win.md",
     "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
     "dfn/Wikipedia-Artikel/Deutsches Forschungsnetz.md",
     "dfn/Wikipedia-Artikel/Roadmap.md",

@@ -42,6 +42,8 @@ tags:
 > Bereits 1981 wurden erste Machbarkeitsuntersuchungen zur Durchsetzung eines gesamtdeutschen Forschungsnetzes durch das BMFT in Auftrag gegeben. Parallel dazu existierte ein Vorschlag des **Hahn-Meitner-Instituts Berlin** zu einem *Norddeutschen Rechnerverbund*, der auf bereits bestehende Infrastruktur, welche im Rahmen der durch das BMFT geförderten Vorhaben BERNET und HMINET II angeschafft wurde, aufbaute.
 > 
 > Das BMFT griff diesen Vorschlag auf, erweiterte ihn jedoch um die Vision eines Rechnerverbundnetzes für das gesamte Bundesgebiet. Erstmalig wurden diese Pläne auf der Festveranstaltung zum zehnjährigen Bestehen des Institutes für Informatik an der Universität Hamburg im November 1981 präsentiert.
+> 
+> Erste Diskussionsveranstaltungen zur Planung eines Rechnerverbundes fanden im Rahmen des Deutschen Elektronen-Synchroton Hamburg im März 1982 statt. Nach großem Andrang durch Interessierte wurde die Planung in mehrere Arbeitskreise aufgeteilt, und vertieft behandelt.
 
 ***
 
