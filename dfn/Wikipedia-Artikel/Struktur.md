@@ -52,6 +52,8 @@ tags:
 - Verbindungsgeschwindigkeit
 - Internationaler Vergleich
 
+*Technische Daten sind unter Umständen besser in den jeweiligen Artikeln der Netze aufgehoben.*
+
 ***
 
 4. Organisation
@@ -59,12 +61,15 @@ tags:
 - Struktur des Vereins
   - Verhältnis zum BMFT
 - Mitgliedsorganisationen
-- Eingliederung in Internationale Kooperation
-- Aktuelle Forschungsaktivitäten
+- (Aktuelle Forschungsaktivitäten)
 
 ***
 
-5. Services
+5. Eingliederung in Internationale Kooperation
+
+***
+
+6. Dienste
 
 - Kurzportraits aktueller Dienste, z.B.:
   - DFNconf
@@ -73,4 +78,4 @@ tags:
 
 ***
 
-6. Quellen
+7. Quellen
