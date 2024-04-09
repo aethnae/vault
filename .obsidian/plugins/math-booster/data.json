@@ -35,7 +35,7 @@
     }
   },
   "extraSettings": {
-    "foldDefault": "",
+    "foldDefault": "+",
     "noteTitleInTheoremLink": true,
     "noteTitleInEquationLink": true,
     "profiles": {
@@ -158,6 +158,6 @@
     "university/Bürgerliches Recht/Konzepte/2. Ideengeschichtlicher Hintergrund & Privatautonomie/Grundgedanken zur Privatautonomie.md",
     "university/Bürgerliches Recht/Konzepte/2. Ideengeschichtlicher Hintergrund & Privatautonomie/Dispositive Regelungen & Rechte.md",
     "templates/Definition.md",
-    "university (TU)/Grundwissen Mathematikstudium/1. Geschichte der Mathematik & Beweisführung/Axiome.md"
+    "university (TU)/Vorkurs/Mengen.md"
   ]
 }

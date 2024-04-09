@@ -7,7 +7,7 @@
     "": "date",
     "week": "date",
     "source": "text",
-    "date created": "text",
+    "date created": "date",
     "test": "text",
     "types": "multitext",
     "examples": "multitext",

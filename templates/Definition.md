@@ -12,7 +12,7 @@ justifications:
 ***
 #### Definition
 
-> [!definition|*] <% tp.file.cursor(1) %>
+> [!definition] <% tp.file.cursor(1) %>
 > <% tp.file.cursor(2) %>
 
 ***

@@ -83,7 +83,7 @@
 			- [[Hauptsatz der Differential- und Integralrechnung]]
 		- **Mengen, Zahlen & Rechenregeln**
 			- [[Logarithmen]]
-			- [[Mengen]]
+			- [[university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Mengen]]
 			- [[Produktzeichen]]
 			- [[Summenzeichen]]
 			- [[Ungleichungen]]

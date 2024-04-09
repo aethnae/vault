@@ -9,7 +9,7 @@
     "downscalePercent": 100
   },
   "attachmentFolderPath": "files",
-  "livePreview": true,
+  "livePreview": false,
   "showLineNumber": false,
   "rightToLeft": false,
   "newFileLocation": "current",
@@ -17,5 +17,6 @@
   "spellcheck": false,
   "propertiesInDocument": "visible",
   "defaultViewMode": "preview",
-  "vimMode": true
+  "vimMode": true,
+  "showIndentGuide": true
 }

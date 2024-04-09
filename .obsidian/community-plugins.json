@@ -17,7 +17,6 @@
   "table-editor-obsidian",
   "inline-math",
   "obsidian-pandoc-reference-list",
-  "waypoint",
   "math-booster",
   "mathlinks",
   "quick-preview",
@@ -29,5 +28,6 @@
   "insert-heading-link",
   "link-headers-directly",
   "templater-obsidian",
-  "omnisearch"
+  "omnisearch",
+  "waypoint"
 ]
