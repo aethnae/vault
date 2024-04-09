@@ -2,11 +2,13 @@
 tags:
   - mengen
 flashcard: false
-source: 
-date created: 
+source: Skript p.3
+date created: 2024-04-09
 types: 
-examples: 
-constructions: 
+examples:
+  - "[[Intervalle]]"
+constructions:
+  - "[[Teilmengen]]"
 generalizations: 
 justifications:
 ---

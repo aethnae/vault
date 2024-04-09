@@ -126,5 +126,14 @@
       ],
       "key": "Q"
     }
+  ],
+  "editor:save-file": [],
+  "math-booster:search": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
   ]
 }

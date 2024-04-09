@@ -8,7 +8,8 @@ date created: 2024-04-09
 types: 
 examples: 
 constructions: 
-generalizations: 
+generalizations:
+  - "[[university (TU)/Vorkurs/Mengen/Mengen|Mengen]]"
 justifications:
 ---
 ***
@@ -26,7 +27,7 @@ justifications:
 > M \times N \coloneqq \{ (x,y) \vert x \in M \text{ und } y \in N \}
 > $$
 > 
-> Es enthält alle (geordneten) Paare $(x,y)$ mit $x \in M$ und $y \in N$. Analog ist das kartesische Produkt von $n$ Mengen $M_{1},\dots,M_{n}$ definiert durch
+> Es enthält alle (geordneten) Paare $(x,y)$ mit $x \in M$ und $y \in N$. Analog ist das kartesische Produkt von $n$ [[university (TU)/Vorkurs/Mengen/Mengen|Mengen]] $M_{1},\dots,M_{n}$ definiert durch
 > 
 > $$
 > M_{1} \times M_{2} \times \dots M_{n} \coloneqq \{ (x_{1},x_{2},\dots,x_{n}) \vert x_{i} \in M_{i}, i = 1,2,\dots,n \},

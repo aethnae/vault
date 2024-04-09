@@ -8,7 +8,8 @@ date created: 2024-04-09
 types: 
 examples: 
 constructions: 
-generalizations: 
+generalizations:
+  - "[[university (TU)/Vorkurs/Mengen/Mengen|Mengen]]"
 justifications:
 ---
 ***
@@ -26,7 +27,7 @@ justifications:
 \end{align}
 > $$
 > 
-> Die folgenden Mengen bezeichnen wir als *unbeschränkte Intervalle*
+> Die folgenden [[university (TU)/Vorkurs/Mengen/Mengen|Mengen]] bezeichnen wir als *unbeschränkte Intervalle*
 > 
 > $$
 > \begin{align}

@@ -14,7 +14,7 @@ justifications:
 #### Definition
 
 > [!definition] Mengenoperationen
-> Seien $M$ und $N$ Mengen.
+> Seien $M$ und $N$ [[university (TU)/Vorkurs/Mengen/Mengen|Mengen]].
 > 
 > Die *Vereinigung* von $M$ und $N$ ist
 > 

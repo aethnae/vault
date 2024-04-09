@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c7994d9ceb0c310",
+            "id": "eec94f0ed906f518",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university (TU)/Vorkurs/Teilmengen.md",
+                "file": "university (TU)/Vorkurs/Aussagenlogik/Junktoren.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "fe27193381902d00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ba01822d8a3d6f52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "files/Snippets.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Vorkurs/Teilmengen.md",
+                "file": "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -137,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university (TU)/Vorkurs/Teilmengen.md"
+                "file": "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md"
               }
             }
           },
@@ -178,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university (TU)/Vorkurs/Teilmengen.md"
+                "file": "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md"
               }
             }
           }
@@ -196,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Vorkurs/Teilmengen.md",
+                "file": "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Vorkurs/Teilmengen.md",
+                "file": "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,14 +277,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "1c7994d9ceb0c310",
+  "active": "fe27193381902d00",
   "lastOpenFiles": [
-    "university (TU)/Vorkurs/Mengenoperationen.md",
-    "university (TU)/Vorkurs/Mengen.md",
-    "university (TU)/Vorkurs/Intervalle.md",
     "files/Snippets.md",
+    "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md",
+    "university (TU)/Vorkurs/Aussagenlogik/Junktoren.md",
+    "university (TU)/Vorkurs/Mengen/Mengen.md",
+    "university (TU)/Vorkurs/Aussagenlogik/Aussagen.md",
+    "university (TU)/Vorkurs/Mengen/Intervalle.md",
+    "university (TU)/Vorkurs/Mengen/Teilmengen.md",
+    "university (TU)/Vorkurs/Mengen/Mengenoperationen.md",
+    "university (TU)/Vorkurs/Aussagenlogik",
+    "university (TU)/Vorkurs/Mengen",
     "files/Recording 20231002225440.webm",
-    "university (TU)/Vorkurs/Teilmengen.md",
     "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Mengen.md",
     "computer science/Vim/Useful Keymaps.md",
     "university/Mathematik I/LaTeX Snippets.md",
@@ -281,13 +312,9 @@
     "dfn/Wikipedia-Artikel/Roadmap.md",
     "university (TU)/Grundwissen Mathematikstudium/1. Geschichte der Mathematik & Beweisführung/Axiome.md",
     "dfn/Wikipedia-Artikel/x-win.md",
-    "dfn/Wikipedia-Artikel/Deutsches Forschungsnetz.md",
-    "dfn/Wikipedia-Artikel/Dummy Wikipedia-Artikel.md",
     "computer science/Vim",
     "templates",
     "university (TU)/Grundwissen Mathematikstudium/1. Geschichte der Mathematik & Beweisführung",
-    "university (TU)/Grundwissen Mathematikstudium",
-    "university (TU)",
     "files/Pasted image 20240201190426.png",
     "files/Pasted image 20240201185224.png",
     "files/Pasted image 20240201182229.png",
