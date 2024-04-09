@@ -17,7 +17,7 @@ justifications:
 #### Definition
 
 > [!definition] Junktoren
-> Seien $A$ und $B$ Aussagen.
+> Seien $A$ und $B$ [[Aussagen]].
 > 
 > 1. **Negation** ($\neg$): Die Aussage $\neg A$ ist wahr, falls $A$ falsch ist, und sie ist falsch, falls $A$ wahr ist. Dies kann als *Wahrheitstafel* geschrieben werden
 > 

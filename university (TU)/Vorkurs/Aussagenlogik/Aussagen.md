@@ -7,7 +7,9 @@ source: Skript p. 7
 date created: 2024-04-09
 types: 
 examples: 
-constructions: 
+constructions:
+  - "[[Junktoren]]"
+  - "[[Quantoren]]"
 generalizations: 
 justifications:
 ---

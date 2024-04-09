@@ -129,7 +129,7 @@
     {trigger: "\\\\\\", replacement: "\\setminus", options: "mA"},
     {trigger: "||", replacement: "\\mid", options: "mA"},
     {trigger: "and", replacement: "\\cap", options: "mA"},
-    {trigger: "ve", replacement: "\\vee", options: "mA"},
+    {trigger: "ve", replacement: "\\vee", options: "m"},
     {trigger: "we", replacement: "\\wedge", options: "mA"},
     {trigger: "orr", replacement: "\\cup", options: "mA"},
     {trigger: "inn", replacement: "\\in", options: "mA"},
@@ -297,7 +297,6 @@
     {trigger: "max", replacement: "\\max_{$0} $1", options: "mA"},
     {trigger: "min", replacement: "\\min_{$0} $1", options: "mA"},
     {trigger: "ver", replacement: "\\frac{\\Delta $0}{\\Delta $1} = \\frac{$2}{$3}", options: "m"},
-    {trigger: "vert", replacement: "\\vert$0", options: "mA"},
     {trigger: "dif", replacement: "\\frac{ \\mathrm{d} ${0:y} }{ \\mathrm{d} ${1:x} } $2", options: "m"},
     {trigger: ":=", replacement: "\\coloneqq$0", options: "mA"},
     
