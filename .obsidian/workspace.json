@@ -11,8 +11,12 @@
             "id": "ba74af1a0ed75053",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -45,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:kenan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -132,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md"
+              }
             }
           },
           {
@@ -171,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md"
+              }
             }
           }
         ],
@@ -188,6 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -211,6 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,14 +253,15 @@
   },
   "active": "ba74af1a0ed75053",
   "lastOpenFiles": [
-    "files/Snippets.md",
+    "university (TU)/Vorkurs/Aussagenlogik/Test fuer Kenan.md",
+    "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Ordnung von reellen Zahlen.md",
+    "files/Snippets.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Betrag von reellen Zahlen.md",
     "university (TU)/Vorkurs/Aussagenlogik/Aussagen.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen",
     "university (TU)/Vorkurs/Mengen/Teilmengen.md",
     "university (TU)/Vorkurs/Aussagenlogik/Junktoren.md",
-    "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md",
     "university (TU)/Vorkurs/Mengen/Mengen.md",
     "university (TU)/Vorkurs/Mengen/Intervalle.md",
     "university (TU)/Vorkurs/Mengen/Mengenoperationen.md",
@@ -276,7 +287,6 @@
     "university (TU)/Übungsblätter",
     "dfn/Wikipedia-Artikel/Tester.md",
     "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
-    "dfn/Wikipedia-Artikel/Roadmap.md",
     "computer science/Vim",
     "templates",
     "files/Pasted image 20240201190426.png",
