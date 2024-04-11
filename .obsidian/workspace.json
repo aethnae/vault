@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md",
+                "file": "files/Snippets.md",
                 "mode": "preview",
                 "source": true
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md",
+                "file": "files/Snippets.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md"
+                "file": "files/Snippets.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md"
+                "file": "files/Snippets.md"
               }
             }
           }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md",
+                "file": "files/Snippets.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md",
+                "file": "files/Snippets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,10 +253,13 @@
   },
   "active": "ba74af1a0ed75053",
   "lastOpenFiles": [
-    "university (TU)/Vorkurs/Aussagenlogik/Test fuer Kenan.md",
-    "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md",
-    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Ordnung von reellen Zahlen.md",
+    "taylor.md",
+    "Untitled.md",
     "files/Snippets.md",
+    "test.md",
+    "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md",
+    "university (TU)/Vorkurs/Aussagenlogik/Test fuer Kenan.md",
+    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Ordnung von reellen Zahlen.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Betrag von reellen Zahlen.md",
     "university (TU)/Vorkurs/Aussagenlogik/Aussagen.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen",
@@ -280,13 +283,10 @@
     "university (TU)/Vorkurs/Vorkurs.md",
     "misc/misc.md",
     "university/Handels- und Gesellschaftsrecht/Handels- und Gesellschaftsrecht.md",
-    "university/Einführung in die VWL und Wirtschaftsgeschichte/Einführung in die VWL und Wirtschaftsgeschichte.md",
     "university (TU)/Lineare Algebra I",
     "university (TU)/Analysis I",
     "university (TU)/Vorkurs",
     "university (TU)/Übungsblätter",
-    "dfn/Wikipedia-Artikel/Tester.md",
-    "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
     "computer science/Vim",
     "templates",
     "files/Pasted image 20240201190426.png",
