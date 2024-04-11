@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "260da322eb006293",
+        "id": "3fc5a8bfe1591b83",
         "type": "tabs",
         "children": [
           {
-            "id": "ba74af1a0ed75053",
+            "id": "20294f35fb7e167b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "files/Snippets.md",
+                "file": "regt.md",
                 "mode": "preview",
                 "source": true
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "files/Snippets.md",
+                "file": "regt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "files/Snippets.md"
+                "file": "regt.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "files/Snippets.md"
+                "file": "regt.md"
               }
             }
           }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "files/Snippets.md",
+                "file": "regt.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "files/Snippets.md",
+                "file": "regt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,11 +251,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "ba74af1a0ed75053",
+  "active": "20294f35fb7e167b",
   "lastOpenFiles": [
-    "taylor.md",
-    "Untitled.md",
+    "regt.md",
+    "fdgdfg.md",
     "files/Snippets.md",
+    "taylor.md",
     "test.md",
     "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md",
     "university (TU)/Vorkurs/Aussagenlogik/Test fuer Kenan.md",
@@ -282,7 +283,6 @@
     "dfn/Wikipedia-Artikel/Struktur.md",
     "university (TU)/Vorkurs/Vorkurs.md",
     "misc/misc.md",
-    "university/Handels- und Gesellschaftsrecht/Handels- und Gesellschaftsrecht.md",
     "university (TU)/Lineare Algebra I",
     "university (TU)/Analysis I",
     "university (TU)/Vorkurs",
