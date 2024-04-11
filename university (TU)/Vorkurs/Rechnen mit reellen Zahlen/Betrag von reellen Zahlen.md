@@ -39,9 +39,4 @@ x, & \text { falls } x \geq 0 \\
 > 3. $\lvert x + y \rvert \leq \lvert x \rvert + \lvert y \rvert$ (**Dreiecksungleichung**)
 
 ***
-#### Beispiele
 
-> [!exm|*] <% tp.file.cursor(4) %> 
-> <% tp.file.cursor(5) %>
-
-***

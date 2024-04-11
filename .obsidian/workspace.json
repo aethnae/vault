@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3fc5a8bfe1591b83",
+        "id": "5791b2061e36a024",
         "type": "tabs",
         "children": [
           {
-            "id": "20294f35fb7e167b",
+            "id": "87a72e1e54a30e36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "regt.md",
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
                 "mode": "preview",
                 "source": true
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "regt.md",
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "regt.md"
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "regt.md"
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md"
               }
             }
           }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "regt.md",
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "regt.md",
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,44 +251,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "20294f35fb7e167b",
+  "active": "87a72e1e54a30e36",
   "lastOpenFiles": [
+    "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
+    "university (TU)/Vorkurs/Beweise/Beweis per Kontraposition.md",
+    "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
+    "university (TU)/Vorkurs/Beweise/Direkte Beweise.md",
+    "files/Snippets.md",
+    "templates/Definition.md",
+    "university (TU)/Vorkurs/Teilbarkeit.md",
+    "university (TU)/Vorkurs/Beweise",
+    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Wurzeln.md",
+    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Gleichungen.md",
+    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Fermat-Gleichung.md",
+    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Potenzen.md",
+    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Ordnung von reellen Zahlen.md",
+    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Betrag von reellen Zahlen.md",
+    "university (TU)/Vorkurs/Aussagenlogik/Aussagen.md",
+    "university (TU)/Vorkurs/Mengen/Mengen.md",
+    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Mengen.md",
+    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Summen- und Produktzeichen.md",
     "regt.md",
     "fdgdfg.md",
-    "files/Snippets.md",
     "taylor.md",
     "test.md",
     "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md",
     "university (TU)/Vorkurs/Aussagenlogik/Test fuer Kenan.md",
-    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Ordnung von reellen Zahlen.md",
-    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Betrag von reellen Zahlen.md",
-    "university (TU)/Vorkurs/Aussagenlogik/Aussagen.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen",
     "university (TU)/Vorkurs/Mengen/Teilmengen.md",
     "university (TU)/Vorkurs/Aussagenlogik/Junktoren.md",
-    "university (TU)/Vorkurs/Mengen/Mengen.md",
     "university (TU)/Vorkurs/Mengen/Intervalle.md",
-    "university (TU)/Vorkurs/Mengen/Mengenoperationen.md",
     "university (TU)/Vorkurs/Aussagenlogik",
     "university (TU)/Vorkurs/Mengen",
     "files/Recording 20231002225440.webm",
-    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Mengen.md",
-    "computer science/Vim/Useful Keymaps.md",
-    "university/Mathematik I/LaTeX Snippets.md",
-    "templates/Definition.md",
-    "university (TU)/Vorkurs/Test.md",
-    "university (TU)/Vorkurs/Templater Test.md",
-    "Tester Definition.md",
-    "university/Mathematik I/Rechengesetze.md",
-    "dfn/Wikipedia-Artikel/Struktur.md",
-    "university (TU)/Vorkurs/Vorkurs.md",
-    "misc/misc.md",
     "university (TU)/Lineare Algebra I",
     "university (TU)/Analysis I",
     "university (TU)/Vorkurs",
     "university (TU)/Übungsblätter",
     "computer science/Vim",
-    "templates",
     "files/Pasted image 20240201190426.png",
     "files/Pasted image 20240201185224.png",
     "files/Pasted image 20240201182229.png",

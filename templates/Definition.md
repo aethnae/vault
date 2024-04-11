@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+- <% tp.file.cursor(1) %>
 flashcard: false
 source: 
 date created: 
@@ -12,18 +13,18 @@ justifications:
 ***
 #### Definition
 
-> [!definition] <% tp.file.cursor(1) %>
-> <% tp.file.cursor(2) %>
+> [!definition] <% tp.file.cursor(2) %>
+> <% tp.file.cursor(3) %>
 
 ***
 #### Eigenschaften
 
-- <% tp.file.cursor(3) %>
+- <% tp.file.cursor(4) %>
 
 ***
 #### Beispiele
 
-> [!exm|*] <% tp.file.cursor(4) %> 
-> <% tp.file.cursor(5) %>
+> [!exm|*] <% tp.file.cursor(5) %> 
+> <% tp.file.cursor(6) %>
 
 ***
