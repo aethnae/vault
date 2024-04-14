@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university (TU)/Vorkurs/Teilbarkeit.md",
-                "mode": "preview",
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Äquivalenz.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Vorkurs/Teilbarkeit.md",
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Äquivalenz.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university (TU)/Vorkurs/Teilbarkeit.md"
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Äquivalenz.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university (TU)/Vorkurs/Teilbarkeit.md"
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Äquivalenz.md"
               }
             }
           }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Vorkurs/Teilbarkeit.md",
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Äquivalenz.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Vorkurs/Teilbarkeit.md",
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Äquivalenz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,14 +253,15 @@
   },
   "active": "87a72e1e54a30e36",
   "lastOpenFiles": [
+    "university (TU)/Vorkurs/Beweise/Direkte Beweise.md",
+    "university (TU)/Vorkurs/Beweise/Beweis per Äquivalenz.md",
+    "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
+    "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
+    "university (TU)/Vorkurs/Teilbarkeit.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Gleichungen.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Potenzen.md",
-    "university (TU)/Vorkurs/Teilbarkeit.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Summen- und Produktzeichen.md",
-    "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
-    "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Kontraposition.md",
-    "university (TU)/Vorkurs/Beweise/Direkte Beweise.md",
     "files/Snippets.md",
     "templates/Definition.md",
     "university (TU)/Vorkurs/Beweise",
@@ -280,7 +281,6 @@
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen",
     "university (TU)/Vorkurs/Mengen/Teilmengen.md",
     "university (TU)/Vorkurs/Aussagenlogik/Junktoren.md",
-    "university (TU)/Vorkurs/Mengen/Intervalle.md",
     "university (TU)/Vorkurs/Aussagenlogik",
     "university (TU)/Vorkurs/Mengen",
     "files/Recording 20231002225440.webm",
