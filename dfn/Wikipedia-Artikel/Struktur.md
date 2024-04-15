@@ -16,7 +16,8 @@ tags:
   - Organisationsstruktur
 
 > [!summary] Entwurf 
-> Der **Verein zur Förderung eines Deutschen Forschungsnetzes e. V.** (DFN-Verein) ist eine selbstverwaltete Organisation, die als Betreiber sowie Entwickler des [[X-WiN|deutschen Forschungsnetzes]] fungiert.
+> Der **Verein zur Förderung eines Deutschen Forschungsnetzes e. V.** (DFN-Verein) ist eine selbstverwaltete Organisation, welche als eingetragener Verein den Betrieb sowie die Entwicklung des **deutschen Wissenschaftsnetzes** garantiert, und damit die Kommunikationsplattform für die deutsche Forschungslandschaft bereitstellt.
+> Unter den mehr als 350 institutionellen Mitgliedern des DFN-Vereins befinden sich Hochschulen, Forschungseinrichtungen sowie forschungsnahe Unternehmen.
 
 ***
 
