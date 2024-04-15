@@ -8,17 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:school",
-      "color": {
-        "a": 1,
-        "rgb": 16774912
-      }
-    },
-    {
       "query": "path:university/Mathematik I",
       "color": {
         "a": 1,
-        "rgb": 60199
+        "rgb": 15459072
       }
     },
     {
@@ -55,6 +48,13 @@
         "a": 1,
         "rgb": 16384000
       }
+    },
+    {
+      "query": "path:\"university (TU)\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8902236
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +67,6 @@
   "repelStrength": 10.3621198827948,
   "linkStrength": 0.953501772647736,
   "linkDistance": 448,
-  "scale": 0.25432038250747846,
+  "scale": 0.23000898010320855,
   "close": true
 }

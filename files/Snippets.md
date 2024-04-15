@@ -281,14 +281,17 @@
 
     
     // Community
-    {trigger: "right", replacement: "\\longrightarrow", options: "m"},
-    {trigger: "left", replacement: "\\longleftarrow", options: "m"},
+    {trigger: "right", replacement: "\\rightarrow", options: "mA"},
+    {trigger: "lright", replacement: "\\longrightarrow", options: "mA"},
+    {trigger: "left", replacement: "\\leftarrow", options: "mA"},
+    {trigger: "lleft", replacement: "\\longleftarrow", options: "mA"},
     {trigger: "lra", replacement: "\\Leftrightarrow", options: "mA"},
     {trigger: "(nna|uua)", replacement: "\\uparrow", options: "mAr"},
     {trigger: "nea", replacement: "\\nearrow", options: "mA"},
     {trigger: "(eea|rra)", replacement: "\\rightarrow", options: "mAr"},
     {trigger: "sea", replacement: "\\searrow", options: "mA"},
     {trigger: "(ssa|dda)", replacement: "\\downarrow", options: "mAr"},
+    {trigger: "qu", replacement: "\\quad", options: "mA"},
     {trigger: "swa", replacement: "\\swarrow", options: "mA"},
     {trigger: "(wwa|lla)", replacement: "\\leftarrow", options: "mAr"},
     {trigger: "nwa", replacement: "\\nwarrow", options: "mA"},

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ac6a806e2e9024e4",
+        "id": "2b02e801bc3254f1",
         "type": "tabs",
         "children": [
           {
-            "id": "c6218a13601da8b3",
+            "id": "79db36e45267d34e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
-                "mode": "preview",
+                "file": "university (TU)/Vorkurs/Abbildungen und Funktionen/Eigenschaften reeller Funktionen.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
+                "file": "university (TU)/Vorkurs/Abbildungen und Funktionen/Eigenschaften reeller Funktionen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md"
+                "file": "university (TU)/Vorkurs/Abbildungen und Funktionen/Eigenschaften reeller Funktionen.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md"
+                "file": "university (TU)/Vorkurs/Abbildungen und Funktionen/Eigenschaften reeller Funktionen.md"
               }
             }
           }
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
+                "file": "university (TU)/Vorkurs/Abbildungen und Funktionen/Eigenschaften reeller Funktionen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
+                "file": "university (TU)/Vorkurs/Abbildungen und Funktionen/Eigenschaften reeller Funktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,14 +247,23 @@
       "audio-recorder:Start/stop recording": true,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
-      "darlal-switcher-plus:Open in Headings Mode": true,
-      "darlal-switcher-plus:Open Symbols for the active editor": true,
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "c6218a13601da8b3",
+  "active": "79db36e45267d34e",
   "lastOpenFiles": [
+    "university (TU)/Vorkurs/Abbildungen und Funktionen/Abbildungen.md",
+    "university (TU)/Vorkurs/Abbildungen und Funktionen/Eigenschaften reeller Funktionen.md",
+    "files/Pasted image 20240415183757.png",
+    "files/Snippets.md",
+    "files/Pasted image 20240415180142.png",
+    "university (TU)/university (TU).md",
+    "university (TU)/Vorkurs/Abbildungen und Funktionen",
+    "university (TU)/Vorkurs/Beweise/Beweis per Schubfachprinzip.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Äquivalenz.md",
+    "university (HU)/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
+    "university (TU)/Vorkurs/Beweise/Widerlegung durch ein Gegenbeispiel.md",
+    "dfn/Wikipedia-Artikel/Struktur.md",
     "university (TU)/Vorkurs/Beweise/Direkte Beweise.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
@@ -263,7 +272,6 @@
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Potenzen.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Summen- und Produktzeichen.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Kontraposition.md",
-    "files/Snippets.md",
     "templates/Definition.md",
     "university (TU)/Vorkurs/Beweise",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Wurzeln.md",
@@ -272,16 +280,9 @@
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Betrag von reellen Zahlen.md",
     "university (TU)/Vorkurs/Aussagenlogik/Aussagen.md",
     "university (TU)/Vorkurs/Mengen/Mengen.md",
-    "university/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Mengen.md",
+    "university (HU)/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Mengen.md",
     "regt.md",
-    "fdgdfg.md",
-    "taylor.md",
-    "test.md",
-    "university (TU)/Vorkurs/Aussagenlogik/Quantoren.md",
-    "university (TU)/Vorkurs/Aussagenlogik/Test fuer Kenan.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen",
-    "university (TU)/Vorkurs/Mengen/Teilmengen.md",
-    "university (TU)/Vorkurs/Aussagenlogik/Junktoren.md",
     "university (TU)/Vorkurs/Aussagenlogik",
     "university (TU)/Vorkurs/Mengen",
     "files/Recording 20231002225440.webm",
@@ -289,7 +290,6 @@
     "university (TU)/Analysis I",
     "university (TU)/Vorkurs",
     "university (TU)/Übungsblätter",
-    "computer science/Vim",
     "files/Pasted image 20240201190426.png",
     "files/Pasted image 20240201185224.png",
     "files/Pasted image 20240201182229.png",
@@ -298,8 +298,6 @@
     "files/Pasted image 20240123233440.png",
     "files/Pasted image 20240123233007.png",
     "files/Pasted image 20240123231252.png",
-    "files/Pasted image 20240122214232.png",
-    "files/Pasted image 20240122211243.png",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
