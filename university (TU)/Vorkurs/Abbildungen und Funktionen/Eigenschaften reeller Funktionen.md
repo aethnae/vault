@@ -10,12 +10,13 @@ types:
 examples: 
 constructions: 
 generalizations: 
+- "[[Abbildungen]]"
 justifications:
 ---
 ***
 #### Definition
 
-> [!definition] <% tp.file.cursor(2) %>
+> [!definition]  
 > <% tp.file.cursor(3) %>
 
 ***
