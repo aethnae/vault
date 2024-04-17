@@ -11,8 +11,12 @@
             "id": "25cb8ca1057fc3c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md"
+              }
             }
           },
           {
@@ -170,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md"
+              }
             }
           }
         ],
@@ -187,6 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -210,6 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,15 +251,17 @@
   },
   "active": "25cb8ca1057fc3c0",
   "lastOpenFiles": [
+    "files/Snippets.md",
+    "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
+    "university (TU)/university (TU).md",
+    "university (TU)/Analysis I/Übungsblätter",
     "university (HU)/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Cournotscher Punkt.md",
     "university (HU)/Mikroökonomie I/Mikroökonomie I.md",
     "university (TU)/Vorkurs/Abbildungen und Funktionen/Eigenschaften reeller Funktionen.md",
     "files/Pasted image 20240416151536.png",
     "university (TU)/Vorkurs/Abbildungen und Funktionen/Abbildungen.md",
     "files/Pasted image 20240415183757.png",
-    "files/Snippets.md",
     "files/Pasted image 20240415180142.png",
-    "university (TU)/university (TU).md",
     "university (TU)/Vorkurs/Abbildungen und Funktionen",
     "university (TU)/Vorkurs/Beweise/Beweis per Schubfachprinzip.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Äquivalenz.md",
@@ -270,7 +283,6 @@
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Ordnung von reellen Zahlen.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Betrag von reellen Zahlen.md",
     "university (TU)/Vorkurs/Aussagenlogik/Aussagen.md",
-    "university (TU)/Vorkurs/Mengen/Mengen.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen",
     "university (TU)/Vorkurs/Aussagenlogik",
     "university (TU)/Vorkurs/Mengen",
@@ -278,7 +290,6 @@
     "university (TU)/Lineare Algebra I",
     "university (TU)/Analysis I",
     "university (TU)/Vorkurs",
-    "university (TU)/Übungsblätter",
     "files/Pasted image 20240201190426.png",
     "files/Pasted image 20240201185224.png",
     "files/Pasted image 20240201182229.png",
