@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "504c87e7ff330716",
+        "id": "1ebd3ef35d81fd59",
         "type": "tabs",
         "children": [
           {
-            "id": "368877cc7aea379c",
+            "id": "fb325bcf2ffa2511",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "dfn/Wikipedia-Artikel/Struktur.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -249,10 +249,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "368877cc7aea379c",
+  "active": "fb325bcf2ffa2511",
   "lastOpenFiles": [
-    "dfn/Wikipedia-Artikel/Tester.md",
     "dfn/Wikipedia-Artikel/Struktur.md",
+    "dfn/Wikipedia-Artikel/Tester.md",
     "dfn/Mitteilungen/Liste Mitteilungen.md",
     "dfn/Mitteilungen/Roadmap.md",
     "Untitled.md",
