@@ -5,7 +5,6 @@
 	- **Übungsblätter**
 		- [[Hausaufgabenblatt 0]]
 - **Lineare Algebra I**
-- **Übungsblätter**
 - [[university (TU)]]
 - **Vorkurs**
 	- **Abbildungen und Funktionen**
@@ -21,6 +20,7 @@
 		- [[Beweis per Kontraposition]]
 		- [[Beweis per Schubfachprinzip]]
 		- [[Beweis per Vollständiger Induktion]]
+		- [[Beweisstrukturen]]
 		- [[Direkte Beweise]]
 		- [[Widerlegung durch ein Gegenbeispiel]]
 	- **[[Mengen]]**
