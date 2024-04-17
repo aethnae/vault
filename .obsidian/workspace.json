@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d607b7cb20210bb2",
+        "id": "7dd0d138eda92de5",
         "type": "tabs",
         "children": [
           {
-            "id": "4338360712b9a07a",
+            "id": "25cb8ca1057fc3c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university (TU)/Vorkurs/Abbildungen und Funktionen/Eigenschaften reeller Funktionen.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Vorkurs/Abbildungen und Funktionen/Eigenschaften reeller Funktionen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university (TU)/Vorkurs/Abbildungen und Funktionen/Eigenschaften reeller Funktionen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university (TU)/Vorkurs/Abbildungen und Funktionen/Eigenschaften reeller Funktionen.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -196,7 +187,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Vorkurs/Abbildungen und Funktionen/Eigenschaften reeller Funktionen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +210,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Vorkurs/Abbildungen und Funktionen/Eigenschaften reeller Funktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,10 +238,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "4338360712b9a07a",
+  "active": "25cb8ca1057fc3c0",
   "lastOpenFiles": [
-    "files/Pasted image 20240416151536.png",
+    "university (HU)/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Cournotscher Punkt.md",
+    "university (HU)/Mikroökonomie I/Mikroökonomie I.md",
     "university (TU)/Vorkurs/Abbildungen und Funktionen/Eigenschaften reeller Funktionen.md",
+    "files/Pasted image 20240416151536.png",
     "university (TU)/Vorkurs/Abbildungen und Funktionen/Abbildungen.md",
     "files/Pasted image 20240415183757.png",
     "files/Snippets.md",
@@ -280,7 +271,6 @@
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Betrag von reellen Zahlen.md",
     "university (TU)/Vorkurs/Aussagenlogik/Aussagen.md",
     "university (TU)/Vorkurs/Mengen/Mengen.md",
-    "university (HU)/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Mengen.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen",
     "university (TU)/Vorkurs/Aussagenlogik",
     "university (TU)/Vorkurs/Mengen",
@@ -296,7 +286,6 @@
     "files/Pasted image 20240124174249.png",
     "files/Pasted image 20240123233440.png",
     "files/Pasted image 20240123233007.png",
-    "files/Pasted image 20240123231252.png",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
