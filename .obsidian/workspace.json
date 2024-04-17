@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "29830f897f70e7dd",
+        "id": "944872b612f077af",
         "type": "tabs",
         "children": [
           {
-            "id": "1a44d0fe379c6928",
+            "id": "341a96d94b1030d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university (TU)/Vorkurs/Beweise/Beweisstrukturen.md",
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fe5e10ab6cf9cf0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "files/Snippets.md",
                 "mode": "source",
                 "source": true
               }
@@ -79,7 +91,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Vorkurs/Beweise/Beweisstrukturen.md",
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -102,7 +114,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3753261080397051,
+                  "scale": 0.5612012828749587,
                   "close": true
                 }
               }
@@ -112,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -137,7 +150,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university (TU)/Vorkurs/Beweise/Beweisstrukturen.md"
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md"
               }
             }
           },
@@ -178,12 +191,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university (TU)/Vorkurs/Beweise/Beweisstrukturen.md"
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "ac8e2c4e1d0a0efb",
@@ -196,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Vorkurs/Beweise/Beweisstrukturen.md",
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Vorkurs/Beweise/Beweisstrukturen.md",
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,13 +262,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "1a44d0fe379c6928",
+  "active": "341a96d94b1030d1",
   "lastOpenFiles": [
+    "files/Snippets.md",
+    "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
+    "university (HU)/Mathematik I/Konzepte/Einschub - mathematische Beweisführung/Vollständige Induktion.md",
+    "university (HU)/Handels- und Gesellschaftsrecht/Handels- und Gesellschaftsrecht.md",
+    "university (HU)/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/4. Übertragung von Handelsgeschäften/Handelsgeschäfte.md",
+    "university (TU)/Vorkurs/Beweise/Beweisstrukturen.md",
     "university (TU)/university (TU).md",
     "university (TU)/Vorkurs/Teilbarkeit.md",
     "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
-    "university (TU)/Vorkurs/Beweise/Beweisstrukturen.md",
-    "files/Snippets.md",
     "Analysis I.md",
     "university (TU)/Analysis I/Übungsblätter",
     "university (HU)/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Cournotscher Punkt.md",
@@ -273,16 +290,12 @@
     "dfn/Wikipedia-Artikel/Struktur.md",
     "university (TU)/Vorkurs/Beweise/Direkte Beweise.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
-    "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Gleichungen.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Potenzen.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Summen- und Produktzeichen.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Kontraposition.md",
     "templates/Definition.md",
     "university (TU)/Vorkurs/Beweise",
-    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Wurzeln.md",
-    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Fermat-Gleichung.md",
-    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Ordnung von reellen Zahlen.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen",
     "university (TU)/Vorkurs/Aussagenlogik",
     "university (TU)/Vorkurs/Mengen",
