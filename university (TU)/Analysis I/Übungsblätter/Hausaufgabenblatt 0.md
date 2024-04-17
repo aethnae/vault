@@ -40,7 +40,7 @@ Somit ist auch 6) eindeutig bewiesen.
 Zeigen Sie die Aussagen 4) und 5) aus dem Skript des Satzes 0.13: Seien $A, B$ und $C$ Mengen. Dann gelte:
 
 a) $A \cap (A \cup B) = A$,
-b) ${} A \cup (A \cap B) = A {}$,
+b) $A \cup (A \cap B) = A$,
 c) $A \setminus (B \cap C) = (A \setminus B) \cup (A \setminus C)$,
 d) $A \setminus (B \cup C) = (A \setminus B) \cap (A \setminus C)$.
 
@@ -91,3 +91,12 @@ $$
 
 Damit ist abschließend auch Aussage d) bewiesen.
 `\end{proof}`
+
+***
+##### Aufgabe 0.3: Kubische Funktionen
+
+Wir betrachten in dieser Aufgabe die Funktion $f: \mathbb{R} \mapsto \mathbb{R}, x \mapsto x^3$. Zeigen oder widerlegen Sie folgende Aussagen: Die Funktion
+
+a) $f:[0, \infty) \mapsto \mathbb{R}$ ist bijektiv.
+b) $f:(-\infty, 0] \mapsto[0, \infty)$ ist surjektiv.
+c) $f:(-\infty, 0] \mapsto(-\infty, 0]$ ist nicht bijektiv.
