@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "1ebd3ef35d81fd59",
+        "id": "d92071422b29859b",
         "type": "tabs",
         "children": [
           {
-            "id": "fb325bcf2ffa2511",
+            "id": "9a72bf6d8ab880f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "63a7f39990a8ee2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university (TU)/Vorkurs/Abbildungen und Funktionen/Abbildungen.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -79,7 +91,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md"
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md"
               }
             }
           },
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md"
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md"
               }
             }
           }
@@ -196,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,14 +261,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "fb325bcf2ffa2511",
+  "active": "9a72bf6d8ab880f4",
   "lastOpenFiles": [
+    "university (TU)/Vorkurs/Abbildungen und Funktionen/Abbildungen.md",
+    "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
+    "files/Snippets.md",
     "dfn/Wikipedia-Artikel/Struktur.md",
     "dfn/Wikipedia-Artikel/Tester.md",
     "dfn/Mitteilungen/Liste Mitteilungen.md",
     "dfn/Mitteilungen/Roadmap.md",
     "Untitled.md",
-    "files/Snippets.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
     "university (HU)/Mathematik I/Konzepte/Einschub - mathematische Beweisführung/Vollständige Induktion.md",
     "university (HU)/Handels- und Gesellschaftsrecht/Handels- und Gesellschaftsrecht.md",
@@ -264,14 +278,12 @@
     "university (TU)/Vorkurs/Beweise/Beweisstrukturen.md",
     "university (TU)/university (TU).md",
     "university (TU)/Vorkurs/Teilbarkeit.md",
-    "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
     "Analysis I.md",
     "university (TU)/Analysis I/Übungsblätter",
     "university (HU)/Mathematik I/Konzepte/Abschnitt 5 - Funktionen unter Anwendung/Cournotscher Punkt.md",
     "university (HU)/Mikroökonomie I/Mikroökonomie I.md",
     "university (TU)/Vorkurs/Abbildungen und Funktionen/Eigenschaften reeller Funktionen.md",
     "files/Pasted image 20240416151536.png",
-    "university (TU)/Vorkurs/Abbildungen und Funktionen/Abbildungen.md",
     "files/Pasted image 20240415183757.png",
     "files/Pasted image 20240415180142.png",
     "university (TU)/Vorkurs/Abbildungen und Funktionen",

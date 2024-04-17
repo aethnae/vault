@@ -100,3 +100,9 @@ Wir betrachten in dieser Aufgabe die Funktion $f: \mathbb{R} \mapsto \mathbb{R},
 a) $f:[0, \infty) \mapsto \mathbb{R}$ ist bijektiv.
 b) $f:(-\infty, 0] \mapsto[0, \infty)$ ist surjektiv.
 c) $f:(-\infty, 0] \mapsto(-\infty, 0]$ ist nicht bijektiv.
+
+a)
+
+`\begin{proof}`
+Um Bijektivität zu zeigen, müssen sowohl In-, als auch Surjektivität für die vorliegene Funktion gelten. Surjektivität liegt in negativen Funktionswerten bei dieser Funktion jedoch nicht vor, etwa für $f(x) = -1$
+`\end{proof}`
