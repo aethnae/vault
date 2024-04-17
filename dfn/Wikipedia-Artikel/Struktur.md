@@ -25,7 +25,7 @@ tags:
 >    Unter den mehr als 350 institutionellen Mitgliedern des DFN-Vereins befinden sich Hochschulen, Forschungseinrichtungen sowie forschungsnahe Unternehmen.
 >    Aufgaben des Vereins umfassen den Datenaustausch, sowie die Vernetzung der deutschen Wissenschafts- und Forschungsgemeinschaft. Neben dem Netzwerkbetrieb bietet der DFN-Verein auch Dienste wie E-Mail, Videokonferenzen und Cloud-Speicher an.
 > 
-> 3. Der **Verein zur Förderung eines Deutschen Forschungsnetzes e.V.** (DFN-Verein) ist die Betreiberorganisation des nationalen Forschungs- und Bildungsnetzwerks in Deutschland. Er betreibt und entwickelt die Kommunikationsinfrastruktur für die gesamte deutsche Wissenschaftsgemeinschaft.
+> 3. Der **Verein zur Förderung eines Deutschen Forschungsnetzes e.V.** (DFN-Verein) ist die Betreiberorganisation des nationalen Forschungs- und Bildungsnetzwerks in Deutschland. Er betreibt und entwickelt die Kommunikationsinfrastruktur für die (gesamte) deutsche Wissenschaftsgemeinschaft.
 
 ***
 
