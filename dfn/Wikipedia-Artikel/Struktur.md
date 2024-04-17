@@ -18,6 +18,8 @@ tags:
 > [!summary] Entwurf 
 > Der **Verein zur Förderung eines Deutschen Forschungsnetzes e. V.** (DFN-Verein) ist eine selbstverwaltete Organisation, welche als eingetragener Verein den Betrieb sowie die Entwicklung des **deutschen Wissenschaftsnetzes** garantiert, und damit die Kommunikationsplattform für die deutsche Forschungslandschaft bereitstellt.
 > Unter den mehr als 350 institutionellen Mitgliedern des DFN-Vereins befinden sich Hochschulen, Forschungseinrichtungen sowie forschungsnahe Unternehmen.
+> 
+> - Es dient dem Datenaustausch, der Zusammenarbeit und der Vernetzung der deutschen Wissenschafts- und Forschungsgemeinschaft. Neben dem Netzwerkbetrieb bietet das DFN auch Dienste wie E-Mail, Videokonferenzen und Cloud-Speicher an.
 
 ***
 

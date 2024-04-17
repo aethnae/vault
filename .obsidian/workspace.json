@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "944872b612f077af",
+        "id": "504c87e7ff330716",
         "type": "tabs",
         "children": [
           {
-            "id": "341a96d94b1030d1",
+            "id": "368877cc7aea379c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fe5e10ab6cf9cf0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "files/Snippets.md",
-                "mode": "source",
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -91,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -124,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -150,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md"
+                "file": "dfn/Wikipedia-Artikel/Struktur.md"
               }
             }
           },
@@ -191,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md"
+                "file": "dfn/Wikipedia-Artikel/Struktur.md"
               }
             }
           }
@@ -209,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -233,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,8 +249,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "341a96d94b1030d1",
+  "active": "368877cc7aea379c",
   "lastOpenFiles": [
+    "dfn/Wikipedia-Artikel/Tester.md",
+    "dfn/Wikipedia-Artikel/Struktur.md",
+    "dfn/Mitteilungen/Liste Mitteilungen.md",
+    "dfn/Mitteilungen/Roadmap.md",
+    "Untitled.md",
     "files/Snippets.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
     "university (HU)/Mathematik I/Konzepte/Einschub - mathematische Beweisführung/Vollständige Induktion.md",
@@ -287,14 +279,9 @@
     "university (TU)/Vorkurs/Beweise/Beweis per Äquivalenz.md",
     "university (HU)/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
     "university (TU)/Vorkurs/Beweise/Widerlegung durch ein Gegenbeispiel.md",
-    "dfn/Wikipedia-Artikel/Struktur.md",
     "university (TU)/Vorkurs/Beweise/Direkte Beweise.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Gleichungen.md",
-    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Potenzen.md",
-    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Summen- und Produktzeichen.md",
-    "university (TU)/Vorkurs/Beweise/Beweis per Kontraposition.md",
-    "templates/Definition.md",
     "university (TU)/Vorkurs/Beweise",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen",
     "university (TU)/Vorkurs/Aussagenlogik",
