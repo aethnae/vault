@@ -122,5 +122,29 @@ Damit ist $f:(-\infty, 0] \mapsto [0, \infty)$ **nicht** surjektiv.
 **c)**
 
 `\begin{proof}`
+Um die Behauptung zu widerlegen, muss Bijektivität nachgewiesen werden. Die passiert, indem für $f:(-\infty, 0] \mapsto (-\infty, o]$ Surjektivität *sowie* Injektivität nachgewiesen wird.
 
+**Injektivität**:
+
+Wir prüfen auf Injektivität, indem wir annehmen, dass ein Element aus der Zielmenge von **zwei** Werten $x, y \in A$ getroffen wird.
+
+$$
+f(x) = f(y) \implies x^{3} = y^{3} \implies x = y
+$$
+
+Somit gilt im Umkehrschluss auch ${} x \neq y \implies f(x) \neq f(y) {}$. Damit ist $f$ im gegebenen Intervall *injektiv*.
+
+**Surjektivitiät**:
+
+Wir prüfen auf Surjektivität, indem wir uns ein beliebiges $y = f(x)$ aus der Wertemenge heraussuchen, und eine allgemeine Gleichung für zugehörige Werte aus der Definitionsmenge aufstellen.
+
+$$
+y = x^{3} \implies \sqrt[3]{ y } = x
+$$
+
+Da $y \in (-\infty, 0]$, muss auch $\sqrt[3]{ y } \in (-\infty, 0]$ sein. Dies ist für $x \in A$ der Fall. Damit ist $f$ auch eine *surjektive* Funktion.
+
+**Bijektivität**:
+
+Da $f$ sowohl in-, als auch surjektiv ist, ist $f:(-\infty, 0] \mapsto (-\infty, 0]$ eine **bijektive** Funktion, und die Aussage **c)** ist widerlegt.
 `\end{proof}`
