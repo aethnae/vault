@@ -101,8 +101,26 @@ a) $f:[0, \infty) \mapsto \mathbb{R}$ ist bijektiv.
 b) $f:(-\infty, 0] \mapsto[0, \infty)$ ist surjektiv.
 c) $f:(-\infty, 0] \mapsto(-\infty, 0]$ ist nicht bijektiv.
 
-a)
+**a)**
 
 `\begin{proof}`
 Um Bijektivität zu zeigen, müssen sowohl In-, als auch Surjektivität für die vorliegene Funktion gelten. Surjektivität liegt in negativen Funktionswerten bei dieser Funktion jedoch nicht vor, etwa für $f(x) = -1$.
+`\end{proof}`
+
+**b)**
+
+`\begin{proof}`
+Um Surjektivität zu zeigen, muss für alle $y \in B$ *mindestens* ein $x \in A$ vorliegen. In diesem spezifischen Fall ist jedoch $B = [0, \infty)$, und $A = (-\infty, 0]$. Somit existieren $y \in B$, wie zum Beispiel $y = 1$, denen kein $x \in A$ zugeordnet wird. Denn es gilt
+
+$$
+f(x) = x^{3} = 1 \Leftrightarrow x = 1 \implies x \notin A
+$$
+
+Damit ist $f:(-\infty, 0] \mapsto [0, \infty)$ **nicht** surjektiv.
+`\end{proof}`
+
+**c)**
+
+`\begin{proof}`
+
 `\end{proof}`

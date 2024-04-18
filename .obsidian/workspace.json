@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e84aa17007e6a61c",
+        "id": "fc13b25a2b057aa1",
         "type": "tabs",
         "children": [
           {
-            "id": "41781007fd7982a4",
+            "id": "34a465f2808bbbe3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "c620d81b3bcba938",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,7 +150,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md"
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md"
               }
             }
           },
@@ -178,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md"
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md"
               }
             }
           }
@@ -196,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,10 +262,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "41781007fd7982a4",
+  "active": "c620d81b3bcba938",
   "lastOpenFiles": [
-    "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
     "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
+    "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
     "Untitled.md",
     "university (TU)/Vorkurs/Abbildungen und Funktionen/Abbildungen.md",
     "files/Snippets.md",
