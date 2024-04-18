@@ -11,8 +11,12 @@
             "id": "41781007fd7982a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md"
+              }
             }
           },
           {
@@ -170,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md"
+              }
             }
           }
         ],
@@ -187,6 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -210,6 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,16 +249,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "41781007fd7982a4",
+  "active": "e041748da01c05af",
   "lastOpenFiles": [
-    "university (TU)/Vorkurs/Abbildungen und Funktionen/Abbildungen.md",
+    "Untitled.md",
     "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
+    "university (TU)/Vorkurs/Abbildungen und Funktionen/Abbildungen.md",
     "files/Snippets.md",
     "dfn/Wikipedia-Artikel/Struktur.md",
     "dfn/Wikipedia-Artikel/Tester.md",
     "dfn/Mitteilungen/Liste Mitteilungen.md",
     "dfn/Mitteilungen/Roadmap.md",
-    "Untitled.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
     "university (HU)/Mathematik I/Konzepte/Einschub - mathematische Beweisführung/Vollständige Induktion.md",
     "university (HU)/Handels- und Gesellschaftsrecht/Handels- und Gesellschaftsrecht.md",
