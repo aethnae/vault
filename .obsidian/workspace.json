@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d92071422b29859b",
+        "id": "e84aa17007e6a61c",
         "type": "tabs",
         "children": [
           {
-            "id": "9a72bf6d8ab880f4",
+            "id": "41781007fd7982a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "63a7f39990a8ee2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university (TU)/Vorkurs/Abbildungen und Funktionen/Abbildungen.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -208,7 +187,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -232,7 +210,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +238,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "9a72bf6d8ab880f4",
+  "active": "41781007fd7982a4",
   "lastOpenFiles": [
     "university (TU)/Vorkurs/Abbildungen und Funktionen/Abbildungen.md",
     "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",

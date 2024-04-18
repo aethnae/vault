@@ -104,5 +104,5 @@ c) $f:(-\infty, 0] \mapsto(-\infty, 0]$ ist nicht bijektiv.
 a)
 
 `\begin{proof}`
-Um Bijektivität zu zeigen, müssen sowohl In-, als auch Surjektivität für die vorliegene Funktion gelten. Surjektivität liegt in negativen Funktionswerten bei dieser Funktion jedoch nicht vor, etwa für $f(x) = -1$
+Um Bijektivität zu zeigen, müssen sowohl In-, als auch Surjektivität für die vorliegene Funktion gelten. Surjektivität liegt in negativen Funktionswerten bei dieser Funktion jedoch nicht vor, etwa für $f(x) = -1$.
 `\end{proof}`
