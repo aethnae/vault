@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fc13b25a2b057aa1",
+        "id": "47c7c12b1630a382",
         "type": "tabs",
         "children": [
           {
-            "id": "34a465f2808bbbe3",
+            "id": "92218d0ba8391608",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c620d81b3bcba938",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -61,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:kenan",
+                "query": "genau dann wenn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +62,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "4cae0943d8942f29",
@@ -91,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -208,7 +188,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -232,7 +211,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,10 +239,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "34a465f2808bbbe3",
+  "active": "92218d0ba8391608",
   "lastOpenFiles": [
-    "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
+    "university (HU)/Mathematik I/Rechengesetze.md",
+    "university (TU)/Vorkurs/Aussagenlogik/Junktoren.md",
+    "university (TU)/Vorkurs/Aussagenlogik/Aussagen.md",
+    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Betrag von reellen Zahlen.md",
     "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
+    "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
     "Untitled.md",
     "university (TU)/Vorkurs/Abbildungen und Funktionen/Abbildungen.md",
@@ -290,10 +272,6 @@
     "university (TU)/Vorkurs/Abbildungen und Funktionen",
     "university (TU)/Vorkurs/Beweise/Beweis per Schubfachprinzip.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Äquivalenz.md",
-    "university (HU)/Mikroökonomie I/Konzepte/Kapitel 3 - Präferenzen/Indifferenzkurven.md",
-    "university (TU)/Vorkurs/Beweise/Widerlegung durch ein Gegenbeispiel.md",
-    "university (TU)/Vorkurs/Beweise/Direkte Beweise.md",
-    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Gleichungen.md",
     "university (TU)/Vorkurs/Beweise",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen",
     "university (TU)/Vorkurs/Aussagenlogik",
