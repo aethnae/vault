@@ -147,7 +147,7 @@
     "enableProof": true,
     "enableMathPreviewInCalloutAndQuote": true,
     "autocompleteDvQuery": "",
-    "searchModalQueryType": "theorem",
+    "searchModalQueryType": "both",
     "searchModalRange": "vault",
     "searchModalDvQuery": ""
   },
@@ -477,6 +477,7 @@
     "university (HU)/Mathematik I/Konzepte/Vorkurs/Integration/Hauptsatz der Differential- und Integralrechnung.md",
     "university (HU)/Mathematik I/Konzepte/Vorkurs/Trigonometrie/Sinus und Kosinus.md",
     "university (HU)/Mathematik I/Konzepte/Vorkurs/Trigonometrie/Trigonometrische Funktionen.md",
-    "university (TU)/Vorkurs/Abbildungen und Funktionen/Abbildungen.md"
+    "university (TU)/Vorkurs/Abbildungen und Funktionen/Abbildungen.md",
+    "university (TU)/Lineare Algebra I/Aussagenlogik und Beweise/Wie lesen wir Aussagen?.md"
   ]
 }

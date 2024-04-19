@@ -5,55 +5,13 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
-    {
-      "query": "path:university/Mathematik I",
-      "color": {
-        "a": 1,
-        "rgb": 15459072
-      }
-    },
-    {
-      "query": "path:university/Mikroökonomie I  ",
-      "color": {
-        "a": 1,
-        "rgb": 16056487
-      }
-    },
-    {
-      "query": "path:\"university/Einführung in die VWL und Wirtschaftsgeschichte\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11403519
-      }
-    },
-    {
-      "query": "path:\"university/Bürgerliches Recht\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 4607
-      }
-    },
-    {
-      "query": "path:\"university/Handels- und Gesellschaftsrecht\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 2879191
-      }
-    },
-    {
-      "query": "path:\"university/Externes Rechnungswesen\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16384000
-      }
-    },
     {
       "query": "path:\"university (TU)\"  ",
       "color": {
         "a": 1,
-        "rgb": 8902236
+        "rgb": 1293871
       }
     }
   ],
@@ -67,6 +25,6 @@
   "repelStrength": 10.3621198827948,
   "linkStrength": 0.953501772647736,
   "linkDistance": 448,
-  "scale": 0.4516364453284708,
-  "close": true
+  "scale": 0.3764688952994909,
+  "close": false
 }

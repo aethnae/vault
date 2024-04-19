@@ -34,7 +34,7 @@
 		- [[Tangenten]]
 		- [[Taylorpolynome]]
 	- **Abschnitt 4 - Spezielle Grenzwerte**
-		- [[university (HU)/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Grenzrate der Substitution]]
+		- [[Grenzrate der Substitution]]
 		- [[Regel von L'Hospital]]
 	- **Abschnitt 5 - Funktionen unter Anwendung**
 		- [[Cournotscher Punkt]]
@@ -68,7 +68,7 @@
 	- **Vorkurs**
 		- **[[Funktionen]]**
 			- [[Betragsfunktionen]]
-			- [[university (HU)/Mathematik I/Konzepte/Vorkurs/Funktionen/Exponentialfunktionen]]
+			- [[Exponentialfunktionen]]
 			- [[Funktionen]]
 			- [[Linearfaktorzerlegung]]
 			- [[Logarithmusfunktionen]]
@@ -83,7 +83,11 @@
 			- [[Hauptsatz der Differential- und Integralrechnung]]
 		- **Mengen, Zahlen & Rechenregeln**
 			- [[Logarithmen]]
-			- [[university (HU)/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Mengen]]		- **Trigonometrie**
+			- [[Mengen]]
+			- [[Produktzeichen]]
+			- [[Summenzeichen]]
+			- [[Ungleichungen]]
+		- **Trigonometrie**
 			- [[Sinus und Kosinus]]
 			- [[Trigonometrische Funktionen]]
 - [[LaTeX Snippets]]
@@ -91,11 +95,10 @@
 - [[Rechengesetze]]
 - **Übungsblätter**
 	- [[Freiwilliger Test I]]
-	- [[F[[university (HU)/Mathematik I/Rechengesetze]]II]]
+	- [[Freiwilliger Test II]]
 	- [[Freiwilliger Test III]]
 	- [[Freiwilliger Test IV]]
 	- [[Übungsblatt 1]]
 	- [[Übungsblatt 4]]
 
 %% End Waypoint %%
-[[university[[university (HU)/Mathematik I/Übungsblätter/Übungsblatt 1]]I/Übungsblätter/Übungsblatt 4]]

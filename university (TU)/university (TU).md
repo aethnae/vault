@@ -2,9 +2,14 @@
 
 %% Begin Waypoint %%
 - **Analysis I**
+	- **Definitionen**
 	- **Übungsblätter**
 		- [[Hausaufgabenblatt 0]]
 - **Lineare Algebra I**
+	- **Definitionen**
+		- **Aussagenlogik und Beweise**
+			- [[Wie lesen wir Aussagen?]]
+	- **Übungsblätter**
 - [[university (TU)]]
 - **Vorkurs**
 	- **Abbildungen und Funktionen**
