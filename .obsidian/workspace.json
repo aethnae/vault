@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b055f5a642659122",
+        "id": "75cd9268f9702447",
         "type": "tabs",
         "children": [
           {
-            "id": "dc21542154f3f3a8",
+            "id": "bcfb64b3e8eaddc9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -238,7 +238,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "dc21542154f3f3a8",
+  "active": "bcfb64b3e8eaddc9",
   "lastOpenFiles": [
     "university (TU)/university (TU).md",
     "university (HU)/Mathematik I/Mathematik I.md",
