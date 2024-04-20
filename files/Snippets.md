@@ -104,7 +104,7 @@
 
 
     // Visual operations
-    {trigger: "U", replacement: "\\underbrace{ ${VISUAL} }_{ $0 }", options: "mA"},
+	 {trigger: "U", replacement: "\\underbrace{ ${VISUAL} }_{ $0 }", options: "mA"},
     {trigger: "B", replacement: "\\underset{ $0 }{ ${VISUAL} }", options: "mA"},
     {trigger: "C", replacement: "\\cancel{ ${VISUAL} }", options: "mA"},
     {trigger: "K", replacement: "\\cancelto{ $0 }{ ${VISUAL} }", options: "mA"},
@@ -142,6 +142,9 @@
     {trigger: "empty", replacement: "\\varnothing", options: "mA"},
     {trigger: "=>", replacement: "\\implies", options: "mA"},
     {trigger: "=<", replacement: "\\impliedby", options: "mA"},
+    {trigger: "cont", replacement: "\\unicode{10803}", options: "mA"},
+	{trigger: "top", replacement: "\\top", options: "mA"},
+	{trigger: "bot", replacement: "\\bot", options: "mA"},
     {trigger: "iff", replacement: "\\iff", options: "mA"},
 	 {trigger: "neg", replacement: "\\neg", options: "mA"},  
     {trigger: "e\\xi sts", replacement: "\\exists", options: "mA", priority: 1},

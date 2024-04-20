@@ -148,3 +148,43 @@ Da $y \in (-\infty, 0]$, muss auch $\sqrt[3]{ y } \in (-\infty, 0]$ sein. Dies i
 
 Da $f$ sowohl in-, als auch surjektiv ist, ist $f:(-\infty, 0] \mapsto (-\infty, 0]$ eine **bijektive** Funktion, und die Aussage **c)** ist widerlegt.
 `\end{proof}`
+
+***
+##### Aufgabe 0.4: Relationen
+
+Entscheiden Sie ob die nachstehenden Relationen auch Äquivalenzrelationen sind; falls ja, beweisen Sie dies.
+
+- $R_1 = \{(a, b) \in \mathbb{N} \times \mathbb{N}: a<b\}$.
+- $R_2=\left\{(A, B) \in\{\text { Personen auf der Erde }\}^2: A\right.$ ist mit $B$ befreundet $\}$
+- $R_3=\{(a, b) \in \mathbb{N} \times \mathbb{N}:|a-b| \leq 2\}$.
+- $R_4=\left\{(a, b) \in P \times P: a_1 b_2=a_2 b_1\right\}$, wobei $P=\{(z, n) \in \mathbb{Z} \times \mathbb{N}: n \neq 0\}$.
+
+$R_{1}$ ist *keine* Äquivalenzrelation, da das Kriterium der Reflexivität nicht erfüllt ist.
+
+`\begin{proof}`
+$R_{1}$ ist irreflexiv, da $aR_{1}a \implies a < a \implies \unicode{10803}$
+`\end{proof}`
+<br> 
+
+Auch $R_{2}$ ist keine Äquivalenzrelation, da nicht alle Kriterien dieser erfüllt sind.
+
+`\begin{proof}`
+
+- **Ungenau**, da $AR_{2}A$ meint, dass $A$ mit sich selbst befreundet ist?
+- **Symmetrisch**, da "Freundschaft" beidseitig angenommen werden muss?
+- $AR_{2}B \wedge BR_{2}C \not \Rightarrow AR_{2}C$, also auch **intransitiv**
+
+und damit keine Äquivalenzrelation.
+`\end{proof}`
+<br>
+
+$R_{3}$ erfüllt bis auf die fehlende Transitivität alle Bedingungen für eine Äquivalenzrelation:
+
+`\begin{proof}`
+- **Reflexiv**, da $aR_{3}a \implies \lvert a - a \rvert \leq 2 \implies 0 \leq 2$
+- **Symmetrisch**, da $aR_{3}b \implies \lvert a - b \rvert \leq 2 \iff bR_{3}a \implies \lvert b - a \rvert \leq 2$, und somit $\lvert a - b \rvert \iff \lvert b - a \rvert$
+- **Intransitiv**, etwa für $a = 2$, $b = 4$, $c = 6$
+`\end{proof}`
+<br> 
+
+$R_{4}$ ist eine Äquivalenzrelation $\ldots$
