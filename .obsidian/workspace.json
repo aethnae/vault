@@ -11,8 +11,12 @@
             "id": "ea8dbad12b180502",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md"
+              }
             }
           },
           {
@@ -170,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md"
+              }
             }
           }
         ],
@@ -187,6 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -210,6 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
