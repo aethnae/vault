@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "76574fce8625a937",
+        "id": "24015d9d983f5fdd",
         "type": "tabs",
         "children": [
           {
-            "id": "96dfe12dce1fbffe",
+            "id": "ea8dbad12b180502",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -238,7 +238,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "96dfe12dce1fbffe",
+  "active": "ea8dbad12b180502",
   "lastOpenFiles": [
     "files/Snippets.md",
     "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
