@@ -134,7 +134,7 @@ $$
 
 Somit gilt im Umkehrschluss auch ${} x \neq y \implies f(x) \neq f(y) {}$. Damit ist $f$ im gegebenen Intervall *injektiv*.
 
-**Surjektivitiät**:
+**Surjektivität**:
 
 Wir prüfen auf Surjektivität, indem wir uns ein beliebiges $y = f(x)$ aus der Wertemenge heraussuchen, und eine allgemeine Gleichung für zugehörige Werte aus der Definitionsmenge aufstellen.
 
