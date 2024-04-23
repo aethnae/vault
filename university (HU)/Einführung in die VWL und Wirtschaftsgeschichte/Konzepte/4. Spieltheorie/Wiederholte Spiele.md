@@ -37,6 +37,8 @@ $$
 \end{array}
 $$
 
+^612837
+
 - **Rival**: Konsum durch einen Konsumenten verhindert den gleichzeitigen Konsum eines anderen Konsumenten
 - **Ausschließbar**: Konsum für Konsumenten, die nicht zahlen, nicht möglich
 - Teilnehmer leisten Beiträge solange es andere auch taten (**Reziprozität**), unterschiedliche Beiträge vermutlich wegen unterschiedlicher **sozialer Normen** (?)
