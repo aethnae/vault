@@ -155,7 +155,7 @@ Da $f$ sowohl in-, als auch surjektiv ist, ist $f:(-\infty, 0] \mapsto (-\infty,
 Entscheiden Sie ob die nachstehenden Relationen auch Äquivalenzrelationen sind; falls ja, beweisen Sie dies.
 
 - $R_1 = \{(a, b) \in \mathbb{N} \times \mathbb{N}: a<b\}$.
-- $R_2=\left\{(A, B) \in\{\text { Personen auf der Erde }\}^2: A\right.$ ist mit $B$ befreundet $\}$
+- $R_2=\left\{(A, B) \in\{\text {Personen auf der Erde}\}^2: A\right.$ ist mit $B$ befreundet $\}$
 - $R_3=\{(a, b) \in \mathbb{N} \times \mathbb{N}:|a-b| \leq 2\}$.
 - $R_4=\left\{(a, b) \in P \times P: a_1 b_2=a_2 b_1\right\}$, wobei $P=\{(z, n) \in \mathbb{Z} \times \mathbb{N}: n \neq 0\}$.
 
