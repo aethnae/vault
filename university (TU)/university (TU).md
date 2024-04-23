@@ -3,6 +3,7 @@
 %% Begin Waypoint %%
 - **Analysis I**
 	- **Definitionen**
+		- [[Binomischer Satz]]
 	- **Übungsblätter**
 		- [[Hausaufgabenblatt 0]]
 - **Lineare Algebra I**
