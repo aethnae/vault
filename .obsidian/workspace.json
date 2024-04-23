@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "24015d9d983f5fdd",
+        "id": "9fb8d7e0683c4139",
         "type": "tabs",
         "children": [
           {
-            "id": "ea8dbad12b180502",
+            "id": "e3722874baa8f10d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university (TU)/Analysis I/Definitionen/Binomischer Satz.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "66d95331c32336aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Summen- und Produktzeichen.md",
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "mode": "preview",
                 "source": true
               }
@@ -91,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Analysis I/Definitionen/Binomischer Satz.md",
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university (TU)/Analysis I/Definitionen/Binomischer Satz.md"
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md"
               }
             }
           },
@@ -190,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university (TU)/Analysis I/Definitionen/Binomischer Satz.md"
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md"
               }
             }
           }
@@ -208,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Analysis I/Definitionen/Binomischer Satz.md",
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -232,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Analysis I/Definitionen/Binomischer Satz.md",
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,9 +249,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "ea8dbad12b180502",
+  "active": "e3722874baa8f10d",
   "lastOpenFiles": [
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Summen- und Produktzeichen.md",
+    "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
     "university (TU)/Analysis I/Definitionen/Binomischer Satz.md",
     "university (TU)/Vorkurs/Teilbarkeit.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Wurzeln.md",
@@ -275,7 +264,6 @@
     "university (TU)/Vorkurs/Abbildungen und Funktionen/Abbildungen.md",
     "university (TU)/Lineare Algebra I/Definitionen/Aussagenlogik und Beweise/Wie lesen wir Aussagen?.md",
     "university (HU)/Mathematik I/Rechengesetze.md",
-    "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
     "files/Snippets.md",
     "university (TU)/university (TU).md",
     "university (HU)/Mathematik I/Mathematik I.md",
