@@ -8,7 +8,7 @@
 		- [[Hausaufgabenblatt 0]]
 - **Lineare Algebra I**
 	- **Definitionen**
-		- **Aussagenlogik und Beweise**
+		- **1. Mathematische Grundbegriffe**
 			- [[Wie lesen wir Aussagen?]]
 	- **Übungsblätter**
 - [[university (TU)]]
