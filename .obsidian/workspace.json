@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "723a3a38fa65d02a",
+        "id": "6a60d2d127d7fe29",
         "type": "tabs",
         "children": [
           {
-            "id": "631f9599be1ed2d8",
+            "id": "078227cb3562969b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen/Binomischer Lehrsatz.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9a8d9441f47a99ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "files/Snippets.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen/Binomischer Lehrsatz.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen/Binomischer Lehrsatz.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen/Binomischer Lehrsatz.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -209,7 +188,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen/Binomischer Lehrsatz.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -233,7 +211,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen/Binomischer Lehrsatz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +239,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "631f9599be1ed2d8",
+  "active": "078227cb3562969b",
   "lastOpenFiles": [
     "files/Snippets.md",
     "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen/Binomischer Lehrsatz.md",

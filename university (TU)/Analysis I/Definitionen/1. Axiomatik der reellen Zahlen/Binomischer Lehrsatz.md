@@ -32,7 +32,7 @@ Es gilt: $(x+y)^{0} = 1 = \binom{0}{0}x^{0}y^{0} = \sum_{k = 0}^{0}\binom{0}{k}x
 
 **IV**: "$n \implies n + 1$"
 
-Die Formel [[#^dfe5a3]] sei wahr für ein beliebiges, aber festes $n \in \mathbb{N}$. Wir zeigen, das sie dann auch für $n+1$ wahr ist. Es gilt
+Die Formel aus dem [[#^dfe5a3]] sei wahr für ein beliebiges, aber festes $n \in \mathbb{N}$. Wir zeigen, das sie dann auch für $n+1$ wahr ist. Es gilt
 
 $$
 \begin{align}
@@ -40,7 +40,9 @@ $$
  & = \sum_{k = 0}^{n} \binom{n}{k}x^{n-k+1}y^{k}+\sum_{k = 0}^{n} \binom{n}{k}x^{n-k}y^{k+1} \\
  & = \binom{n}{0}x^{n+1}y^{0}+\sum_{k = 1}^{n} \binom{n}{k}x^{n-k+1}y^{k}+\sum_{k = 0}^{n-1} \binom{n}{k}x^{n-k}y^{k+1}+\binom{n}{n}x^{0}y^{n+1} \\
  & = x^{n+1}+\sum_{k = 1}^{n} \binom{n}{k}x^{n-k+1}y^{k}+\sum_{k = 1}^{n} \binom{n}{k-1}x^{n-k+1}y^{k}+y^{n+1} \\
- & = 
+ & = x^{n+1}+\sum_{k = 1}^{n} (\binom{n}{k}+\binom{n}{k-1})x^{n-k+1}y^{k}+y^{n+1} \\
+ & = \binom{n+1}{0}x^{n+1}y^{0}+\sum_{k = 1}^{n} \binom{n+1}{k}x^{n-k+1}y^{k}+\binom{n+1}{n+1}x^{0}y^{n+1} \\
+ & = \sum_{k = 0}^{n+1} \binom{n+1}{k}x^{n-k+1}y^{k} 
 \end{align}
 $$
 `\end{proof}`
