@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Wie lesen wir Aussagen?.md",
+                "file": "university (HU)/Mathematik I/Rechengesetze.md",
                 "mode": "preview",
                 "source": true
               }
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "4cae0943d8942f29",
@@ -79,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Wie lesen wir Aussagen?.md",
+                "file": "university (HU)/Mathematik I/Rechengesetze.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Wie lesen wir Aussagen?.md"
+                "file": "university (HU)/Mathematik I/Rechengesetze.md"
               }
             }
           },
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Wie lesen wir Aussagen?.md"
+                "file": "university (HU)/Mathematik I/Rechengesetze.md"
               }
             }
           }
@@ -196,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Wie lesen wir Aussagen?.md",
+                "file": "university (HU)/Mathematik I/Rechengesetze.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Wie lesen wir Aussagen?.md",
+                "file": "university (HU)/Mathematik I/Rechengesetze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,8 +250,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "e041748da01c05af",
+  "active": "e3722874baa8f10d",
   "lastOpenFiles": [
+    "university (TU)/university (TU).md",
+    "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
+    "university (HU)/Mathematik I/Rechengesetze.md",
+    "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Wie lesen wir Aussagen?.md",
     "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe",
     "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Summen- und Produktzeichen.md",
@@ -263,10 +268,7 @@
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Fermat-Gleichung.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Potenzen.md",
     "university (TU)/Vorkurs/Abbildungen und Funktionen/Abbildungen.md",
-    "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Wie lesen wir Aussagen?.md",
-    "university (HU)/Mathematik I/Rechengesetze.md",
     "files/Snippets.md",
-    "university (TU)/university (TU).md",
     "university (HU)/Mathematik I/Mathematik I.md",
     "university (HU)/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Mengen.md",
     "university (HU)/Mathematik I/Konzepte/Vorkurs/Funktionen/Exponentialfunktionen.md",
@@ -279,7 +281,6 @@
     "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Aussagenlogik und Beweise",
     "university (TU)/Lineare Algebra I/Übungsblätter",
     "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
-    "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
     "Untitled.md",
     "university (TU)/Analysis I/Übungsblätter",
     "files/Pasted image 20240416151536.png",
@@ -289,7 +290,6 @@
     "university (TU)/Vorkurs/Beweise",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen",
     "university (TU)/Vorkurs/Aussagenlogik",
-    "university (TU)/Vorkurs/Mengen",
     "files/Pasted image 20240201190426.png",
     "files/Pasted image 20240201185224.png",
     "files/Pasted image 20240201182229.png",
