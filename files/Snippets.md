@@ -301,6 +301,7 @@
     {trigger: "nwa", replacement: "\\nwarrow", options: "mA"},
     {trigger: "fx", replacement: "f(x)", options: "mA"},
     {trigger: "ff", replacement: "f($0)", options: "mA"},
+    {trigger: "bin", replacement: "\\binom{${0:n}}{${1:k}}", options: "mA"},
     {trigger: "'", replacement: "'($0)$1", options: "m"},
     {trigger: "max", replacement: "\\max_{$0} $1", options: "mA"},
     {trigger: "min", replacement: "\\min_{$0} $1", options: "mA"},

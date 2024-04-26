@@ -1,8 +1,9 @@
 ---
-tags: 
+tags:
+- <% tp.file.cursor(1) %>
 flashcard: false
 source: 
-date created: 
+date created: <% tp.date.now() %>
 proved by: 
 references: 
 justifications:
@@ -10,24 +11,11 @@ justifications:
 ***
 #### Theorem
 
-> [!theorem|*] <% tp.file.cursor(1) %>
-> <% tp.file.cursor(2) %>
+> [!theorem|*] <% tp.file.cursor(2) %>
+> <% tp.file.cursor(3) %>
 
 ***
 #### Beweis
 
-##### Voraussetzungen
-
-> [!proposition] <% tp.file.cursor(3) %>
-> <% tp.file.cursor(4) %>
-
-##### Behauptung
-
-> [!claim|*] <% tp.file.cursor(5) %>
-> <% tp.file.cursor(6) %>
-
-##### Beweis
-
-<% tp.file.cursor(7) %>
-
+<% tp.file.cursor(4) %>
 ***

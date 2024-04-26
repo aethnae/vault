@@ -3,7 +3,8 @@
 %% Begin Waypoint %%
 - **Analysis I**
 	- **Definitionen**
-		- [[Binomischer Satz]]
+		- **1. Axiomatik der reellen Zahlen**
+			- [[Binomischer Lehrsatz]]
 	- **Übungsblätter**
 		- [[Hausaufgabenblatt 0]]
 - **Lineare Algebra I**

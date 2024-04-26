@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "9fb8d7e0683c4139",
+        "id": "723a3a38fa65d02a",
         "type": "tabs",
         "children": [
           {
-            "id": "e3722874baa8f10d",
+            "id": "631f9599be1ed2d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university (HU)/Mathematik I/Rechengesetze.md",
+                "file": "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen/Binomischer Lehrsatz.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9a8d9441f47a99ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "files/Snippets.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -66,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "4cae0943d8942f29",
@@ -80,7 +91,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (HU)/Mathematik I/Rechengesetze.md",
+                "file": "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen/Binomischer Lehrsatz.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -113,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -138,7 +150,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university (HU)/Mathematik I/Rechengesetze.md"
+                "file": "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen/Binomischer Lehrsatz.md"
               }
             }
           },
@@ -179,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university (HU)/Mathematik I/Rechengesetze.md"
+                "file": "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen/Binomischer Lehrsatz.md"
               }
             }
           }
@@ -197,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (HU)/Mathematik I/Rechengesetze.md",
+                "file": "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen/Binomischer Lehrsatz.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -221,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (HU)/Mathematik I/Rechengesetze.md",
+                "file": "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen/Binomischer Lehrsatz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,16 +262,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "e3722874baa8f10d",
+  "active": "631f9599be1ed2d8",
   "lastOpenFiles": [
+    "files/Snippets.md",
+    "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen/Binomischer Lehrsatz.md",
+    "templates/Theorem.md",
+    "templates/Proposition.md",
+    "templates/Definition.md",
+    "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Wie lesen wir Aussagen?.md",
+    "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen",
+    "university (TU)/Analysis I/Definitionen/Binomischer Satz.md",
+    "university (HU)/Mathematik I/Rechengesetze.md",
     "university (TU)/university (TU).md",
     "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
-    "university (HU)/Mathematik I/Rechengesetze.md",
-    "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Wie lesen wir Aussagen?.md",
     "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe",
     "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Summen- und Produktzeichen.md",
-    "university (TU)/Analysis I/Definitionen/Binomischer Satz.md",
     "university (TU)/Vorkurs/Teilbarkeit.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Wurzeln.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Ordnung von reellen Zahlen.md",
@@ -268,7 +286,6 @@
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Fermat-Gleichung.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Potenzen.md",
     "university (TU)/Vorkurs/Abbildungen und Funktionen/Abbildungen.md",
-    "files/Snippets.md",
     "university (HU)/Mathematik I/Mathematik I.md",
     "university (HU)/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Mengen.md",
     "university (HU)/Mathematik I/Konzepte/Vorkurs/Funktionen/Exponentialfunktionen.md",
@@ -277,11 +294,8 @@
     "university (TU)/Analysis I/Definitionen",
     "university (TU)/Lineare Algebra I/Definitionen",
     "university (TU)/Vorkurs/Aussagenlogik/Junktoren.md",
-    "university (TU)/Vorkurs/Aussagenlogik/Aussagen.md",
     "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Aussagenlogik und Beweise",
     "university (TU)/Lineare Algebra I/Übungsblätter",
-    "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
-    "Untitled.md",
     "university (TU)/Analysis I/Übungsblätter",
     "files/Pasted image 20240416151536.png",
     "files/Pasted image 20240415183757.png",
@@ -289,7 +303,6 @@
     "university (TU)/Vorkurs/Abbildungen und Funktionen",
     "university (TU)/Vorkurs/Beweise",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen",
-    "university (TU)/Vorkurs/Aussagenlogik",
     "files/Pasted image 20240201190426.png",
     "files/Pasted image 20240201185224.png",
     "files/Pasted image 20240201182229.png",
