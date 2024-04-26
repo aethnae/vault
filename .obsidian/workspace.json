@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6a60d2d127d7fe29",
+        "id": "646bee4147d5ebd6",
         "type": "tabs",
         "children": [
           {
-            "id": "078227cb3562969b",
+            "id": "519da52638cd20c0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -239,7 +239,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "078227cb3562969b",
+  "active": "519da52638cd20c0",
   "lastOpenFiles": [
     "files/Snippets.md",
     "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen/Binomischer Lehrsatz.md",
