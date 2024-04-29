@@ -33,24 +33,23 @@ var TableCheckboxesPlugin = class extends import_obsidian.Plugin {
     super(...arguments);
     this.setupWindowHandlers = (_workspaceWindow, win) => {
       this.registerDomEvent(win, "input", (evt) => {
-        console.log(evt);
         if (evt.data === "]") {
           const view = this.app.workspace.activeEditor;
           if (!view || !view.editor) {
             return;
           }
           const location = view.editor.getCursor("anchor");
-          let rowValue = view.editor.getLine(location.line);
+          location.ch += 1;
+          const rowValue = view.editor.getLine(location.line);
+          if (this.isMDCheckboxInTable(rowValue)) {
+            return this.handleCheckboxReplacement(view, rowValue, location, false);
+          }
+          location.ch -= 1;
           const rowChars = rowValue.split("");
           rowChars.splice(location.ch, 0, evt.data);
-          rowValue = rowChars.join("");
-          if (this.isMDCheckboxInTable(rowValue)) {
-            const checkBox = this.getCheckboxLength(rowValue);
-            const start = { ...location };
-            start.ch -= checkBox.length;
-            view.editor.setSelection(start, location);
-            const checkboxId = this.generateUniqueCheckboxId(view.editor.getDoc().getValue());
-            view.editor.replaceSelection(`<input type="checkbox" unchecked id="${checkboxId}">`);
+          const newRowValue = rowChars.join("");
+          if (this.isMDCheckboxInTable(newRowValue)) {
+            this.handleCheckboxReplacement(view, newRowValue, location, true);
           }
         }
       });
@@ -76,6 +75,20 @@ var TableCheckboxesPlugin = class extends import_obsidian.Plugin {
   }
   async onunload() {
     this.app.workspace.off("window-open", this.setupWindowHandlers);
+  }
+  handleCheckboxReplacement(view, rowValue, location, manuallyAdded) {
+    if (!view.editor) {
+      return;
+    }
+    const checkBox = this.getCheckboxLength(rowValue);
+    const start = { ...location };
+    start.ch -= checkBox.length;
+    if (manuallyAdded) {
+      start.ch += 1;
+    }
+    view.editor.setSelection(start, location);
+    const checkboxId = this.generateUniqueCheckboxId(view.editor.getDoc().getValue());
+    view.editor.replaceSelection(`<input type="checkbox" unchecked id="${checkboxId}">`);
   }
   generateUniqueCheckboxId(page) {
     let id = crypto.randomUUID().slice(-6);

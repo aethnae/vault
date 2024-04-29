@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "646bee4147d5ebd6",
+        "id": "1e469e2634b90260",
         "type": "tabs",
         "children": [
           {
-            "id": "519da52638cd20c0",
+            "id": "dda6fcdeff75edef",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -239,8 +239,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "519da52638cd20c0",
+  "active": "dda6fcdeff75edef",
   "lastOpenFiles": [
+    "university (HU)/Mikroökonomie I/Mikroökonomie I.md",
     "files/Snippets.md",
     "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen/Binomischer Lehrsatz.md",
     "templates/Theorem.md",
@@ -270,7 +271,6 @@
     "university (HU)/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Satz von Schwarz.md",
     "university (TU)/Analysis I/Definitionen",
     "university (TU)/Lineare Algebra I/Definitionen",
-    "university (TU)/Vorkurs/Aussagenlogik/Junktoren.md",
     "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Aussagenlogik und Beweise",
     "university (TU)/Lineare Algebra I/Übungsblätter",
     "university (TU)/Analysis I/Übungsblätter",

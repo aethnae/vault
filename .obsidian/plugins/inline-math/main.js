@@ -27,12 +27,13 @@ __export(main_exports, {
   default: () => NoMoreFlicker
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian2 = require("obsidian");
+var import_obsidian3 = require("obsidian");
 
 // src/settings.ts
 var import_obsidian = require("obsidian");
 var DEFAULT_SETTINGS = {
   disableInTable: false,
+  disableOnIME: true,
   disableDecorations: false,
   disableAtomicRanges: false
 };
@@ -47,6 +48,12 @@ var NoMoreFlickerSettingTab = class extends import_obsidian.PluginSettingTab {
     new import_obsidian.Setting(containerEl).setName("Disable in tables").setDesc("If turned on, braces won't be inserted in tables. Decorations & atomic ranges are enabled regardless of this setting.").addToggle((toggle) => {
       toggle.setValue(this.plugin.settings.disableInTable).onChange(async (disable) => {
         this.plugin.settings.disableInTable = disable;
+        await this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian.Setting(containerEl).setName("Disable when using IME input").setDesc("This option can be helpful for avoiding some strange behavior occurring when using IME inputs after escaping from a math block with the Latex Suite plugin's tabout feature.").addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.disableOnIME).onChange(async (disable) => {
+        this.plugin.settings.disableOnIME = disable;
         await this.plugin.saveSettings();
       });
     });
@@ -100,7 +107,7 @@ function isInlineMathEnd(node, state) {
 function selectionSatisfies(state, predicate) {
   let ret = false;
   const tree = (0, import_language.syntaxTree)(state);
-  for (const { from, to } of state.selection.ranges) {
+  for (const { from } of state.selection.ranges) {
     const line = state.doc.lineAt(from);
     tree.iterate({
       from: line.from,
@@ -234,8 +241,7 @@ function handleLatexSuiteTabout(state, newSelection) {
   const tree = (0, import_language4.syntaxTree)(state);
   const doc = state.doc.toString();
   const newRanges = [];
-  for (let i = 0; i < newSelection.ranges.length; i++) {
-    const range = newSelection.ranges[i];
+  for (const range of newSelection.ranges) {
     const indexNextDollar = doc.indexOf("$", range.to);
     if (indexNextDollar >= 0) {
       const node = tree.cursorAt(indexNextDollar, 1).node;
@@ -266,6 +272,7 @@ function handleLatexSuiteBoxing(state, changes) {
 }
 
 // src/transaction-filter.ts
+var import_obsidian2 = require("obsidian");
 var makeTransactionFilter = (plugin) => {
   return import_state3.EditorState.transactionFilter.of((tr) => {
     var _a;
@@ -273,6 +280,11 @@ var makeTransactionFilter = (plugin) => {
       return tr;
     const userEvent = (_a = tr.annotation(import_state3.Transaction.userEvent)) == null ? void 0 : _a.split(".")[0];
     if (userEvent === "input") {
+      if (plugin.settings.disableOnIME) {
+        const view = tr.startState.field(import_obsidian2.editorEditorField);
+        if (view.composing)
+          return tr;
+      }
       const changes = getChangesForInsertion(tr.startState, tr.changes);
       return [tr, { changes }];
     } else if (userEvent === "select" && tr.selection) {
@@ -321,9 +333,9 @@ function getChangesForInsertion(state, changes) {
   const tree = (0, import_language5.syntaxTree)(state);
   const doc = state.doc.toString();
   const changesToAdd = [];
-  const beginningOfChanges = /* @__PURE__ */ new Map();
+  const beginningOfChanges = /* @__PURE__ */ new Set();
   changes.iterChangedRanges((fromA, toA, fromB, toB) => {
-    beginningOfChanges.set(fromA, true);
+    beginningOfChanges.add(fromA);
   });
   for (const range of state.selection.ranges) {
     if (range.from >= 1) {
@@ -390,7 +402,7 @@ function getChangesForSelection(state, newSelection) {
 }
 
 // src/main.ts
-var NoMoreFlicker = class extends import_obsidian2.Plugin {
+var NoMoreFlicker = class extends import_obsidian3.Plugin {
   constructor() {
     super(...arguments);
     /** 
@@ -438,7 +450,7 @@ var NoMoreFlicker = class extends import_obsidian2.Plugin {
   }
   cleanAllMarkdownViews() {
     this.app.workspace.iterateAllLeaves((leaf) => {
-      if (leaf.view instanceof import_obsidian2.MarkdownView) {
+      if (leaf.view instanceof import_obsidian3.MarkdownView) {
         cleanerCallback(leaf.view.editor);
       }
     });

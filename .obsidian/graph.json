@@ -3,7 +3,7 @@
   "search": "",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
@@ -11,7 +11,70 @@
       "query": "path:\"university (TU)\"  ",
       "color": {
         "a": 1,
-        "rgb": 1293871
+        "rgb": 12456723
+      }
+    },
+    {
+      "query": "path:\"university (HU)/Mathematik I\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16755200
+      }
+    },
+    {
+      "query": "path:\"university (HU)/Mikroökonomie I\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16774912
+      }
+    },
+    {
+      "query": "path:\"university (HU)/Bürgerliches Recht\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 43008
+      }
+    },
+    {
+      "query": "path:\"university (HU)/Handels- und Gesellschaftsrecht\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 43008
+      }
+    },
+    {
+      "query": "path:\"university (HU)/Externes Rechnungswesen\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:\"university (HU)/Einführung in die VWL und Wirtschaftsgeschichte\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:dfn  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "path:files  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    },
+    {
+      "query": "path:school  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
       }
     }
   ],
@@ -20,11 +83,11 @@
   "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 0.93560791015625,
   "lineSizeMultiplier": 2.14485677083333,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.46810599413974,
   "repelStrength": 10.3621198827948,
   "linkStrength": 0.953501772647736,
   "linkDistance": 448,
-  "scale": 0.12631077228591983,
+  "scale": 0.15417664571177808,
   "close": true
 }
