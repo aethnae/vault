@@ -7,7 +7,7 @@ tags:
 *Diese Struktur soll als Hilfsmittel dienen, um neue Infotexte für Wikipedia zu verfassen.*
 ***
 
-1. Einleitungssatz
+#### 1. Einleitungssatz
 
 - Liefert genauere Definition zum Überschriftsbegriff
   - Betreiber des deutschen NREN
@@ -29,7 +29,7 @@ tags:
 
 ***
 
-2. Geschichte
+#### 2. Geschichte
 
 - Entstehung
   - Gründungsmotivation, eventuell Vorbilder nennen
@@ -55,7 +55,7 @@ tags:
 
 ***
 
-3. Technische Daten
+#### 3. Technische Daten
 
 - Knotenpunkte
 - Verbindungsgeschwindigkeit
@@ -65,7 +65,7 @@ tags:
 
 ***
 
-4. Organisation
+#### 4. Organisation
 
 - Struktur des Vereins
   - Verhältnis zum BMFT
@@ -74,11 +74,11 @@ tags:
 
 ***
 
-5. Eingliederung in Internationale Kooperation
+#### 5. Eingliederung in Internationale Kooperation
 
 ***
 
-6. Dienste
+#### 6. Dienste
 
 - Kurzportraits aktueller Dienste, z.B.:
   - DFNconf
@@ -87,4 +87,4 @@ tags:
 
 ***
 
-7. Quellen
+#### 7. Quellen

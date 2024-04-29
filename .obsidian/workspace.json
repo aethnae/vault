@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1e469e2634b90260",
+        "id": "05bbdb68dbc91634",
         "type": "tabs",
         "children": [
           {
-            "id": "dda6fcdeff75edef",
+            "id": "753e79782784743f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -132,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "dfn/Wikipedia-Artikel/Struktur.md"
+              }
             }
           },
           {
@@ -171,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "dfn/Wikipedia-Artikel/Struktur.md"
+              }
             }
           }
         ],
@@ -188,6 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -211,6 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,8 +249,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "dda6fcdeff75edef",
+  "active": "753e79782784743f",
   "lastOpenFiles": [
+    "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
+    "dfn/Wikipedia-Artikel/Struktur.md",
     "university (HU)/Mikroökonomie I/Mikroökonomie I.md",
     "files/Snippets.md",
     "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen/Binomischer Lehrsatz.md",
@@ -267,8 +279,6 @@
     "university (HU)/Mathematik I/Mathematik I.md",
     "university (HU)/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Mengen.md",
     "university (HU)/Mathematik I/Konzepte/Vorkurs/Funktionen/Exponentialfunktionen.md",
-    "university (HU)/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Tangentialebenen.md",
-    "university (HU)/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Satz von Schwarz.md",
     "university (TU)/Analysis I/Definitionen",
     "university (TU)/Lineare Algebra I/Definitionen",
     "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Aussagenlogik und Beweise",
