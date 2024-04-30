@@ -18,8 +18,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "5d5f3b5e61c46c80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Kontraposition.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3da3c19b3c004c69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Kontraposition.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md"
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Kontraposition.md"
               }
             }
           },
@@ -178,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md"
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Kontraposition.md"
               }
             }
           }
@@ -196,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Kontraposition.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Kontraposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,10 +274,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "753e79782784743f",
+  "active": "5d5f3b5e61c46c80",
   "lastOpenFiles": [
-    "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
+    "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
+    "university (TU)/Vorkurs/Beweise/Beweis per Kontraposition.md",
+    "dfn/Wikipedia-Artikel/kontr.md",
     "dfn/Wikipedia-Artikel/Struktur.md",
+    "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
     "university (HU)/Mikroökonomie I/Mikroökonomie I.md",
     "files/Snippets.md",
     "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen/Binomischer Lehrsatz.md",
@@ -276,9 +304,6 @@
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Fermat-Gleichung.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Potenzen.md",
     "university (TU)/Vorkurs/Abbildungen und Funktionen/Abbildungen.md",
-    "university (HU)/Mathematik I/Mathematik I.md",
-    "university (HU)/Mathematik I/Konzepte/Vorkurs/Mengen, Zahlen & Rechenregeln/Mengen.md",
-    "university (HU)/Mathematik I/Konzepte/Vorkurs/Funktionen/Exponentialfunktionen.md",
     "university (TU)/Analysis I/Definitionen",
     "university (TU)/Lineare Algebra I/Definitionen",
     "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Aussagenlogik und Beweise",
