@@ -26,5 +26,6 @@
   "templater-obsidian",
   "omnisearch",
   "waypoint",
-  "obsidian-discordrpc"
+  "obsidian-discordrpc",
+  "obsidian-pandoc"
 ]

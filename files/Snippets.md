@@ -289,7 +289,7 @@
     {trigger: "lright", replacement: "\\longrightarrow", options: "mA"},
     {trigger: "left", replacement: "\\leftarrow", options: "mA"},
     {trigger: "lleft", replacement: "\\longleftarrow", options: "mA"},
-    {trigger: "lra", replacement: "\\Leftrightarrow", options: "mA"},
+    {trigger: "lra", replacement: "\\Longleftrightarrow", options: "mA"},
     {trigger: "(nna|uua)", replacement: "\\uparrow", options: "mAr"},
     {trigger: "nea", replacement: "\\nearrow", options: "mA"},
     {trigger: "(eea|rra)", replacement: "\\rightarrow", options: "mAr"},
