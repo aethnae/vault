@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b4a1fb86617387c0",
+        "id": "b6d1a2b8c2a68f92",
         "type": "tabs",
         "children": [
           {
-            "id": "75f210ed298b5cdb",
+            "id": "cf2872151c71a8de",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -239,7 +239,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "75f210ed298b5cdb",
+  "active": "cf2872151c71a8de",
   "lastOpenFiles": [
     "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
     "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
