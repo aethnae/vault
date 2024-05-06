@@ -11,8 +11,12 @@
             "id": "a7dd8bc49a8b45b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dfn/Social Media/LinkedIn.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "dfn/Social Media/LinkedIn.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -132,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "dfn/Social Media/LinkedIn.md"
+              }
             }
           },
           {
@@ -171,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "dfn/Social Media/LinkedIn.md"
+              }
             }
           }
         ],
@@ -188,6 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dfn/Social Media/LinkedIn.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -211,6 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "dfn/Social Media/LinkedIn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,6 +251,10 @@
   },
   "active": "a7dd8bc49a8b45b1",
   "lastOpenFiles": [
+    "files/CleanShot 2024-05-06 at 12.41.15.jpg",
+    "files/CleanShot 2024-05-06 at 12.32.48.jpg",
+    "dfn/Social Media/Marktuntersuchung \"Social-Media-Plattformen\".md",
+    "dfn/Social Media/LinkedIn.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
     "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
     "files/Snippets.md",
@@ -266,9 +280,6 @@
     "university (TU)/Vorkurs/Teilbarkeit.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Wurzeln.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Ordnung von reellen Zahlen.md",
-    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Gleichungen.md",
-    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Betrag von reellen Zahlen.md",
-    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Fermat-Gleichung.md",
     "university (TU)/Analysis I/Definitionen",
     "university (TU)/Lineare Algebra I/Definitionen",
     "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Aussagenlogik und Beweise",
@@ -286,7 +297,6 @@
     "files/Pasted image 20240201173224.png",
     "files/Pasted image 20240124174249.png",
     "files/Pasted image 20240123233440.png",
-    "files/Pasted image 20240123233007.png",
     "Untitled.canvas",
     "school/Geschichte/National Socialism/The Potsdam Conference.canvas",
     "school/Geschichte/Germany after WW2/Strukturlegetechnik.canvas",
