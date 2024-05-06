@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f569a803a4bf61f5",
+        "id": "63f5e54365b38b80",
         "type": "tabs",
         "children": [
           {
-            "id": "578187a732bae4d4",
+            "id": "c7b290c64fe617f5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -238,7 +238,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "578187a732bae4d4",
+  "active": "c7b290c64fe617f5",
   "lastOpenFiles": [
     "dfn/Social Media/LinkedIn.md",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",
