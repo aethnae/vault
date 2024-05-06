@@ -12,3 +12,4 @@ Die Seite "Deutsches Forschungsnetz" ist, wie in [diesem](https://www.linkedin.c
 Beide Listenseiten können allerdings noch in Unternehmensseiten umgewandelt werden, hier z.B. der Button auf der Seite "DFN-Verein":
 
 ![[CleanShot 2024-05-06 at 12.41.15.jpg|center|350]]
+
