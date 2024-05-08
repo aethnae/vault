@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7b290c64fe617f5",
+            "id": "09f3d46460f37f02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -170,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           }
         ],
@@ -187,6 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -210,6 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,15 +249,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "c7b290c64fe617f5",
+  "active": "09f3d46460f37f02",
   "lastOpenFiles": [
+    "Untitled.md",
+    "files/Snippets.md",
     "dfn/Social Media/LinkedIn.md",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",
     "files/CleanShot 2024-05-06 at 12.32.48.jpg",
     "dfn/Social Media/Marktuntersuchung \"Social-Media-Plattformen\".md",
     "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
     "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
-    "files/Snippets.md",
     "university (HU)/Mathematik I/LaTeX Snippets.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
     "dfn/Wikipedia-Artikel/Struktur.md",
