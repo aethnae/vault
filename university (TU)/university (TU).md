@@ -16,6 +16,7 @@
 			- [[Wie lesen wir Aussagen?]]
 	- **Übungsblätter**
 		- [[1. Hausaufgabenblatt]]
+		- [[2. Hausaufgabenblatt]]
 - [[university (TU)]]
 - **Vorkurs**
 	- **Abbildungen und Funktionen**
