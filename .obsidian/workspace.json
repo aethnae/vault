@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "63f5e54365b38b80",
+        "id": "4759f5c6eac6d956",
         "type": "tabs",
         "children": [
           {
-            "id": "09f3d46460f37f02",
+            "id": "fa18c1d12ac3ac22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -196,7 +187,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +210,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,10 +238,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "09f3d46460f37f02",
+  "active": "fa18c1d12ac3ac22",
   "lastOpenFiles": [
-    "Untitled.md",
+    "university (TU)/Analysis I/Definitionen/Induktive Mengen.md",
+    "university (TU)/Analysis I/Definitionen/Vollständigkeitsaxiome.md",
     "files/Snippets.md",
+    "university (TU)/Analysis I/Definitionen/Natürliche Zahlen.md",
+    "Untitled.md",
     "dfn/Social Media/LinkedIn.md",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",
     "files/CleanShot 2024-05-06 at 12.32.48.jpg",
@@ -278,9 +270,6 @@
     "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
     "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Summen- und Produktzeichen.md",
-    "university (TU)/Vorkurs/Teilbarkeit.md",
-    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Wurzeln.md",
-    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Ordnung von reellen Zahlen.md",
     "university (TU)/Analysis I/Definitionen",
     "university (TU)/Lineare Algebra I/Definitionen",
     "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Aussagenlogik und Beweise",

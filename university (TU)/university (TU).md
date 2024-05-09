@@ -5,6 +5,9 @@
 	- **Definitionen**
 		- **1. Axiomatik der reellen Zahlen**
 			- [[Binomischer Lehrsatz]]
+		- [[Induktive Mengen]]
+		- [[Natürliche Zahlen]]
+		- [[Vollständigkeitsaxiome]]
 	- **Übungsblätter**
 		- [[Hausaufgabenblatt 0]]
 - **Lineare Algebra I**
