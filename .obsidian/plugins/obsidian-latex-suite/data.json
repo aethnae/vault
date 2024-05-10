@@ -8,7 +8,7 @@
   "loadSnippetVariablesFromFile": false,
   "snippetsFileLocation": "files/Snippets.md",
   "snippetVariablesFileLocation": "",
-  "concealEnabled": true,
+  "concealEnabled": false,
   "colorPairedBracketsEnabled": true,
   "highlightCursorBracketsEnabled": true,
   "mathPreviewEnabled": true,

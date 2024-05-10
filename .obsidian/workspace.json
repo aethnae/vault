@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4759f5c6eac6d956",
+        "id": "58d6aec95396d8d3",
         "type": "tabs",
         "children": [
           {
-            "id": "fff6f56b5416fa86",
+            "id": "e75fc3c1b727df4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "files/Snippets.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "47d1e4f321e267dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/2. Hausaufgabenblatt.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/2. Hausaufgabenblatt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -150,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/2. Hausaufgabenblatt.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/2. Hausaufgabenblatt.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -210,7 +187,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/2. Hausaufgabenblatt.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -234,7 +210,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/2. Hausaufgabenblatt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +238,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "47d1e4f321e267dc",
+  "active": "e75fc3c1b727df4b",
   "lastOpenFiles": [
     "files/Snippets.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/2. Hausaufgabenblatt.md",
