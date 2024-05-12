@@ -188,3 +188,5 @@ $R_{3}$ erfüllt bis auf die fehlende Transitivität alle Bedingungen für eine 
 <br> 
 
 $R_{4}$ ist eine Äquivalenzrelation $\ldots$
+
+
