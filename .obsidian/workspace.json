@@ -11,8 +11,12 @@
             "id": "6bb2f2484388cf51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md"
+              }
             }
           },
           {
@@ -170,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md"
+              }
             }
           }
         ],
@@ -187,6 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -210,6 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,8 +248,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "e041748da01c05af",
+  "active": "6bb2f2484388cf51",
   "lastOpenFiles": [
+    "university (TU)/university (TU).md",
+    "Hakjsdfhksdhfg.md",
     "school/Latein/Martial - Epigramme.md",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
     "university (HU)/Mathematik I/Mathematik I.md",
@@ -246,7 +259,6 @@
     "university (HU)/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md",
     "university (HU)/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Reihen.md",
     "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
-    "Hakjsdfhksdhfg.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/2. Hausaufgabenblatt.md",
     "dfn/Wikipedia-Artikel/Dummy Wikipedia-Artikel.md",
     "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
