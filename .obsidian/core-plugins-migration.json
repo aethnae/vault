@@ -18,7 +18,7 @@
   "zk-prefixer": false,
   "random-note": true,
   "outline": true,
-  "word-count": false,
+  "word-count": true,
   "slides": true,
   "audio-recorder": false,
   "workspaces": true,

@@ -242,7 +242,6 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "audio-recorder:Start/stop recording": true,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true
