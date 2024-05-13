@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Wie lesen wir Aussagen?.md",
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
                 "mode": "preview",
                 "source": true
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Wie lesen wir Aussagen?.md",
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -137,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Wie lesen wir Aussagen?.md"
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md"
               }
             }
           },
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Wie lesen wir Aussagen?.md"
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md"
               }
             }
           }
@@ -196,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Wie lesen wir Aussagen?.md",
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Wie lesen wir Aussagen?.md",
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,6 +251,7 @@
   },
   "active": "513a8793c82a5e84",
   "lastOpenFiles": [
+    "university (TU)/Lineare Algebra I/Definitionen/Wie lesen wir Aussagen?.md",
     "university (TU)/university (TU).md",
     "university (TU)/Vorkurs/Abbildungen und Funktionen/Eigenschaften reeller Funktionen.md",
     "dfn/Wikipedia-Artikel/Struktur.md",
@@ -278,7 +280,6 @@
     "university (HU)/Mathematik I/LaTeX Snippets.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Kontraposition.md",
-    "dfn/Wikipedia-Artikel/kontr.md",
     "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen",
     "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe",
     "university (TU)/Analysis I/Definitionen",

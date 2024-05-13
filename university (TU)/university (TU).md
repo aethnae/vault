@@ -3,8 +3,7 @@
 %% Begin Waypoint %%
 - **Analysis I**
 	- **Definitionen**
-		- **1. Axiomatik der reellen Zahlen**
-			- [[Binomischer Lehrsatz]]
+		- [[Binomischer Lehrsatz]]
 		- [[Induktive Mengen]]
 		- [[Natürliche Zahlen]]
 		- [[Vollständigkeitsaxiome]]
@@ -12,8 +11,7 @@
 		- [[Hausaufgabenblatt 0]]
 - **Lineare Algebra I**
 	- **Definitionen**
-		- **1. Mathematische Grundbegriffe**
-			- [[Wie lesen wir Aussagen?]]
+		- [[Wie lesen wir Aussagen?]]
 	- **Übungsblätter**
 		- [[1. Hausaufgabenblatt]]
 		- [[2. Hausaufgabenblatt]]
