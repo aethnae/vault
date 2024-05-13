@@ -17,14 +17,9 @@ justifications:
 > <% tp.file.cursor(3) %>
 
 ***
-#### Eigenschaften
-
-- <% tp.file.cursor(4) %>
-
-***
 #### Beispiele
 
-> [!exm|*] <% tp.file.cursor(5) %> 
-> <% tp.file.cursor(6) %>
+> [!exm|*] <% tp.file.cursor(4) %> 
+> <% tp.file.cursor(5) %>
 
 ***

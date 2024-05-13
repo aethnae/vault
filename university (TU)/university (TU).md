@@ -4,9 +4,8 @@
 - **Analysis I**
 	- **Definitionen**
 		- [[Binomischer Lehrsatz]]
-		- [[Induktive Mengen]]
-		- [[Natürliche Zahlen]]
-		- [[Vollständigkeitsaxiome]]
+		- **Körperaxiome**
+			- [[Axiome der Addition in den reellen Zahlen]]
 	- **Übungsblätter**
 		- [[Hausaufgabenblatt 0]]
 - **Lineare Algebra I**

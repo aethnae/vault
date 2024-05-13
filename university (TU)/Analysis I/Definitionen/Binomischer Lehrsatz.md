@@ -46,7 +46,6 @@ $$
 \end{align}
 $$
 `\end{proof}`
-***
 
 
 

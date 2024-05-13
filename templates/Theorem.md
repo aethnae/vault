@@ -11,11 +11,12 @@ justifications:
 ***
 #### Theorem
 
-> [!theorem|*] <% tp.file.cursor(2) %>
+> [!theorem] <% tp.file.cursor(2) %>
 > <% tp.file.cursor(3) %>
 
 ***
 #### Beweis
 
 <% tp.file.cursor(4) %>
+
 ***

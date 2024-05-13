@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "afcfeff87539a3ba",
+        "id": "40da6bdd34ca6ae2",
         "type": "tabs",
         "children": [
           {
-            "id": "513a8793c82a5e84",
+            "id": "330ba405faffc7f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
-                "mode": "preview",
+                "file": "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "genau dann wenn",
+                "query": "path:university [\"flashcard\":] false",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
+                "file": "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -138,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md"
+                "file": "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md"
               }
             }
           },
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md"
+                "file": "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md"
               }
             }
           }
@@ -197,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
+                "file": "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -221,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
+                "file": "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,8 +248,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "513a8793c82a5e84",
+  "active": "330ba405faffc7f8",
   "lastOpenFiles": [
+    "templates/Generic Article.md",
+    "templates/Definition.md",
+    "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md",
+    "templates/Theorem.md",
+    "templates/Proposition.md",
+    "university (TU)/Analysis I/Definitionen/Binomischer Lehrsatz.md",
+    "university (TU)/Analysis I/Definitionen/Körperaxiome",
+    "university (TU)/Analysis I/Definitionen/Vollständigkeitsaxiome.md",
+    "university (TU)/Analysis I/Definitionen/Natürliche Zahlen.md",
+    "university (TU)/Analysis I/Definitionen/Induktive Mengen.md",
+    "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
     "university (TU)/Lineare Algebra I/Definitionen/Wie lesen wir Aussagen?.md",
     "university (TU)/university (TU).md",
     "university (TU)/Vorkurs/Abbildungen und Funktionen/Eigenschaften reeller Funktionen.md",
@@ -268,18 +278,8 @@
     "university (HU)/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Reihen.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/2. Hausaufgabenblatt.md",
     "dfn/Wikipedia-Artikel/Netze/Deutsches Wissenschaftsnetz.md",
-    "files/Snippets.md",
-    "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
-    "university (TU)/Analysis I/Definitionen/Induktive Mengen.md",
-    "university (TU)/Analysis I/Definitionen/Vollständigkeitsaxiome.md",
-    "university (TU)/Analysis I/Definitionen/Natürliche Zahlen.md",
-    "dfn/Social Media/LinkedIn.md",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",
     "files/CleanShot 2024-05-06 at 12.32.48.jpg",
-    "dfn/Social Media/Marktuntersuchung \"Social-Media-Plattformen\".md",
-    "university (HU)/Mathematik I/LaTeX Snippets.md",
-    "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
-    "university (TU)/Vorkurs/Beweise/Beweis per Kontraposition.md",
     "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen",
     "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe",
     "university (TU)/Analysis I/Definitionen",
@@ -292,7 +292,6 @@
     "files/Pasted image 20240415180142.png",
     "university (TU)/Vorkurs/Abbildungen und Funktionen",
     "university (TU)/Vorkurs/Beweise",
-    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen",
     "files/Pasted image 20240201190426.png",
     "files/Pasted image 20240201185224.png",
     "files/Pasted image 20240201182229.png",
