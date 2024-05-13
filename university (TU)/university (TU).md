@@ -21,7 +21,6 @@
 - **Vorkurs**
 	- **Abbildungen und Funktionen**
 		- [[Abbildungen]]
-		- [[Eigenschaften reeller Funktionen]]
 	- **Aussagenlogik**
 		- [[Aussagen]]
 		- [[Junktoren]]
