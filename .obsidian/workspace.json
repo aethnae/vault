@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5247131ed0264d0c",
+        "id": "93e350db1bebd4ed",
         "type": "tabs",
         "children": [
           {
-            "id": "797aa1beb6e3a05c",
+            "id": "1e0be0f2872400ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md"
+              }
             }
           },
           {
@@ -170,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md"
+              }
             }
           }
         ],
@@ -187,6 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -210,6 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,8 +248,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "797aa1beb6e3a05c",
+  "active": "1e0be0f2872400ab",
   "lastOpenFiles": [
+    "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md",
     "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
     "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md",
     "university (TU)/Analysis I/Definitionen/Binomischer Lehrsatz.md",
@@ -266,7 +278,6 @@
     "university (HU)/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md",
     "university (HU)/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Reihen.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/2. Hausaufgabenblatt.md",
-    "dfn/Wikipedia-Artikel/Netze/Deutsches Wissenschaftsnetz.md",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",
     "files/CleanShot 2024-05-06 at 12.32.48.jpg",
     "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen",
