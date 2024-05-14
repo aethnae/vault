@@ -18,5 +18,7 @@
   "propertiesInDocument": "visible",
   "defaultViewMode": "preview",
   "vimMode": true,
-  "showIndentGuide": true
+  "showIndentGuide": true,
+  "showInlineTitle": false,
+  "readableLineLength": true
 }

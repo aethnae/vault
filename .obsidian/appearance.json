@@ -1,7 +1,7 @@
 {
-  "accentColor": "#f29d26",
+  "accentColor": "#56b6c2",
   "theme": "moonstone",
-  "cssTheme": "Typomagical",
+  "cssTheme": "Minimal",
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "center",
@@ -10,5 +10,7 @@
   "translucency": false,
   "baseFontSizeAction": false,
   "textFontFamily": "",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "FiraCode Nerd Font",
+  "showViewHeader": true,
+  "nativeMenus": true
 }

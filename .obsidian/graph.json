@@ -2,10 +2,10 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"university (TU)\"  ",
@@ -78,16 +78,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -0.1,
-  "nodeSizeMultiplier": 0.93560791015625,
-  "lineSizeMultiplier": 2.14485677083333,
-  "collapse-forces": true,
-  "centerStrength": 0.361519286157932,
-  "repelStrength": 15.33,
-  "linkStrength": 0.12,
-  "linkDistance": 94,
-  "scale": 0.05372560556587861,
+  "nodeSizeMultiplier": 1.39677734375,
+  "lineSizeMultiplier": 0.996419270833333,
+  "collapse-forces": false,
+  "centerStrength": 0.425048828125,
+  "repelStrength": 16.4827473958333,
+  "linkStrength": 0.563232421875,
+  "linkDistance": 354,
+  "scale": 0.06429429611732117,
   "close": true
 }

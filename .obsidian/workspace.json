@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "40da6bdd34ca6ae2",
+        "id": "5247131ed0264d0c",
         "type": "tabs",
         "children": [
           {
-            "id": "330ba405faffc7f8",
+            "id": "797aa1beb6e3a05c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -196,7 +187,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +210,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,14 +237,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "330ba405faffc7f8",
+  "active": "797aa1beb6e3a05c",
   "lastOpenFiles": [
+    "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
+    "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md",
+    "university (TU)/Analysis I/Definitionen/Binomischer Lehrsatz.md",
     "templates/Generic Article.md",
     "templates/Definition.md",
-    "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md",
     "templates/Theorem.md",
     "templates/Proposition.md",
-    "university (TU)/Analysis I/Definitionen/Binomischer Lehrsatz.md",
     "university (TU)/Analysis I/Definitionen/Körperaxiome",
     "university (TU)/Analysis I/Definitionen/Vollständigkeitsaxiome.md",
     "university (TU)/Analysis I/Definitionen/Natürliche Zahlen.md",
@@ -269,7 +259,6 @@
     "dfn/Wikipedia-Artikel/Dummy Wikipedia-Artikel.md",
     "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
     "university (HU)/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/5. Handelsgeschäftslehre & Handelskauf/Sonstige Sonderregeln der Handelsgeschäftslehre.md",
-    "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
     "school/Latein/Martial - Epigramme.md",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
     "university (HU)/Mathematik I/Mathematik I.md",
