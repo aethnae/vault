@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -250,8 +249,9 @@
   },
   "active": "aeb9b632a9cd8370",
   "lastOpenFiles": [
-    "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
     "files/Snippets.md",
+    "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
+    "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/2. Hausaufgabenblatt.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
     "computer science/Vim/Useful Keymaps.md",
@@ -259,7 +259,6 @@
     "university (TU)/Analysis I/Definitionen/Binomischer Lehrsatz.md",
     "university (HU)/Mathematik I/Mathematik I.md",
     "university (HU)/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Kurvendiskussion - Übersicht.md",
-    "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
     "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md",
     "templates/Generic Article.md",
     "templates/Definition.md",
