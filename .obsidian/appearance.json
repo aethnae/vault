@@ -10,7 +10,7 @@
   "translucency": false,
   "baseFontSizeAction": false,
   "textFontFamily": "",
-  "interfaceFontFamily": "CMU Sans Serif",
+  "interfaceFontFamily": "FiraCode Nerd Font",
   "showViewHeader": true,
   "nativeMenus": true
 }

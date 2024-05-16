@@ -11,8 +11,12 @@
             "id": "aeb9b632a9cd8370",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md"
+              }
             }
           },
           {
@@ -153,6 +160,28 @@
                 "useHierarchy": false
               }
             }
+          },
+          {
+            "id": "939007637d30f63c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "d00663a2573a3fe9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md"
+              }
+            }
           }
         ]
       },
@@ -167,6 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -190,6 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
