@@ -11,8 +11,12 @@
             "id": "e7759eb2d0107be8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md"
+              }
             }
           },
           {
@@ -170,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md"
+              }
             }
           }
         ]
@@ -186,6 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -209,6 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,6 +249,7 @@
   },
   "active": "e7759eb2d0107be8",
   "lastOpenFiles": [
+    "university (TU)/Vorkurs/Beweise/Beweis per Äquivalenz.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
     "files/Snippets.md",
     "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
@@ -264,7 +276,6 @@
     "dfn/Wikipedia-Artikel/Struktur.md",
     "Hakjsdfhksdhfg.md",
     "dfn/Wikipedia-Artikel/Dummy Wikipedia-Artikel.md",
-    "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",
     "files/CleanShot 2024-05-06 at 12.32.48.jpg",
