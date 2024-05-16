@@ -10,8 +10,6 @@ source: :Tutor
 aliases:
   - Hotkeys
   - Keymaps
-date created: Saturday, February 24th 2024, 2:40:11 am
-date modified: Saturday, February 24th 2024, 2:40:23 am
 ---
 ***
 

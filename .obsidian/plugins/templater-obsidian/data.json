@@ -22,7 +22,9 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "templates/Definition.md"
+    "templates/Generic Article.md",
+    "templates/Definition.md",
+    "templates/Theorem.md"
   ],
   "startup_templates": [
     ""

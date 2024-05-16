@@ -1,6 +1,6 @@
 ---
 tags:
-- Menge
+  - mengen
 flashcard: false
 source: 
 date created: 
@@ -73,11 +73,9 @@ $$
 \lvert b_{n+1} - a_{n+1} \rvert \leq \frac{1}{2} \lvert b_{n} - a_{n} \rvert \leq \ldots \leq \frac{1}{2} \lvert b_{0} - a_{0} \rvert 
 $$
 
-
-
 `\end{proof}`
 
-
+<br> 
 
 > [!definition] Beschränkte Menge
 > Eine Menge $M \subseteq \mathbb{R}$ heißt *beschränkt*, genau dann wenn $M$ nach oben und unten beschränkt ist, d.h.

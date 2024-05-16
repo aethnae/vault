@@ -310,7 +310,9 @@
                 "state": {
                   "type": "all-properties",
                   "state": {
-                    "sortOrder": "frequency"
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
                   }
                 }
               },
@@ -339,18 +341,13 @@
           "templates:Insert template": false,
           "command-palette:Open command palette": false,
           "table-editor-obsidian:Advanced Tables Toolbar": false,
-          "audio-recorder:Start/stop recording": false,
           "markdown-importer:Open format converter": false,
           "random-note:Open random note": false,
-          "darlal-switcher-plus:Open in Headings Mode": false,
-          "darlal-switcher-plus:Open Symbols for the active editor": false,
           "workspaces:Manage workspace layouts": false
         }
       },
       "active": "e041748da01c05af",
-      "workspaces-plus:settings-v1": {
-        "explorerFoldState": []
-      }
+      "mtime": "2024-05-16T09:17:34+02:00"
     },
     "work": {
       "main": {

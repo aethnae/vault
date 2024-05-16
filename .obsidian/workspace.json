@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9bf7ec07b5d9353a",
+        "id": "b9f7ece7306a1eea",
         "type": "tabs",
         "children": [
           {
-            "id": "3b8fdba5cef1aa4d",
+            "id": "aeb9b632a9cd8370",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -45,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:university [\"flashcard\":] false",
+                "query": "tag:#funktionen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,11 +93,11 @@
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.361519286157932,
-                  "repelStrength": 15.33,
-                  "linkStrength": 0.12,
-                  "linkDistance": 94,
-                  "scale": 0.08374466791299846,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.2588163975134512,
                   "close": true
                 }
               }
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -135,6 +136,14 @@
             }
           },
           {
+            "id": "2bc7e7fde2471314",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {}
+            }
+          },
+          {
             "id": "d66306a0e6d4bed9",
             "type": "leaf",
             "state": {
@@ -144,37 +153,8 @@
                 "useHierarchy": false
               }
             }
-          },
-          {
-            "id": "f4ee3ad3cfbe863a",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "4a15adaff5e02071",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "12850e7b83c5d951",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "ac8e2c4e1d0a0efb",
@@ -224,25 +204,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "switcher:Open quick switcher": true,
-      "canvas:Create new canvas": true,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b8fdba5cef1aa4d",
+  "active": "aeb9b632a9cd8370",
   "lastOpenFiles": [
+    "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
+    "files/Snippets.md",
+    "university (TU)/Lineare Algebra I/Übungsblätter/2. Hausaufgabenblatt.md",
+    "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
+    "computer science/Vim/Useful Keymaps.md",
     "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md",
+    "university (TU)/Analysis I/Definitionen/Binomischer Lehrsatz.md",
+    "university (HU)/Mathematik I/Mathematik I.md",
+    "university (HU)/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Kurvendiskussion - Übersicht.md",
     "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
     "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md",
-    "university (TU)/Analysis I/Definitionen/Binomischer Lehrsatz.md",
     "templates/Generic Article.md",
     "templates/Definition.md",
     "templates/Theorem.md",
@@ -259,14 +246,7 @@
     "Hakjsdfhksdhfg.md",
     "dfn/Wikipedia-Artikel/Dummy Wikipedia-Artikel.md",
     "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
-    "university (HU)/Handels- und Gesellschaftsrecht/Konzepte/Handelsrecht/5. Handelsgeschäftslehre & Handelskauf/Sonstige Sonderregeln der Handelsgeschäftslehre.md",
-    "school/Latein/Martial - Epigramme.md",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
-    "university (HU)/Mathematik I/Mathematik I.md",
-    "university (HU)/Mathematik I/Konzepte/Abschnitt 6 - Funktionen mit mehreren Variablen/Satz von Schwarz.md",
-    "university (HU)/Mathematik I/Konzepte/Abschnitt 7 - Vektorrechnung/Gradienten.md",
-    "university (HU)/Mathematik I/Konzepte/Abschnitt 1 - Folgen & Reihen/Reihen/Reihen.md",
-    "university (TU)/Lineare Algebra I/Übungsblätter/2. Hausaufgabenblatt.md",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",
     "files/CleanShot 2024-05-06 at 12.32.48.jpg",
     "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen",
