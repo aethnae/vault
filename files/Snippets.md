@@ -44,6 +44,7 @@
     {trigger: "ome", replacement: "\\omega", options: "mA"},
     {trigger: "@o", replacement: "\\omega", options: "mA"},
     {trigger: "@O", replacement: "\\Omega", options: "mA"},
+    {trigger: "@p", replacement: "\\varphi", options: "mA"},
     {trigger: "([^\\\\])(${GREEK}|${SYMBOL})", replacement: "[[0]]\\[[1]]", options: "rmA", description: "Add backslash before greek letters and symbols"},
 
 
@@ -105,7 +106,7 @@
 
     // Visual operations
 	 {trigger: "U", replacement: "\\underbrace{ ${VISUAL} }_{ $0 }", options: "mA"},
-	 {trigger: "O", replacement: "\\overbrace{ ${VISUAL} }_{ $0 }", options: "mA"},
+	 {trigger: "O", replacement: "\\overbrace{ ${VISUAL} }^{ $0 }", options: "mA"},
     {trigger: "B", replacement: "\\underset{ $0 }{ ${VISUAL} }", options: "mA"},
     {trigger: "C", replacement: "\\cancel{ ${VISUAL} }", options: "mA"},
     {trigger: "K", replacement: "\\cancelto{ $0 }{ ${VISUAL} }", options: "mA"},
