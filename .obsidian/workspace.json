@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4e7c8bd3bf72fed",
+        "id": "5edfdfb329031618",
         "type": "tabs",
         "children": [
           {
-            "id": "569fa28ab1435dff",
+            "id": "85c5aab2db9a3674",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -62,7 +62,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "4cae0943d8942f29",
@@ -237,10 +238,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "569fa28ab1435dff",
+  "active": "85c5aab2db9a3674",
   "lastOpenFiles": [
-    "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md",
     "university (HU)/Mathematik I/Rechengesetze.md",
+    "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md",
     "university (HU)/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Gewährleistung von Verfahrensgerechtigkeit.md",
     "university (HU)/Bürgerliches Recht/Bürgerliches Recht.md",
     "university (HU)/Mikroökonomie I/Mikroökonomie I.md",
