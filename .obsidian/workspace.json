@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5edfdfb329031618",
+        "id": "ce4c79c97b63f22f",
         "type": "tabs",
         "children": [
           {
-            "id": "85c5aab2db9a3674",
+            "id": "9da177489d4bf100",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -66,8 +62,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "4cae0943d8942f29",
@@ -80,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -103,7 +97,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2588163975134512,
+                  "scale": 0.2036125109464325,
                   "close": true
                 }
               }
@@ -113,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -138,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -197,7 +186,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -221,7 +209,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
+    "width": 368.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -249,20 +236,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "85c5aab2db9a3674",
+  "active": "9da177489d4bf100",
   "lastOpenFiles": [
+    "dfn/Wikipedia-Artikel/Struktur.md",
+    "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
+    "university (HU)/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Spickzettel.md",
+    "university (HU)/Externes Rechnungswesen/Externes Rechnungswesen.md",
+    "university (HU)/Mathematik I/LaTeX Snippets.md",
+    "university (HU)/Mikroökonomie I/Mikroökonomie I.md",
+    "misc/Sparplan.md",
+    "university (HU)/Literature Notes/Clio and the Economics of QWERTY.md",
+    "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
     "university (HU)/Mathematik I/Rechengesetze.md",
     "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md",
     "university (HU)/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Gewährleistung von Verfahrensgerechtigkeit.md",
     "university (HU)/Bürgerliches Recht/Bürgerliches Recht.md",
-    "university (HU)/Mikroökonomie I/Mikroökonomie I.md",
     "university (HU)/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
     "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
     "university (HU)/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Regel von L'Hospital.md",
     "university (TU)/Lineare Algebra I/Definitionen/Matrizen.md",
     "files/Snippets.md",
-    "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Äquivalenz.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/2. Hausaufgabenblatt.md",
@@ -270,14 +264,7 @@
     "university (TU)/Analysis I/Definitionen/Binomischer Lehrsatz.md",
     "university (HU)/Mathematik I/Mathematik I.md",
     "university (HU)/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Kurvendiskussion - Übersicht.md",
-    "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md",
-    "templates/Generic Article.md",
-    "templates/Definition.md",
-    "templates/Theorem.md",
-    "templates/Proposition.md",
     "university (TU)/Analysis I/Definitionen/Körperaxiome",
-    "university (TU)/Analysis I/Definitionen/Vollständigkeitsaxiome.md",
-    "university (TU)/Analysis I/Definitionen/Natürliche Zahlen.md",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",
     "files/CleanShot 2024-05-06 at 12.32.48.jpg",
