@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "09a79c6b5a319bcb",
+        "id": "fe4fa78c46844586",
         "type": "tabs",
         "children": [
           {
-            "id": "d2d34e25a29adb5f",
+            "id": "c8653162d12666ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/Kompositionen.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5b2ff3461c27fd3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/Umkehrabbildungen.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/Umkehrabbildungen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/Umkehrabbildungen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/Umkehrabbildungen.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -208,7 +186,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/Umkehrabbildungen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -232,7 +209,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/Umkehrabbildungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +236,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b2ff3461c27fd3a",
+  "active": "c8653162d12666ef",
   "lastOpenFiles": [
     "university (TU)/Lineare Algebra I/Definitionen/Kompositionen.md",
     "university (TU)/Lineare Algebra I/Definitionen/Umkehrabbildungen.md",
