@@ -17,7 +17,8 @@ justifications:
 #### Definition
 
 > [!definition] Reihenfolge der logischen Verknüpfungen
-> Die stärkste Bindung findet durch **Negationen** ($\neg$) statt, darauf folgen "und"-, sowie "oder"-[[Junktoren]] ($\vee \text{ und } \wedge$). Am schwächsten binden **Implikationen** ($\implies$) sowie **Äquivalenzen** ($\Leftrightarrow$). 
+> Die stärkste Bindung findet durch **Negationen** ($\neg$) statt, darauf folgen "und"-, sowie "oder"-[[Junktoren]] ($\vee \text{ und } \wedge$). Am schwächsten binden **Implikationen** ($\implies$) sowie **Äquivalenzen** 
+> ($\Leftrightarrow$). 
 
 ***
 #### Eigenschaften

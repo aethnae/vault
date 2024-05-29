@@ -11,6 +11,8 @@
 		- [[Hausaufgabenblatt 0]]
 - **Lineare Algebra I**
 	- **Definitionen**
+		- [[Kompositionen]]
+		- [[Mächtigkeit von Mengen]]
 		- [[Matrizen]]
 		- [[Wie lesen wir Aussagen?]]
 	- **Übungsblätter**

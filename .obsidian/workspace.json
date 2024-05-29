@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ce4c79c97b63f22f",
+        "id": "09a79c6b5a319bcb",
         "type": "tabs",
         "children": [
           {
-            "id": "9da177489d4bf100",
+            "id": "d2d34e25a29adb5f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -236,8 +236,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9da177489d4bf100",
+  "active": "d2d34e25a29adb5f",
   "lastOpenFiles": [
+    "university (TU)/Lineare Algebra I/Definitionen/Kompositionen.md",
+    "university (TU)/Lineare Algebra I/Definitionen/Wie lesen wir Aussagen?.md",
+    "university (TU)/Lineare Algebra I/Definitionen/Mächtigkeit von Mengen.md",
+    "files/Snippets.md",
+    "university (TU)/Lineare Algebra I/Definitionen/Matrizen.md",
     "dfn/Wikipedia-Artikel/Struktur.md",
     "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
     "university (HU)/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Spickzettel.md",
@@ -255,15 +260,10 @@
     "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
     "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
     "university (HU)/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Regel von L'Hospital.md",
-    "university (TU)/Lineare Algebra I/Definitionen/Matrizen.md",
-    "files/Snippets.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Äquivalenz.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/2. Hausaufgabenblatt.md",
     "computer science/Vim/Useful Keymaps.md",
-    "university (TU)/Analysis I/Definitionen/Binomischer Lehrsatz.md",
-    "university (HU)/Mathematik I/Mathematik I.md",
-    "university (HU)/Mathematik I/Konzepte/Abschnitt 2 - Funktionen mit einer Variablen/Kurvendiskussion - Übersicht.md",
     "university (TU)/Analysis I/Definitionen/Körperaxiome",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",
