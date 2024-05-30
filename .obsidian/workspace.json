@@ -112,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -249,14 +250,15 @@
   },
   "active": "dd7ac3c112ef2d60",
   "lastOpenFiles": [
-    "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
+    "files/Snippets.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/5. Hausaufgabenblatt.md",
+    "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
+    "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
     "sdfdfsg.md",
     "university (TU)/Lineare Algebra I/Definitionen/Kompositionen.md",
     "university (TU)/Lineare Algebra I/Definitionen/Umkehrabbildungen.md",
     "university (TU)/Lineare Algebra I/Definitionen/Wie lesen wir Aussagen?.md",
     "university (TU)/Lineare Algebra I/Definitionen/Mächtigkeit von Mengen.md",
-    "files/Snippets.md",
     "university (TU)/Lineare Algebra I/Definitionen/Matrizen.md",
     "dfn/Wikipedia-Artikel/Struktur.md",
     "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
@@ -271,7 +273,6 @@
     "university (HU)/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Gewährleistung von Verfahrensgerechtigkeit.md",
     "university (HU)/Bürgerliches Recht/Bürgerliches Recht.md",
     "university (HU)/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
-    "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
     "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
     "university (HU)/Mathematik I/Konzepte/Abschnitt 4 - Spezielle Grenzwerte/Regel von L'Hospital.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Kontradiktion.md",

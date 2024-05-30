@@ -10,7 +10,7 @@
   "translucency": false,
   "baseFontSizeAction": false,
   "textFontFamily": "",
-  "interfaceFontFamily": "Minion Pro,CMU Sans Serif",
+  "interfaceFontFamily": "",
   "showViewHeader": true,
   "nativeMenus": true
 }
