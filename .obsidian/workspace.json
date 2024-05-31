@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e5276aaf3eb0f439",
+        "id": "2920f84289d8312d",
         "type": "tabs",
         "children": [
           {
-            "id": "9e93212111bd7772",
+            "id": "30eef07f23015d09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/5. Hausaufgabenblatt.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -66,7 +62,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "4cae0943d8942f29",
@@ -79,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/5. Hausaufgabenblatt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/5. Hausaufgabenblatt.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,9 +172,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/5. Hausaufgabenblatt.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -196,7 +188,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/5. Hausaufgabenblatt.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -220,7 +211,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/5. Hausaufgabenblatt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,8 +238,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e93212111bd7772",
+  "active": "30eef07f23015d09",
   "lastOpenFiles": [
+    "university (HU)/Mathematik I/Rechengesetze.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/5. Hausaufgabenblatt.md",
     "files/Snippets.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
@@ -268,7 +259,6 @@
     "university (HU)/Mikroökonomie I/Mikroökonomie I.md",
     "misc/Sparplan.md",
     "university (HU)/Literature Notes/Clio and the Economics of QWERTY.md",
-    "university (HU)/Mathematik I/Rechengesetze.md",
     "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md",
     "university (HU)/Bürgerliches Recht/Konzepte/2. Privatautonomie & Vertragsgerechtigkeit/Gewährleistung von Verfahrensgerechtigkeit.md",
     "university (HU)/Bürgerliches Recht/Bürgerliches Recht.md",
