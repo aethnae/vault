@@ -5,8 +5,7 @@
 	- **Definitionen**
 		- [[Beschränkte Menge]]
 		- [[Binomischer Lehrsatz]]
-		- **Körperaxiome**
-			- [[Axiome der Addition in den reellen Zahlen]]
+		- [[Kleiner Satz von Gauß]]
 	- **Übungsblätter**
 		- [[Hausaufgabenblatt 0]]
 - **Lineare Algebra I**
