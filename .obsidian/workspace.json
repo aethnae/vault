@@ -11,8 +11,12 @@
             "id": "f24943d5b15b34fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university (HU)/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -76,6 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university (HU)/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university (HU)/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md"
+              }
             }
           },
           {
@@ -171,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university (HU)/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md"
+              }
             }
           }
         ]
@@ -187,6 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university (HU)/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -210,6 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university (HU)/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,6 +249,10 @@
   },
   "active": "f24943d5b15b34fd",
   "lastOpenFiles": [
+    "university (HU)/Mikroökonomie I/Mikroökonomie I.md",
+    "university (HU)/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Marktnachfrage.md",
+    "university (HU)/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Schwaches Axiom der Bekundeten Präferenzen.md",
+    "dsf.md",
     "university (HU)/Mathematik I/Rechengesetze.md",
     "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md",
     "university (TU)/Analysis I/Definitionen/Binomischer Lehrsatz.md",
@@ -260,10 +275,6 @@
     "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
     "university (HU)/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Spickzettel.md",
     "university (HU)/Externes Rechnungswesen/Externes Rechnungswesen.md",
-    "university (HU)/Mathematik I/LaTeX Snippets.md",
-    "university (HU)/Mikroökonomie I/Mikroökonomie I.md",
-    "misc/Sparplan.md",
-    "university (HU)/Literature Notes/Clio and the Economics of QWERTY.md",
     "university (TU)/Analysis I/Definitionen/Körperaxiome",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",
