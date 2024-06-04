@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3d6bcc099537f918",
+        "id": "3559f2fe272d1571",
         "type": "tabs",
         "children": [
           {
-            "id": "6f09e68ab3095fb3",
+            "id": "f24943d5b15b34fd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -62,7 +62,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "4cae0943d8942f29",
@@ -235,8 +236,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f09e68ab3095fb3",
+  "active": "f24943d5b15b34fd",
   "lastOpenFiles": [
+    "university (HU)/Mathematik I/Rechengesetze.md",
     "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md",
     "university (TU)/Analysis I/Definitionen/Binomischer Lehrsatz.md",
     "university (TU)/university (TU).md",
@@ -246,7 +248,6 @@
     "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/5. Hausaufgabenblatt.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/Untitled.md",
-    "university (HU)/Mathematik I/Rechengesetze.md",
     "files/Snippets.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
