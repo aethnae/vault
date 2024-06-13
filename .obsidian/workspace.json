@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87982fd6c2a554f7",
+        "id": "f580985f856a9a08",
         "type": "tabs",
         "children": [
           {
-            "id": "81dd53361bffc576",
+            "id": "4fd2e80f91569fad",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -172,8 +172,17 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "c0af12df58ff49ac",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "ac8e2c4e1d0a0efb",
@@ -235,7 +244,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81dd53361bffc576",
+  "active": "4fd2e80f91569fad",
   "lastOpenFiles": [
     "files/Snippets.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/7. Hausaufgabenblatt.md",
