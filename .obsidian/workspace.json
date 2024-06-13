@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b949ad3fee6626d8",
+        "id": "9964ebfe40f0f509",
         "type": "tabs",
         "children": [
           {
-            "id": "f56f3c8d57b824c3",
+            "id": "87153a5f510beb52",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -246,11 +246,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f56f3c8d57b824c3",
+  "active": "87153a5f510beb52",
   "lastOpenFiles": [
-    "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/7. Hausaufgabenblatt.md",
+    "files/Snippets.md",
+    "university (HU)/Mathematik I/LaTeX Snippets.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/5. Hausaufgabenblatt.md",
+    "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
     "university (HU)/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
     "university (HU)/Mikroökonomie I/Mikroökonomie I.md",
     "university (HU)/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Marktnachfrage.md",
@@ -264,7 +266,6 @@
     "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
     "university (TU)/Analysis I/Definitionen/Kleiner Satz von Gauß.md",
     "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md",
-    "files/Snippets.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
     "university (TU)/Lineare Algebra I/Definitionen/Kompositionen.md",
     "university (TU)/Lineare Algebra I/Definitionen/Umkehrabbildungen.md",
@@ -273,7 +274,6 @@
     "university (TU)/Lineare Algebra I/Definitionen/Matrizen.md",
     "dfn/Wikipedia-Artikel/Struktur.md",
     "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
-    "university (HU)/Externes Rechnungswesen/Konzepte/Aktiva & Passiva/Spickzettel.md",
     "university (TU)/Analysis I/Definitionen/Körperaxiome",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",
