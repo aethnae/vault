@@ -11,8 +11,12 @@
             "id": "f56f3c8d57b824c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/7. Hausaufgabenblatt.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -62,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "4cae0943d8942f29",
@@ -76,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/7. Hausaufgabenblatt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/7. Hausaufgabenblatt.md"
+              }
             }
           },
           {
@@ -171,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/7. Hausaufgabenblatt.md"
+              }
             }
           }
         ]
@@ -187,6 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/7. Hausaufgabenblatt.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -210,6 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/7. Hausaufgabenblatt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,6 +248,9 @@
   },
   "active": "f56f3c8d57b824c3",
   "lastOpenFiles": [
+    "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
+    "university (TU)/Lineare Algebra I/Übungsblätter/7. Hausaufgabenblatt.md",
+    "university (TU)/Lineare Algebra I/Übungsblätter/5. Hausaufgabenblatt.md",
     "university (HU)/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
     "university (HU)/Mikroökonomie I/Mikroökonomie I.md",
     "university (HU)/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Marktnachfrage.md",
@@ -251,11 +264,8 @@
     "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
     "university (TU)/Analysis I/Definitionen/Kleiner Satz von Gauß.md",
     "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md",
-    "university (TU)/Lineare Algebra I/Übungsblätter/5. Hausaufgabenblatt.md",
-    "university (TU)/Lineare Algebra I/Übungsblätter/Untitled.md",
     "files/Snippets.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
-    "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
     "university (TU)/Lineare Algebra I/Definitionen/Kompositionen.md",
     "university (TU)/Lineare Algebra I/Definitionen/Umkehrabbildungen.md",
     "university (TU)/Lineare Algebra I/Definitionen/Wie lesen wir Aussagen?.md",
