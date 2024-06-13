@@ -11,8 +11,12 @@
             "id": "4fd2e80f91569fad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/7. Hausaufgabenblatt.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/7. Hausaufgabenblatt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/7. Hausaufgabenblatt.md"
+              }
             }
           },
           {
@@ -170,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/7. Hausaufgabenblatt.md"
+              }
             }
           },
           {
@@ -181,8 +190,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "ac8e2c4e1d0a0efb",
@@ -195,6 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/7. Hausaufgabenblatt.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -218,6 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/7. Hausaufgabenblatt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
