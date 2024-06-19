@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "63f504f1ca81f140",
+        "id": "dc740bb913215dd5",
         "type": "tabs",
         "children": [
           {
-            "id": "e64b4dc4991f4f90",
+            "id": "36e12ce5fc7dc396",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -246,7 +245,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e64b4dc4991f4f90",
+  "active": "36e12ce5fc7dc396",
   "lastOpenFiles": [
     "university (HU)/Mathematik I/Rechengesetze.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/7. Hausaufgabenblatt.md",
