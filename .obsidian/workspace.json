@@ -11,8 +11,12 @@
             "id": "36e12ce5fc7dc396",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/8. Hausaufgabenblatt.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -62,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "4cae0943d8942f29",
@@ -76,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/8. Hausaufgabenblatt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/8. Hausaufgabenblatt.md"
+              }
             }
           },
           {
@@ -171,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/8. Hausaufgabenblatt.md"
+              }
             }
           },
           {
@@ -195,6 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/8. Hausaufgabenblatt.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -218,6 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university (TU)/Lineare Algebra I/Übungsblätter/8. Hausaufgabenblatt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,8 +257,9 @@
   },
   "active": "36e12ce5fc7dc396",
   "lastOpenFiles": [
-    "university (HU)/Mathematik I/Rechengesetze.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/7. Hausaufgabenblatt.md",
+    "university (TU)/Lineare Algebra I/Übungsblätter/8. Hausaufgabenblatt.md",
+    "university (HU)/Mathematik I/Rechengesetze.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
     "files/Snippets.md",
     "university (HU)/Mathematik I/LaTeX Snippets.md",
@@ -272,7 +283,6 @@
     "university (TU)/Lineare Algebra I/Definitionen/Mächtigkeit von Mengen.md",
     "university (TU)/Lineare Algebra I/Definitionen/Matrizen.md",
     "dfn/Wikipedia-Artikel/Struktur.md",
-    "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
     "university (TU)/Analysis I/Definitionen/Körperaxiome",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",

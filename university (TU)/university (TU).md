@@ -21,6 +21,7 @@
 		- [[3. Hausaufgabenblatt]]
 		- [[5. Hausaufgabenblatt]]
 		- [[7. Hausaufgabenblatt]]
+		- [[8. Hausaufgabenblatt]]
 - [[university (TU)]]
 - **Vorkurs**
 	- **Abbildungen und Funktionen**
