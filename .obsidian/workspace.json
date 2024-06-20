@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc740bb913215dd5",
+        "id": "b892f8d17da197a5",
         "type": "tabs",
         "children": [
           {
-            "id": "36e12ce5fc7dc396",
+            "id": "99df715c33be6417",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "university (TU)/Lineare Algebra I/Übungsblätter/8. Hausaufgabenblatt.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e9c58d21752177c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "files/Snippets.md",
                 "mode": "source",
                 "source": true
               }
@@ -268,7 +256,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "36e12ce5fc7dc396",
+  "active": "99df715c33be6417",
   "lastOpenFiles": [
     "files/Snippets.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/8. Hausaufgabenblatt.md",
