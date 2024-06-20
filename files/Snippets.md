@@ -311,7 +311,7 @@
     {trigger: "ver", replacement: "\\frac{\\Delta $0}{\\Delta $1} = \\frac{$2}{$3}", options: "m"},
     {trigger: "dif", replacement: "\\frac{ \\mathrm{d} ${0:y} }{ \\mathrm{d} ${1:x} } $2", options: "m"},
     {trigger: ":=", replacement: "\\coloneqq$0", options: "mA"},
-    
+    {trigger: "op", replacement: "\\operatorname{$0}$1", options: "mA"},
     
     {trigger: "call", replacement: "> [!$0] $1 \n> $3", options: "t"},
     {trigger: "break", replacement: "<br> $0", options: "t"},
