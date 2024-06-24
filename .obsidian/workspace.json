@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b892f8d17da197a5",
+        "id": "3efba1700e2f21f4",
         "type": "tabs",
         "children": [
           {
-            "id": "99df715c33be6417",
+            "id": "0615a77622e76233",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/8. Hausaufgabenblatt.md",
-                "mode": "source",
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/8. Hausaufgabenblatt.md",
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/8. Hausaufgabenblatt.md"
+                "file": "dfn/Wikipedia-Artikel/Struktur.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/8. Hausaufgabenblatt.md"
+                "file": "dfn/Wikipedia-Artikel/Struktur.md"
               }
             }
           },
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/8. Hausaufgabenblatt.md",
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/8. Hausaufgabenblatt.md",
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,10 +256,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "99df715c33be6417",
+  "active": "0615a77622e76233",
   "lastOpenFiles": [
-    "files/Snippets.md",
+    "dfn/Wikipedia-Artikel/Dummy Wikipedia-Artikel.md",
+    "dfn/Wikipedia-Artikel/Deutsches Forschungsnetz.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/8. Hausaufgabenblatt.md",
+    "files/Snippets.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/7. Hausaufgabenblatt.md",
     "university (HU)/Mathematik I/Rechengesetze.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
@@ -282,8 +284,6 @@
     "university (TU)/Lineare Algebra I/Definitionen/Umkehrabbildungen.md",
     "university (TU)/Lineare Algebra I/Definitionen/Wie lesen wir Aussagen?.md",
     "university (TU)/Lineare Algebra I/Definitionen/Mächtigkeit von Mengen.md",
-    "university (TU)/Lineare Algebra I/Definitionen/Matrizen.md",
-    "dfn/Wikipedia-Artikel/Struktur.md",
     "university (TU)/Analysis I/Definitionen/Körperaxiome",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",
