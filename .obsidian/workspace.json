@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3efba1700e2f21f4",
+        "id": "e293ba8887910dad",
         "type": "tabs",
         "children": [
           {
-            "id": "0615a77622e76233",
+            "id": "27f43017e3e6ef20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "dfn/Wikipedia-Artikel/Struktur.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -112,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -237,7 +238,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,10 +256,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0615a77622e76233",
+  "active": "27f43017e3e6ef20",
   "lastOpenFiles": [
     "dfn/Wikipedia-Artikel/Dummy Wikipedia-Artikel.md",
     "dfn/Wikipedia-Artikel/Deutsches Forschungsnetz.md",
+    "dsf.md",
+    "university (HU)/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Satz von Taylor.md",
+    "dfn/Wikipedia-Artikel/Struktur.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/8. Hausaufgabenblatt.md",
     "files/Snippets.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/7. Hausaufgabenblatt.md",
@@ -269,7 +274,6 @@
     "university (HU)/Mikroökonomie I/Mikroökonomie I.md",
     "university (HU)/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Marktnachfrage.md",
     "university (HU)/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Schwaches Axiom der Bekundeten Präferenzen.md",
-    "dsf.md",
     "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md",
     "university (TU)/Analysis I/Definitionen/Binomischer Lehrsatz.md",
     "university (TU)/university (TU).md",
@@ -280,8 +284,6 @@
     "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
     "university (TU)/Lineare Algebra I/Definitionen/Kompositionen.md",
     "university (TU)/Lineare Algebra I/Definitionen/Umkehrabbildungen.md",
-    "university (TU)/Lineare Algebra I/Definitionen/Wie lesen wir Aussagen?.md",
-    "university (TU)/Lineare Algebra I/Definitionen/Mächtigkeit von Mengen.md",
     "university (TU)/Analysis I/Definitionen/Körperaxiome",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",

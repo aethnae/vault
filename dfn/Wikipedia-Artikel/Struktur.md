@@ -9,23 +9,8 @@ tags:
 
 #### 1. Einleitungssatz
 
-- Liefert genauere Definition zum Überschriftsbegriff
-  - Betreiber des deutschen NREN
-  - Gründungsdatum
-  - Mitgliedszahl / Übersicht Mitgliedsorganisationen
-  - Organisationsstruktur
-
-> [!summary] Entwurf 
-> 1. Der **Verein zur Förderung eines Deutschen Forschungsnetzes e. V.** (DFN-Verein) ist eine selbstverwaltete Organisation, welche als eingetragener Verein den Betrieb sowie die Entwicklung des **deutschen Wissenschaftsnetzes** garantiert, und damit die Kommunikationsplattform für die deutsche Forschungslandschaft bereitstellt.
->    Unter den mehr als 350 institutionellen Mitgliedern des DFN-Vereins befinden sich Hochschulen, Forschungseinrichtungen sowie forschungsnahe Unternehmen.
->    Aufgaben des Vereins umfassen den Datenaustausch, die Zusammenarbeit und die Vernetzung der deutschen Wissenschafts- und Forschungsgemeinschaft. Neben dem Netzwerkbetrieb bietet der DFN-Verein auch Dienste wie E-Mail, Videokonferenzen und Cloud-Speicher an.
-> 
-> 2. Der **Verein zur Förderung eines Deutschen Forschungsnetzes e.V.** (DFN-Verein) ist eine selbstverwaltete Organisation, welche für den nachhaltigen Betrieb und Ausbau des **Deutschen Forschungsnetzes** und seiner netzgestützten IT-Services verantwortlich ist.
->    
->    Unter den mehr als 350 institutionellen Mitgliedern des DFN-Vereins befinden sich Hochschulen, Forschungseinrichtungen sowie forschungsnahe Unternehmen.
->    Aufgaben des Vereins umfassen den Datenaustausch, sowie die Vernetzung der deutschen Wissenschafts- und Forschungsgemeinschaft. Neben dem Netzwerkbetrieb bietet der DFN-Verein auch Dienste wie E-Mail, Videokonferenzen und Cloud-Speicher an.
-> 
-> 3. Der **Verein zur Förderung eines Deutschen Forschungsnetzes e.V.** (DFN-Verein) ist die Betreiberorganisation des nationalen Forschungs- und Bildungsnetzwerks in Deutschland. Er betreibt und entwickelt die Kommunikationsinfrastruktur für die (gesamte) deutsche Wissenschaftsgemeinschaft.
+> [!summary] Entwurf
+> Als zentrale Gemeinschaftseinrichtung der Wissenschaft in Deutschland ist der Verein zur Förderung eines Deutschen Forschungsnetzes (DFN-Verein) für den nachhaltigen Betrieb, den Ausbau und die Entwicklung des Deutschen Forschungsnetzes verantwortlich. Mit dieser Kommunikationsinfrastruktur, bestehend aus der technischen Plattform X-WiN und einem umfangreichen Dienstportfolio, verbindet er Hochschulen, außeruniversitäre Forschungseinrichtungen sowie forschungsnahe Wirtschaftsunternehmen an aktuell 672 Standorten in ganz Deutschland. 
 
 ***
 
@@ -47,15 +32,15 @@ tags:
   - Technische Neuheiten
 
 > [!summary] Entwurf 
-> Bereits 1981 wurden erste Machbarkeitsuntersuchungen zur Durchsetzung eines gesamtdeutschen Forschungsnetzes durch das BMFT in Auftrag gegeben. Parallel dazu existierte ein Vorschlag des **Hahn-Meitner-Instituts Berlin** zu einem *Norddeutschen Rechnerverbund*, der auf bereits bestehende Infrastruktur, welche im Rahmen der durch das BMFT geförderten Vorhaben BERNET und HMINET II angeschafft wurde, aufbaute.
+> 1984 wurde der DFN-Verein von Hochschulen, außeruniversitären Forschungseinrichtungen und forschungsnahen Wirtschaftsunternehmen gegründet. Administrative und finanzielle Anschubunterstützung gab es durch das Bundesministerium für Forschung und Technologie.
 > 
-> Das BMFT griff diesen Vorschlag auf, erweiterte ihn jedoch um die Vision eines Rechnerverbundnetzes für das gesamte Bundesgebiet. Erstmalig wurden diese Pläne auf der Festveranstaltung zum zehnjährigen Bestehen des Institutes für Informatik an der Universität Hamburg im November 1981 präsentiert.
+> Vier Ereignisse ebneten den Weg für die spätere Gründung:
+> 1. Das Bundesministerium für Forschung und Technologie (BMFT) gab 1981 eine Machbarkeitsuntersuchung beim Forschungsinstitut Stanford Research International in Auftrag,
+> 2. Das BMFT unternahm eine Informationsreise in die USA,
+> 3. Das Hahn-Meitner-Institut (HMI) Berlin – heute Helmholtz-Zentrum Berlin (HZB) – unterbreitete einen Vorschlag für einen „Norddeutschen Rechnerverbund“,
+> 4. Die Gesellschaft für Mathematik und Datenverarbeitung (GMD) skizzierte Ideen für ein deutsches Forschungsverbundnetz.
 > 
-> Erste Diskussionsveranstaltungen zur Planung eines Rechnerverbundes fanden im Rahmen des Deutschen Elektronen-Synchroton Hamburg im März 1982 statt. Nach großem Andrang durch Interessierte wurde die Planung in mehrere Arbeitskreise aufgeteilt, und vertieft behandelt.
-> 
-> 1984 wird der DFN-Verein von Hochschulen, außeruniversitären Forschungseinrichtungen und forschungsnahen Wirtschaftsunternehmen gegründet. Administrative und finanzielle Anschubunterstützung gibt es durch das Bundesministerium für Forschung und Technologie.
-> 
-> Der DFN-Verein nimmt seine Arbeit auf und organisiert erste Entwicklungsprojekte für neue Netzdienste in enger Zusammenarbeit mit den Wissenschaftseinrichtungen.
+> Nach seiner Gründung unterstützte der Verein in der ersten Phase seine Mitglieder zunächst bei der Beschaffung von Hardware (im Allgemeinen X.25 Untervermittlungen) zum Anschluss an das DATEX-P-Netz der Deutschen Bundespost. Zugleich wurde die Möglichkeit geschaffen, über dieses Netz das EARN und damit das BITNET zu erreichen.
 
 ***
 
