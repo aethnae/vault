@@ -52,6 +52,10 @@ tags:
 > Das BMFT griff diesen Vorschlag auf, erweiterte ihn jedoch um die Vision eines Rechnerverbundnetzes für das gesamte Bundesgebiet. Erstmalig wurden diese Pläne auf der Festveranstaltung zum zehnjährigen Bestehen des Institutes für Informatik an der Universität Hamburg im November 1981 präsentiert.
 > 
 > Erste Diskussionsveranstaltungen zur Planung eines Rechnerverbundes fanden im Rahmen des Deutschen Elektronen-Synchroton Hamburg im März 1982 statt. Nach großem Andrang durch Interessierte wurde die Planung in mehrere Arbeitskreise aufgeteilt, und vertieft behandelt.
+> 
+> 1984 wird der DFN-Verein von Hochschulen, außeruniversitären Forschungseinrichtungen und forschungsnahen Wirtschaftsunternehmen gegründet. Administrative und finanzielle Anschubunterstützung gibt es durch das Bundesministerium für Forschung und Technologie.
+> 
+> Der DFN-Verein nimmt seine Arbeit auf und organisiert erste Entwicklungsprojekte für neue Netzdienste in enger Zusammenarbeit mit den Wissenschaftseinrichtungen.
 
 ***
 
@@ -84,6 +88,8 @@ tags:
   - DFNconf
   - DFNFernsprechen
   - DFN-CERT
+
+Würde tatsächlich die Dienstbeschreibungen von der Website, bzw. dem Jubiläumszeitstrahl übernehmen, unter Umständen muss man die noch so anpassen, dass sie nicht wie ein Werbetext, sondern objektiv klingen, ist aber eigentlich schon ganz passend.
 
 ***
 
