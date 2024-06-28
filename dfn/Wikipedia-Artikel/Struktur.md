@@ -35,7 +35,20 @@ tags:
 
 #### 3. Technische Daten
 
-
+> [!summary] Entwurf 
+> Das erste eigene Netz WiN setzte auf dem X.25-Protokoll auf und war als Teilnetz des DATEX-P-Netzes der Deutschen Bundespost konzipiert. Die angeschlossenen Wissenschaftsinstitutionen hatten so die Möglichkeit, mit vertretbaren Kosten höherwertige Anschlüsse (bis 2 Mbit/s) zu betreiben.
+> 
+> Durch den stetig steigenden Bedarf an höheren Übertragungskapazitäten wurde etwa alle fünf Jahre eine neue Protokollgeneration des WiN mit modernerer Technik und entsprechend erhöhter Bandbreite aufgebaut. Im einzelnen waren dies in chronologischer Reihenfolge
+> 
+> - WiN (1989-1998)
+> - ERWIN (1990-1992)
+> - Breitband-Wissenschaftsnetz (B-WiN, 1996-2001)
+> - Gigabit-Wissenschaftsnetz (G-WiN, 2000-2005)
+> - X-WiN (seit 2006)
+> 
+> Mit einer Gesamtlänge von aktuell 10.250 km Glasfaser im Backbone, Anschlusskapazitäten bis zu 200 Gbit/s für DFN-Teilnehmer und einem Multi-Terabit-Kernnetz, das sich zwischen 65 Kernnetzknoten aufspannt, zählt das X-WiN zu den größten und leistungsfähigsten Kommunikationsnetzen weltweit.
+> 
+> Die Faserplattform verbindet die Kernnetzstandorte des X-WiN so miteinander, dass jeder Standort über mindestens zwei unabhängige Strecken erreichbar und somit doppelt abgesichert ist. Zwischen den Standorten werden auf der Optischen Plattform Datenverbindungen mit verschiedenen Bandbreiten eingerichtet. Durch Multiplex-Technologie können über eine Glasfaser mehrere parallele Verbindungen mit einer maximalen Übertragungskapazität von 400 Gbit/s geschaltet werden, was für eine maximale Bandbreite von 23,2 Tbit/s zwischen zwei benachbarten Standorten sorgt.
 
 ***
 
@@ -46,9 +59,14 @@ tags:
 - Mitgliedsorganisationen
 - (Aktuelle Forschungsaktivitäten)
 
+> [!summary] Entwurf 
+> Satzungsgemäße Organe des Vereins sind die Mitgliederversammlung, der Verwaltungsrat – konzipiert als erweiterter Vorstand – sowie der Vorstand im Sinne des Gesetzes. Zu seiner Beratung hat der Vorstand drei Ausschüsse eingerichtet. Er bedient sich zur Erledigung laufender Aufgaben einer Geschäftsstelle, die von einer Geschäftsführung geleitet wird. Standorte des DFN-Vereins befinden sich in Berlin sowie Stuttgart.
+> 
+> Der DFN-Verein ist anerkannt gemeinnützig und hat aktuell 356 stimmberechtigte Mitglieder, wobei sich diese aus einem Großteil der deutschen Hochschulen, außeruniversitären Forschungseinrichtungen sowie Unternehmen mit Forschungsbezug zusammensetzen.
+
 ***
 
-#### 5. Eingliederung in Internationale Kooperation
+#### 5. Internationale Kooperation
 
 ***
 
