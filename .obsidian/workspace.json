@@ -11,8 +11,12 @@
             "id": "a7a63e480e884cc3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -132,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "dfn/Wikipedia-Artikel/Struktur.md"
+              }
             }
           },
           {
@@ -171,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "dfn/Wikipedia-Artikel/Struktur.md"
+              }
             }
           },
           {
@@ -195,6 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -218,6 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,8 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
