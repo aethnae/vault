@@ -58,11 +58,6 @@ tags:
 
 #### 4. Organisation
 
-- Struktur des Vereins
-  - Verhältnis zum BMFT
-- Mitgliedsorganisationen
-- (Aktuelle Forschungsaktivitäten)
-
 > [!summary] Entwurf 
 > Satzungsgemäße Organe des Vereins sind die Mitgliederversammlung, der Verwaltungsrat – konzipiert als erweiterter Vorstand – sowie der Vorstand im Sinne des Gesetzes. Zu seiner Beratung hat der Vorstand drei Ausschüsse eingerichtet. Er bedient sich zur Erledigung laufender Aufgaben einer Geschäftsstelle, die von einer Geschäftsführung geleitet wird. Standorte des DFN-Vereins befinden sich in Berlin sowie Stuttgart.
 > 
@@ -71,6 +66,8 @@ tags:
 ***
 
 #### 5. Internationale Kooperation
+
+
 
 ***
 
