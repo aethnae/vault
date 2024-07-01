@@ -76,12 +76,7 @@ tags:
 
 #### 6. Dienste
 
-- Kurzportraits aktueller Dienste, z.B.:
-  - DFNconf
-  - DFNFernsprechen
-  - DFN-CERT
 
-Würde tatsächlich die Dienstbeschreibungen von der Website, bzw. dem Jubiläumszeitstrahl übernehmen, unter Umständen muss man die noch so anpassen, dass sie nicht wie ein Werbetext, sondern objektiv klingen, ist aber eigentlich schon ganz passend.
 
 ***
 
