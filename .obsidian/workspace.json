@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bac03a553d2adda4",
+        "id": "832b8029652ef728",
         "type": "tabs",
         "children": [
           {
-            "id": "871b05648026d33f",
+            "id": "a7a63e480e884cc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md"
-              }
+              "state": {}
             }
           },
           {
@@ -204,7 +195,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -228,7 +218,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,10 +245,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "871b05648026d33f",
+  "active": "a7a63e480e884cc3",
   "lastOpenFiles": [
-    "dfn/Wikipedia-Artikel/Dummy Wikipedia-Artikel.md",
     "dfn/Wikipedia-Artikel/Struktur.md",
+    "dfn/Wikipedia-Artikel/Dummy Wikipedia-Artikel.md",
     "files/Snippets.md",
     "dfn/Wikipedia-Artikel/Deutsches Forschungsnetz.md",
     "dsf.md",
