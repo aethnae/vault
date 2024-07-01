@@ -25,13 +25,15 @@ tags:
 > 3. Das Hahn-Meitner-Institut (HMI) Berlin – heute Helmholtz-Zentrum Berlin (HZB) – unterbreitete einen Vorschlag für einen „Norddeutschen Rechnerverbund“,
 > 4. Die Gesellschaft für Mathematik und Datenverarbeitung (GMD) skizzierte Ideen für ein deutsches Forschungsverbundnetz.
 > 
-> Nach seiner Gründung unterstützte der Verein in der ersten Phase seine Mitglieder zunächst bei der Beschaffung von Hardware (im Allgemeinen X.25 Untervermittlungen) zum Anschluss an das DATEX-P-Netz der Deutschen Bundespost. Zugleich wurde die Möglichkeit geschaffen, über dieses Netz das EARN und damit das BITNET zu erreichen.
-> 
-> 1989 wurde die erste Protokollgeneration des Wissenschaftsnetzes, das X.25-WiN, bereitgestellt, welches als Teilnetz des DATEX-P-Netzes der Deutschen Telekom realisiert und betrieben wurde.
+> Nach seiner Gründung unterstützte der Verein in der ersten Phase seine Mitglieder zunächst bei der Beschaffung von Hardware (im Allgemeinen X.25 Untervermittlungen) zum Anschluss an das DATEX-P-Netz der Deutschen Bundespost. Zugleich wurde die Möglichkeit geschaffen, über dieses Netz das EARN und damit das BITNET zu erreichen. 1989 wurde die erste eigene Protokollgeneration des Wissenschaftsnetzes, das X.25-WiN, bereitgestellt, welches als Teilnetz des DATEX-P-Netzes der Deutschen Bundespost realisiert und betrieben wurde.
 > 
 > 1991, ein Jahr nach der deutschen Wiedervereinigung, wurde das erste deutsche Wissenschaftsnetz X.25-WiN durch die neuen Bundesländer unter dem Namen "ERWiN" erweitert. 1994 folgte die Gründung des ersten europäischen Forschungsnetzes DANTE Ltd. als länderübergreifende Infrastruktur für wissenschaftliche Kooperationen, an welche auch das Deutsche Wissenschaftsnetz angeschlossen wurde.
 > 
+> 1992 erfolgte die Gründung des WiN-Labors am Regionalen Rechenzentrum (RRZE) der Friedrich-Alexander-Universität Erlangen-Nürnberg zum Zwecke der Entwicklung von Software und Tools zur Nutzung im Deutschen Forschungsnetz, sowie der Recherche zukünftiger für den DFN-Verein relevanter Themen.
+> 
 > Seit 1996 forschten Juristinnen und Juristen im Rahmen der "Forschungsstelle Recht im DFN" zu rechtlichen Fragen rund um die Nutzung des Deutschen Wissenschaftsnetzes und seiner Dienste.
+> 
+> Mit der vierten Netzgeneration, dem 2006 eingeführten X-WiN, verfügte der DFN-Verein zum ersten Mal über ein eigenes flächendeckendes Glasfasernetz inklusive einer Übertragungstechnologie mit frei skalierbaren Bandbreiten.
 
 ***
 
@@ -40,7 +42,7 @@ tags:
 > [!summary] Entwurf 
 > Das erste eigene Netz WiN setzte auf dem X.25-Protokoll auf und war als Teilnetz des DATEX-P-Netzes der Deutschen Bundespost konzipiert. Die angeschlossenen Wissenschaftsinstitutionen hatten so die Möglichkeit, mit vertretbaren Kosten höherwertige Anschlüsse (bis 2 Mbit/s) zu betreiben.
 > 
-> Durch den stetig steigenden Bedarf an höheren Übertragungskapazitäten wurde etwa alle fünf Jahre eine neue Protokollgeneration des WiN mit modernerer Technik und entsprechend erhöhter Bandbreite aufgebaut. Im einzelnen waren dies in chronologischer Reihenfolge
+> Durch den stetig steigenden Bedarf an höheren Übertragungskapazitäten wurde etwa alle fünf Jahre eine neue Protokollgeneration des WiN mit modernerer Technik und entsprechend erhöhter Bandbreite aufgebaut. Im Einzelnen waren dies in chronologischer Reihenfolge
 > 
 > - WiN (1989-1998)
 > - ERWIN (1990-1992)
@@ -50,7 +52,7 @@ tags:
 > 
 > Mit einer Gesamtlänge von aktuell 10.250 km Glasfaser im Backbone, Anschlusskapazitäten bis zu 200 Gbit/s für DFN-Teilnehmer und einem Multi-Terabit-Kernnetz, das sich zwischen 65 Kernnetzknoten aufspannt, zählt das X-WiN zu den größten und leistungsfähigsten Kommunikationsnetzen weltweit.
 > 
-> Die Faserplattform verbindet die Kernnetzstandorte des X-WiN so miteinander, dass jeder Standort über mindestens zwei unabhängige Strecken erreichbar und somit doppelt abgesichert ist. Zwischen den Standorten werden auf der Optischen Plattform Datenverbindungen mit verschiedenen Bandbreiten eingerichtet. Durch Multiplex-Technologie können über eine Glasfaser mehrere parallele Verbindungen mit einer maximalen Übertragungskapazität von 400 Gbit/s geschaltet werden, was für eine maximale Bandbreite von 23,2 Tbit/s zwischen zwei benachbarten Standorten sorgt.
+> Die Faserplattform verbindet die Kernnetzstandorte des X-WiN so miteinander, dass jeder Standort über mindestens zwei unabhängige Strecken erreichbar ist. Zwischen den Standorten werden auf der optischen Plattform Datenverbindungen mit verschiedenen Bandbreiten eingerichtet. Durch Multiplex-Technologie können über eine Glasfaser mehrere parallele Verbindungen mit einer maximalen Übertragungskapazität von 400 Gbit/s geschaltet werden, was für eine maximale Bandbreite von 23,2 Tbit/s zwischen zwei benachbarten Standorten sorgt.
 
 ***
 
