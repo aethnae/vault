@@ -77,7 +77,7 @@ tags:
 #### 6. Dienste
 
 > [!summary] DFN-Internet 
-> 
+> Der Dienst DFN-Internet stellt die Verbindung zum Wissenschaftsnetz X-WiN sowie zu sämtlichen europäischen und weltweiten Forschungsnetzen her, die über das europäische Forschungsnetz GÉANT erreichbar sind. Darüber hinaus besteht ein Zugang in alle Teilnetze des Internets via IP-Transit.
 
 ***
 
