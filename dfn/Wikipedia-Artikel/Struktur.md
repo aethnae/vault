@@ -77,8 +77,31 @@ tags:
 #### 6. Dienste
 
 > [!summary] DFN-Internet 
-> Der Dienst DFN-Internet stellt die Verbindung zum Wissenschaftsnetz X-WiN sowie zu sämtlichen europäischen und weltweiten Forschungsnetzen her, die über das europäische Forschungsnetz GÉANT erreichbar sind. Darüber hinaus besteht ein Zugang in alle Teilnetze des Internets via IP-Transit.
+> Mit dem Dienst DFN-Internet stellt der DFN-Verein seinen Teilnehmern einen Kommunikationsdienst auf Basis des Internet Protokolls (IP) bereit. Über DFN-Internet können das Wissenschaftsnetz X-WiN sowie alle weltweit kooperierenden nationalen Forschungsnetze und alle anderen Teilnetze des Internets (IP-Transit) erreicht werden.
+
+> [!summary] DFN-Security 
+> Mit dem Dienst DFN-Security stellt der DFN-Verein seinen Teilnehmern Leistungen im Bereich der Informationssicherheit bereit, etwa Unterstützung beim Security Incident Management im Falle eines Angriffs oder Sicherheitsvorfalls durch das Incident Response Team (IRT) des DFN-CERT.
+
+> [!summary] DFN-MailSupport 
+> Der DFN-Verein entwickelt, organisiert und betreibt mit DFN-MailSupport einen Dienst, der das Aufkommen unerwünschter und schädlicher, d. h. mit Spam oder Malware (Viren, Würmer, Trojaner etc.) verseuchter E-Mails im Wissenschaftsnetz reduziert. 
+
+> [!summary] DFN-AAI 
+> Mit DFN-AAI wird eine Authentifizierungs- und Autorisierungs-Infrastruktur betrieben, um Nutzenden aus Wissenschaft und Forschung Zugang zu geschützten Ressourcen, wie Fachpublikationen, Forschungsdaten sowie E-Learning-Plattformen zu ermöglichen. Nutzende, die auf geschützte Ressourcen zugreifen wollen, authentifizieren sich an ihrer Heimateinrichtung und erhalten nach Übertragung der zur Autorisierung notwendigen Daten Zugriff auf die betreffenden Ressourcen.
+
+> [!summary] DFN-PKI 
+> Der DFN-Verein organisiert mit dem Dienst DFN-PKI eine Public-Key-Infrastruktur, um digitale Zertifikate auszustellen, zu verteilen und zu prüfen. Dabei werden fortgeschrittene Zertifikate auf Basis des X.509 Standards verwendet.
+
+> [!summary] Collaboration-Dienste
+> Der DFN-Verein bietet zahlreiche Dienste zur Echtzeitkommunikation und standortunabhängiger Forschung an, beispielsweise Dienste zur Terminabstimmung, Mailinglisten, Videokonferenzdienste sowie IP-Telefonie.
+
+> [!summary] Cloud-Dienste
+> Unter dem Namen "DFN-Cloud" organisiert der DFN-Verein ein Portfolio aus eigenen Angeboten, den oben beschriebenen Collaboration-Diensten, sowie Angeboter anderer wissenschaftlicher Einrichtungen sowie externer Anbieter.
 
 ***
 
 #### 7. Quellen
+
+- DFN-Website
+- Bericht Kanzlerjahrestagung 2023
+- Jahresbericht DFN 2023
+- DFN Mitteilungen Ausgabe 105

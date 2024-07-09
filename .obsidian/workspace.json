@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dd9694344993d426",
+        "id": "bd4b25c126889e48",
         "type": "tabs",
         "children": [
           {
-            "id": "e55616ee3b6f6d79",
+            "id": "9400b36bdc58f09b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md"
-              }
+              "state": {}
             }
           },
           {
@@ -204,7 +195,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -228,7 +218,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +245,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e55616ee3b6f6d79",
+  "active": "9400b36bdc58f09b",
   "lastOpenFiles": [
     "dfn/Wikipedia-Artikel/Struktur.md",
     "university (TU)/university (TU).md",
