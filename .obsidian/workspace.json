@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bd4b25c126889e48",
+        "id": "5b4d86515aa2cc64",
         "type": "tabs",
         "children": [
           {
-            "id": "9400b36bdc58f09b",
+            "id": "ef79d920aba7d907",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binomischer Lehrsatz.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binomischer Lehrsatz.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -132,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binomischer Lehrsatz.md"
+              }
             }
           },
           {
@@ -171,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binomischer Lehrsatz.md"
+              }
             }
           },
           {
@@ -195,6 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binomischer Lehrsatz.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -218,6 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binomischer Lehrsatz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,15 +255,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9400b36bdc58f09b",
+  "active": "e041748da01c05af",
   "lastOpenFiles": [
+    "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binominalkoeffizient.md",
+    "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binomischer Lehrsatz.md",
+    "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md",
+    "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion",
+    "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Kleiner Satz von Gauß.md",
+    "files/Snippets.md",
     "dfn/Wikipedia-Artikel/Struktur.md",
     "university (TU)/university (TU).md",
-    "university (TU)/Analysis I/Definitionen/Binomischer Lehrsatz.md",
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Fermat-Gleichung.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Schubfachprinzip.md",
     "dfn/Wikipedia-Artikel/Dummy Wikipedia-Artikel.md",
-    "files/Snippets.md",
     "dfn/Wikipedia-Artikel/Deutsches Forschungsnetz.md",
     "dsf.md",
     "university (HU)/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Satz von Taylor.md",
@@ -267,12 +281,9 @@
     "university (HU)/Mikroökonomie I/Mikroökonomie I.md",
     "university (HU)/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Marktnachfrage.md",
     "university (HU)/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Schwaches Axiom der Bekundeten Präferenzen.md",
-    "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md",
     "sdfdfsg.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
-    "university (TU)/Analysis I/Definitionen/Kleiner Satz von Gauß.md",
     "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md",
-    "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
     "university (TU)/Analysis I/Definitionen/Körperaxiome",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",
@@ -288,7 +299,6 @@
     "files/Pasted image 20240415183757.png",
     "files/Pasted image 20240415180142.png",
     "university (TU)/Vorkurs/Abbildungen und Funktionen",
-    "university (TU)/Vorkurs/Beweise",
     "files/Pasted image 20240201190426.png",
     "files/Pasted image 20240201185224.png",
     "files/Pasted image 20240201182229.png",

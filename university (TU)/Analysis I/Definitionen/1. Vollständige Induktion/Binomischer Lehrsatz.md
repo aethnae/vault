@@ -1,8 +1,8 @@
 ---
 tags:
-- Binominalkoeffizienten
+  - Binominalkoeffizienten
 flashcard: false
-source: "Skript p. 40 | Satz 1.40"
+source: Skript p. 6
 date created: 2024-04-26
 proved by: 
 references: 
@@ -45,8 +45,27 @@ $$
  & = \sum_{k = 0}^{n+1} \binom{n+1}{k}x^{n-k+1}y^{k} 
 \end{align}
 $$
+
 `\end{proof}`
+<br> 
+***
 
+> [!corollary] Folgerung aus dem binomischen Lehrsatz und dem Pascal'schen Dreieck
+> Für $n \in \mathbb{N}, n \geq 1$ ist
+> 
+> 1. $\sum_{k = 0}^{n} \binom{n}{k} = 2^{n}$
+> 2. $\sum_{k = 0}^{n} (-1)^{k} \binom{n}{k} = 0$
 
-
+> [!corollary] Geometrische Folgen
+> Für $x \in \mathbb{R}, x \neq 1$ und $n \in \mathbb{N}$ gilt
+> 
+> $$
+> \sum_{k = 0}^{n} x^{k} = \frac{1-x^{n+1}}{1-x}
+> $$
+> 
+> insbesondere gilt
+> 
+> $$
+> \sum_{k = 0}^{n} \frac{1}{2^{k}} = 2 - \left( \frac{1}{2} \right)^{n}
+> $$
 

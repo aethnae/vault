@@ -3,9 +3,11 @@
 %% Begin Waypoint %%
 - **Analysis I**
 	- **Definitionen**
+		- **1. Vollständige Induktion**
+			- [[Binominalkoeffizient]]
+			- [[Binomischer Lehrsatz]]
+			- [[Kleiner Satz von Gauß]]
 		- [[Beschränkte Menge]]
-		- [[Binomischer Lehrsatz]]
-		- [[Kleiner Satz von Gauß]]
 	- **Übungsblätter**
 		- [[Hausaufgabenblatt 0]]
 - **Lineare Algebra I**
