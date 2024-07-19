@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5b4d86515aa2cc64",
+        "id": "000b3ad5993f96cf",
         "type": "tabs",
         "children": [
           {
-            "id": "ef79d920aba7d907",
+            "id": "7d13562463aae5ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binomischer Lehrsatz.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binomischer Lehrsatz.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binomischer Lehrsatz.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binomischer Lehrsatz.md"
-              }
+              "state": {}
             }
           },
           {
@@ -203,7 +194,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binomischer Lehrsatz.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -227,7 +217,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binomischer Lehrsatz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,10 +244,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e041748da01c05af",
+  "active": "7d13562463aae5ee",
   "lastOpenFiles": [
-    "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binominalkoeffizient.md",
+    "dfn/Bestandsaufnahme Merch.md",
     "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binomischer Lehrsatz.md",
+    "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binominalkoeffizient.md",
     "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md",
     "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion",
     "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Kleiner Satz von Gauß.md",
@@ -283,7 +273,6 @@
     "university (HU)/Mikroökonomie I/Konzepte/Kapitel 7 - Bekundete Präferenzen/Schwaches Axiom der Bekundeten Präferenzen.md",
     "sdfdfsg.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Vollständiger Induktion.md",
-    "university (TU)/Analysis I/Definitionen/Körperaxiome/Axiome der Addition in den reellen Zahlen.md",
     "university (TU)/Analysis I/Definitionen/Körperaxiome",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",
