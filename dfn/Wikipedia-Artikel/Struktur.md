@@ -10,14 +10,14 @@ tags:
 #### 1. Einleitungssatz
 
 > [!summary] Entwurf
-> Als zentrale Gemeinschaftseinrichtung der Wissenschaft in Deutschland ist der Verein zur Förderung eines Deutschen Forschungsnetzes (DFN-Verein) für den nachhaltigen Betrieb, den Ausbau und die Entwicklung des Deutschen Forschungsnetzes verantwortlich. Mit dieser Kommunikationsinfrastruktur, bestehend aus der technischen Plattform X-WiN und einem umfangreichen Dienstportfolio, verbindet er Hochschulen, außeruniversitäre Forschungseinrichtungen sowie forschungsnahe Wirtschaftsunternehmen an aktuell 672 Standorten in ganz Deutschland. 
+> Als zentrale Gemeinschaftseinrichtung der Wissenschaft in Deutschland ist der Verein zur Förderung eines Deutschen Forschungsnetzes (DFN-Verein) für den Betrieb, den Ausbau und die Entwicklung des Deutschen Forschungsnetzes verantwortlich. Mit dieser Kommunikationsinfrastruktur, bestehend aus der technischen Plattform X-WiN und einem Dienstportfolio, verbindet er Hochschulen, außeruniversitäre Forschungseinrichtungen sowie forschungsnahe Wirtschaftsunternehmen an aktuell rund 850 Standorten in ganz Deutschland. 
 
 ***
 
 #### 2. Geschichte
 
 > [!summary] Entwurf 
-> 1984 wurde der DFN-Verein von Hochschulen, außeruniversitären Forschungseinrichtungen und forschungsnahen Wirtschaftsunternehmen gegründet. Administrative und finanzielle Anschubunterstützung gab es durch das Bundesministerium für Forschung und Technologie.
+> 1984 wurde der DFN-Verein von Hochschulen, außeruniversitären Forschungseinrichtungen und forschungsnahen Wirtschaftsunternehmen gegründet. Zu den Gründungsmitgliedern zählten neben der Gesellschaft für Mathematik und Datenverarbeitung (GMD, heute Teil der Fraunhofer-Gesellschaft) und dem Hahn-Meitner-Institut (HMI) die Deutsche Forschungs- und Versuchsanstalt für Luft- und Raumfahrt (DFVLR, heute DLR), die Fraunhofer-Gesellschaft, die Universitäten Hamburg, Karlsruhe und die TU Berlin, sowie die Industriefirmen IBM, Nixdorf, Siemens und Philips. Administrative und finanzielle Anschubunterstützung gab es durch das Bundesministerium für Forschung und Technologie.
 > 
 > Vier Ereignisse ebneten den Weg für die spätere Gründung:
 > 1. Das Bundesministerium für Forschung und Technologie (BMFT) gab 1981 eine Machbarkeitsuntersuchung beim Forschungsinstitut Stanford Research International in Auftrag,
@@ -25,7 +25,7 @@ tags:
 > 3. Das Hahn-Meitner-Institut (HMI) Berlin – heute Helmholtz-Zentrum Berlin (HZB) – unterbreitete einen Vorschlag für einen „Norddeutschen Rechnerverbund“,
 > 4. Die Gesellschaft für Mathematik und Datenverarbeitung (GMD) skizzierte Ideen für ein deutsches Forschungsverbundnetz.
 > 
-> Nach seiner Gründung unterstützte der Verein in der ersten Phase seine Mitglieder zunächst bei der Beschaffung von Hardware (im Allgemeinen X.25 Untervermittlungen) zum Anschluss an das DATEX-P-Netz der Deutschen Bundespost. Zugleich wurde die Möglichkeit geschaffen, über dieses Netz das EARN und damit das BITNET zu erreichen. 1989 wurde die erste eigene Protokollgeneration des Wissenschaftsnetzes, das X.25-WiN, bereitgestellt, welches als Teilnetz des DATEX-P-Netzes der Deutschen Bundespost realisiert und betrieben wurde.
+> In der ersten Phase nach Gründung des Vereins, von 1984 bis zur Bereitstellung der ersten eigenen Protokollgeneration 1989, unterstützte der DFN-Verein seine Mitglieder zunächst bei der Beschaffung von Hardware (im Allgemeinen X.25-Untervermittlungen) zum Anschluss an das DATEX-P-Netz der Deutschen Bundespost. Zugleich wurde die Möglichkeit geschaffen, über dieses Netz das EARN und damit das BITNET zu erreichen. 1989 wurde die erste eigene Protokollgeneration des Wissenschaftsnetzes, das X.25-WiN, bereitgestellt, welches als Teilnetz des DATEX-P-Netzes der Deutschen Bundespost realisiert und betrieben wurde.
 > 
 > 1991, ein Jahr nach der deutschen Wiedervereinigung, wurde das erste deutsche Wissenschaftsnetz X.25-WiN durch die neuen Bundesländer unter dem Namen "ERWiN" erweitert. 1994 folgte die Gründung des ersten europäischen Forschungsnetzes DANTE Ltd. als länderübergreifende Infrastruktur für wissenschaftliche Kooperationen, an welche auch das Deutsche Wissenschaftsnetz angeschlossen wurde.
 > 

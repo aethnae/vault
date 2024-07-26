@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "000b3ad5993f96cf",
+        "id": "edfd49f7df3bdb6c",
         "type": "tabs",
         "children": [
           {
-            "id": "7d13562463aae5ee",
+            "id": "9ec39e2ad97a3ce7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dfn/Bestandsaufnahme Merch.md",
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "mode": "source",
                 "source": true
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dfn/Bestandsaufnahme Merch.md",
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -137,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "dfn/Bestandsaufnahme Merch.md"
+                "file": "dfn/Wikipedia-Artikel/Struktur.md"
               }
             }
           },
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dfn/Bestandsaufnahme Merch.md"
+                "file": "dfn/Wikipedia-Artikel/Struktur.md"
               }
             }
           },
@@ -203,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dfn/Bestandsaufnahme Merch.md",
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -227,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dfn/Bestandsaufnahme Merch.md",
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +256,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7d13562463aae5ee",
+  "active": "9ec39e2ad97a3ce7",
   "lastOpenFiles": [
     "dfn/Bestandsaufnahme Merch.md",
     "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binomischer Lehrsatz.md",
