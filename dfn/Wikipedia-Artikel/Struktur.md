@@ -52,7 +52,7 @@ tags:
 > - Gigabit-Wissenschaftsnetz (G-WiN, 2000-2005)
 > - X-WiN (seit 2006)
 > 
-> Mit einer Gesamtlänge von aktuell 10.250 km Glasfaser im Backbone, Anschlusskapazitäten bis zu 200 Gbit/s für DFN-Teilnehmer und einem Multi-Terabit-Kernnetz, das sich zwischen 65 Kernnetzknoten aufspannt, zählt das X-WiN zu den größten und leistungsfähigsten Kommunikationsnetzen weltweit.
+> Mit einer Gesamtlänge von aktuell 10.250 km Glasfaser im Backbone, Anschlusskapazitäten bis zu 200 Gbit/s für DFN-Teilnehmer und einem Multi-Terabit-Kernnetz, das sich zwischen 65 Kernnetzknoten aufspannt, zählt das X-WiN heute zu den größten und leistungsfähigsten Kommunikationsnetzen weltweit.
 > 
 > Die Faserplattform verbindet die Kernnetzstandorte des X-WiN so miteinander, dass jeder Standort über mindestens zwei unabhängige Strecken erreichbar ist. Zwischen den Standorten werden auf der optischen Plattform Datenverbindungen mit verschiedenen Bandbreiten eingerichtet. Durch Multiplex-Technologie können über eine Glasfaser mehrere parallele Verbindungen mit einer maximalen Übertragungskapazität von 400 Gbit/s geschaltet werden, was für eine maximale Bandbreite von 23,2 Tbit/s zwischen zwei benachbarten Standorten sorgt.
 
