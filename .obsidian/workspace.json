@@ -11,8 +11,12 @@
             "id": "7d13562463aae5ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dfn/Bestandsaufnahme Merch.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "dfn/Bestandsaufnahme Merch.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "dfn/Bestandsaufnahme Merch.md"
+              }
             }
           },
           {
@@ -170,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "dfn/Bestandsaufnahme Merch.md"
+              }
             }
           },
           {
@@ -194,6 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dfn/Bestandsaufnahme Merch.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -217,6 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "dfn/Bestandsaufnahme Merch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
