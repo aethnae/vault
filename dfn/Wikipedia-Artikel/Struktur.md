@@ -31,13 +31,15 @@ tags:
 > 
 > 1992 erfolgte die Gründung des WiN-Labors am Regionalen Rechenzentrum (RRZE) der Friedrich-Alexander-Universität Erlangen-Nürnberg zum Zwecke der Entwicklung von Software und Tools zur Nutzung im Deutschen Forschungsnetz, sowie der Recherche zukünftiger für den DFN-Verein relevanter Themen.
 > 
+> Beeinflusst durch die steigende Gefahr durch Cyberkriminalität, wurde 1993 nach US-Amerikanischem Vorbild ein "Computer Emergency Response Team", kurz DFN-CERT gegründet, um DFN-Mitgliedseinrichtungen bei Sicherheitsvorfällen zu betreuen und etwaige Gefahrenpotentiale ausfindig zu machen. Dieses bestand zunächst nur befristet über eine Dauer von 18 Monaten, wurde anschließend jedoch aufgrund positiver Resonanz als dauerhafte Dienstleistung im DFN etabliert.
+> 
 > Seit 1996 forschten Juristinnen und Juristen im Rahmen der "Forschungsstelle Recht im DFN" zu rechtlichen Fragen rund um die Nutzung des Deutschen Wissenschaftsnetzes und seiner Dienste.
 > 
 > Mit der vierten Netzgeneration, dem 2006 eingeführten X-WiN, verfügte der DFN-Verein zum ersten Mal über ein eigenes flächendeckendes Glasfasernetz inklusive einer Übertragungstechnologie mit frei skalierbaren Bandbreiten.
 
 ***
 
-#### 3. Technische Daten
+#### 3. Netz und technische Daten
 
 > [!summary] Entwurf 
 > Das erste eigene Netz WiN setzte auf dem X.25-Protokoll auf und war als Teilnetz des DATEX-P-Netzes der Deutschen Bundespost konzipiert. Die angeschlossenen Wissenschaftsinstitutionen hatten so die Möglichkeit, mit vertretbaren Kosten höherwertige Anschlüsse (bis 2 Mbit/s) zu betreiben.
@@ -95,7 +97,7 @@ tags:
 > Der DFN-Verein bietet zahlreiche Dienste zur Echtzeitkommunikation und standortunabhängiger Forschung an, beispielsweise Dienste zur Terminabstimmung, Mailinglisten, Videokonferenzdienste sowie IP-Telefonie.
 
 > [!summary] Cloud-Dienste
-> Unter dem Namen "DFN-Cloud" organisiert der DFN-Verein ein Portfolio aus eigenen Angeboten, den oben beschriebenen Collaboration-Diensten, sowie Angeboter anderer wissenschaftlicher Einrichtungen sowie externer Anbieter.
+> Unter dem Namen "DFN-Cloud" organisiert der DFN-Verein ein Portfolio aus eigenen Angeboten, den oben beschriebenen Collaboration-Diensten, sowie Angebote anderer wissenschaftlicher Einrichtungen sowie externer Anbieter.
 
 ***
 
