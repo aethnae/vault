@@ -70,7 +70,7 @@ tags:
 #### 5. Internationale Kooperation
 
 > [!summary] Entwurf 
-> Die Konnektivität zu den europäischen und weltweiten Forschungsnetzen wird von der GÉANT Association über ein europäisches Verbindungsnetz (GÉANT) realisiert. Die Verbindungen zu den nordamerikanischen Forschungsnetzen Internet2, ESnet und CANARIE werden über mehrere transatlantische Glasfaserverbindungen mit einer Kapazität von jeweils 100 Gbit/s verteilt. Die Verbindung nach Lateinamerika erfolgt nach Inbetriebnahme des Unterseekabels aus dem Projekt BELLA mit 100 Gbit/s.
+> In fast jedem Land der Welt gibt es – ähnlich dem Deutschen Forschungsnetz – eine Infrastruktur (National Research and Education Network, NREN) für Forschung und Lehre. Die Konnektivität zu den europäischen und weltweiten Forschungsnetzen wird von der GÉANT Association über ein europäisches Verbindungsnetz (GÉANT) realisiert, an welches das X-WiN mit 600 Gbit/s angeschlossen ist. Die Verbindungen zu den nordamerikanischen Forschungsnetzen Internet2, ESnet und CANARIE werden über mehrere transatlantische Glasfaserverbindungen mit einer Kapazität von jeweils 100 Gbit/s verteilt. Die Verbindung nach Lateinamerika erfolgt nach Inbetriebnahme des Unterseekabels aus dem Projekt BELLA mit 100 Gbit/s.
 > Die Verbindung mit Afrika, Asien und Australien erfolgt überwiegend über regionale Forschungsnetze in den entsprechenden Regionen.
 > Desweiteren ist der DFN-Verein deutscher Partner des internationalen Netzwerks eduroam.
 
