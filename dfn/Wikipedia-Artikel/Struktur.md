@@ -99,6 +99,9 @@ tags:
 > [!summary] DFN-Fernsprechen 
 > Der Dienst DFN-Fernsprechen bietet Voice-over-IP-basierte Anschlussarten, die auf die Anforderungen von Wissenschaft und Forschung abgestimmt sind und auf dem Wissenschaftsnetz X-WiN aufbauen. Ein entsprechender Rahmenvertrag bietet den Teilnehmern die Möglichkeit zur mobilen Sprach-, Nachrichten- und Datenübertragung. Als weiteres Dienstmodul umfasst DFN-Fernsprechen ein SMS-Gateway zur Übermittlung von Textnachrichten in ein Mobilfunknetz in Form von SMS-Kurznachrichten.
 
+> [!summary] DFN-Terminplaner 
+> Der DFN-Terminplaner ist eine kostenlose, allgemein zugängliche Plattform, um Terminabstimmungen durchzuführen. Aus Gründen des Datenschutz und der Datensparsamkeit kann auch dieser Dienst ohne Anmeldung genutzt werden.
+
 > [!summary] Cloud-Dienste
 > 
 
