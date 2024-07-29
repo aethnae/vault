@@ -42,7 +42,7 @@ tags:
 #### 3. Organisation
 
 > [!summary] Entwurf 
-> Satzungsgemäße Organe des Vereins sind die Mitgliederversammlung, der Verwaltungsrat – konzipiert als erweiterter Vorstand – sowie der Vorstand im Sinne des Gesetzes. Zu seiner Beratung hat der Vorstand drei Ausschüsse eingerichtet. Er bedient sich zur Erledigung laufender Aufgaben einer Geschäftsstelle, die von einer Geschäftsführung geleitet wird. Standorte des DFN-Vereins befinden sich in Berlin sowie Stuttgart. 
+> Satzungsgemäße Organe des Vereins sind die Mitgliederversammlung, der Verwaltungsrat – konzipiert als erweiterter Vorstand – sowie der Vorstand im Sinne des Gesetzes. Zu seiner Beratung hat der Vorstand drei Ausschüsse eingerichtet. Er bedient sich zur Erledigung laufender Aufgaben einer Geschäftsstelle, die von einer Geschäftsführung geleitet wird. Standorte des DFN-Vereins befinden sich in Berlin sowie Stuttgart. Vorstandsvorsitzender ist Stefan Wesner von der Universität zu Köln. Stellvertretende Vorstandsvorsitzende sind Helmut Reiser vom Leibniz-Rechenzentrum der Bayerischen Akademie der Wissenschaften (LRZ), und Christian Zens von der Friedrich-Alexander-Universität Erlangen-Nürnberg.
 > 
 > Der DFN-Verein ist anerkannt gemeinnützig und hat aktuell 356 stimmberechtigte Mitglieder, wobei sich diese aus einem Großteil der deutschen Hochschulen, außeruniversitären Forschungseinrichtungen sowie Unternehmen mit Forschungsbezug zusammensetzen.
 
