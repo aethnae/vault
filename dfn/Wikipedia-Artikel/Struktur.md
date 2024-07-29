@@ -72,7 +72,7 @@ tags:
 > [!summary] Entwurf 
 > In fast jedem Land der Welt gibt es – ähnlich dem Deutschen Forschungsnetz – eine Infrastruktur (National Research and Education Network, NREN) für Forschung und Lehre. Die Konnektivität zu den europäischen und weltweiten Forschungsnetzen wird von der GÉANT Association über ein europäisches Verbindungsnetz (GÉANT) realisiert, an welches das X-WiN mit 600 Gbit/s angeschlossen ist. Die Verbindungen zu den nordamerikanischen Forschungsnetzen Internet2, ESnet und CANARIE werden über mehrere transatlantische Glasfaserverbindungen mit einer Kapazität von jeweils 100 Gbit/s verteilt. Die Verbindung nach Lateinamerika erfolgt nach Inbetriebnahme des Unterseekabels aus dem Projekt BELLA mit 100 Gbit/s.
 > Die Verbindung mit Afrika, Asien und Australien erfolgt überwiegend über regionale Forschungsnetze in den entsprechenden Regionen.
-> Desweiteren ist der DFN-Verein deutscher Partner des internationalen Netzwerks eduroam.
+> Desweiteren ist der DFN-Verein deutscher Partner des internationalen Netzwerks eduroam, sowie als Teil der GN-Projektreihe direkt an der Weiterentwicklung und dem Betrieb eines Backbone-Netzes zwischen den europäischen nationalen Forschungsnetzen beteiligt. Diese Projektreihe wird durch die GÉANT Association koordiniert, und durch Forschungsgelder der EU aus dem Programm Horizon Europe finanziert. Neben dem DFN-Verein sind 42 weitere Forschungsnetze an dem Projekt beteiligt.
 
 ***
 
@@ -91,13 +91,16 @@ tags:
 > Mit DFN-AAI wird eine Authentifizierungs- und Autorisierungs-Infrastruktur betrieben, um Nutzenden aus Wissenschaft und Forschung Zugang zu geschützten Ressourcen, wie Fachpublikationen, Forschungsdaten sowie E-Learning-Plattformen zu ermöglichen. Nutzende, die auf geschützte Ressourcen zugreifen wollen, authentifizieren sich an ihrer Heimateinrichtung und erhalten nach Übertragung der zur Autorisierung notwendigen Daten Zugriff auf die betreffenden Ressourcen.
 
 > [!summary] DFN-PKI 
-> Der DFN-Verein organisiert mit dem Dienst DFN-PKI eine Public-Key-Infrastruktur, um digitale Zertifikate auszustellen, zu verteilen und zu prüfen. Dabei werden fortgeschrittene Zertifikate auf Basis des X.509 Standards verwendet.
+> Der DFN-Verein organisiert mit dem Dienst DFN-PKI eine Public-Key-Infrastruktur, um digitale Zertifikate auszustellen, zu verteilen und zu prüfen. Dabei werden Zertifikate auf Basis des X.509 Standards verwendet.
 
-> [!summary] Collaboration-Dienste
-> Der DFN-Verein bietet zahlreiche Dienste zur Echtzeitkommunikation und standortunabhängiger Forschung an, beispielsweise Dienste zur Terminabstimmung, Mailinglisten, Videokonferenzdienste sowie IP-Telefonie.
+> [!summary] DFN-Conf
+> Unter dem Namen "DFN-Conf" betreibt der DFN-Verein eine eigene Infrastruktur zur Durchführung von Video-, Audio- und Webkonferenzen, welche auf einen besonders hohen Bedarf an Vertraulichkeit und Informationssicherheit ausgerichtet ist.
+
+> [!summary] DFN-Fernsprechen 
+> Der Dienst DFN-Fernsprechen bietet Voice-over-IP-basierte Anschlussarten, die auf die Anforderungen von Wissenschaft und Forschung abgestimmt sind und auf dem Wissenschaftsnetz X-WiN aufbauen. Ein entsprechender Rahmenvertrag bietet den Teilnehmern die Möglichkeit zur mobilen Sprach-, Nachrichten- und Datenübertragung. Als weiteres Dienstmodul umfasst DFN-Fernsprechen ein SMS-Gateway zur Übermittlung von Textnachrichten in ein Mobilfunknetz in Form von SMS-Kurznachrichten.
 
 > [!summary] Cloud-Dienste
-> Unter dem Namen "DFN-Cloud" organisiert der DFN-Verein ein Portfolio aus eigenen Angeboten, den oben beschriebenen Collaboration-Diensten, sowie Angebote anderer wissenschaftlicher Einrichtungen sowie externer Anbieter.
+> 
 
 ***
 
@@ -106,4 +109,5 @@ tags:
 - DFN-Website
 - Bericht Kanzlerjahrestagung 2023
 - Jahresbericht DFN 2023
+- DFN-Mitteilungen Ausgabe 104
 - DFN Mitteilungen Ausgabe 105
