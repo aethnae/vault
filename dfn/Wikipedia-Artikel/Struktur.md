@@ -102,8 +102,14 @@ tags:
 > [!summary] DFN-Terminplaner 
 > Der DFN-Terminplaner ist eine kostenlose, allgemein zugängliche Plattform, um Terminabstimmungen durchzuführen. Aus Gründen des Datenschutz und der Datensparsamkeit kann auch dieser Dienst ohne Anmeldung genutzt werden.
 
-> [!summary] Cloud-Dienste
-> 
+> [!summary] DFN-NetNews 
+> DFN-NetNews ermöglicht den Zugriff auf Newsgruppen, in denen das Expertenwissen eines internationalen Teilnehmerkreises genutzt werden kann. Dabei bietet der Dienst neben einer großen Anzahl englischsprachiger Newsgruppen auch nationale und regionale Newsgruppen, in denen mitdiskutiert werden kann.
+
+> [!summary] DFN-Listserv
+> Mit DFN-Listserv stellt der DFN-Verein einen Mailinglistenserver für themenbezogene Diskussionen zu Wissenschaft und Forschung bereit. Zur reinen Teilnahme an Mailinglisten muss keine Registrierung vorliegen, nur für das Erstellen und Verwalten eigener Listen.
+
+> [!summary] DFN-Cloud 
+> Unter dem Namen "DFN-Cloud" besteht desweiteren ein Portfolio aus eigenen, oben genannten Diensten, sowie Angeboten externer Anbieter, wobei zwischen Diensten wissenschaftlicher Einrichtungen (förderierte Cloud-Dienste) und kommerziellen Angeboten gewerblicher Anbieter (externe Cloud-Dienste) unterschieden wird. Diese werden einerseits auf eigenen Servern betrieben, andererseits auf Servern externer Partner – gewerblich oder aus den Reihen am Wissenschaftsnetz teilnehmender Einrichtungen.
 
 ***
 
