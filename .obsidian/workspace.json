@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4508d5a04d2d9609",
+        "id": "4f56451c0d0e51eb",
         "type": "tabs",
         "children": [
           {
-            "id": "f2fd4f7ca5f19eee",
+            "id": "81aac72df60e0a8a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -244,8 +244,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f2fd4f7ca5f19eee",
+  "active": "81aac72df60e0a8a",
   "lastOpenFiles": [
+    "misc/Sommerurlaub '24/Sights Tokyo.md",
     "misc/Wishlist Lab + Planning.md",
     "dfn/Wikipedia-Artikel/Struktur.md",
     "school/Deutsch/Hausaufgabe 21-03-23.md",
@@ -272,7 +273,6 @@
     "university (TU)/Lineare Algebra I/Übungsblätter/5. Hausaufgabenblatt.md",
     "university (HU)/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
     "university (HU)/Mikroökonomie I/Mikroökonomie I.md",
-    "university (HU)/Mikroökonomie I/Konzepte/Kapitel 15 - Marktnachfrage/Marktnachfrage.md",
     "university (TU)/Analysis I/Definitionen/Körperaxiome",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",
