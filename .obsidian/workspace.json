@@ -11,8 +11,12 @@
             "id": "369a26f09e4e4702",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "dfn/Wikipedia-Artikel/Struktur.md"
+              }
             }
           },
           {
@@ -170,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "dfn/Wikipedia-Artikel/Struktur.md"
+              }
             }
           },
           {
@@ -194,6 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -217,6 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,12 +257,14 @@
   },
   "active": "369a26f09e4e4702",
   "lastOpenFiles": [
-    "Test.md",
-    "misc/Sommerurlaub '24/Sights Tokyo.md",
+    "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
+    "dfn/Wikipedia-Artikel/Deutsches Forschungsnetz.md",
     "misc/Wishlist Lab + Planning.md",
+    "Test.md",
+    "misc/Japanisch.md",
+    "misc/Sommerurlaub '24/Sights Tokyo.md",
     "dfn/Wikipedia-Artikel/Struktur.md",
     "school/Deutsch/Hausaufgabe 21-03-23.md",
-    "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
     "dfn/Bestandsaufnahme Merch.md",
     "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binomischer Lehrsatz.md",
     "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binominalkoeffizient.md",
@@ -263,7 +276,6 @@
     "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Fermat-Gleichung.md",
     "university (TU)/Vorkurs/Beweise/Beweis per Schubfachprinzip.md",
     "dfn/Wikipedia-Artikel/Dummy Wikipedia-Artikel.md",
-    "dfn/Wikipedia-Artikel/Deutsches Forschungsnetz.md",
     "dsf.md",
     "university (HU)/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Satz von Taylor.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/8. Hausaufgabenblatt.md",
@@ -272,7 +284,6 @@
     "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
     "university (HU)/Mathematik I/LaTeX Snippets.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/5. Hausaufgabenblatt.md",
-    "university (HU)/Mikroökonomie I/Konzepte/Kapitel 19 - Technologie/Grenzrate der technischen Substitution.md",
     "university (TU)/Analysis I/Definitionen/Körperaxiome",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",

@@ -17,7 +17,7 @@ tags:
 #### 2. Geschichte
 
 > [!summary] Entwurf 
-> 1984 wurde der DFN-Verein von Hochschulen, außeruniversitären Forschungseinrichtungen und forschungsnahen Wirtschaftsunternehmen gegründet. Zu den Gründungsmitgliedern zählten neben der Gesellschaft für Mathematik und Datenverarbeitung (GMD, heute Teil der Fraunhofer-Gesellschaft) und dem Hahn-Meitner-Institut (HMI) die Deutsche Forschungs- und Versuchsanstalt für Luft- und Raumfahrt (DFVLR, heute DLR), die Fraunhofer-Gesellschaft, die Universitäten Hamburg, Karlsruhe und die TU Berlin, sowie die Industriefirmen IBM, Nixdorf, Siemens und Philips. Administrative und finanzielle Anschubunterstützung gab es durch das Bundesministerium für Forschung und Technologie.
+> 1984 wurde der DFN-Verein von Hochschulen, außeruniversitären Forschungseinrichtungen und forschungsnahen Wirtschaftsunternehmen gegründet. Zu den Gründungsmitgliedern zählten neben der Gesellschaft für Mathematik und Datenverarbeitung (GMD, heute Teil der Fraunhofer-Gesellschaft) und dem Hahn-Meitner-Institut (HMI, heute als Helmholtz-Zentrum Berlin für Materialien und Energie tätig) die Deutsche Forschungs- und Versuchsanstalt für Luft- und Raumfahrt (DFVLR, heute Deutsches Zentrum für Luft- und Raumfahrt), die Fraunhofer-Gesellschaft, die Universitäten Hamburg, Karlsruhe und die TU Berlin, sowie die Industriefirmen IBM, Nixdorf, Siemens und Philips. Administrative und finanzielle Anschubunterstützung leistete das Bundesministerium für Forschung und Technologie (BMFT).
 > 
 > Vier Ereignisse ebneten den Weg für die spätere Gründung:
 > 1. Das Bundesministerium für Forschung und Technologie (BMFT) gab 1981 eine Machbarkeitsuntersuchung beim Forschungsinstitut Stanford Research International in Auftrag,
@@ -61,9 +61,9 @@ tags:
 > - Gigabit-Wissenschaftsnetz (G-WiN, 2000-2005)
 > - X-WiN (seit 2006)
 > 
-> Während WiN, ERWiN und B-WiN noch Teilnetze verschiedener Netze der Deutschen Telekom waren, wurde mit dem G-WiN ein eigenes Netz, bestehend aus 27 Kernnetzknoten, betrieben. Desweiteren ermöglichte das G-WiN erstmalig Verbindungen mit Geschwindigkeiten von mehr als 1 Gbit/s, im Gegensatz zu maximal 622 Mbit/s im B-WiN, bzw. maximal 2 Mbit/s im WiN/ERWiN. Mit Anschlusskapazitäten von bis zu 200 Gbit/s für DFN-Teilnehmer und einem Multi-Terabit-Kernnetz, das sich zwischen 65 Kernnetzknoten aufspannt, zählt das X-WiN heute zu den größten und leistungsfähigsten Kommunikationsnetzen weltweit.
+> Während WiN, ERWiN und B-WiN noch Teilnetze verschiedener Netze der Deutschen Telekom waren, wurde mit dem G-WiN ein eigenes Netz, bestehend aus 27 Kernnetzknoten, betrieben. Des Weiteren ermöglichte das G-WiN erstmalig Verbindungen mit Geschwindigkeiten von mehr als 1 Gbit/s, im Gegensatz zu maximal 622 Mbit/s im B-WiN, bzw. maximal 2 Mbit/s im WiN/ERWiN. Mit Anschlusskapazitäten von bis zu 200 Gbit/s für DFN-Teilnehmer und einem Multi-Terabit-Kernnetz, das sich zwischen 65 Kernnetzknoten aufspannt, zählt das X-WiN heute zu den größten und leistungsfähigsten Kommunikationsnetzen weltweit.
 > 
-> Das X-WiN besteht aus einer Faser-, einer optischen, sowie einer IP-Plattform. Die Faserplattform verbindet die Kernnetzstandorte des X-WiN so miteinander, dass jeder Standort über mindestens zwei unabhängige Strecken erreichbar ist. Zwischen den Standorten werden auf der optischen Plattform Datenverbindungen mit verschiedenen Bandbreiten eingerichtet. Durch Multiplex-Technologie können über eine Glasfaser mehrere parallele Verbindungen mit einer maximalen Übertragungskapazität von 400 Gbit/s geschaltet werden, was für eine maximale Bandbreite von 23,2 Tbit/s zwischen zwei benachbarten Standorten sorgt. Die Router an den Kernnetzstandorten bilden aus den Verbindungen der optischen Plattform ein redundantes Netz, die IP-Plattform. Sie wird sowohl für den Dienst DFNInternet als auch für Virtuelle Private Netze geschlossener Gruppen von Teilnehmern verwendet.
+> Das X-WiN besteht aus einer Faser-, einer optischen, sowie einer IP-Plattform. Die Faserplattform verbindet die Kernnetzstandorte des X-WiN so miteinander, dass jeder Standort über mindestens zwei unabhängige Strecken erreichbar ist. Zwischen den Standorten werden auf der optischen Plattform Datenverbindungen mit verschiedenen Bandbreiten eingerichtet. Durch Multiplex-Technologie können über eine Glasfaser mehrere parallele Verbindungen mit einer maximalen Übertragungskapazität von 400 Gbit/s geschaltet werden, was für eine maximale Bandbreite von 23,2 Tbit/s zwischen zwei benachbarten Standorten sorgt. Die Router an den Kernnetzstandorten bilden aus den Verbindungen der optischen Plattform ein redundantes Netz, die IP-Plattform. Sie wird sowohl für den Dienst DFN-Internet als auch für Virtuelle Private Netze geschlossener Gruppen von Teilnehmern verwendet.
 
 ***
 
@@ -72,7 +72,7 @@ tags:
 > [!summary] Entwurf 
 > In fast jedem Land der Welt gibt es – ähnlich dem Deutschen Forschungsnetz – eine Infrastruktur (National Research and Education Network, NREN) für Forschung und Lehre. Die Konnektivität zu den europäischen und weltweiten Forschungsnetzen wird von der GÉANT Association über ein europäisches Verbindungsnetz (GÉANT) realisiert, an welches das X-WiN mit 600 Gbit/s angeschlossen ist. Die Verbindungen zu den nordamerikanischen Forschungsnetzen Internet2, ESnet und CANARIE werden über mehrere transatlantische Glasfaserverbindungen mit einer Kapazität von jeweils 100 Gbit/s verteilt. Die Verbindung nach Lateinamerika erfolgt nach Inbetriebnahme des Unterseekabels aus dem Projekt BELLA mit 100 Gbit/s.
 > Die Verbindung mit Afrika, Asien und Australien erfolgt überwiegend über regionale Forschungsnetze in den entsprechenden Regionen.
-> Desweiteren ist der DFN-Verein deutscher Partner des internationalen Netzwerks eduroam, sowie als Teil der GN-Projektreihe direkt an der Weiterentwicklung und dem Betrieb eines Backbone-Netzes zwischen den europäischen nationalen Forschungsnetzen beteiligt. Diese Projektreihe wird durch die GÉANT Association koordiniert, und durch Forschungsgelder der EU aus dem Programm Horizon Europe finanziert. Neben dem DFN-Verein sind 42 weitere Forschungsnetze an dem Projekt beteiligt.
+> Des Weiteren ist der DFN-Verein deutscher Partner des internationalen Netzwerks eduroam, sowie als Teil der GN-Projektreihe direkt an der Weiterentwicklung und dem Betrieb eines Backbone-Netzes zwischen den europäischen nationalen Forschungsnetzen beteiligt. Diese Projektreihe wird durch die GÉANT Association koordiniert, und durch Forschungsgelder der EU aus dem Programm Horizon Europe finanziert. Neben dem DFN-Verein sind 42 weitere Forschungsnetze an dem Projekt beteiligt.
 
 ***
 
@@ -94,22 +94,22 @@ tags:
 > Der DFN-Verein organisiert mit dem Dienst DFN-PKI eine Public-Key-Infrastruktur, um digitale Zertifikate auszustellen, zu verteilen und zu prüfen. Dabei werden Zertifikate auf Basis des X.509 Standards verwendet.
 
 > [!summary] DFN-Conf
-> Unter dem Namen "DFN-Conf" betreibt der DFN-Verein eine eigene Infrastruktur zur Durchführung von Video-, Audio- und Webkonferenzen, welche auf einen besonders hohen Bedarf an Vertraulichkeit und Informationssicherheit ausgerichtet ist.
+> Unter dem Namen "DFN-Conf" betreibt der DFN-Verein eine eigene Infrastruktur zur Durchführung von Video-, Audio- und Webkonferenzen, welche auf einen hohen Bedarf an Vertraulichkeit und Informationssicherheit ausgerichtet ist.
 
 > [!summary] DFN-Fernsprechen 
 > Der Dienst DFN-Fernsprechen bietet Voice-over-IP-basierte Anschlussarten, die auf die Anforderungen von Wissenschaft und Forschung abgestimmt sind und auf dem Wissenschaftsnetz X-WiN aufbauen. Ein entsprechender Rahmenvertrag bietet den Teilnehmern die Möglichkeit zur mobilen Sprach-, Nachrichten- und Datenübertragung. Als weiteres Dienstmodul umfasst DFN-Fernsprechen ein SMS-Gateway zur Übermittlung von Textnachrichten in ein Mobilfunknetz in Form von SMS-Kurznachrichten.
 
 > [!summary] DFN-Terminplaner 
-> Der DFN-Terminplaner ist eine kostenlose, allgemein zugängliche Plattform, um Terminabstimmungen durchzuführen. Aus Gründen des Datenschutz und der Datensparsamkeit kann auch dieser Dienst ohne Anmeldung genutzt werden.
+> Der DFN-Terminplaner ist eine kostenlose Plattform, um Terminabstimmungen durchzuführen. Aus Gründen des Datenschutzes und der Datensparsamkeit kann dieser Dienst ohne Anmeldung, und somit auch von Nutzern ohne Mitgliedschaft im DFN-Verein genutzt werden.
 
 > [!summary] DFN-NetNews 
-> DFN-NetNews ermöglicht den Zugriff auf Newsgruppen, in denen das Expertenwissen eines internationalen Teilnehmerkreises genutzt werden kann. Dabei bietet der Dienst neben einer großen Anzahl englischsprachiger Newsgruppen auch nationale und regionale Newsgruppen, in denen mitdiskutiert werden kann.
+> DFN-NetNews ermöglicht den Zugriff auf Newsgruppen, in denen das Expertenwissen eines internationalen Teilnehmerkreises genutzt werden kann. Dabei bietet der Dienst neben englischsprachigen Newsgruppen auch nationale und regionale Newsgruppen, in denen mitdiskutiert werden kann.
 
 > [!summary] DFN-Listserv
 > Mit DFN-Listserv stellt der DFN-Verein einen Mailinglistenserver für themenbezogene Diskussionen zu Wissenschaft und Forschung bereit. Zur reinen Teilnahme an Mailinglisten muss keine Registrierung vorliegen, nur für das Erstellen und Verwalten eigener Listen.
 
 > [!summary] DFN-Cloud 
-> Unter dem Namen "DFN-Cloud" besteht desweiteren ein Portfolio aus eigenen, oben genannten Diensten, sowie Angeboten externer Anbieter, wobei zwischen Diensten wissenschaftlicher Einrichtungen (förderierte Cloud-Dienste) und kommerziellen Angeboten gewerblicher Anbieter (externe Cloud-Dienste) unterschieden wird. Diese werden einerseits auf eigenen Servern betrieben, andererseits auf Servern externer Partner – gewerblich oder aus den Reihen am Wissenschaftsnetz teilnehmender Einrichtungen.
+> Unter dem Namen "DFN-Cloud" besteht desweiteren ein Portfolio aus eigenen Diensten, namentlich DFN-Terminplaner und DFN-Conf, sowie Angeboten externer Anbieter, wobei zwischen Diensten wissenschaftlicher Einrichtungen (förderierte Cloud-Dienste) und kommerziellen Angeboten gewerblicher Anbieter (externe Cloud-Dienste) unterschieden wird. Diese werden einerseits auf eigenen Servern betrieben, andererseits auf Servern externer Partner – gewerblich oder aus den Reihen am Wissenschaftsnetz teilnehmender Einrichtungen.
 
 ***
 
