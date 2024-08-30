@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "e1e19ade817adfa5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,7 +266,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "369a26f09e4e4702",
+  "active": "e1e19ade817adfa5",
   "lastOpenFiles": [
     "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
     "dfn/Wikipedia-Artikel/Deutsches Forschungsnetz.md",
