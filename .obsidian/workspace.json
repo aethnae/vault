@@ -18,19 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "e1e19ade817adfa5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +79,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +136,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -189,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -214,7 +202,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -238,7 +225,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,15 +252,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1e19ade817adfa5",
+  "active": "e041748da01c05af",
   "lastOpenFiles": [
+    "Untitled.md",
+    "dfn/Wikipedia-Artikel/Struktur.md",
     "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
     "dfn/Wikipedia-Artikel/Deutsches Forschungsnetz.md",
     "misc/Wishlist Lab + Planning.md",
     "Test.md",
     "misc/Japanisch.md",
     "misc/Sommerurlaub '24/Sights Tokyo.md",
-    "dfn/Wikipedia-Artikel/Struktur.md",
     "school/Deutsch/Hausaufgabe 21-03-23.md",
     "dfn/Bestandsaufnahme Merch.md",
     "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binomischer Lehrsatz.md",
@@ -294,7 +281,6 @@
     "university (HU)/Mathematik I/Rechengesetze.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
     "university (HU)/Mathematik I/LaTeX Snippets.md",
-    "university (TU)/Lineare Algebra I/Übungsblätter/5. Hausaufgabenblatt.md",
     "university (TU)/Analysis I/Definitionen/Körperaxiome",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",
