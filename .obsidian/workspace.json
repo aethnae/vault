@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Halo Bewerbung.md",
+                "file": "Motivationsschreiben.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ce8d70cbe60704f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arbeitszeugnis.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Halo Bewerbung.md",
+                "file": "Arbeitszeugnis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,7 +150,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Halo Bewerbung.md"
+                "file": "Arbeitszeugnis.md"
               }
             }
           },
@@ -178,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Halo Bewerbung.md"
+                "file": "Arbeitszeugnis.md"
               }
             }
           },
@@ -203,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Halo Bewerbung.md",
+                "file": "Arbeitszeugnis.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -227,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Halo Bewerbung.md",
+                "file": "Arbeitszeugnis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,10 +268,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "369a26f09e4e4702",
+  "active": "ce8d70cbe60704f3",
   "lastOpenFiles": [
+    "Motivationsschreiben.md",
+    "Arbeitszeugnis.md",
     "dfn/Wikipedia-Artikel/Struktur.md",
-    "Halo Bewerbung.md",
     "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
     "dfn/Wikipedia-Artikel/Deutsches Forschungsnetz.md",
     "misc/Wishlist Lab + Planning.md",
@@ -283,7 +297,6 @@
     "university (TU)/Lineare Algebra I/Übungsblätter/7. Hausaufgabenblatt.md",
     "university (HU)/Mathematik I/Rechengesetze.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
-    "university (HU)/Mathematik I/LaTeX Snippets.md",
     "university (TU)/Analysis I/Definitionen/Körperaxiome",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",
