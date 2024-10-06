@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
+                "file": "Halo Bewerbung.md",
                 "mode": "source",
                 "source": true
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
+                "file": "Halo Bewerbung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md"
+                "file": "Halo Bewerbung.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md"
+                "file": "Halo Bewerbung.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
+                "file": "Halo Bewerbung.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dfn/Wikipedia-Artikel/Struktur.md",
+                "file": "Halo Bewerbung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,10 +255,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e041748da01c05af",
+  "active": "369a26f09e4e4702",
   "lastOpenFiles": [
-    "Untitled.md",
     "dfn/Wikipedia-Artikel/Struktur.md",
+    "Halo Bewerbung.md",
     "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
     "dfn/Wikipedia-Artikel/Deutsches Forschungsnetz.md",
     "misc/Wishlist Lab + Planning.md",
