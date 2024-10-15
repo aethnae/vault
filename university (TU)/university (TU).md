@@ -9,12 +9,10 @@
 			- [[Kleiner Satz von Gauß]]
 		- [[Beschränkte Menge]]
 	- **Übungsblätter**
-		- [[Hausaufgabenblatt 0]]
 - **Lineare Algebra I**
 	- **Definitionen**
 		- [[Kompositionen]]
 		- [[Mächtigkeit von Mengen]]
-		- [[Matrizen]]
 		- [[Umkehrabbildungen]]
 		- [[Wie lesen wir Aussagen?]]
 	- **Übungsblätter**
@@ -24,10 +22,7 @@
 		- [[5. Hausaufgabenblatt]]
 		- [[7. Hausaufgabenblatt]]
 		- [[8. Hausaufgabenblatt]]
-- [[university (TU)]]
-- **Vorkurs**
-	- **Abbildungen und Funktionen**
-		- [[Abbildungen]]
+- **Mathematische Grundbegriffe**
 	- **Aussagenlogik**
 		- [[Aussagen]]
 		- [[Junktoren]]
@@ -55,5 +50,6 @@
 		- [[Summen- und Produktzeichen]]
 		- [[Wurzeln]]
 	- [[Teilbarkeit]]
+- [[university (TU)]]
 
 %% End Waypoint %%

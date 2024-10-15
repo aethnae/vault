@@ -1,3 +1,0 @@
-***
-
-Besonders interessiert bin ich an der Möglichkeit der Vernetzung innerhalb der Stiftung: Innerhalb meiner Förderung würde ich mich gerne mit internationaler Entwicklungsökonomie auf der einen, mit der Stärkung demokratischer Grundwerte in Deutschland auf der anderen Seite auseinandersetzen, und diese Themen nach Möglichkeit im Team mit gleichgesinnten Stipendiaten angehen. Auch die Möglichkeit, Einblicke in die Führungsebene verschiedener Unternehmen zu erhalten, betrachte ich als sehr gewinnbringend: Besonders die Entwicklungsarbeit in Schwellenländern, auf welche ich einen Schwerpunkt setzen will, ist stark abhängig von Investitionen internationaler Unternehmen, und muss immer gemeinsam gedacht werden um nachhaltig Erfolg zu erzielen.

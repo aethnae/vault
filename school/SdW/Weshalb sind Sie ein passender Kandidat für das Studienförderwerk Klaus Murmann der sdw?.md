@@ -1,4 +1,0 @@
-***
-
-Meine unternehmerische Grundhaltung ist an vielen Stellen meines Lebensweges zu erkennen: Zielstrebigkeit und die Fähigkeit, vernetzt zu Denken sowie interdisziplinäres Wissen zu meinem Vorteil anzuwenden drücken sich seit Beginn meiner Schullaufbahn aus - durch Lehrkräfte und mein persönliches Umfeld wird mir ein hohes Allgemeinwissen sowie die Fähigkeit, Verantwortung zu übernehmen und Ziele im Team zu erreichen, attestiert.
-Eigeninitiative und Engagement sind zwei Grundpfeiler in meinem Leben - Durch verschiedene ehrenamtliche Tätigkeiten drückt sich mein Streben nach gesellschaftlicher Verbesserung aus, bei welchem ich bewusst auf eigene Fähigkeiten setze und als gutes Beispiel vorangehen will, um andere zu inspirieren.

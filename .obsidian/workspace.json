@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "16b4ea03387956a7",
+        "id": "f8a5a0e437b4b538",
         "type": "tabs",
         "children": [
           {
-            "id": "369a26f09e4e4702",
+            "id": "7e1ab6425c8b0c9a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Motivationsschreiben.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ce8d70cbe60704f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arbeitszeugnis.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Arbeitszeugnis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +132,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Arbeitszeugnis.md"
+                "file": "university (TU)/Mathematische Grundbegriffe/Abbildungen und Funktionen/Abbildungen.md"
               }
             }
           },
@@ -191,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arbeitszeugnis.md"
+                "file": "university (TU)/Mathematische Grundbegriffe/Abbildungen und Funktionen/Abbildungen.md"
               }
             }
           },
@@ -216,7 +198,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arbeitszeugnis.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -240,7 +221,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arbeitszeugnis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,8 +248,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce8d70cbe60704f3",
+  "active": "e041748da01c05af",
   "lastOpenFiles": [
+    "university (TU)/university (TU).md",
+    "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md",
+    "university (TU)/Lineare Algebra I/Definitionen/Matrizen.md",
+    "university (TU)/Mathematische Grundbegriffe/Abbildungen und Funktionen/Abbildungen.md",
+    "university (TU)/Lineare Algebra I/Übungsblätter/2. Hausaufgabenblatt.md",
+    "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
+    "misc/Design Ideas.md",
+    "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
+    "misc/Sparplan.md",
+    "misc/Finanzplan.md",
+    "misc/Sommerurlaub '24/Sights Tokyo.md",
+    "misc/Japanisch.md",
     "Motivationsschreiben.md",
     "Arbeitszeugnis.md",
     "dfn/Wikipedia-Artikel/Struktur.md",
@@ -277,26 +269,14 @@
     "dfn/Wikipedia-Artikel/Deutsches Forschungsnetz.md",
     "misc/Wishlist Lab + Planning.md",
     "Test.md",
-    "misc/Japanisch.md",
-    "misc/Sommerurlaub '24/Sights Tokyo.md",
     "school/Deutsch/Hausaufgabe 21-03-23.md",
     "dfn/Bestandsaufnahme Merch.md",
     "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binomischer Lehrsatz.md",
     "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binominalkoeffizient.md",
-    "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md",
     "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion",
     "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Kleiner Satz von Gauß.md",
     "files/Snippets.md",
-    "university (TU)/university (TU).md",
-    "university (TU)/Vorkurs/Rechnen mit reellen Zahlen/Fermat-Gleichung.md",
-    "university (TU)/Vorkurs/Beweise/Beweis per Schubfachprinzip.md",
-    "dfn/Wikipedia-Artikel/Dummy Wikipedia-Artikel.md",
-    "dsf.md",
-    "university (HU)/Mathematik I/Konzepte/Abschnitt 3 - Ableitungen & Differentiale/Satz von Taylor.md",
-    "university (TU)/Lineare Algebra I/Übungsblätter/8. Hausaufgabenblatt.md",
-    "university (TU)/Lineare Algebra I/Übungsblätter/7. Hausaufgabenblatt.md",
-    "university (HU)/Mathematik I/Rechengesetze.md",
-    "university (TU)/Lineare Algebra I/Übungsblätter/3. Hausaufgabenblatt.md",
+    "university (TU)/Mathematische Grundbegriffe/Rechnen mit reellen Zahlen/Fermat-Gleichung.md",
     "university (TU)/Analysis I/Definitionen/Körperaxiome",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",
@@ -311,7 +291,7 @@
     "files/Pasted image 20240416151536.png",
     "files/Pasted image 20240415183757.png",
     "files/Pasted image 20240415180142.png",
-    "university (TU)/Vorkurs/Abbildungen und Funktionen",
+    "university (TU)/Mathematische Grundbegriffe/Abbildungen und Funktionen",
     "files/Pasted image 20240201190426.png",
     "files/Pasted image 20240201185224.png",
     "files/Pasted image 20240201182229.png",

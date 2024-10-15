@@ -1,2 +1,0 @@
-## Tokyo Sehenswürdigkeiten
-
