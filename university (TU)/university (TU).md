@@ -3,30 +3,20 @@
 %% Begin Waypoint %%
 - **Analysis I**
 	- **Definitionen**
-		- **1. Vollständige Induktion**
-			- [[Binominalkoeffizient]]
-			- [[Binomischer Lehrsatz]]
-			- [[Kleiner Satz von Gauß]]
-		- [[Beschränkte Menge]]
-	- **Übungsblätter**
 - **Lineare Algebra I**
 	- **Definitionen**
-		- [[Kompositionen]]
-		- [[Mächtigkeit von Mengen]]
-		- [[Umkehrabbildungen]]
-		- [[Wie lesen wir Aussagen?]]
-	- **Übungsblätter**
-		- [[1. Hausaufgabenblatt]]
-		- [[2. Hausaufgabenblatt]]
-		- [[3. Hausaufgabenblatt]]
-		- [[5. Hausaufgabenblatt]]
-		- [[7. Hausaufgabenblatt]]
-		- [[8. Hausaufgabenblatt]]
+		- **2.1 Mengen und Aussagen**
+			- [[Großer Durchschnitt, Große Vereinigung, Indexmengen]]
+			- [[Leere Menge]]
+			- [[Mächtigkeit von Mengen]]
+			- [[Mengen]]
+			- [[Teilmengen]]
 - **Mathematische Grundbegriffe**
 	- **Aussagenlogik**
 		- [[Aussagen]]
 		- [[Junktoren]]
 		- [[Quantoren]]
+		- [[Wie lesen wir Aussagen?]]
 	- **Beweise**
 		- [[Beweis per Äquivalenz]]
 		- [[Beweis per Kontradiktion]]
@@ -36,20 +26,14 @@
 		- [[Beweisstrukturen]]
 		- [[Direkte Beweise]]
 		- [[Widerlegung durch ein Gegenbeispiel]]
-	- **[[Mengen]]**
-		- [[Intervalle]]
-		- [[Mengen]]
-		- [[Mengenoperationen]]
-		- [[Teilmengen]]
-	- **Rechnen mit reellen Zahlen**
-		- [[Betrag von reellen Zahlen]]
-		- [[Fermat-Gleichung]]
-		- [[Gleichungen]]
-		- [[Ordnung von reellen Zahlen]]
-		- [[Potenzen]]
-		- [[Summen- und Produktzeichen]]
-		- [[Wurzeln]]
-	- [[Teilbarkeit]]
+- **Übungsblätter (Archiv)**
+	- **LinA**
+		- [[1. Hausaufgabenblatt]]
+		- [[2. Hausaufgabenblatt]]
+		- [[3. Hausaufgabenblatt]]
+		- [[5. Hausaufgabenblatt]]
+		- [[7. Hausaufgabenblatt]]
+		- [[8. Hausaufgabenblatt]]
 - [[university (TU)]]
 
 %% End Waypoint %%

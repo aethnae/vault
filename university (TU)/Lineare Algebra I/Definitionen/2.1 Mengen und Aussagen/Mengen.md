@@ -33,16 +33,3 @@ Um eine Menge zu definieren, existieren zwei verschiedene Möglichkeiten:
 > [!remark] Reihenfolge & Vielfachheit von Mengen
 > Bei Mengen kommt es nicht auf die Reihenfolge der Elemente an. Jedes Element kommt nur einmalig vor, d.h. $\{ 1,2,3 \} = \{ 3,2,1 \} = \{ 1,1,1,2,3 \}$.
 
-> [!remark] Endlichkeit & Kardinalität von Mengen
-> Eine Menge heißt *endlich*, falls sie eine endliche Menge an Elementen enthält. Die Anzahl der Elemente von $M$ wird **Kardinalität** (oder *Mächtigkeit*) von $M$ genannt und mit $\vert M \vert$ notiert. 
-
-***
-#### Beispiele
-
-> [!exm] Leere Mengen 
-> Die leere Menge $\varnothing$ enthält kein Element. Eine alternative Schreibweise besteht mit $\{  \}$.
-
-> [!exm] Mengen mit definierenden Eigenschaften
-> $\{ x | x^{2} = 9 \text{ und } x \in \mathbb{N} \} = \{ x \in \mathbb{N} | x^{2} = 9 \} = \{ 3 \}$
-
-***

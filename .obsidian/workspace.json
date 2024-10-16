@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "91b410e81c970e57",
+        "id": "8d4b544cf81c215e",
         "type": "tabs",
         "children": [
           {
-            "id": "9867eba84c559ed2",
+            "id": "eb8b177b96223435",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Großer Durchschnitt, Große Vereinigung, Indexmengen.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Großer Durchschnitt, Große Vereinigung, Indexmengen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Großer Durchschnitt, Große Vereinigung, Indexmengen.md"
+              }
             }
           },
           {
@@ -170,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Großer Durchschnitt, Große Vereinigung, Indexmengen.md"
+              }
             }
           },
           {
@@ -194,6 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Großer Durchschnitt, Große Vereinigung, Indexmengen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -217,6 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Großer Durchschnitt, Große Vereinigung, Indexmengen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,35 +255,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9867eba84c559ed2",
+  "active": "eb8b177b96223435",
   "lastOpenFiles": [
-    "university (TU)/Mathematische Grundbegriffe/Abbildungen und Funktionen/Abbildungen.md",
-    "university (TU)/university (TU).md",
+    "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Mengen.md",
+    "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Großer Durchschnitt, Große Vereinigung, Indexmengen.md",
+    "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Mächtigkeit von Mengen.md",
+    "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Leere Menge.md",
+    "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Teilmengen.md",
+    "university (TU)/Mathematische Grundbegriffe/Aussagenlogik/Wie lesen wir Aussagen?.md",
+    "university (TU)/Mathematische Grundbegriffe/Aussagenlogik/Quantoren.md",
+    "university (TU)/Mathematische Grundbegriffe/Aussagenlogik/Junktoren.md",
+    "university (TU)/Mathematische Grundbegriffe/Aussagenlogik/Aussagen.md",
+    "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen",
+    "university (TU)/Lineare Algebra I/Untitled",
+    "university (TU)/Übungsblätter (Archiv)/LinA/1. Hausaufgabenblatt.md",
+    "university (TU)/Übungsblätter (Archiv)/LinA/7. Hausaufgabenblatt.md",
+    "university (TU)/Übungsblätter (Archiv)/LinA/5. Hausaufgabenblatt.md",
+    "university (TU)/Übungsblätter (Archiv)",
     "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md",
-    "university (TU)/Lineare Algebra I/Definitionen/Matrizen.md",
-    "university (TU)/Lineare Algebra I/Übungsblätter/2. Hausaufgabenblatt.md",
-    "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
-    "misc/Design Ideas.md",
-    "university (TU)/Analysis I/Übungsblätter/Hausaufgabenblatt 0.md",
-    "misc/Sparplan.md",
-    "misc/Finanzplan.md",
-    "misc/Sommerurlaub '24/Sights Tokyo.md",
-    "misc/Japanisch.md",
-    "Motivationsschreiben.md",
-    "Arbeitszeugnis.md",
-    "dfn/Wikipedia-Artikel/Struktur.md",
-    "dfn/Wikipedia-Artikel/Wikipedia-Artikel.md",
-    "dfn/Wikipedia-Artikel/Deutsches Forschungsnetz.md",
-    "misc/Wishlist Lab + Planning.md",
-    "Test.md",
-    "school/Deutsch/Hausaufgabe 21-03-23.md",
-    "dfn/Bestandsaufnahme Merch.md",
+    "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Kleiner Satz von Gauß.md",
     "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binomischer Lehrsatz.md",
     "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binominalkoeffizient.md",
+    "university (TU)/Lineare Algebra I/Definitionen/Umkehrabbildungen.md",
+    "university (TU)/Lineare Algebra I/Definitionen/Kompositionen.md",
+    "university (TU)/university (TU).md",
+    "university (TU)/Mathematische Grundbegriffe/Mengen/Mengenoperationen.md",
+    "university (TU)/Mathematische Grundbegriffe/Mengen/Intervalle.md",
+    "university (TU)/Mathematische Grundbegriffe/Teilbarkeit.md",
+    "university (TU)/Mathematische Grundbegriffe/Rechnen mit reellen Zahlen/Betrag von reellen Zahlen.md",
+    "university (TU)/Mathematische Grundbegriffe/Rechnen mit reellen Zahlen/Ordnung von reellen Zahlen.md",
+    "university (TU)/Mathematische Grundbegriffe/Rechnen mit reellen Zahlen/Summen- und Produktzeichen.md",
+    "university (TU)/Mathematische Grundbegriffe/Rechnen mit reellen Zahlen/Potenzen.md",
     "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion",
-    "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Kleiner Satz von Gauß.md",
-    "files/Snippets.md",
-    "university (TU)/Mathematische Grundbegriffe/Rechnen mit reellen Zahlen/Fermat-Gleichung.md",
     "university (TU)/Analysis I/Definitionen/Körperaxiome",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",
@@ -282,12 +296,9 @@
     "university (TU)/Analysis I/Definitionen",
     "university (TU)/Lineare Algebra I/Definitionen",
     "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Aussagenlogik und Beweise",
-    "university (TU)/Lineare Algebra I/Übungsblätter",
-    "university (TU)/Analysis I/Übungsblätter",
     "files/Pasted image 20240416151536.png",
     "files/Pasted image 20240415183757.png",
     "files/Pasted image 20240415180142.png",
-    "university (TU)/Mathematische Grundbegriffe/Abbildungen und Funktionen",
     "files/Pasted image 20240201190426.png",
     "files/Pasted image 20240201185224.png",
     "files/Pasted image 20240201182229.png",
