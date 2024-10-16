@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f8a5a0e437b4b538",
+        "id": "91b410e81c970e57",
         "type": "tabs",
         "children": [
           {
-            "id": "7e1ab6425c8b0c9a",
+            "id": "9867eba84c559ed2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -131,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university (TU)/Mathematische Grundbegriffe/Abbildungen und Funktionen/Abbildungen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university (TU)/Mathematische Grundbegriffe/Abbildungen und Funktionen/Abbildungen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -248,12 +244,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e041748da01c05af",
+  "active": "9867eba84c559ed2",
   "lastOpenFiles": [
+    "university (TU)/Mathematische Grundbegriffe/Abbildungen und Funktionen/Abbildungen.md",
     "university (TU)/university (TU).md",
     "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md",
     "university (TU)/Lineare Algebra I/Definitionen/Matrizen.md",
-    "university (TU)/Mathematische Grundbegriffe/Abbildungen und Funktionen/Abbildungen.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/2. Hausaufgabenblatt.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
     "misc/Design Ideas.md",
