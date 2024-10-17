@@ -27,10 +27,3 @@ justifications:
 > \bigcup_{i=1}^n M_i \quad \text { und } \quad \bigcap_{i=1}^n M_i
 > $$
 
-***
-#### Beispiele
-
-> [!exm|*] <% tp.file.cursor(4) %> 
-> <% tp.file.cursor(5) %>
-
-***

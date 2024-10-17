@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8d4b544cf81c215e",
+        "id": "de8fe47b9b056ee6",
         "type": "tabs",
         "children": [
           {
-            "id": "eb8b177b96223435",
+            "id": "9e3037515eaaf34e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Großer Durchschnitt, Große Vereinigung, Indexmengen.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Großer Durchschnitt, Große Vereinigung, Indexmengen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Großer Durchschnitt, Große Vereinigung, Indexmengen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Großer Durchschnitt, Große Vereinigung, Indexmengen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -203,7 +194,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Großer Durchschnitt, Große Vereinigung, Indexmengen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -227,7 +217,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Großer Durchschnitt, Große Vereinigung, Indexmengen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,10 +244,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb8b177b96223435",
+  "active": "9e3037515eaaf34e",
   "lastOpenFiles": [
-    "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Mengen.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Großer Durchschnitt, Große Vereinigung, Indexmengen.md",
+    "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Mengen.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Mächtigkeit von Mengen.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Leere Menge.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Teilmengen.md",
