@@ -123,6 +123,7 @@
     {trigger: "liml", replacement: "\\lim_{ ${0:n} \\uparrow ${1:\\infty} } $2", options: "m"},
     {trigger: "limr", replacement: "\\lim_{ ${0:n} \\downarrow ${1:\\infty} } $2", options: "m"},
     {trigger: "goes", replacement: "\\stackrel{${0:n} \\rightarrow ${1:\\infty}}{\\longrightarrow} $2", options: "mA"},
+    {trigger: "over", replacement: "\\stackrel{ $0 }{ $1 } $2", options: "mA"},
     {trigger: "pm", replacement: "\\pm", options: "m"},
     {trigger: "mp", replacement: "\\mp", options: "m"},
     {trigger: "...", replacement: "\\ldots", options: "mA"},
