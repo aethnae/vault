@@ -11,6 +11,12 @@
 			- [[Mächtigkeit von Mengen]]
 			- [[Mengen]]
 			- [[Teilmengen]]
+		- **2.2 Abbildungen**
+			- [[Bild und Urbild von Abbildungen]]
+			- [[Injektivität, Surjektivität & Bijektivität]]
+			- [[Komposition von Abbildungen]]
+			- [[Sätze über Bijektivität]]
+			- [[Umkehrabbildung]]
 	- **Übungsblätter**
 		- [[1. Übungsblatt]]
 - **Mathematische Grundbegriffe**

@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "de8fe47b9b056ee6",
+        "id": "e817f268942f7fe9",
         "type": "tabs",
         "children": [
           {
-            "id": "9e3037515eaaf34e",
+            "id": "1ff3b9ac0794cc10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/1. Übungsblatt.md",
+                "file": "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Sätze über Bijektivität.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "6b06391dcdbaf8e1",
+            "id": "a484d8c27f985170",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "files/Snippets.md",
+                "file": "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Umkehrabbildung.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/1. Übungsblatt.md",
+                "file": "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Umkehrabbildung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,7 +150,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/1. Übungsblatt.md"
+                "file": "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Umkehrabbildung.md"
               }
             }
           },
@@ -190,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/1. Übungsblatt.md"
+                "file": "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Umkehrabbildung.md"
               }
             }
           },
@@ -202,7 +203,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "ac8e2c4e1d0a0efb",
@@ -215,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/1. Übungsblatt.md",
+                "file": "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Umkehrabbildung.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -239,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/1. Übungsblatt.md",
+                "file": "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Umkehrabbildung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,21 +269,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e3037515eaaf34e",
+  "active": "a484d8c27f985170",
   "lastOpenFiles": [
+    "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Sätze über Bijektivität.md",
+    "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Umkehrabbildung.md",
+    "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Komposition von Abbildungen.md",
+    "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Injektivität, Surjektivität & Bijektivität.md",
+    "files/Snippets.md",
+    "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Bild und Urbild von Abbildungen.md",
+    "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Teilmengen.md",
+    "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen",
+    "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Mengen.md",
+    "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Mächtigkeit von Mengen.md",
+    "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Großer Durchschnitt, Große Vereinigung, Indexmengen.md",
+    "university (TU)/Lineare Algebra I/Übungsblätter/1. Übungsblatt.md",
     "university (TU)/Übungsblätter (Archiv)/LinA/2. Hausaufgabenblatt.md",
     "university (TU)/Übungsblätter (Archiv)/LinA/1. Hausaufgabenblatt.md",
-    "university (TU)/Lineare Algebra I/Übungsblätter/1. Übungsblatt.md",
-    "files/Snippets.md",
     "university (TU)/Übungsblätter (Archiv)/LinA/7. Hausaufgabenblatt.md",
     "university (TU)/Übungsblätter (Archiv)/LinA/5. Hausaufgabenblatt.md",
     "university (TU)/Übungsblätter (Archiv)/LinA/3. Hausaufgabenblatt.md",
     "university (TU)/Lineare Algebra I/Übungsblätter",
-    "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Großer Durchschnitt, Große Vereinigung, Indexmengen.md",
-    "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Mengen.md",
-    "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Mächtigkeit von Mengen.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Leere Menge.md",
-    "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Teilmengen.md",
     "university (TU)/Mathematische Grundbegriffe/Aussagenlogik/Wie lesen wir Aussagen?.md",
     "university (TU)/Mathematische Grundbegriffe/Aussagenlogik/Quantoren.md",
     "university (TU)/Mathematische Grundbegriffe/Aussagenlogik/Junktoren.md",
@@ -293,11 +301,6 @@
     "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binomischer Lehrsatz.md",
     "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binominalkoeffizient.md",
     "university (TU)/Lineare Algebra I/Definitionen/Umkehrabbildungen.md",
-    "university (TU)/Lineare Algebra I/Definitionen/Kompositionen.md",
-    "university (TU)/university (TU).md",
-    "university (TU)/Mathematische Grundbegriffe/Mengen/Mengenoperationen.md",
-    "university (TU)/Mathematische Grundbegriffe/Mengen/Intervalle.md",
-    "university (TU)/Mathematische Grundbegriffe/Teilbarkeit.md",
     "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion",
     "university (TU)/Analysis I/Definitionen/Körperaxiome",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
@@ -307,7 +310,6 @@
     "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe",
     "university (TU)/Analysis I/Definitionen",
     "university (TU)/Lineare Algebra I/Definitionen",
-    "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe/Aussagenlogik und Beweise",
     "files/Pasted image 20240416151536.png",
     "files/Pasted image 20240415183757.png",
     "files/Pasted image 20240415180142.png",

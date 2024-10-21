@@ -88,6 +88,8 @@
     {trigger: "conj", replacement: "^{*}", options: "mA"},
     {trigger: "bar", replacement: "\\bar{$0}", options: "m"},
     {trigger: "hat", replacement: "\\hat{$0}", options: "mA"},
+    {trigger: "til", replacement: "\\tilde{$0}", options: "mA"},
+    {trigger: "dot", replacement: "\\dot{$0}", options: "mA"},
     {trigger: "dot", replacement: "\\dot{$0}", options: "mA"},
     {trigger: "([^\\\\])(arcsin|arccos|arctan|arccot|arccsc|arcsec|sin|cos|tan|cot|csc)", replacement: "[[0]]\\[[1]]", options: "rmA"},
     {trigger: "\\\\(arcsin|arccos|arctan|arccot|arccsc|arcsec|sin|cos|tan|cot|csc)([A-Za-gi-z])", replacement: "\\[[0]] [[1]]", options: "rmA"},
