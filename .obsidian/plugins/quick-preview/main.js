@@ -253,8 +253,14 @@ var PopoverManager = class extends import_obsidian3.Component {
     else
       this.suggestions = suggest.chooser;
   }
+  get doc() {
+    return this.suggestions.containerEl.doc;
+  }
+  get win() {
+    return this.doc.win;
+  }
   onload() {
-    this.registerDomEvent(window, "keydown", (event) => {
+    this.registerDomEvent(this.win, "keydown", (event) => {
       if (this.suggest.isOpen && import_obsidian3.Keymap.isModifier(event, this.plugin.settings.modifier)) {
         if (this.currentOpenHoverParent)
           this.hide();
@@ -265,11 +271,11 @@ var PopoverManager = class extends import_obsidian3.Component {
         }
       }
     });
-    this.registerDomEvent(window, "keyup", (event) => {
+    this.registerDomEvent(this.win, "keyup", (event) => {
       if (event.key === this.plugin.settings.modifier)
         this.hide();
     });
-    this.registerDomEvent(window, "mousemove", (event) => {
+    this.registerDomEvent(this.win, "mousemove", (event) => {
       if (!import_obsidian3.Keymap.isModifier(event, this.plugin.settings.modifier))
         this.hide();
     });
@@ -304,12 +310,12 @@ var PopoverManager = class extends import_obsidian3.Component {
   }
   spawnPreview(item, lazyHide = false, event = null) {
     this.hide(lazyHide);
-    if (event instanceof MouseEvent || event instanceof PointerEvent)
+    if (event && (event.instanceOf(MouseEvent) || event.instanceOf(PointerEvent)))
       this.lastEvent = event;
     this.currentHoverParent = new QuickPreviewHoverParent(this.suggest);
     const info = this.itemNormalizer(item);
     if (info)
-      this.plugin.onLinkHover(this.currentHoverParent, null, info.linktext, info.sourcePath, { scroll: info.line });
+      this.plugin.onLinkHover(this.currentHoverParent, this.doc.body, info.linktext, info.sourcePath, { scroll: info.line });
   }
   getShownPos() {
     if (this.plugin.settings.stickToMouse && this.lastEvent)
@@ -326,11 +332,11 @@ var PopoverManager = class extends import_obsidian3.Component {
     if (position === "Top left") {
       return { x: 0, y: 0 };
     } else if (position === "Top right") {
-      return { x: window.innerWidth, y: 0 };
+      return { x: this.win.innerWidth, y: 0 };
     } else if (position === "Bottom left") {
-      return { x: 0, y: window.innerHeight };
+      return { x: 0, y: this.win.innerHeight };
     }
-    return { x: window.innerWidth, y: window.innerHeight };
+    return { x: this.win.innerWidth, y: this.win.innerHeight };
   }
   getShownPosAuto() {
     var _a, _b, _c, _d, _e;
@@ -342,7 +348,7 @@ var PopoverManager = class extends import_obsidian3.Component {
     if (this.popoverWidth && this.popoverHeight) {
       let offsetX = width * 0.1;
       let offsetY = height * 0.1;
-      if (right - offsetX + this.popoverWidth < window.innerWidth)
+      if (right - offsetX + this.popoverWidth < this.win.innerWidth)
         return { x: right - offsetX, y: top + offsetY };
       offsetX = width * 0.03;
       offsetY = height * 0.05;
@@ -351,12 +357,12 @@ var PopoverManager = class extends import_obsidian3.Component {
     }
     const x = (left + right) * 0.5;
     const y = (top + bottom) * 0.5;
-    if (x >= window.innerWidth * 0.6) {
-      if (y >= window.innerHeight * 0.5)
+    if (x >= this.win.innerWidth * 0.6) {
+      if (y >= this.win.innerHeight * 0.5)
         return this.getShownPosCorner("Top left");
       return this.getShownPosCorner("Bottom left");
     }
-    if (y >= window.innerHeight * 0.5)
+    if (y >= this.win.innerHeight * 0.5)
       return this.getShownPosCorner("Top right");
     return this.getShownPosCorner("Bottom right");
   }
@@ -409,8 +415,10 @@ var QuickPreviewPlugin = class extends import_obsidian6.Plugin {
           info.line = item.node.position.start.line;
         return info;
       });
+      const quickSwitcherConstructor = this.app.internalPlugins.getPluginById("switcher").instance.QuickSwitcherModal;
+      const generalFileSuggestConstructor = Object.getPrototypeOf(quickSwitcherConstructor);
       this.patchSuggester(
-        this.app.internalPlugins.getPluginById("switcher").instance.QuickSwitcherModal,
+        generalFileSuggestConstructor,
         (item) => {
           var _a;
           if (!item.file)
@@ -425,7 +433,6 @@ var QuickPreviewPlugin = class extends import_obsidian6.Plugin {
           return info;
         }
       );
-      this.patchCanvasSuggest();
     });
   }
   async loadSettings() {
@@ -470,10 +477,9 @@ var QuickPreviewPlugin = class extends import_obsidian6.Plugin {
       open(old) {
         return function() {
           old.call(this);
-          const self = this;
-          if (!self.popoverManager)
-            self.popoverManager = new PopoverManager(plugin, self, itemNormalizer);
-          self.popoverManager.load();
+          if (!this.popoverManager)
+            this.popoverManager = new PopoverManager(plugin, this, itemNormalizer);
+          this.popoverManager.load();
         };
       },
       close(old) {
@@ -488,26 +494,6 @@ var QuickPreviewPlugin = class extends import_obsidian6.Plugin {
     });
     this.register(uninstaller);
     return uninstaller;
-  }
-  patchCanvasSuggest() {
-    const plugin = this;
-    const uninstaller = around(import_obsidian5.SuggestModal.prototype, {
-      setInstructions(old) {
-        return function(...args) {
-          old.call(this, ...args);
-          const proto = Object.getPrototypeOf(this);
-          if (this.hasOwnProperty("canvas") && proto.hasOwnProperty("showMarkdownAndCanvas") && proto.hasOwnProperty("showAttachments")) {
-            plugin.patchSuggester(this.constructor, (item) => {
-              if (!item.file)
-                return null;
-              return { linktext: item.file.path, sourcePath: "" };
-            });
-            uninstaller();
-          }
-        };
-      }
-    });
-    this.register(uninstaller);
   }
 };
 _originalOnLinkHover = new WeakMap();
