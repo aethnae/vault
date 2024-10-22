@@ -75,3 +75,4 @@ h = \mathrm{Id}_{x} \circ h = (g \circ f) \circ h = g \circ (f \circ h) = g \cir
 $$
 
 Es besteht also **Eindeutigkeit** bezüglich $g$ wie in [[#^7fa63f]] bestimmt. 
+

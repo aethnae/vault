@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e817f268942f7fe9",
+        "id": "3a2dc883f525e68e",
         "type": "tabs",
         "children": [
           {
-            "id": "1ff3b9ac0794cc10",
+            "id": "f2fc4a8615367378",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Sätze über Bijektivität.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Sätze über Bijektivität.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Sätze über Bijektivität.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Sätze über Bijektivität.md"
-              }
+              "state": {}
             }
           },
           {
@@ -212,7 +203,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Sätze über Bijektivität.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -236,7 +226,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Sätze über Bijektivität.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,10 +255,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9165c162db821086",
+  "active": "f2fc4a8615367378",
   "lastOpenFiles": [
-    "files/Snippets.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Sätze über Bijektivität.md",
+    "files/Snippets.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Umkehrabbildung.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Komposition von Abbildungen.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Injektivität, Surjektivität & Bijektivität.md",
