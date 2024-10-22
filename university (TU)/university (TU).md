@@ -3,6 +3,11 @@
 %% Begin Waypoint %%
 - **Analysis I**
 	- **Definitionen**
+	- **Übungsblätter**
+		- [[1. Hausaufgabenblatt]]
+- **Computerorientierte Mathematik I**
+	- **Definitionen**
+	- **Übungsblätter**
 - **Lineare Algebra I**
 	- **Definitionen**
 		- **2.1 Mengen und Aussagen**
@@ -18,7 +23,7 @@
 			- [[Sätze über Bijektivität]]
 			- [[Umkehrabbildung]]
 	- **Übungsblätter**
-		- [[1. Übungsblatt]]
+		- [[1. Hausaufgabenblatt]]
 - **Mathematische Grundbegriffe**
 	- **Aussagenlogik**
 		- [[Aussagen]]

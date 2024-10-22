@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/1. Übungsblatt.md",
-                "mode": "preview",
+                "file": "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/1. Übungsblatt.md",
+                "file": "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/1. Übungsblatt.md"
+                "file": "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/1. Übungsblatt.md"
+                "file": "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md"
               }
             }
           },
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/1. Übungsblatt.md",
+                "file": "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -237,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Übungsblätter/1. Übungsblatt.md",
+                "file": "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,8 +269,13 @@
   },
   "active": "f2fc4a8615367378",
   "lastOpenFiles": [
+    "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
+    "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md",
+    "university (TU)/Computerorientierte Mathematik I/Übungsblätter",
+    "university (TU)/Computerorientierte Mathematik I/Definitionen",
+    "university (TU)/Analysis I/Übungsblätter",
+    "university (TU)/Computerorientierte Mathematik I",
     "files/Snippets.md",
-    "university (TU)/Lineare Algebra I/Übungsblätter/1. Übungsblatt.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Teilmengen.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Komposition von Abbildungen.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Injektivität, Surjektivität & Bijektivität.md",
@@ -298,16 +303,11 @@
     "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Kleiner Satz von Gauß.md",
     "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binomischer Lehrsatz.md",
     "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binominalkoeffizient.md",
-    "university (TU)/Lineare Algebra I/Definitionen/Umkehrabbildungen.md",
     "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion",
     "university (TU)/Analysis I/Definitionen/Körperaxiome",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",
     "files/CleanShot 2024-05-06 at 12.32.48.jpg",
-    "university (TU)/Analysis I/Definitionen/1. Axiomatik der reellen Zahlen",
-    "university (TU)/Lineare Algebra I/Definitionen/1. Mathematische Grundbegriffe",
-    "university (TU)/Analysis I/Definitionen",
-    "university (TU)/Lineare Algebra I/Definitionen",
     "files/Pasted image 20240416151536.png",
     "files/Pasted image 20240415183757.png",
     "files/Pasted image 20240415180142.png",
