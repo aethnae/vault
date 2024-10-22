@@ -11,8 +11,12 @@
             "id": "f2fc4a8615367378",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Teilmengen.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Teilmengen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Teilmengen.md"
+              }
             }
           },
           {
@@ -170,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Teilmengen.md"
+              }
             }
           },
           {
@@ -203,6 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Teilmengen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -226,6 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Teilmengen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,18 +268,18 @@
   },
   "active": "f2fc4a8615367378",
   "lastOpenFiles": [
-    "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Sätze über Bijektivität.md",
-    "files/Snippets.md",
-    "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Umkehrabbildung.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Komposition von Abbildungen.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Injektivität, Surjektivität & Bijektivität.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Bild und Urbild von Abbildungen.md",
+    "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Umkehrabbildung.md",
+    "university (TU)/Lineare Algebra I/Übungsblätter/1. Übungsblatt.md",
+    "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Sätze über Bijektivität.md",
+    "files/Snippets.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Teilmengen.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen",
     "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Mengen.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Mächtigkeit von Mengen.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Großer Durchschnitt, Große Vereinigung, Indexmengen.md",
-    "university (TU)/Lineare Algebra I/Übungsblätter/1. Übungsblatt.md",
     "university (TU)/Übungsblätter (Archiv)/LinA/2. Hausaufgabenblatt.md",
     "university (TU)/Übungsblätter (Archiv)/LinA/1. Hausaufgabenblatt.md",
     "university (TU)/Übungsblätter (Archiv)/LinA/7. Hausaufgabenblatt.md",

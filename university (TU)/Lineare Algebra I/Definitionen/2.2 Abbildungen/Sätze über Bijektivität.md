@@ -74,5 +74,7 @@ $$
 h = \mathrm{Id}_{x} \circ h = (g \circ f) \circ h = g \circ (f \circ h) = g \circ \mathrm{Id}_{y} = g
 $$
 
+^c2b5d8
+
 Es besteht also **Eindeutigkeit** bezüglich $g$ wie in [[#^7fa63f]] bestimmt. 
 
