@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "78d94d37f3c9d012",
+        "id": "df9426a7a9251f37",
         "type": "tabs",
         "children": [
           {
-            "id": "053b0443a0f888c8",
+            "id": "d9a445611d62e191",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 232.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -255,11 +255,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "053b0443a0f888c8",
+  "active": "d9a445611d62e191",
   "lastOpenFiles": [
-    "university (TU)/Analysis I/Definitionen/Induktive Mengen.md",
-    "university (TU)/Analysis I/Definitionen/Vollständige Induktion.md",
-    "university (TU)/Analysis I/Definitionen/Natürlicher Zahlenraum.md",
+    "university (TU)/Analysis I/Definitionen/1.4 Vollständigkeitsaxiom, rationale Zahlen/Beschränktheit & Supremum.md",
+    "university (TU)/Analysis I/Definitionen/1.4 Vollständigkeitsaxiom, rationale Zahlen/Vollständigkeitsaxiom.md",
+    "university (TU)/Analysis I/Definitionen/1.4 Vollständigkeitsaxiom, rationale Zahlen/Rationaler Zahlenraum.md",
+    "university (TU)/Analysis I/Definitionen/1.3 Natürliche Zahlen/Binomischer Lehrsatz.md",
+    "university (TU)/Analysis I/Definitionen/1.4 Vollständigkeitsaxiom, rationale Zahlen",
+    "university (TU)/Analysis I/Definitionen/1.3 Natürliche Zahlen",
+    "university (TU)/Analysis I/Definitionen/1.3 Natürliche Zahlen/Vollständige Induktion.md",
+    "university (TU)/Analysis I/Definitionen/1.3 Natürliche Zahlen/Natürlicher Zahlenraum.md",
+    "university (TU)/Analysis I/Definitionen/1.3 Natürliche Zahlen/Induktive Mengen.md",
     "files/Snippets.md",
     "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
@@ -285,14 +291,8 @@
     "university (TU)/Lineare Algebra I/Übungsblätter",
     "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Leere Menge.md",
     "university (TU)/Mathematische Grundbegriffe/Aussagenlogik/Wie lesen wir Aussagen?.md",
-    "university (TU)/Mathematische Grundbegriffe/Aussagenlogik/Quantoren.md",
-    "university (TU)/Mathematische Grundbegriffe/Aussagenlogik/Junktoren.md",
-    "university (TU)/Mathematische Grundbegriffe/Aussagenlogik/Aussagen.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen",
     "university (TU)/Übungsblätter (Archiv)",
-    "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md",
-    "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion",
-    "university (TU)/Analysis I/Definitionen/Körperaxiome",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",
     "files/CleanShot 2024-05-06 at 12.32.48.jpg",
