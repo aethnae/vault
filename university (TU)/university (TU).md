@@ -3,6 +3,9 @@
 %% Begin Waypoint %%
 - **Analysis I**
 	- **Definitionen**
+		- [[Induktive Mengen]]
+		- [[Natürlicher Zahlenraum]]
+		- [[Vollständige Induktion]]
 	- **Übungsblätter**
 		- [[1. Hausaufgabenblatt]]
 - **Computerorientierte Mathematik I**

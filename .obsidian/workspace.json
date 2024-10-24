@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8341c07afea3b2a4",
+        "id": "78d94d37f3c9d012",
         "type": "tabs",
         "children": [
           {
-            "id": "d25cb0723f7e7d29",
+            "id": "053b0443a0f888c8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -256,15 +255,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d25cb0723f7e7d29",
+  "active": "053b0443a0f888c8",
   "lastOpenFiles": [
+    "university (TU)/Analysis I/Definitionen/Induktive Mengen.md",
+    "university (TU)/Analysis I/Definitionen/Vollständige Induktion.md",
+    "university (TU)/Analysis I/Definitionen/Natürlicher Zahlenraum.md",
+    "files/Snippets.md",
     "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
     "university (TU)/Computerorientierte Mathematik I/Übungsblätter",
     "university (TU)/Computerorientierte Mathematik I/Definitionen",
     "university (TU)/Analysis I/Übungsblätter",
     "university (TU)/Computerorientierte Mathematik I",
-    "files/Snippets.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Teilmengen.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Komposition von Abbildungen.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Injektivität, Surjektivität & Bijektivität.md",
@@ -289,9 +291,6 @@
     "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen",
     "university (TU)/Übungsblätter (Archiv)",
     "university (TU)/Analysis I/Definitionen/Beschränkte Menge.md",
-    "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Kleiner Satz von Gauß.md",
-    "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binomischer Lehrsatz.md",
-    "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion/Binominalkoeffizient.md",
     "university (TU)/Analysis I/Definitionen/1. Vollständige Induktion",
     "university (TU)/Analysis I/Definitionen/Körperaxiome",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
