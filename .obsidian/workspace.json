@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df9426a7a9251f37",
+        "id": "481ac413095b82fe",
         "type": "tabs",
         "children": [
           {
-            "id": "d9a445611d62e191",
+            "id": "f309f66e1a7e7bb7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 232.5,
+    "collapsed": true
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -255,8 +256,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9a445611d62e191",
+  "active": "f309f66e1a7e7bb7",
   "lastOpenFiles": [
+    "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md",
+    "files/Snippets.md",
     "university (TU)/Analysis I/Definitionen/1.4 Vollständigkeitsaxiom, rationale Zahlen/Beschränktheit & Supremum.md",
     "university (TU)/Analysis I/Definitionen/1.4 Vollständigkeitsaxiom, rationale Zahlen/Vollständigkeitsaxiom.md",
     "university (TU)/Analysis I/Definitionen/1.4 Vollständigkeitsaxiom, rationale Zahlen/Rationaler Zahlenraum.md",
@@ -266,8 +269,6 @@
     "university (TU)/Analysis I/Definitionen/1.3 Natürliche Zahlen/Vollständige Induktion.md",
     "university (TU)/Analysis I/Definitionen/1.3 Natürliche Zahlen/Natürlicher Zahlenraum.md",
     "university (TU)/Analysis I/Definitionen/1.3 Natürliche Zahlen/Induktive Mengen.md",
-    "files/Snippets.md",
-    "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
     "university (TU)/Computerorientierte Mathematik I/Übungsblätter",
     "university (TU)/Computerorientierte Mathematik I/Definitionen",
