@@ -31,6 +31,8 @@
 			- [[Komposition von Abbildungen]]
 			- [[Sätze über Bijektivität]]
 			- [[Umkehrabbildung]]
+		- **3.1 Gruppen**
+			- [[Gruppen]]
 	- **Übungsblätter**
 		- [[1. Hausaufgabenblatt]]
 - **Mathematische Grundbegriffe**
