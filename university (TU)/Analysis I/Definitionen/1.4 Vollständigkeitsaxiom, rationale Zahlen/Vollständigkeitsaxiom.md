@@ -90,4 +90,5 @@ $$
 
 
 Dann ist $\mathbf{N}$ aber nach oben beschränkt im Widerspruch zu [[#^0289b7]] . Folglich ist die Aussage des Satzes wahr.
+
 `\end{proof}`
