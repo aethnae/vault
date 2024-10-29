@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "44eafb5d2329f90d",
+        "id": "84c96a1d9cd571e1",
         "type": "tabs",
         "children": [
           {
-            "id": "44703c8a906203ce",
+            "id": "dcb4a4676c10ee95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/3.1 Gruppen/Gruppen.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/3.1 Gruppen/Gruppen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/3.1 Gruppen/Gruppen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/3.1 Gruppen/Gruppen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -213,7 +204,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/3.1 Gruppen/Gruppen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -237,7 +227,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/3.1 Gruppen/Gruppen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,13 +256,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "44703c8a906203ce",
+  "active": "dcb4a4676c10ee95",
   "lastOpenFiles": [
     "university (TU)/Lineare Algebra I/Definitionen/3.1 Gruppen/Gruppen.md",
+    "files/Snippets.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Umkehrabbildung.md",
     "university (TU)/Lineare Algebra I/Definitionen/3.1 Gruppen",
     "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md",
-    "files/Snippets.md",
     "university (TU)/Analysis I/Definitionen/1.4 Vollständigkeitsaxiom, rationale Zahlen/Beschränktheit & Supremum.md",
     "university (TU)/Analysis I/Definitionen/1.4 Vollständigkeitsaxiom, rationale Zahlen/Vollständigkeitsaxiom.md",
     "university (TU)/Analysis I/Definitionen/1.4 Vollständigkeitsaxiom, rationale Zahlen/Rationaler Zahlenraum.md",
