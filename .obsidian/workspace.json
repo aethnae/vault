@@ -11,8 +11,12 @@
             "id": "dcb4a4676c10ee95",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university (TU)/Analysis I/Definitionen/1.4 Vollständigkeitsaxiom, rationale Zahlen/Beschränktheit & Supremum.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university (TU)/Analysis I/Definitionen/1.4 Vollständigkeitsaxiom, rationale Zahlen/Beschränktheit & Supremum.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Analysis I/Definitionen/1.4 Vollständigkeitsaxiom, rationale Zahlen/Beschränktheit & Supremum.md"
+              }
             }
           },
           {
@@ -171,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Analysis I/Definitionen/1.4 Vollständigkeitsaxiom, rationale Zahlen/Beschränktheit & Supremum.md"
+              }
             }
           },
           {
@@ -204,6 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university (TU)/Analysis I/Definitionen/1.4 Vollständigkeitsaxiom, rationale Zahlen/Beschränktheit & Supremum.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -227,6 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university (TU)/Analysis I/Definitionen/1.4 Vollständigkeitsaxiom, rationale Zahlen/Beschränktheit & Supremum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,6 +269,7 @@
   },
   "active": "dcb4a4676c10ee95",
   "lastOpenFiles": [
+    "university (TU)/Analysis I/Definitionen/1.3 Natürliche Zahlen/Induktive Mengen.md",
     "university (TU)/Lineare Algebra I/Definitionen/3.1 Gruppen/Gruppen.md",
     "files/Snippets.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Umkehrabbildung.md",
@@ -271,7 +283,6 @@
     "university (TU)/Analysis I/Definitionen/1.3 Natürliche Zahlen",
     "university (TU)/Analysis I/Definitionen/1.3 Natürliche Zahlen/Vollständige Induktion.md",
     "university (TU)/Analysis I/Definitionen/1.3 Natürliche Zahlen/Natürlicher Zahlenraum.md",
-    "university (TU)/Analysis I/Definitionen/1.3 Natürliche Zahlen/Induktive Mengen.md",
     "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
     "university (TU)/Computerorientierte Mathematik I/Übungsblätter",
     "university (TU)/Computerorientierte Mathematik I/Definitionen",
