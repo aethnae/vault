@@ -3,7 +3,7 @@ tags:
 - <% tp.file.cursor(1) %>
 flashcard: false
 source: 
-date created: 
+date created: <% tp.date.now() %>
 types: 
 examples: 
 constructions: 

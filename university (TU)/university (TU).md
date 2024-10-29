@@ -33,6 +33,11 @@
 			- [[Umkehrabbildung]]
 		- **3.1 Gruppen**
 			- [[Gruppen]]
+			- [[Homomorphismen & Isomorphismen]]
+			- [[Untergruppen]]
+		- **3.2 Ringe**
+			- [[Nullring]]
+			- [[Ringe]]
 	- **Übungsblätter**
 		- [[1. Hausaufgabenblatt]]
 - **Mathematische Grundbegriffe**
