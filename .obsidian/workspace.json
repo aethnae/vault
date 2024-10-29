@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/3.2 Ringe/Polynomring.md",
-                "mode": "source",
+                "file": "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/3.2 Ringe/Polynomring.md",
+                "file": "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 232.5
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -138,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/3.2 Ringe/Polynomring.md"
+                "file": "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md"
               }
             }
           },
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/3.2 Ringe/Polynomring.md"
+                "file": "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md"
               }
             }
           },
@@ -213,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/3.2 Ringe/Polynomring.md",
+                "file": "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -237,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/3.2 Ringe/Polynomring.md",
+                "file": "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,14 +268,14 @@
   },
   "active": "d273aa872d6a8494",
   "lastOpenFiles": [
+    "university (TU)/Analysis I/Analysis I.md",
+    "university (TU)/Lineare Algebra I/Definitionen/3.2 Ringe/Polynomring.md",
     "university (TU)/Lineare Algebra I/Lineare Algebra I.md",
     "university (TU)/Analysis I/Definitionen/1.4 Vollständigkeitsaxiom, rationale Zahlen/Vollständigkeitsaxiom.md",
-    "university (TU)/Analysis I/Analysis I.md",
     "university (TU)/university (TU).md",
     "university (TU)/Mathematische Grundbegriffe/Mathematische Grundbegriffe.md",
     "university (TU)/Mathematische Grundbegriffe/Untitled",
     "university (TU)/Computerorientierte Mathematik I/Computerorientierte Mathematik I.md",
-    "university (TU)/Lineare Algebra I/Definitionen/3.2 Ringe/Polynomring.md",
     "university (TU)/Lineare Algebra I/Definitionen/3.2 Ringe/Teilringe.md",
     "university (TU)/Lineare Algebra I/Definitionen/3.2 Ringe/Ringe.md",
     "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md",
