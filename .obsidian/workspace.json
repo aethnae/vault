@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6d6700999cf77f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university (TU)/Computerorientierte Mathematik I/Übungsblätter/1. Übungsblatt.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "1e7a0abb1fb0db4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "files/Snippets.md",
+                "file": "university (TU)/Computerorientierte Mathematik I/Übungsblätter/1. Übungsblatt.md",
                 "mode": "source",
                 "source": true
               }
@@ -278,7 +266,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e6d6700999cf77f4",
+  "active": "1e7a0abb1fb0db4c",
   "lastOpenFiles": [
     "files/Snippets.md",
     "university (TU)/Computerorientierte Mathematik I/Übungsblätter/1. Übungsblatt.md",
