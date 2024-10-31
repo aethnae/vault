@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Injektivität, Surjektivität & Bijektivität.md",
+                "file": "university (TU)/Computerorientierte Mathematik I/Übungsblätter/1. Übungsblatt.md",
                 "mode": "preview",
                 "source": true
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Injektivität, Surjektivität & Bijektivität.md",
+                "file": "university (TU)/Computerorientierte Mathematik I/Übungsblätter/1. Übungsblatt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 232.5,
+    "collapsed": true
   },
   "right": {
     "id": "543218f8490e7ed4",
@@ -137,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Injektivität, Surjektivität & Bijektivität.md"
+                "file": "university (TU)/Computerorientierte Mathematik I/Übungsblätter/1. Übungsblatt.md"
               }
             }
           },
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Injektivität, Surjektivität & Bijektivität.md"
+                "file": "university (TU)/Computerorientierte Mathematik I/Übungsblätter/1. Übungsblatt.md"
               }
             }
           },
@@ -212,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Injektivität, Surjektivität & Bijektivität.md",
+                "file": "university (TU)/Computerorientierte Mathematik I/Übungsblätter/1. Übungsblatt.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -236,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Injektivität, Surjektivität & Bijektivität.md",
+                "file": "university (TU)/Computerorientierte Mathematik I/Übungsblätter/1. Übungsblatt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,6 +269,9 @@
   },
   "active": "d273aa872d6a8494",
   "lastOpenFiles": [
+    "university (TU)/Computerorientierte Mathematik I/Computerorientierte Mathematik I.md",
+    "university (TU)/Computerorientierte Mathematik I/Übungsblätter/1. Übungsblatt.md",
+    "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen/Injektivität, Surjektivität & Bijektivität.md",
     "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md",
     "university (TU)/Analysis I/Analysis I.md",
     "university (TU)/Lineare Algebra I/Definitionen/3.2 Ringe/Polynomring.md",
@@ -276,7 +280,6 @@
     "university (TU)/university (TU).md",
     "university (TU)/Mathematische Grundbegriffe/Mathematische Grundbegriffe.md",
     "university (TU)/Mathematische Grundbegriffe/Untitled",
-    "university (TU)/Computerorientierte Mathematik I/Computerorientierte Mathematik I.md",
     "university (TU)/Lineare Algebra I/Definitionen/3.2 Ringe/Teilringe.md",
     "university (TU)/Lineare Algebra I/Definitionen/3.2 Ringe/Ringe.md",
     "university (TU)/Analysis I/Definitionen/1.3 Natürliche Zahlen/Binomischer Lehrsatz.md",
@@ -297,12 +300,10 @@
     "university (TU)/Analysis I/Definitionen/1.3 Natürliche Zahlen",
     "university (TU)/Analysis I/Definitionen/1.3 Natürliche Zahlen/Vollständige Induktion.md",
     "university (TU)/Analysis I/Definitionen/1.3 Natürliche Zahlen/Natürlicher Zahlenraum.md",
-    "university (TU)/Lineare Algebra I/Übungsblätter/1. Hausaufgabenblatt.md",
     "university (TU)/Computerorientierte Mathematik I/Übungsblätter",
     "university (TU)/Computerorientierte Mathematik I/Definitionen",
     "university (TU)/Analysis I/Übungsblätter",
     "university (TU)/Computerorientierte Mathematik I",
-    "university (TU)/Lineare Algebra I/Definitionen/2.1 Mengen und Aussagen/Teilmengen.md",
     "university (TU)/Lineare Algebra I/Definitionen/2.2 Abbildungen",
     "files/338be2d0-315c-4a08-b65a-13dc03fb7c32.jpeg",
     "files/CleanShot 2024-05-06 at 12.41.15.jpg",
