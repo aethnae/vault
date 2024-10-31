@@ -10,6 +10,12 @@
 		- [[Beschränktheit & Supremum]]
 		- [[Rationaler Zahlenraum]]
 		- [[Vollständigkeitsaxiom]]
+	- **2.0 Folgen**
+		- [[Zahlenfolgen]]
+	- **2.1 Konvergenz von Folgen**
+		- [[Beschränktheit & Konvergenz von Folgen]]
+		- [[Eindeutigkeit des Grenzwertes]]
+		- [[Folgenkonvergenz]]
 - **Übungsblätter**
 	- [[1. Hausaufgabenblatt]]
 

@@ -80,6 +80,8 @@ im Widerspruch zu (1.5). Demnach war unsere Annahme falsch und $\mathbb{N}$ ist 
 > [!axiom] Archimedisches Axiom
 > Zu je zwei reellen Zahlen $a, b$ mit $a>0$ gibt es eine natürliche Zahl $n$, so dass $a \cdot n>b$.
 
+^f03eaa
+
 `\begin{proof}`
 Angenommen, die Aussage des Satzes ist falsch, dann gilt $a \cdot n \leq b$ für alle $n \in \mathbb{N}$.
 Wegen $a>0$ erhalten wir daraus

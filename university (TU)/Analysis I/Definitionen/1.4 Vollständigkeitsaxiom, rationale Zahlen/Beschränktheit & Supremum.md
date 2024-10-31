@@ -52,6 +52,8 @@ Analog definieren wir eine *untere* Schranke, nach unten beschränkt, und nennen
 > s_1 \leq x \leq s_2 \quad
 > $$
 
+^922d3d
+
 > [!exm] Beispiele für beschränkte Mengen
 > 1. $\varnothing$ ist beschränkt.
 > 2. $[a,b]$ ist beschränkt mit $a = \mathrm{inf}[a,b] = \min_{}[a,b], \quad b = \mathrm{sup}[a,b] = \max_{}[a,b]$
