@@ -16,6 +16,9 @@
 		- [[Beschränktheit & Konvergenz von Folgen]]
 		- [[Eindeutigkeit des Grenzwertes]]
 		- [[Folgenkonvergenz]]
+	- **2.2 Konvergenzkriterien für Folgen**
+		- [[Beschränkte Nullfolgen]]
+		- [[Komposition von Folgen]]
 - **Übungsblätter**
 	- [[1. Hausaufgabenblatt]]
 
