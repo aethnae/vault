@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "84d16b0864b63f3b",
+        "id": "3d9150a33ff3dd36",
         "type": "tabs",
         "children": [
           {
-            "id": "1e7a0abb1fb0db4c",
+            "id": "ac3fe05f304ed006",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -75,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md"
+              }
             }
           },
           {
@@ -170,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md"
+              }
             }
           },
           {
@@ -203,6 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -226,6 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "university (TU)/Analysis I/Übungsblätter/1. Hausaufgabenblatt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +266,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1e7a0abb1fb0db4c",
+  "active": "ac3fe05f304ed006",
   "lastOpenFiles": [
     "misc/Design Ideas.md",
     "misc/Finanzplan.md",
